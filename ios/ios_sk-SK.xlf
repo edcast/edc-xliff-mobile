@@ -1,0 +1,42 @@
+<xliff
+  xmlns="urn:oasis:names:tc:xliff:document:2.0"
+  version="2.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.1/os/schemas/xliff_core_2.0.xsd"
+  srcLang="en-US"
+  trgLang="sk-SK">
+  <file id="ios:common.common" original="packages/ios/common/labels/common.yaml" translate="yes">
+    <notes>
+      <note id="n1">Edcast Translation file for ios</note>
+    </notes>
+    <unit id="common.common:Add_Group_Member" translate="yes">
+      <notes>
+      <note id="context">Label for add group memenber</note>
+    </notes>
+      <segment >
+        <source>Add Group Member</source>
+        <target>Add Group Member_translated</target>
+      </segment>
+    </unit>
+    <unit id="common.common:Followers_Count" translate="yes">
+      <notes>
+      <note id="context">Label to display Followers count. Here %@  is the number of followers</note>
+    </notes>
+      <segment >
+        <source>@ Followers</source>
+        <target>@ Followers</target>
+      </segment>
+    </unit>
+    <unit id="common.common:Access_denied" translate="yes">
+      <notes>
+      <note id="context">Label for Access denied string</note>
+    </notes>
+      <segment >
+        <source>Access denied</source>
+        <target>Access denied</target>
+      </segment>
+    </unit>
+    <!-- File::ios:: NewWords: 7, NewStrings: 3 -->
+  </file>
+  <!-- XLIFF::ios_sk-SK.xlf:: TotalNewWords: 7, TotalNewStrings: 3 -->
+</xliff>
