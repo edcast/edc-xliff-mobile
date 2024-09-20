@@ -4,7 +4,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.1/os/schemas/xliff_core_2.0.xsd"
   srcLang="en-US"
-  trgLang="sk-SK">
+  trgLang="el-GR">
   <file id="ios:common.common" original="packages/ios/common/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for ios</note>
@@ -872,7 +872,7 @@ to access this content</target>
         <target>Accepted joining Group!</target>
       </segment>
     </unit>
-    <unit id="common.common:Access_denied" translate="no">
+    <unit id="common.common:Access_denied" translate="yes">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -1070,13 +1070,13 @@ to access this content</target>
         <target>Add Group Leader</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_Group_Member" translate="no">
+    <unit id="common.common:Add_Group_Member" translate="yes">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Add Group Member</source>
-        <target>Add Group Member_translated</target>
+        <target>Add Group Member</target>
       </segment>
     </unit>
     <unit id="common.common:Add_Job_Role" translate="yes">
@@ -24580,7 +24580,7 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
         <target>…see more</target>
       </segment>
     </unit>
-    <!-- File::ios:: NewWords: 13573, NewStrings: 2713 -->
+    <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
   </file>
-  <!-- XLIFF::ios_sk-SK.xlf:: TotalNewWords: 13573, TotalNewStrings: 2713 -->
+  <!-- XLIFF::ios_el-GR.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
 </xliff>
