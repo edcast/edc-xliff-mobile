@@ -4,12 +4,12 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.1/os/schemas/xliff_core_2.0.xsd"
   srcLang="en-US"
-  trgLang="nl-NL">
-  <file id="android:common.common" original="packages/android/common/labels/common.yaml" translate="yes">
+  trgLang="en-US">
+  <file id="android:common.common" original="packages/android/common/labels/common.yaml" translate="no">
     <notes>
       <note id="n1">Edcast Translation file for android</note>
     </notes>
-    <unit id="common.common:app_name" translate="yes">
+    <unit id="common.common:app_name" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18,7 +18,7 @@
         <target>Learning Experience</target>
       </segment>
     </unit>
-    <unit id="common.common:url" translate="yes">
+    <unit id="common.common:url" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -27,7 +27,7 @@
         <target>EdCast.com</target>
       </segment>
     </unit>
-    <unit id="common.common:join_string" translate="yes">
+    <unit id="common.common:join_string" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -36,7 +36,7 @@
         <target>Join</target>
       </segment>
     </unit>
-    <unit id="common.common:dot" translate="yes">
+    <unit id="common.common:dot" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -45,7 +45,7 @@
         <target>.</target>
       </segment>
     </unit>
-    <unit id="common.common:forward_arrow" translate="yes">
+    <unit id="common.common:forward_arrow" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -63,7 +63,7 @@
         <target>Get Started</target>
       </segment>
     </unit>
-    <unit id="common.common:font_open_sans" translate="yes">
+    <unit id="common.common:font_open_sans" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -72,7 +72,7 @@
         <target>OpenSans</target>
       </segment>
     </unit>
-    <unit id="common.common:font_open_sans_semibold" translate="yes">
+    <unit id="common.common:font_open_sans_semibold" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -81,7 +81,7 @@
         <target>OpenSans-Semibold</target>
       </segment>
     </unit>
-    <unit id="common.common:font_roboto_bold" translate="yes">
+    <unit id="common.common:font_roboto_bold" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -90,7 +90,7 @@
         <target>Roboto-Bold</target>
       </segment>
     </unit>
-    <unit id="common.common:font_roboto_light" translate="yes">
+    <unit id="common.common:font_roboto_light" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -99,7 +99,7 @@
         <target>Roboto-Light</target>
       </segment>
     </unit>
-    <unit id="common.common:font_roboto_regular" translate="yes">
+    <unit id="common.common:font_roboto_regular" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -108,7 +108,7 @@
         <target>Roboto-Regular</target>
       </segment>
     </unit>
-    <unit id="common.common:font_roboto_medium" translate="yes">
+    <unit id="common.common:font_roboto_medium" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -117,7 +117,7 @@
         <target>Roboto-Medium</target>
       </segment>
     </unit>
-    <unit id="common.common:font_avenir_next_regular" translate="yes">
+    <unit id="common.common:font_avenir_next_regular" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -126,7 +126,7 @@
         <target>AvenirNext-Regular</target>
       </segment>
     </unit>
-    <unit id="common.common:font_avenir_next_medium" translate="yes">
+    <unit id="common.common:font_avenir_next_medium" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -135,7 +135,7 @@
         <target>AvenirNext-Medium</target>
       </segment>
     </unit>
-    <unit id="common.common:font_roboto_light_italic" translate="yes">
+    <unit id="common.common:font_roboto_light_italic" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -144,7 +144,7 @@
         <target>Roboto-LightItalic</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sf_bold" translate="yes">
+    <unit id="common.common:font_sf_bold" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -153,7 +153,7 @@
         <target>SFUIText-Bold</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sf_regular" translate="yes">
+    <unit id="common.common:font_sf_regular" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -162,7 +162,7 @@
         <target>SFUIText-Regular</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sf_pro_regular" translate="yes">
+    <unit id="common.common:font_sf_pro_regular" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -171,7 +171,7 @@
         <target>SFProText-Regular</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sf_pro_medium" translate="yes">
+    <unit id="common.common:font_sf_pro_medium" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -180,7 +180,7 @@
         <target>SFProText-Medium</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sans_serif_thin" translate="yes">
+    <unit id="common.common:font_sans_serif_thin" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -189,7 +189,7 @@
         <target>sans-serif-thin</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sans_serif" translate="yes">
+    <unit id="common.common:font_sans_serif" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -198,7 +198,7 @@
         <target>sans-serif</target>
       </segment>
     </unit>
-    <unit id="common.common:font_sans_medium" translate="yes">
+    <unit id="common.common:font_sans_medium" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -207,7 +207,7 @@
         <target>sans-serif-medium</target>
       </segment>
     </unit>
-    <unit id="common.common:bind_two_double_string" translate="yes">
+    <unit id="common.common:bind_two_double_string" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -222,7 +222,7 @@
     </notes>
       <segment >
         <source>Users List</source>
-        <target>Users List_translated</target>
+        <target>Users List</target>
       </segment>
     </unit>
     <unit id="common.common:sample_user_details_title" translate="no">
@@ -612,7 +612,7 @@
         <target>You do not have any \&apos;Completed\&apos; Assignments</target>
       </segment>
     </unit>
-    <unit id="common.common:one_label" translate="yes">
+    <unit id="common.common:one_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -621,7 +621,7 @@
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:two_label" translate="yes">
+    <unit id="common.common:two_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -630,7 +630,7 @@
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:three_label" translate="yes">
+    <unit id="common.common:three_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -1242,31 +1242,31 @@
         <target>SAML login Failed, something went wrong.</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_socialauth_facebook_button_text" translate="yes">
+    <unit id="common.common:login_and_signup_message_socialauth_facebook_button_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Facebook</source>
-        <target> </target>
+        <target>Facebook</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_socialauth_linkedin_button_text" translate="yes">
+    <unit id="common.common:login_and_signup_message_socialauth_linkedin_button_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>LinkedIn</source>
-        <target> </target>
+        <target>LinkedIn</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_socialauth_google_button_text" translate="yes">
+    <unit id="common.common:login_and_signup_message_socialauth_google_button_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Google</source>
-        <target> </target>
+        <target>Google</target>
       </segment>
     </unit>
     <unit id="common.common:login_and_signup_message_socialauth_apple_button_text" translate="no">
@@ -1287,22 +1287,22 @@
         <target>Sign up with Apple</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_socialauth_email_button_text" translate="yes">
+    <unit id="common.common:login_and_signup_message_socialauth_email_button_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Email</source>
-        <target> </target>
+        <target>Email</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_socialauth_office365_button_text" translate="yes">
+    <unit id="common.common:login_and_signup_message_socialauth_office365_button_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Office365</source>
-        <target> </target>
+        <target>Office365</target>
       </segment>
     </unit>
     <unit id="common.common:login_message_socialauth_sso_button_text" translate="no">
@@ -1368,13 +1368,13 @@
         <target>Your team administrator has suspended your account. You will no longer have access to content in this organization.</target>
       </segment>
     </unit>
-    <unit id="common.common:user_suspended_message" translate="yes">
+    <unit id="common.common:user_suspended_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Your team administrator has suspended your account for team . You will no longer have access to content in team &quot;%s&quot;.</source>
-        <target>Your team administrator has suspended your account for team . You will no longer have access to content in team </target>
+        <target>Your team administrator has suspended your account for team . You will no longer have access to content in team &quot;%s&quot;.</target>
       </segment>
     </unit>
     <unit id="common.common:session_expired_title" translate="no">
@@ -1395,16 +1395,16 @@
         <target>Your session is expired. please sign in again to continue.</target>
       </segment>
     </unit>
-    <unit id="common.common:session_expired_message" translate="yes">
+    <unit id="common.common:session_expired_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Your session for team &quot;%s&quot; is expired. please sign in again to continue.</source>
-        <target>Your session for team </target>
+        <target>Your session for team &quot;%s&quot; is expired. please sign in again to continue.</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_aes_sso_user_session_expired" translate="yes">
+    <unit id="common.common:airtel_aes_sso_user_session_expired" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -1413,7 +1413,7 @@
         <target>Your session is not valid anymore. Please login again.</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_aes_sso_user_someone_already_logged_in" translate="yes">
+    <unit id="common.common:airtel_aes_sso_user_someone_already_logged_in" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -1422,7 +1422,7 @@
         <target>Someone is already logged in. Please logout the old user</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_aes_sso_contact_administrator" translate="yes">
+    <unit id="common.common:airtel_aes_sso_contact_administrator" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -1494,13 +1494,13 @@
         <target>Sign up for</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_team_already_uses_edcast" translate="yes">
+    <unit id="common.common:login_and_signup_message_team_already_uses_edcast" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Your team already uses Learning Experience?</source>
-        <target>Your team already uses EdCast?</target>
+        <target>Your team already uses Learning Experience?</target>
       </segment>
     </unit>
     <unit id="common.common:login_and_signup_message_divider_text" translate="no">
@@ -1611,13 +1611,13 @@
         <target>Team name</target>
       </segment>
     </unit>
-    <unit id="common.common:signup_email_edit_text_team_hint_use" translate="yes">
+    <unit id="common.common:signup_email_edit_text_team_hint_use" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>This is the address you use to sign in to Learning Experience</source>
-        <target>This is the address you use to sign in to EdCast</target>
+        <target>This is the address you use to sign in to Learning Experience</target>
       </segment>
     </unit>
     <unit id="common.common:signup_with_email_auth_confirm_msg" translate="no">
@@ -1719,31 +1719,31 @@
         <target>Submit</target>
       </segment>
     </unit>
-    <unit id="common.common:signup_signup_user_handle_instruction1" translate="yes">
+    <unit id="common.common:signup_signup_user_handle_instruction1" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Welcome, </source>
-        <target>Welcome,</target>
+        <target>Welcome, </target>
       </segment>
     </unit>
-    <unit id="common.common:signup_signup_user_handle_instruction2" translate="yes">
+    <unit id="common.common:signup_signup_user_handle_instruction2" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Choose your unique Learning Experience handle below. </source>
-        <target>Choose your unique EdCast handle below.</target>
+        <target>Choose your unique Learning Experience handle below. </target>
       </segment>
     </unit>
-    <unit id="common.common:signup_signup_user_handle_instruction3" translate="yes">
+    <unit id="common.common:signup_signup_user_handle_instruction3" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>/your-handle </source>
-        <target>/your-handle</target>
+        <target>/your-handle </target>
       </segment>
     </unit>
     <unit id="common.common:home_screen_title" translate="no">
@@ -1782,13 +1782,13 @@
         <target>Tab Icon</target>
       </segment>
     </unit>
-    <unit id="common.common:home_actionbar_title_home" translate="yes">
+    <unit id="common.common:home_actionbar_title_home" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Learning Experience</source>
-        <target>EdCast</target>
+        <target>Learning Experience</target>
       </segment>
     </unit>
     <unit id="common.common:home_actionbar_title_discover" translate="no">
@@ -1917,22 +1917,22 @@
         <target>Journeys</target>
       </segment>
     </unit>
-    <unit id="common.common:dialog_battery_optimisation_title" translate="yes">
+    <unit id="common.common:dialog_battery_optimisation_title" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Let Learning Experience always run in background?</source>
-        <target>Let EdCast always run in background?</target>
+        <target>Let Learning Experience always run in background?</target>
       </segment>
     </unit>
-    <unit id="common.common:dialog_battery_optimisation_message" translate="yes">
+    <unit id="common.common:dialog_battery_optimisation_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
-        <target>Add EdCast to don\&apos;t optimise battery list to receive all the important notifications from EdCast.</target>
+        <target>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_positive" translate="no">
@@ -2034,13 +2034,13 @@
         <target>Coach Ed - Learning assistant</target>
       </segment>
     </unit>
-    <unit id="common.common:edbot_learning_msg" translate="yes">
+    <unit id="common.common:edbot_learning_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>The virtual learning assistant from Learning Experience</source>
-        <target>The virtual learning assistant from EdCast</target>
+        <target>The virtual learning assistant from Learning Experience</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_no_message" translate="no">
@@ -2079,13 +2079,13 @@
         <target>Other</target>
       </segment>
     </unit>
-    <unit id="common.common:edbot_intro_message" translate="yes">
+    <unit id="common.common:edbot_intro_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Hello %s, my name is Alex, and I am your learning assistant from Learning Experience. I am here to help you get into a habit of learning daily. Lets get started shall we?</source>
-        <target>Hello %s, my name is Alex, and I am your learning assistant from EdCast. I am here to help you get into a habit of learning daily. Lets get started shall we?</target>
+        <target>Hello %s, my name is Alex, and I am your learning assistant from Learning Experience. I am here to help you get into a habit of learning daily. Lets get started shall we?</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_interest_question" translate="no">
@@ -2322,13 +2322,13 @@
         <target>Please select at least 3 channels to continue.</target>
       </segment>
     </unit>
-    <unit id="common.common:onboarding_influencer_header" translate="yes">
+    <unit id="common.common:onboarding_influencer_header" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Follow some Learning Experience Influencers</source>
-        <target>Follow some EdCast Influencers</target>
+        <target>Follow some Learning Experience Influencers</target>
       </segment>
     </unit>
     <unit id="common.common:onboarding_expertise_header" translate="no">
@@ -2367,13 +2367,13 @@
         <target>Image upload failed</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoaring_fname_lName_error" translate="yes">
+    <unit id="common.common:onBoaring_fname_lName_error" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</source>
-        <target>Name cannot contain ~!@#$%^&amp;*={}|[]\:</target>
+        <target>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="no">
@@ -2844,7 +2844,7 @@
         <target>Occupation</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoarding_other_details_education_checkbox" translate="yes">
+    <unit id="common.common:onBoarding_other_details_education_checkbox" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -2880,13 +2880,13 @@
         <target>A 4 digit OTP has been sent to your mobile number. Please enter the code below to verify your number. The OTP will be valid for 5 minutes.</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoarding_other_details_otp_timer_label" translate="yes">
+    <unit id="common.common:onBoarding_other_details_otp_timer_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Enter code in </source>
-        <target>Enter code in</target>
+        <target>Enter code in </target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_resend_otp" translate="no">
@@ -2916,13 +2916,13 @@
         <target>%1$s:%2$s</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoarding_other_detail_otp_verify_max_attempt_error" translate="yes">
+    <unit id="common.common:onBoarding_other_detail_otp_verify_max_attempt_error" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</source>
-        <target>You have exceeded the maximum attempts to enter the OTP. Please click on </target>
+        <target>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_detail_send_verify_max_attempt_error" translate="no">
@@ -3402,13 +3402,13 @@
         <target>Profile Screen</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_edcast_profile_screen_message" translate="yes">
+    <unit id="common.common:profile_edcast_profile_screen_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Signed in to </source>
-        <target>Signed in to</target>
+        <target>Signed in to </target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_channels" translate="no">
@@ -3582,13 +3582,13 @@
         <target>No Courses</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="yes">
+    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>1%</source>
-        <target>0.01</target>
+        <target>1%</target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_my_courses_visit_desktop_message" translate="no">
@@ -3627,7 +3627,7 @@
         <target>Please enroll the course.</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_job_family_and_role" translate="yes">
+    <unit id="common.common:profile_job_family_and_role" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -3636,7 +3636,7 @@
         <target>Job Family &amp; Role</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_search_job_family_and_role" translate="yes">
+    <unit id="common.common:profile_search_job_family_and_role" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -3663,13 +3663,13 @@
         <target>Job Title</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_org_name_signed_into" translate="yes">
+    <unit id="common.common:profile_org_name_signed_into" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Signed into </source>
-        <target>Signed into</target>
+        <target>Signed into </target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_my_contents_section_title" translate="no">
@@ -3915,7 +3915,7 @@
         <target>hrs</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_learning_goals_hrs_target_value" translate="yes">
+    <unit id="common.common:profile_learning_goals_hrs_target_value" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -3987,13 +3987,13 @@
         <target>1d</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_constants_streaming_past" translate="yes">
+    <unit id="common.common:feed_constants_streaming_past" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>was live on Learning Experience</source>
-        <target>was live on EdCast</target>
+        <target>was live on Learning Experience</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_streaming_now" translate="no">
@@ -4104,13 +4104,13 @@
         <target>Coming Soon</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_constants_people_list_header" translate="yes">
+    <unit id="common.common:feed_constants_people_list_header" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>EDCASTERS &gt;</source>
-        <target>EDCASTERS </target>
+        <target>EDCASTERS &gt;</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_subscribe_button" translate="no">
@@ -4131,13 +4131,13 @@
         <target>Subscribed</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_constants_channel_list_header" translate="yes">
+    <unit id="common.common:feed_constants_channel_list_header" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>CHANNELS &gt;</source>
-        <target>CHANNELS </target>
+        <target>CHANNELS &gt;</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_start_time_prefix_message" translate="no">
@@ -4149,13 +4149,13 @@
         <target>Started at</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_constants_suggested_courses_list_header" translate="yes">
+    <unit id="common.common:feed_constants_suggested_courses_list_header" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>COURSES &gt;</source>
-        <target>COURSES </target>
+        <target>COURSES &gt;</target>
       </segment>
     </unit>
     <unit id="common.common:stream_share_message_cantshare" translate="no">
@@ -4257,7 +4257,7 @@
         <target>DELETE</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_dummy_text_subscribed_value" translate="yes">
+    <unit id="common.common:feed_dummy_text_subscribed_value" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -4266,22 +4266,22 @@
         <target>3,200</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_dummy_text_bio" translate="yes">
+    <unit id="common.common:feed_dummy_text_bio" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>I am passionate about using sustainable technologies to improve the condition of our planet! </source>
-        <target>I am passionate about using sustainable technologies to</target>
+        <target>I am passionate about using sustainable technologies to improve the condition of our planet! </target>
       </segment>
     </unit>
-    <unit id="common.common:feed_dummy_text_description" translate="yes">
+    <unit id="common.common:feed_dummy_text_description" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Architecture insights, trends, videos, developments and articles from around the web updated daily </source>
-        <target>Architecture insights, trends, videos, developments and articles from around the web updated daily</target>
+        <target>Architecture insights, trends, videos, developments and articles from around the web updated daily </target>
       </segment>
     </unit>
     <unit id="common.common:dummy_text_name" translate="no">
@@ -4356,13 +4356,13 @@
         <target>Team Rank</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_dummy_text_profile_profile_user_bio" translate="yes">
+    <unit id="common.common:profile_dummy_text_profile_profile_user_bio" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>I love to learn about art, architecture, and everything else! This is my bio text bro!! Up to 200 characters of knowledge in this space!! </source>
-        <target>I love to learn about art, architecture, and everything else! This is my bio text bro!! Up to 200 characters of knowledge in this space!!</target>
+        <target>I love to learn about art, architecture, and everything else! This is my bio text bro!! Up to 200 characters of knowledge in this space!! </target>
       </segment>
     </unit>
     <unit id="common.common:videoplayer_screen_title" translate="no">
@@ -4698,7 +4698,7 @@
         <target>Downloading (</target>
       </segment>
     </unit>
-    <unit id="common.common:current_index_text" translate="yes">
+    <unit id="common.common:current_index_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -4707,7 +4707,7 @@
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:total_download_count" translate="yes">
+    <unit id="common.common:total_download_count" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -5166,7 +5166,7 @@
         <target>saml</target>
       </segment>
     </unit>
-    <unit id="common.common:login_airtel_hive_auth_host" translate="yes">
+    <unit id="common.common:login_airtel_hive_auth_host" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -5193,7 +5193,7 @@
         <target>/confirmations</target>
       </segment>
     </unit>
-    <unit id="common.common:welcome_confirmations_prefix" translate="yes">
+    <unit id="common.common:welcome_confirmations_prefix" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -6111,7 +6111,7 @@
         <target>Dark Mode</target>
       </segment>
     </unit>
-    <unit id="common.common:settings_feedback_and_support" translate="yes">
+    <unit id="common.common:settings_feedback_and_support" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -6435,7 +6435,7 @@
         <target>Wowza Framerate :</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="yes">
+    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -6453,22 +6453,22 @@
         <target>Save Framerate</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_enable_log_true" translate="yes">
+    <unit id="common.common:secret_enable_log_true" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>True</source>
-        <target>TRUE</target>
+        <target>True</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_enable_log_false" translate="yes">
+    <unit id="common.common:secret_enable_log_false" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>False</source>
-        <target>FALSE</target>
+        <target>False</target>
       </segment>
     </unit>
     <unit id="common.common:secret_branch_dev" translate="no">
@@ -6930,13 +6930,13 @@
         <target>End Livestream</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_topics_label" translate="yes">
+    <unit id="common.common:publishvideostream_topics_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Topics : </source>
-        <target>Topics :</target>
+        <target>Topics : </target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_stream_status" translate="no">
@@ -6975,7 +6975,7 @@
         <target>Followers&#160;&#160;</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_stopwatch_reset" translate="yes">
+    <unit id="common.common:publishvideostream_stopwatch_reset" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -7119,13 +7119,13 @@
         <target>Oops,the network is poor. Please try again later.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_video_streaming_interrupted_stream_bad_network_message" translate="yes">
+    <unit id="common.common:publishvideostream_video_streaming_interrupted_stream_bad_network_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Oops,the network is bad. Please try again later.</source>
-        <target>Oops,the network is bad. Please try again later.?</target>
+        <target>Oops,the network is bad. Please try again later.</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_video_streaming_interrupted_stream_speed_test_failure_message" translate="no">
@@ -7326,7 +7326,7 @@
         <target>End viewing</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="yes">
+    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -7362,13 +7362,13 @@
         <target>Your network is not fast enough for a smooth livestream. Do you still want to continue?</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_tip_info_message" translate="yes">
+    <unit id="common.common:publishvideostream_tip_info_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Tip_cln If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
-        <target>Tip- If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</target>
+        <target>Tip_cln If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
@@ -7398,22 +7398,22 @@
         <target>Share Your Knowledge</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_prescreen_message" translate="yes">
+    <unit id="common.common:publishvideostream_prescreen_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Capture and share your insights. Your video will be available on Learning Experience.</source>
-        <target>Capture and share your insights. Your video will be available on EdCast.</target>
+        <target>Capture and share your insights. Your video will be available on Learning Experience.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_prescreen_new_title" translate="yes">
+    <unit id="common.common:publishvideostream_prescreen_new_title" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Go Live on Learning Experience!</source>
-        <target>Go Live on EdCast!</target>
+        <target>Go Live on Learning Experience!</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_schedule_streaming_stream_name_hint" translate="no">
@@ -7596,13 +7596,13 @@
         <target>Recording interrupted as application went to background. Would you like to Retry?</target>
       </segment>
     </unit>
-    <unit id="common.common:status_string" translate="yes">
+    <unit id="common.common:status_string" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Status : </source>
-        <target>Status :</target>
+        <target>Status : </target>
       </segment>
     </unit>
     <unit id="common.common:status" translate="no">
@@ -8127,13 +8127,13 @@
         <target>Check out these exclusive livestreams!</target>
       </segment>
     </unit>
-    <unit id="common.common:pathway_see_more_header" translate="yes">
+    <unit id="common.common:pathway_see_more_header" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Check out some of the top pathways on Learning Experience!</source>
-        <target>Check out some of the top pathways on EdCast!</target>
+        <target>Check out some of the top pathways on Learning Experience!</target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_smartbites" translate="no">
@@ -8253,13 +8253,13 @@
         <target>OVERVIEW</target>
       </segment>
     </unit>
-    <unit id="common.common:leaderboard_filter_groupsstr" translate="yes">
+    <unit id="common.common:leaderboard_filter_groupsstr" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Groups:</source>
-        <target>Groups</target>
+        <target>Groups:</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_filter_timestr" translate="no">
@@ -8703,13 +8703,13 @@
         <target>Total Votes Polled : %s</target>
       </segment>
     </unit>
-    <unit id="common.common:percentage_text" translate="yes">
+    <unit id="common.common:percentage_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>99%</source>
-        <target>0.99</target>
+        <target>99%</target>
       </segment>
     </unit>
     <unit id="common.common:top_percentage_text" translate="no">
@@ -8928,7 +8928,7 @@
         <target>Suspended</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero" translate="yes">
+    <unit id="common.common:label_zero" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -9009,13 +9009,13 @@
         <target>Taught By:</target>
       </segment>
     </unit>
-    <unit id="common.common:promotion_course_institution" translate="yes">
+    <unit id="common.common:promotion_course_institution" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Institution - </source>
-        <target>Institution -</target>
+        <target>Institution - </target>
       </segment>
     </unit>
     <unit id="common.common:promotion_course_start_date" translate="no">
@@ -9891,13 +9891,13 @@
         <target>Started</target>
       </segment>
     </unit>
-    <unit id="common.common:influencers_followers_count_text" translate="yes">
+    <unit id="common.common:influencers_followers_count_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Followers: </source>
-        <target>Followers:</target>
+        <target>Followers: </target>
       </segment>
     </unit>
     <unit id="common.common:poll_card_option" translate="no">
@@ -10098,13 +10098,13 @@
         <target>Enter Email</target>
       </segment>
     </unit>
-    <unit id="common.common:rate_edast_msg" translate="yes">
+    <unit id="common.common:rate_edast_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Please rate \&quot;Learning Experience\&quot;</source>
-        <target>Please rate \</target>
+        <target>Please rate \&quot;Learning Experience\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:star_to_rate_msg" translate="no">
@@ -10386,13 +10386,13 @@
         <target>1080p HD at 60fps</target>
       </segment>
     </unit>
-    <unit id="common.common:record_video_instruction_message" translate="yes">
+    <unit id="common.common:record_video_instruction_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>A minute of video will be approximately_cln\n\u2022 60 MB with 720pHD at 30fps(space saver) \n\u2022 130 MB with 1080p HD at 30fps (default)\n\u2022 200 MB with 1080 HD at 60fps (smoother)</source>
-        <target>A minute of video will be approximately:\n\u2022 60 MB with 720pHD at 30fps(space saver) \n\u2022 130 MB with 1080p HD at 30fps (default)\n\u2022 200 MB with 1080 HD at 60fps (smoother)</target>
+        <target>A minute of video will be approximately_cln\n\u2022 60 MB with 720pHD at 30fps(space saver) \n\u2022 130 MB with 1080p HD at 30fps (default)\n\u2022 200 MB with 1080 HD at 60fps (smoother)</target>
       </segment>
     </unit>
     <unit id="common.common:something_went_wrong" translate="no">
@@ -10620,7 +10620,7 @@
         <target>This device doesn\&apos;t support Camera2 API.</target>
       </segment>
     </unit>
-    <unit id="common.common:tele_record_default_time" translate="yes">
+    <unit id="common.common:tele_record_default_time" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -10665,13 +10665,13 @@
         <target>Recording Successful</target>
       </segment>
     </unit>
-    <unit id="common.common:tele_live_recording_saved_dialog_message" translate="yes">
+    <unit id="common.common:tele_live_recording_saved_dialog_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>You can see your recorded teleprompter live video in your Live streams. Also you can see it locally at </source>
-        <target>You can see your recorded teleprompter live video in your Live streams. Also you can see it locally at</target>
+        <target>You can see your recorded teleprompter live video in your Live streams. Also you can see it locally at </target>
       </segment>
     </unit>
     <unit id="common.common:tele_live_recording_failed_error_message" translate="no">
@@ -11052,7 +11052,7 @@
         <target>View Assignment</target>
       </segment>
     </unit>
-    <unit id="common.common:smartbite_suggested_card_message" translate="yes">
+    <unit id="common.common:smartbite_suggested_card_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -11268,13 +11268,13 @@
         <target>OR</target>
       </segment>
     </unit>
-    <unit id="common.common:org_closed_msg" translate="yes">
+    <unit id="common.common:org_closed_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>* This is a closed team. If you do not have an existing account or an invitation to join, please contact your team administrator.</source>
-        <target>This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</target>
+        <target>* This is a closed team. If you do not have an existing account or an invitation to join, please contact your team administrator.</target>
       </segment>
     </unit>
     <unit id="common.common:plus_text" translate="no">
@@ -11952,7 +11952,7 @@
         <target>Text</target>
       </segment>
     </unit>
-    <unit id="common.common:zero_text" translate="yes">
+    <unit id="common.common:zero_text" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -12276,13 +12276,13 @@
         <target>QR Code</target>
       </segment>
     </unit>
-    <unit id="common.common:qr_share_body_message" translate="yes">
+    <unit id="common.common:qr_share_body_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>This is the QR code of the content: </source>
-        <target>This is the QR code of the content:</target>
+        <target>This is the QR code of the content: </target>
       </segment>
     </unit>
     <unit id="common.common:share_using_title" translate="no">
@@ -12402,13 +12402,13 @@
         <target>CREATE ACCOUNT</target>
       </segment>
     </unit>
-    <unit id="common.common:terms_and_condition_message" translate="yes">
+    <unit id="common.common:terms_and_condition_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>By clicking on Sign Up, you agree to the Learning Experience Terms of Use and Privacy Policy</source>
-        <target>By clicking on Sign Up, you agree to the EdCast Terms of Use and Privacy Policy</target>
+        <target>By clicking on Sign Up, you agree to the Learning Experience Terms of Use and Privacy Policy</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_password_validation_msg" translate="no">
@@ -13464,7 +13464,7 @@
         <target>Unable to create pitch. Please try after sometime</target>
       </segment>
     </unit>
-    <unit id="common.common:pitch_pace_helper_message" translate="yes">
+    <unit id="common.common:pitch_pace_helper_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -13473,7 +13473,7 @@
         <target>&lt;![CDATA[Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It’s calculated in the number of words spoken in a minute.&lt;br&gt;&lt;br&gt; &lt;b&gt;Speech rate guidelines:&lt;/b&gt;&lt;br&gt; &lt;b&gt;Slow:&lt;/b&gt; less than 110 wpm&lt;br&gt; &lt;b&gt;Conversational:&lt;/b&gt; between 120 wpm and 150 wpm.&lt;br&gt; &lt;b&gt;Fast:&lt;/b&gt; more than 160 wpm]]&gt; </target>
       </segment>
     </unit>
-    <unit id="common.common:pitch_filler_words_helper_message" translate="yes">
+    <unit id="common.common:pitch_filler_words_helper_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -13482,7 +13482,7 @@
         <target> &lt;![CDATA[In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.&lt;br&gt;&lt;br&gt; &lt;b&gt;Below are the filler words, that we try to find during the filler word analysis on the speech:&lt;/b&gt;&lt;br&gt; Like, So, Basically, Actually]]&gt; </target>
       </segment>
     </unit>
-    <unit id="common.common:pitch_speech_clarity_helper_message" translate="yes">
+    <unit id="common.common:pitch_speech_clarity_helper_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -13743,14 +13743,15 @@
         <target>Your network is not fast enough for smooth LiveStream. Do you still want to continue?</target>
       </segment>
     </unit>
-    <unit id="common.common:join_live_stream_dialogue_message" translate="yes">
+    <unit id="common.common:join_live_stream_dialogue_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>%s is now live on Learning Experience. 
  Would you like to join the stream?</source>
-        <target>%s is now live on Edcast. \n Would you like to join the stream?</target>
+        <target>%s is now live on Learning Experience. 
+ Would you like to join the stream?</target>
       </segment>
     </unit>
     <unit id="common.common:join_live_stream_title_message" translate="no">
@@ -14365,7 +14366,7 @@
         <target>Go Back</target>
       </segment>
     </unit>
-    <unit id="common.common:integer_value" translate="yes">
+    <unit id="common.common:integer_value" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -14446,13 +14447,13 @@
         <target>Select at least one Published topic</target>
       </segment>
     </unit>
-    <unit id="common.common:genpact_maximum_limit_crossed_message" translate="yes">
+    <unit id="common.common:genpact_maximum_limit_crossed_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Oops! Looks like you have too much in your basket. Please pick a maximum of %s interests. This does not mean your learning is restricted - Learning Experience lets you search new content all the time! Interests can be changed later too.</source>
-        <target>Oops! Looks like you have too much in your basket. Please pick a maximum of %s interests. This does not mean your learning is restricted - Edcast lets you search new content all the time! Interests can be changed later too.</target>
+        <target>Oops! Looks like you have too much in your basket. Please pick a maximum of %s interests. This does not mean your learning is restricted - Learning Experience lets you search new content all the time! Interests can be changed later too.</target>
       </segment>
     </unit>
     <unit id="common.common:offline_settings" translate="no">
@@ -14500,13 +14501,13 @@
         <target>Download %1$s/%2$s file</target>
       </segment>
     </unit>
-    <unit id="common.common:label_total_download_multiple" translate="yes">
+    <unit id="common.common:label_total_download_multiple" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source> Downloads </source>
-        <target> Downloads</target>
+        <target> Downloads </target>
       </segment>
     </unit>
     <unit id="common.common:label_download_size" translate="no">
@@ -14743,22 +14744,22 @@
         <target>Cancel Download</target>
       </segment>
     </unit>
-    <unit id="common.common:notification_channel_name" translate="yes">
+    <unit id="common.common:notification_channel_name" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Learning Experience Download</source>
-        <target>EdCast Download</target>
+        <target>Learning Experience Download</target>
       </segment>
     </unit>
-    <unit id="common.common:notification_channel_description" translate="yes">
+    <unit id="common.common:notification_channel_description" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Download service for Learning Experience</source>
-        <target>Download service for EdCast</target>
+        <target>Download service for Learning Experience</target>
       </segment>
     </unit>
     <unit id="common.common:message_downloading_started" translate="no">
@@ -14860,16 +14861,16 @@
         <target>This card is restricted and can be shared only by the author</target>
       </segment>
     </unit>
-    <unit id="common.common:share_private_content_popup_message" translate="yes">
+    <unit id="common.common:share_private_content_popup_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>You are about to share a private content, this content once shared, will be accessible to all the users of the group &#38; all followers of the channels. Do you want to continue?</source>
-        <target>You are about to share a private content, this content once shared, will be accessible to all the users of the group &amp; all followers of the channels. Do you want to continue?</target>
+        <target>You are about to share a private content, this content once shared, will be accessible to all the users of the group &#38; all followers of the channels. Do you want to continue?</target>
       </segment>
     </unit>
-    <unit id="common.common:be_the_first_one_to_like_amp_comment" translate="yes">
+    <unit id="common.common:be_the_first_one_to_like_amp_comment" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -14995,13 +14996,13 @@
         <target>Create Podcast</target>
       </segment>
     </unit>
-    <unit id="common.common:podcast_hint_message" translate="yes">
+    <unit id="common.common:podcast_hint_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
-        <target>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your EdCast page</target>
+        <target>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</target>
       </segment>
     </unit>
     <unit id="common.common:record_podcast" translate="no">
@@ -15022,7 +15023,7 @@
         <target>Import Audio</target>
       </segment>
     </unit>
-    <unit id="common.common:podcast_record_hint" translate="yes">
+    <unit id="common.common:podcast_record_hint" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15229,16 +15230,16 @@
         <target>hr</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1_x" translate="yes">
+    <unit id="common.common:text_1_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>1x</source>
-        <target>1 x</target>
+        <target>1x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1_25_x" translate="yes">
+    <unit id="common.common:text_1_25_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15247,16 +15248,16 @@
         <target>1.25x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1_5_x" translate="yes">
+    <unit id="common.common:text_1_5_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>1.5x</source>
-        <target>1.5 x</target>
+        <target>1.5x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1_75_x" translate="yes">
+    <unit id="common.common:text_1_75_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15265,7 +15266,7 @@
         <target>1.75x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2_x" translate="yes">
+    <unit id="common.common:text_2_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15274,7 +15275,7 @@
         <target>2x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_0_25_x" translate="yes">
+    <unit id="common.common:text_0_25_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15283,7 +15284,7 @@
         <target>0.25x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_0_5_x" translate="yes">
+    <unit id="common.common:text_0_5_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15292,7 +15293,7 @@
         <target>0.5x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_0_75_x" translate="yes">
+    <unit id="common.common:text_0_75_x" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15301,7 +15302,7 @@
         <target>0.75x</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1_x_default" translate="yes">
+    <unit id="common.common:text_1_x_default" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15310,7 +15311,7 @@
         <target>1x (default)</target>
       </segment>
     </unit>
-    <unit id="common.common:media_default_time" translate="yes">
+    <unit id="common.common:media_default_time" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15553,7 +15554,7 @@
         <target>Declined Group!</target>
       </segment>
     </unit>
-    <unit id="common.common:join_group_message" translate="yes">
+    <unit id="common.common:join_group_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15562,7 +15563,7 @@
         <target>&lt;![CDATA[You have joined the group &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:decline_group_message" translate="yes">
+    <unit id="common.common:decline_group_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15571,7 +15572,7 @@
         <target>&lt;![CDATA[You have decline the group, &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:join_group_fail_message" translate="yes">
+    <unit id="common.common:join_group_fail_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15580,7 +15581,7 @@
         <target>&lt;![CDATA[There was an error joining the group, &lt;b&gt;%s&lt;/b&gt;. Please check your internet connection and try again.]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:leave_group_fail_message" translate="yes">
+    <unit id="common.common:leave_group_fail_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15832,7 +15833,7 @@
         <target>To shine add certificates on your profile</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1" translate="yes">
+    <unit id="common.common:text_1" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15841,7 +15842,7 @@
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2" translate="yes">
+    <unit id="common.common:text_2" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15850,7 +15851,7 @@
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:text_3" translate="yes">
+    <unit id="common.common:text_3" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -15859,7 +15860,7 @@
         <target>3</target>
       </segment>
     </unit>
-    <unit id="common.common:text_4" translate="yes">
+    <unit id="common.common:text_4" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -16066,13 +16067,13 @@
         <target>Question</target>
       </segment>
     </unit>
-    <unit id="common.common:start_typing_your_question_label" translate="yes">
+    <unit id="common.common:start_typing_your_question_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Start typing your question </source>
-        <target>Start typing your question</target>
+        <target>Start typing your question </target>
       </segment>
     </unit>
     <unit id="common.common:start_typing_your_poll_label" translate="no">
@@ -16111,7 +16112,7 @@
         <target>%1$s/security=p:%2$s,s:%3$s%4$s</target>
       </segment>
     </unit>
-    <unit id="common.common:filestack_metadata_query_param" translate="yes">
+    <unit id="common.common:filestack_metadata_query_param" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -16327,31 +16328,31 @@
         <target>Content Rejected</target>
       </segment>
     </unit>
-    <unit id="common.common:rejected_content_alert_msg" translate="yes">
+    <unit id="common.common:rejected_content_alert_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Do you really want to reject this content? </source>
-        <target>Do you really want to reject this content?</target>
+        <target>Do you really want to reject this content? </target>
       </segment>
     </unit>
-    <unit id="common.common:failed_to_publish_error_msg" translate="yes">
+    <unit id="common.common:failed_to_publish_error_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Failed to publish. Please try again. </source>
-        <target>Failed to publish. Please try again.</target>
+        <target>Failed to publish. Please try again. </target>
       </segment>
     </unit>
-    <unit id="common.common:failed_to_reject_error_msg" translate="yes">
+    <unit id="common.common:failed_to_reject_error_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Failed to Reject. Please try again. </source>
-        <target>Failed to Reject. Please try again.</target>
+        <target>Failed to Reject. Please try again. </target>
       </segment>
     </unit>
     <unit id="common.common:all_smartcards_label" translate="no">
@@ -16687,7 +16688,7 @@
         <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</target>
       </segment>
     </unit>
-    <unit id="common.common:dummy_number" translate="yes">
+    <unit id="common.common:dummy_number" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -16705,13 +16706,13 @@
         <target>Options</target>
       </segment>
     </unit>
-    <unit id="common.common:see_more_options_label" translate="yes">
+    <unit id="common.common:see_more_options_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Show %d more %s..</source>
-        <target> formatted=</target>
+        <target>Show %d more %s..</target>
       </segment>
     </unit>
     <unit id="common.common:shared_poll_card_label" translate="no">
@@ -16885,7 +16886,7 @@
         <target>Shared a %s</target>
       </segment>
     </unit>
-    <unit id="common.common:and_symbol" translate="yes">
+    <unit id="common.common:and_symbol" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -16993,7 +16994,7 @@
         <target>Q. %s</target>
       </segment>
     </unit>
-    <unit id="common.common:edc_be_the_first_to_comment_like" translate="yes">
+    <unit id="common.common:edc_be_the_first_to_comment_like" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -17173,7 +17174,7 @@
         <target>Just a moment while we set up %s...</target>
       </segment>
     </unit>
-    <unit id="common.common:_999" translate="yes">
+    <unit id="common.common:_999" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -17299,7 +17300,7 @@
         <target>a number</target>
       </segment>
     </unit>
-    <unit id="common.common:language_change_alert_message" translate="yes">
+    <unit id="common.common:language_change_alert_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -17425,13 +17426,13 @@
         <target>Results for %s</target>
       </segment>
     </unit>
-    <unit id="common.common:price" translate="yes">
+    <unit id="common.common:price" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Price: </source>
-        <target>Price:</target>
+        <target>Price: </target>
       </segment>
     </unit>
     <unit id="common.common:free" translate="no">
@@ -17578,7 +17579,7 @@
         <target>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890</target>
       </segment>
     </unit>
-    <unit id="common.common:characters_with_some_special_symbol" translate="yes">
+    <unit id="common.common:characters_with_some_special_symbol" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18163,7 +18164,7 @@
         <target>Add Collaborators</target>
       </segment>
     </unit>
-    <unit id="common.common:channel_title_label" translate="yes">
+    <unit id="common.common:channel_title_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18604,7 +18605,7 @@
         <target>channel\&apos;s widget settings</target>
       </segment>
     </unit>
-    <unit id="common.common:leave_group_message" translate="yes">
+    <unit id="common.common:leave_group_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18928,7 +18929,7 @@
         <target>No Featured Cards</target>
       </segment>
     </unit>
-    <unit id="common.common:delete_group_message" translate="yes">
+    <unit id="common.common:delete_group_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18937,7 +18938,7 @@
         <target>&lt;![CDATA[Are you sure you want to remove &lt;b&gt;%s&lt;/b&gt; group? This can\&apos;t be undone.]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:coach_eddy_dyanamic_message" translate="yes">
+    <unit id="common.common:coach_eddy_dyanamic_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18946,7 +18947,7 @@
         <target>&lt;![CDATA[%1$s &lt;b&gt;%2$s&lt;/b&gt;&lt;br/&gt;You\&apos;ve learned &lt;b&gt;%3$s%%&lt;/b&gt; of your annual goal]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:coach_eddy_default_message" translate="yes">
+    <unit id="common.common:coach_eddy_default_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18964,7 +18965,7 @@
         <target>This content is time restricted</target>
       </segment>
     </unit>
-    <unit id="common.common:add_pyp_script_description_message" translate="yes">
+    <unit id="common.common:add_pyp_script_description_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -18991,7 +18992,7 @@
         <target>This Journey is time restricted, you will be able to access it on %s</target>
       </segment>
     </unit>
-    <unit id="common.common:group_delete_successfully" translate="yes">
+    <unit id="common.common:group_delete_successfully" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -19045,7 +19046,7 @@
         <target>SkillCoin</target>
       </segment>
     </unit>
-    <unit id="common.common:currency_and_amount_label" translate="yes">
+    <unit id="common.common:currency_and_amount_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -19306,58 +19307,58 @@
         <target>Additional details (Please do not remove these details, as it will be helpful to us for further assistance.)</target>
       </segment>
     </unit>
-    <unit id="common.common:host_url" translate="yes">
+    <unit id="common.common:host_url" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Host URL: </source>
-        <target>Host URL:</target>
+        <target>Host URL: </target>
       </segment>
     </unit>
-    <unit id="common.common:app_name_label" translate="yes">
+    <unit id="common.common:app_name_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>App Name: </source>
-        <target>App Name:</target>
+        <target>App Name: </target>
       </segment>
     </unit>
-    <unit id="common.common:app_version" translate="yes">
+    <unit id="common.common:app_version" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>App Version: </source>
-        <target>App Version:</target>
+        <target>App Version: </target>
       </segment>
     </unit>
-    <unit id="common.common:build_no" translate="yes">
+    <unit id="common.common:build_no" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Build No: </source>
-        <target>Build No:</target>
+        <target>Build No: </target>
       </segment>
     </unit>
-    <unit id="common.common:device_model" translate="yes">
+    <unit id="common.common:device_model" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Device Model: </source>
-        <target>Device Model:</target>
+        <target>Device Model: </target>
       </segment>
     </unit>
-    <unit id="common.common:os_version" translate="yes">
+    <unit id="common.common:os_version" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>OS Version: </source>
-        <target>OS Version:</target>
+        <target>OS Version: </target>
       </segment>
     </unit>
     <unit id="common.common:note_message" translate="no">
@@ -19576,7 +19577,7 @@
         <target>Success!!</target>
       </segment>
     </unit>
-    <unit id="common.common:channel_following_success_message" translate="yes">
+    <unit id="common.common:channel_following_success_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -19585,7 +19586,7 @@
         <target>&lt;![CDATA[You are following the channel &lt;b&gt; %s&lt;/b&gt;]]&gt;</target>
       </segment>
     </unit>
-    <unit id="common.common:channel_unfollowed_success_message" translate="yes">
+    <unit id="common.common:channel_unfollowed_success_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -19864,7 +19865,7 @@
         <target>Coming Soon Channel</target>
       </segment>
     </unit>
-    <unit id="common.common:channel_viewing_coming_soon_error_message" translate="yes">
+    <unit id="common.common:channel_viewing_coming_soon_error_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -20044,22 +20045,22 @@
         <target>Add Grade</target>
       </segment>
     </unit>
-    <unit id="common.common:assign_date_label" translate="yes">
+    <unit id="common.common:assign_date_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Assign Date: </source>
-        <target>Assign Date:</target>
+        <target>Assign Date: </target>
       </segment>
     </unit>
-    <unit id="common.common:due_date_label" translate="yes">
+    <unit id="common.common:due_date_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Due Date: </source>
-        <target>Due Date:</target>
+        <target>Due Date: </target>
       </segment>
     </unit>
     <unit id="common.common:no_submission_title" translate="no">
@@ -20395,13 +20396,13 @@
         <target>Suggested Channels</target>
       </segment>
     </unit>
-    <unit id="common.common:search_v3_results_found" translate="yes">
+    <unit id="common.common:search_v3_results_found" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>&lt;![CDATA[&lt;b&gt;%d&lt;/b&gt; results for &lt;b&gt;\&quot;%s\&quot;&lt;/b&gt;]]&gt;</source>
-        <target> formatted=</target>
+        <target>&lt;![CDATA[&lt;b&gt;%d&lt;/b&gt; results for &lt;b&gt;\&quot;%s\&quot;&lt;/b&gt;]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:search_v3_content_total" translate="no">
@@ -20764,22 +20765,22 @@
         <target>This content is not secure for downloading</target>
       </segment>
     </unit>
-    <unit id="common.common:url_not_secured" translate="yes">
+    <unit id="common.common:url_not_secured" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Can not open insecure URLs. Please try links starting with \&apos;https_cln//\&apos;</source>
-        <target>Can not open insecure URLs. Please try links starting with \&apos;https://\&apos;</target>
+        <target>Can not open insecure URLs. Please try links starting with \&apos;https_cln//\&apos;</target>
       </segment>
     </unit>
-    <unit id="common.common:url_start_http" translate="yes">
+    <unit id="common.common:url_start_http" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Inserted URL is not secure, use \&apos;https_cln//\&apos; instead of \&apos;http_cln//\&apos;</source>
-        <target>Inserted URL is not secure, use \&apos;https://\&apos; instead of \&apos;http://\&apos;</target>
+        <target>Inserted URL is not secure, use \&apos;https_cln//\&apos; instead of \&apos;http_cln//\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="no">
@@ -20872,22 +20873,22 @@
         <target>Defer: Show me again later</target>
       </segment>
     </unit>
-    <unit id="common.common:reject_reason_skip" translate="yes">
+    <unit id="common.common:reject_reason_skip" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Skip_cln Don\&apos;t show again, content is relevant</source>
-        <target>Skip- Don\&apos;t show again, content is relevant</target>
+        <target>Skip_cln Don\&apos;t show again, content is relevant</target>
       </segment>
     </unit>
-    <unit id="common.common:reject_reason_block" translate="yes">
+    <unit id="common.common:reject_reason_block" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Block_cln Don\&apos;t show similar content; content is not relevant</source>
-        <target>Block- Don\&apos;t show similar content; content is not relevant</target>
+        <target>Block_cln Don\&apos;t show similar content; content is not relevant</target>
       </segment>
     </unit>
     <unit id="common.common:defer_label" translate="no">
@@ -21322,13 +21323,13 @@
         <target>Published Date</target>
       </segment>
     </unit>
-    <unit id="common.common:select_grade_label" translate="yes">
+    <unit id="common.common:select_grade_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Select Grade </source>
-        <target>Select Grade</target>
+        <target>Select Grade </target>
       </segment>
     </unit>
     <unit id="common.common:gift_skillcoin_label" translate="no">
@@ -21691,7 +21692,7 @@
         <target>Conferencing Tool</target>
       </segment>
     </unit>
-    <unit id="common.common:start_date_time" translate="yes">
+    <unit id="common.common:start_date_time" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -21700,7 +21701,7 @@
         <target>Start Date &amp; Time*</target>
       </segment>
     </unit>
-    <unit id="common.common:end_date_time" translate="yes">
+    <unit id="common.common:end_date_time" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -21898,13 +21899,13 @@
         <target>Collaborators might not have access to private cards</target>
       </segment>
     </unit>
-    <unit id="common.common:agora_maximum_broadcaster_message" translate="yes">
+    <unit id="common.common:agora_maximum_broadcaster_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Maximum of %d participants are allowed to broadcast at the same time. If you want to add new participant to broadcast with you, first remove any existing one.</source>
-        <target>Maximum of %d participants are allowed to broadcast at the same time.</target>
+        <target>Maximum of %d participants are allowed to broadcast at the same time. If you want to add new participant to broadcast with you, first remove any existing one.</target>
       </segment>
     </unit>
     <unit id="common.common:colon_symbol" translate="no">
@@ -21961,7 +21962,7 @@
         <target>Program Registration</target>
       </segment>
     </unit>
-    <unit id="common.common:save_and_proceed" translate="yes">
+    <unit id="common.common:save_and_proceed" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -22024,7 +22025,7 @@
         <target>Employees whose skills for a particular job have become outdated and may no longer be employed</target>
       </segment>
     </unit>
-    <unit id="common.common:program_registration_option_4" translate="yes">
+    <unit id="common.common:program_registration_option_4" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -22033,7 +22034,7 @@
         <target>Central Govt. &amp; State Govt. Employees including employees of PSUs &amp; Autonomous bodies (Govt. Employees)</target>
       </segment>
     </unit>
-    <unit id="common.common:program_registration_option_5" translate="yes">
+    <unit id="common.common:program_registration_option_5" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -23455,7 +23456,7 @@
         <target>Manage Subscription</target>
       </segment>
     </unit>
-    <unit id="common.common:html_default_font_style" translate="yes">
+    <unit id="common.common:html_default_font_style" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -25237,7 +25238,7 @@
         <target>Collection</target>
       </segment>
     </unit>
-    <unit id="common.common:data_and_analytics" translate="yes">
+    <unit id="common.common:data_and_analytics" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -25300,7 +25301,7 @@
         <target>MyGuide</target>
       </segment>
     </unit>
-    <unit id="common.common:q_and_a" translate="yes">
+    <unit id="common.common:q_and_a" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -25588,13 +25589,13 @@
         <target>Experience *</target>
       </segment>
     </unit>
-    <unit id="common.common:sp_description_count_label" translate="yes">
+    <unit id="common.common:sp_description_count_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>0/200</source>
-        <target>0/500</target>
+        <target>0/200</target>
       </segment>
     </unit>
     <unit id="common.common:sp_include_attachment_label" translate="no">
@@ -26425,13 +26426,13 @@
         <target>By Enabling the Video Recording, We are able to record Device Screen</target>
       </segment>
     </unit>
-    <unit id="common.common:system_logs_sub_message_label" translate="yes">
+    <unit id="common.common:system_logs_sub_message_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>By Enabling the system Logs, We are able to record Learning Experience Application.</source>
-        <target>By Enabling the system Logs, We are able to record Edcast Application.</target>
+        <target>By Enabling the system Logs, We are able to record Learning Experience Application.</target>
       </segment>
     </unit>
     <unit id="common.common:report_issue_alert_message" translate="no">
@@ -26740,7 +26741,7 @@
         <target>Will be used to identitfy your SmartCard</target>
       </segment>
     </unit>
-    <unit id="common.common:live_event_title_count_label" translate="yes">
+    <unit id="common.common:live_event_title_count_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -26902,7 +26903,7 @@
         <target>Nothing in your queue yet.\n Your Announcements will appear here.</target>
       </segment>
     </unit>
-    <unit id="common.common:lock_card_message_v2" translate="yes">
+    <unit id="common.common:lock_card_message_v2" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -27550,7 +27551,7 @@
         <target>This can be used to control awarding badges for Pathway completion</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_000_hint" translate="yes">
+    <unit id="common.common:enter_duration_000_hint" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -27559,7 +27560,7 @@
         <target>000</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="yes">
+    <unit id="common.common:enter_duration_00_hint" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -28072,7 +28073,7 @@
         <target>All Answer Correct</target>
       </segment>
     </unit>
-    <unit id="common.common:text_card_title_count_label" translate="yes">
+    <unit id="common.common:text_card_title_count_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -28225,7 +28226,7 @@
         <target>Write your message here</target>
       </segment>
     </unit>
-    <unit id="common.common:include_message_count_label" translate="yes">
+    <unit id="common.common:include_message_count_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -29287,7 +29288,7 @@
         <target>Choose Email Provider</target>
       </segment>
     </unit>
-    <unit id="common.common:language_change_alert_V2_message" translate="yes">
+    <unit id="common.common:language_change_alert_V2_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -29908,67 +29909,67 @@
         <target>Top Creators Benchmark</target>
       </segment>
     </unit>
-    <unit id="common.common:card_created_label" translate="yes">
+    <unit id="common.common:card_created_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Cards Created</source>
-        <target> </target>
+        <target>Cards Created</target>
       </segment>
     </unit>
-    <unit id="common.common:content_views_label" translate="yes">
+    <unit id="common.common:content_views_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Content Views</source>
-        <target> </target>
+        <target>Content Views</target>
       </segment>
     </unit>
-    <unit id="common.common:card_type_label" translate="yes">
+    <unit id="common.common:card_type_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Card Type</source>
-        <target> </target>
+        <target>Card Type</target>
       </segment>
     </unit>
-    <unit id="common.common:reset_label" translate="yes">
+    <unit id="common.common:reset_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Reset</source>
-        <target> </target>
+        <target>Reset</target>
       </segment>
     </unit>
-    <unit id="common.common:my_activity_label" translate="yes">
+    <unit id="common.common:my_activity_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>My Activity</source>
-        <target> </target>
+        <target>My Activity</target>
       </segment>
     </unit>
-    <unit id="common.common:recommendations_from_manager_label" translate="yes">
+    <unit id="common.common:recommendations_from_manager_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Recommendations From Manager</source>
-        <target> </target>
+        <target>Recommendations From Manager</target>
       </segment>
     </unit>
-    <unit id="common.common:recommendations_from_dev_plan" translate="yes">
+    <unit id="common.common:recommendations_from_dev_plan" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Recommendations From Development Plan</source>
-        <target> </target>
+        <target>Recommendations From Development Plan</target>
       </segment>
     </unit>
     <unit id="common.common:joined_title" translate="no">
@@ -30286,7 +30287,7 @@
         <target>Maximum 150 characters allowed in the Remarks</target>
       </segment>
     </unit>
-    <unit id="common.common:add_remark_count" translate="yes">
+    <unit id="common.common:add_remark_count" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -31708,13 +31709,13 @@
         <target>Create your account for a lifelong learning experience.</target>
       </segment>
     </unit>
-    <unit id="common.common:email_used_text_go_learn" translate="yes">
+    <unit id="common.common:email_used_text_go_learn" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Enter the email address which you will use to sign in to your GoLearning.</source>
-        <target>Enter the email address which you will use to sign in to your GoLearn.</target>
+        <target>Enter the email address which you will use to sign in to your GoLearning.</target>
       </segment>
     </unit>
     <unit id="common.common:account_already_exists" translate="no">
@@ -32257,14 +32258,15 @@
         <target>Steps to apply for GoI Incentive</target>
       </segment>
     </unit>
-    <unit id="common.common:gip_hint_terms" translate="yes">
+    <unit id="common.common:gip_hint_terms" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>*Associated assessment fee would be reimbursed over and above this 
  Take the help of the chatbot for further clarification on incentive eligibility and process</source>
-        <target>*Associated assessment fee would be reimbursed over and above this \n Take the help of the chatbot for further clarification on incentive eligibility and process</target>
+        <target>*Associated assessment fee would be reimbursed over and above this 
+ Take the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
     <unit id="common.common:i_wish_name_appear_award_certificate_label" translate="no">
@@ -32303,14 +32305,15 @@
         <target>No activities yet!</target>
       </segment>
     </unit>
-    <unit id="common.common:my_activities_terms_hint" translate="yes">
+    <unit id="common.common:my_activities_terms_hint" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>*Eligibility for GOI Incentive may change basis Terms of the scheme
 Your application for GOI Incentive will be updated once disposed</source>
-        <target>*Eligibility for GOI Incentive may change basis Terms of the scheme\nYour application for GOI Incentive will be updated once disposed</target>
+        <target>*Eligibility for GOI Incentive may change basis Terms of the scheme
+Your application for GOI Incentive will be updated once disposed</target>
       </segment>
     </unit>
     <unit id="common.common:gip_title_label" translate="no">
@@ -32349,13 +32352,13 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Step 3: Successfully clear the assessment linked to the course completed before.</target>
       </segment>
     </unit>
-    <unit id="common.common:gip_step_4" translate="yes">
+    <unit id="common.common:gip_step_4" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Step 4_cln After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
-        <target>Step 4- After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
+        <target>Step 4_cln After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -32628,13 +32631,13 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>You have assigned this SmartCard to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:switch_to_this_plan" translate="yes">
+    <unit id="common.common:switch_to_this_plan" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Switch to this plan</source>
-        <target>SWITCH TO THIS PLAN</target>
+        <target>Switch to this plan</target>
       </segment>
     </unit>
     <unit id="common.common:plan_subscriptions_label" translate="no">
@@ -33051,13 +33054,13 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to unblock %s? Once unblocked, all the content or comments posted by %s will now be visible to you.</target>
       </segment>
     </unit>
-    <unit id="common.common:block_dialog_message_label" translate="yes">
+    <unit id="common.common:block_dialog_message_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Are you sure you want to block %s? Any content or comments posted by %s will not be visible to you. You can unblock them from the \“Manage Blocked Users\&quot;</source>
-        <target>Are you sure you want to block %s? Any content or comments posted by %s will not be visible to you. You can unblock them from the \“Manage Blocked Users\</target>
+        <target>Are you sure you want to block %s? Any content or comments posted by %s will not be visible to you. You can unblock them from the \“Manage Blocked Users\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:you_have_blocked_this_user_title_label" translate="no">
@@ -33375,16 +33378,16 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Successfully shared to %1$d groups</target>
       </segment>
     </unit>
-    <unit id="common.common:my_subscription_label" translate="yes">
+    <unit id="common.common:my_subscription_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>My Subscription</source>
-        <target>Subscription</target>
+        <target>My Subscription</target>
       </segment>
     </unit>
-    <unit id="common.common:live_event_schedule_label" translate="yes">
+    <unit id="common.common:live_event_schedule_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33393,7 +33396,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Schedule</target>
       </segment>
     </unit>
-    <unit id="common.common:meeting_detail_meeting_link_label" translate="yes">
+    <unit id="common.common:meeting_detail_meeting_link_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33402,7 +33405,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Meeting link:</target>
       </segment>
     </unit>
-    <unit id="common.common:meeting_detail_register_colon" translate="yes">
+    <unit id="common.common:meeting_detail_register_colon" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33411,7 +33414,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Registered:</target>
       </segment>
     </unit>
-    <unit id="common.common:meeting_view_all_attendees" translate="yes">
+    <unit id="common.common:meeting_view_all_attendees" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33420,7 +33423,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>View Attendees</target>
       </segment>
     </unit>
-    <unit id="common.common:assign_me_pathway_success_message" translate="yes">
+    <unit id="common.common:assign_me_pathway_success_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33429,7 +33432,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>You have assigned this Pathway to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:assign_me_journey_success_message" translate="yes">
+    <unit id="common.common:assign_me_journey_success_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33438,7 +33441,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>You have assigned this Journey to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:pathway_bookmark_msg" translate="yes">
+    <unit id="common.common:pathway_bookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33447,7 +33450,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:pathway_unbookmark_msg" translate="yes">
+    <unit id="common.common:pathway_unbookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33456,7 +33459,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>This Pathway has been removed from your Bookmarks.</target>
       </segment>
     </unit>
-    <unit id="common.common:journey_bookmark_msg" translate="yes">
+    <unit id="common.common:journey_bookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33465,7 +33468,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:journey_unbookmark_msg" translate="yes">
+    <unit id="common.common:journey_unbookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33474,7 +33477,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>This Journey has been removed from your Bookmarks.</target>
       </segment>
     </unit>
-    <unit id="common.common:smartcard_bookmark_msg" translate="yes">
+    <unit id="common.common:smartcard_bookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33483,7 +33486,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Done! This SmartCard has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:smartcard_unbookmark_msg" translate="yes">
+    <unit id="common.common:smartcard_unbookmark_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33492,7 +33495,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>This SmartCard has been removed from your Bookmarks.</target>
       </segment>
     </unit>
-    <unit id="common.common:dialog_title_changes_not_saved_label" translate="yes">
+    <unit id="common.common:dialog_title_changes_not_saved_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33501,7 +33504,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Changes not saved successfully</target>
       </segment>
     </unit>
-    <unit id="common.common:add_skill_dialog_description_label" translate="yes">
+    <unit id="common.common:add_skill_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33510,7 +33513,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without adding the skill?</target>
       </segment>
     </unit>
-    <unit id="common.common:add_certificate_dialog_description_label" translate="yes">
+    <unit id="common.common:add_certificate_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33519,7 +33522,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without adding the certificate?</target>
       </segment>
     </unit>
-    <unit id="common.common:add_assessment_dialog_description_label" translate="yes">
+    <unit id="common.common:add_assessment_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33528,7 +33531,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without adding the assessment?</target>
       </segment>
     </unit>
-    <unit id="common.common:add_badge_dialog_description_label" translate="yes">
+    <unit id="common.common:add_badge_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33537,7 +33540,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without adding the badge?</target>
       </segment>
     </unit>
-    <unit id="common.common:add_group_dialog_description_label" translate="yes">
+    <unit id="common.common:add_group_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33546,7 +33549,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without saving the group?</target>
       </segment>
     </unit>
-    <unit id="common.common:add_channel_dialog_description_label" translate="yes">
+    <unit id="common.common:add_channel_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33555,7 +33558,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without saving the channel?</target>
       </segment>
     </unit>
-    <unit id="common.common:edit_profile_dialog_description_label" translate="yes">
+    <unit id="common.common:edit_profile_dialog_description_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33564,7 +33567,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Are you sure you want to go back without saving the changes?</target>
       </segment>
     </unit>
-    <unit id="common.common:live_event_registration_closed" translate="yes">
+    <unit id="common.common:live_event_registration_closed" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33573,7 +33576,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Registration Closed</target>
       </segment>
     </unit>
-    <unit id="common.common:channel_all_language_label" translate="yes">
+    <unit id="common.common:channel_all_language_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33582,7 +33585,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>All Languages</target>
       </segment>
     </unit>
-    <unit id="common.common:playback_speed_label" translate="yes">
+    <unit id="common.common:playback_speed_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33591,7 +33594,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Playback Speed</target>
       </segment>
     </unit>
-    <unit id="common.common:language_label" translate="yes">
+    <unit id="common.common:language_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33600,7 +33603,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Language</target>
       </segment>
     </unit>
-    <unit id="common.common:today_learning_empty_msg" translate="yes">
+    <unit id="common.common:today_learning_empty_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33609,7 +33612,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_empty_msg" translate="yes">
+    <unit id="common.common:feed_empty_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33618,7 +33621,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Your Feed is currently empty. Please follow a few Subject Matter Experts (SME) and Channels.</target>
       </segment>
     </unit>
-    <unit id="common.common:no_cards_empty_title" translate="yes">
+    <unit id="common.common:no_cards_empty_title" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33627,7 +33630,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>No Cards Available!</target>
       </segment>
     </unit>
-    <unit id="common.common:no_cards_empty_msg" translate="yes">
+    <unit id="common.common:no_cards_empty_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33636,7 +33639,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>There are no cards available to display right now.</target>
       </segment>
     </unit>
-    <unit id="common.common:organization_homepage_not_available_msg" translate="yes">
+    <unit id="common.common:organization_homepage_not_available_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33645,7 +33648,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Oops, organization homepage not available.</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_employee_title" translate="yes">
+    <unit id="common.common:airtel_employee_title" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33654,7 +33657,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Airtel Employee?</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_employee_msg" translate="yes">
+    <unit id="common.common:airtel_employee_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33663,7 +33666,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Sign in via Hive App</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_login_employee_error_msg" translate="yes">
+    <unit id="common.common:airtel_login_employee_error_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33672,7 +33675,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Airtel employees/credentials not existing in the user base.</target>
       </segment>
     </unit>
-    <unit id="common.common:subscription_bundle_note_msg" translate="yes">
+    <unit id="common.common:subscription_bundle_note_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33681,7 +33684,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Note_cln You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
-    <unit id="common.common:subscription_plan_label" translate="yes">
+    <unit id="common.common:subscription_plan_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33690,7 +33693,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Subscription Plan</target>
       </segment>
     </unit>
-    <unit id="common.common:airtel_session_expired_message" translate="yes">
+    <unit id="common.common:airtel_session_expired_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33708,25 +33711,25 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Hi</target>
       </segment>
     </unit>
-    <unit id="common.common:sign_up_thanks_message" translate="yes">
+    <unit id="common.common:sign_up_thanks_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Thanks for joining! Please check for your verification email</source>
-        <target>Thanks for joining! Please check for our verification email.</target>
+        <target>Thanks for joining! Please check for your verification email</target>
       </segment>
     </unit>
-    <unit id="common.common:sign_up_verification_message" translate="yes">
+    <unit id="common.common:sign_up_verification_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>We have sent a verification email to your registered email address.</source>
-        <target>We have sent you a verification email to your registered email address.</target>
+        <target>We have sent a verification email to your registered email address.</target>
       </segment>
     </unit>
-    <unit id="common.common:sign_up_dont_see_email" translate="yes">
+    <unit id="common.common:sign_up_dont_see_email" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33735,16 +33738,16 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
-    <unit id="common.common:sign_up_inside_mail_message" translate="yes">
+    <unit id="common.common:sign_up_inside_mail_message" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
       <segment >
         <source>Please click on the link inside to verify your account. You can also click on the mobile link to complete the onboarding here.</source>
-        <target>Please click on the link inside to verify your account.</target>
+        <target>Please click on the link inside to verify your account. You can also click on the mobile link to complete the onboarding here.</target>
       </segment>
     </unit>
-    <unit id="common.common:label_points" translate="yes">
+    <unit id="common.common:label_points" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33753,7 +33756,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>points</target>
       </segment>
     </unit>
-    <unit id="common.common:label_select_skill" translate="yes">
+    <unit id="common.common:label_select_skill" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33762,7 +33765,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Select Skill</target>
       </segment>
     </unit>
-    <unit id="common.common:label_skills" translate="yes">
+    <unit id="common.common:label_skills" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33771,7 +33774,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Skills</target>
       </segment>
     </unit>
-    <unit id="common.common:search_skill" translate="yes">
+    <unit id="common.common:search_skill" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33780,7 +33783,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Search Skill</target>
       </segment>
     </unit>
-    <unit id="common.common:label_group" translate="yes">
+    <unit id="common.common:label_group" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33789,7 +33792,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Group</target>
       </segment>
     </unit>
-    <unit id="common.common:leaderboard_position_label" translate="yes">
+    <unit id="common.common:leaderboard_position_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33798,7 +33801,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Leaderboard Position</target>
       </segment>
     </unit>
-    <unit id="common.common:goto_my_learnig_plan_label" translate="yes">
+    <unit id="common.common:goto_my_learnig_plan_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33807,7 +33810,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Goto My Learning Plan</target>
       </segment>
     </unit>
-    <unit id="common.common:points_away_from_the_top_of_the_board" translate="yes">
+    <unit id="common.common:points_away_from_the_top_of_the_board" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33816,7 +33819,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>points away from the top of the board</target>
       </segment>
     </unit>
-    <unit id="common.common:you_can_earn_points_by_completing_content_and_by_earning_badges" translate="yes">
+    <unit id="common.common:you_can_earn_points_by_completing_content_and_by_earning_badges" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33825,7 +33828,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>You can earn points by completing content and by earning badges</target>
       </segment>
     </unit>
-    <unit id="common.common:subscription_empty_msg" translate="yes">
+    <unit id="common.common:subscription_empty_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33834,7 +33837,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Sorry, this content is currently unavailable for purchase on your device.</target>
       </segment>
     </unit>
-    <unit id="common.common:no_bookmarked_available_cards" translate="yes">
+    <unit id="common.common:no_bookmarked_available_cards" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33843,7 +33846,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>There are no bookmarked cards available.</target>
       </segment>
     </unit>
-    <unit id="common.common:cpe_course_label" translate="yes">
+    <unit id="common.common:cpe_course_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33852,7 +33855,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>CPE Course</target>
       </segment>
     </unit>
-    <unit id="common.common:clear_filter_label" translate="yes">
+    <unit id="common.common:clear_filter_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33861,7 +33864,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Clear Filter</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_by_date_label" translate="yes">
+    <unit id="common.common:filter_by_date_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33870,7 +33873,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Filter by date</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_start_date_end_date_hint" translate="yes">
+    <unit id="common.common:filter_start_date_end_date_hint" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33879,7 +33882,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Start Date - End Date</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_date_published_on" translate="yes">
+    <unit id="common.common:filter_date_published_on" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33888,7 +33891,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Published On</target>
       </segment>
     </unit>
-    <unit id="common.common:account_already_exists_msg" translate="yes">
+    <unit id="common.common:account_already_exists_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33897,7 +33900,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Account already exists. Sign In or use a different email id.</target>
       </segment>
     </unit>
-    <unit id="common.common:recommended_to_upskill_level" translate="yes">
+    <unit id="common.common:recommended_to_upskill_level" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33906,7 +33909,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Recommend to Upskill</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_cornerstone_learning_experience" translate="yes">
+    <unit id="common.common:splash_cornerstone_learning_experience" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33915,7 +33918,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Cornerstone\nLearning Experience</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_this_week_label" translate="yes">
+    <unit id="common.common:filter_this_week_label" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33924,7 +33927,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>This Week</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_six_month_lable" translate="yes">
+    <unit id="common.common:filter_six_month_lable" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33933,7 +33936,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Last 6 Months</target>
       </segment>
     </unit>
-    <unit id="common.common:filter_last_one_year_lable" translate="yes">
+    <unit id="common.common:filter_last_one_year_lable" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33942,7 +33945,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Last 1 Year</target>
       </segment>
     </unit>
-    <unit id="common.common:leaderboard_empty_msg" translate="yes">
+    <unit id="common.common:leaderboard_empty_msg" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33951,7 +33954,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
-    <unit id="common.common:leaderboard_empty_msg_2" translate="yes">
+    <unit id="common.common:leaderboard_empty_msg_2" translate="no">
       <notes>
       <note id="context">Missing</note>
     </notes>
@@ -33960,7 +33963,7 @@ Your application for GOI Incentive will be updated once disposed</source>
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 1825, NewStrings: 260 -->
+    <!-- File::android:: NewWords: 0, NewStrings: 0 -->
   </file>
-  <!-- XLIFF::android_nl-NL.xlf:: TotalNewWords: 1825, TotalNewStrings: 260 -->
+  <!-- XLIFF::android_en-US.xlf:: TotalNewWords: 0, TotalNewStrings: 0 -->
 </xliff>
