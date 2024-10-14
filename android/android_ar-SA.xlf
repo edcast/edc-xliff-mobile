@@ -483,7 +483,7 @@
     </notes>
       <segment >
         <source>Unable to assign card. Please try again later.</source>
-        <target>Unable to assign card. Please try again later.</target>
+        <target>تعذر تعيين البطاقة.الرجاء معاودة المحاولة في وقت لاحق</target>
       </segment>
     </unit>
     <unit id="common.common:assign_confirm_text" translate="yes">
