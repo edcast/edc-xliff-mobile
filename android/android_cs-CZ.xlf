@@ -587,7 +587,7 @@
     </unit>
     <unit id="common.common:assignment_empty_list_not_started" translate="yes">
       <notes>
-      <note id="context">Missing</note>
+      <note id="context"> Missing</note>
     </notes>
       <segment >
         <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
