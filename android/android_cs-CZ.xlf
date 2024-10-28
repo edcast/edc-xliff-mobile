@@ -12,7 +12,7 @@
     <unit id="common.common:app_name" translate="yes">
       <notes>
       <note id="context">Missing</note>
-    </notes>
+      </notes>
       <segment >
         <source>Learning Experience</source>
         <target>Learning Experience</target>
