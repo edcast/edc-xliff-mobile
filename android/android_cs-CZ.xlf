@@ -986,7 +986,7 @@
       </notes>
       <segment>
         <source>Will be used to identitfy your SmartCard</source>
-        <target><![CDATA[Počet výsledků vyhledávání výrazu <b>„%s“</b>: <b>%d</b>]]></target>
+        <target>&lt;![CDATA[Počet výsledků vyhledávání výrazu &lt;b&gt;„%s“&lt;/b&gt;: &lt;b&gt;%d&lt;/b&gt;]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:total_smartcards_selected_text" translate="yes">
@@ -1676,7 +1676,7 @@
       </notes>
       <segment>
         <source>We have some more smartcard on &lt;b&gt;%s&lt;/b&gt; . \n Tap here to see more.</source>
-        <target><![CDATA[Máme ještě další kartu SmartCard na <b>%s</b>. \nKlepnutím sem zobrazíte další informace.]]></target>
+        <target>&lt;![CDATA[Máme ještě další kartu SmartCard na &lt;b&gt;%s&lt;/b&gt;. \nKlepnutím sem zobrazíte další informace.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:no_course_events_message" translate="yes">
@@ -2695,8 +2695,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[You have unfollowed the channel <b> %s</b>]]></source>
-        <target><![CDATA[Odebral(a) jste kanál <b> %s</b> ze sledovaných.]]></target>
+        <source>&lt;![CDATA[You have unfollowed the channel &lt;b&gt; %s&lt;/b&gt;]]&gt;</source>
+        <target>&lt;![CDATA[Odebral(a) jste kanál &lt;b&gt; %s&lt;/b&gt; ze sledovaných.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_featured" translate="yes">
@@ -3325,7 +3325,7 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Be the first one to like & comment]]></source>
+        <source>&lt;![CDATA[Be the first one to like & comment]]&gt;</source>
         <target>Buďte první, kdo dá To se mi líbí anapíše komentář.</target>
       </segment>
     </unit>
@@ -4015,8 +4015,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[<b>Tip: </b>Place Your phone close to your mouth]]></source>
-        <target><![CDATA[<b>Tip: </b>Přiložte telefon kústům.]]></target>
+        <source>&lt;![CDATA[&lt;b&gt;Tip: &lt;/b&gt;Place Your phone close to your mouth]]&gt;</source>
+        <target>&lt;![CDATA[&lt;b&gt;Tip: &lt;/b&gt;Přiložte telefon kústům.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:introduction" translate="yes">
@@ -6075,8 +6075,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Language for this user has been set to <b>%s</b> on other platform, Do you wish to change now?]]></source>
-        <target><![CDATA[Jazyk tohoto uživatele je na jiné platformě nastaven na: <b>%s</b>. Chcete ho nyní změnit?]]></target>
+        <source>&lt;![CDATA[Language for this user has been set to &lt;b&gt;%s&lt;/b&gt; on other platform, Do you wish to change now?]]&gt;</source>
+        <target>&lt;![CDATA[Jazyk tohoto uživatele je na jiné platformě nastaven na: &lt;b&gt;%s&lt;/b&gt;. Chcete ho nyní změnit?]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:card_shared_successfully" translate="yes">
@@ -6370,7 +6370,7 @@
       </notes>
       <segment>
         <source>EDCASTERS ></source>
-        <target><![CDATA[UŽIVATELE EDCAST >]]></target>
+        <target>&lt;![CDATA[UŽIVATELE EDCAST >]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:join_livestream_now" translate="yes">
@@ -7851,8 +7851,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;>?</source>
-        <target><![CDATA[Název nemůže obsahovat tyto znaky: ~!@#$%^&*={}|[]\:";<>>?]]></target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;&gt;?</source>
+        <target>&lt;![CDATA[Název nemůže obsahovat tyto znaky: ~!@#$%^&*={}|[]\:";&lt;&gt;>?]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:enter_topic_text" translate="yes">
@@ -8121,8 +8121,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[You have joined the group <b>%s</b>.]]></source>
-        <target><![CDATA[Připojil(a) jste se ke skupině <b>%s</b>.]]></target>
+        <source>&lt;![CDATA[You have joined the group &lt;b&gt;%s&lt;/b&gt;.]]&gt;</source>
+        <target>&lt;![CDATA[Připojil(a) jste se ke skupině &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:no_team_learning_content_message" translate="yes">
@@ -8881,8 +8881,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
-        <target><![CDATA[Opravdu chcete odebrat skupinu <b>%s</b>? Tuto akci nelze vrátit zpět.]]></target>
+        <source>&lt;![CDATA[Are you sure you want to remove &lt;b&gt;%s&lt;/b&gt; group? This can\'t be undone.]]&gt;</source>
+        <target>&lt;![CDATA[Opravdu chcete odebrat skupinu &lt;b&gt;%s&lt;/b&gt;? Tuto akci nelze vrátit zpět.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:error_please_accept_terms_and_conditions" translate="yes">
@@ -9351,8 +9351,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[There was an error joining the group, <b>%s</b>. Please check your internet connection and try again.]]></source>
-        <target><![CDATA[Při připojování ke skupině <b>%s</b> došlo kchybě. Zkontrolujte připojení kinternetu azkuste to znovu.]]></target>
+        <source>&lt;![CDATA[There was an error joining the group, &lt;b&gt;%s&lt;/b&gt;. Please check your internet connection and try again.]]&gt;</source>
+        <target>&lt;![CDATA[Při připojování ke skupině &lt;b&gt;%s&lt;/b&gt; došlo kchybě. Zkontrolujte připojení kinternetu azkuste to znovu.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:unfollow_channel_text" translate="yes">
@@ -10131,7 +10131,7 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>Complete all the previous content to unlock this <b>SmartCard</b></source>
+        <source>Complete all the previous content to unlock this &lt;b&gt;SmartCard&lt;/b&gt;</source>
         <target>Pro odemknutí této karty SmartCard dokončete celý předchozí obsah.</target>
       </segment>
     </unit>
@@ -13221,8 +13221,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
-        <target><![CDATA[%1$s <b>%2$s</b><br/>Dokončil(a) jste <b>%3$s%%</b> svého ročního cíle.]]></target>
+        <source>&lt;![CDATA[%1$s &lt;b&gt;%2$s&lt;/b&gt;&lt;br/&gt;You\'ve learned &lt;b&gt;%3$s%%&lt;/b&gt; of your annual goal]]&gt;</source>
+        <target>&lt;![CDATA[%1$s &lt;b&gt;%2$s&lt;/b&gt;&lt;br/&gt;Dokončil(a) jste &lt;b&gt;%3$s%%&lt;/b&gt; svého ročního cíle.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:unable_to_recognize_speech_error" translate="yes">
@@ -14582,7 +14582,7 @@
       </notes>
       <segment>
         <source>CHANNELS ></source>
-        <target><![CDATA[KANÁLY >]]></target>
+        <target>&lt;![CDATA[KANÁLY >]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_no_message" translate="yes">
@@ -15492,15 +15492,15 @@
       </notes>
       <segment>
         <source>
-         <![CDATA[Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.<br><br>
-        <b>Below are the possible values for the speech clarity analysis:</b><br>
-        A+, A, B, C]]>
+         &lt;![CDATA[Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.<br><br>
+        &lt;b&gt;Below are the possible values for the speech clarity analysis:&lt;/b&gt;<br>
+        A+, A, B, C]]&gt;
 </source>
-        <target><![CDATA[
+        <target>&lt;![CDATA[
          Srozumitelnost řeči je dvojího druhu – verbální avokální. Verbální srozumitelnost znamená, že váš obsah vykazuje myšlenkovou kontinuitu. Vokální srozumitelnost znamená, že nemluvíte příliš rychle ani příliš pomalu. Nemáte silný přízvuk, nemluvíte nesrozumitelně ani nemumláte apoužíváte standardní výslovnost.<br><br>
-        <b>Níže jsou uvedeny možné hodnoty pro analýzu srozumitelnosti řeči:</b><br>
+        &lt;b&gt;Níže jsou uvedeny možné hodnoty pro analýzu srozumitelnosti řeči:&lt;/b&gt;<br>
         A+, A, B, C
-    ]]></target>
+    ]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:discover_trending_content" translate="yes">
@@ -17471,18 +17471,18 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. Itâ€™s calculated in the number of words spoken in a minute.<br><br>
-        <b>Speech rate guidelines:</b><br>
-        <b>Slow:</b> less than 110 wpm<br>
-        <b>Conversational:</b> between 120 wpm and 150 wpm.<br>
-        <b>Fast:</b> more than 160 wpm]]>
+        <source>&lt;![CDATA[Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. Itâ€™s calculated in the number of words spoken in a minute.<br><br>
+        &lt;b&gt;Speech rate guidelines:&lt;/b&gt;<br>
+        &lt;b&gt;Slow:&lt;/b&gt; less than 110 wpm<br>
+        &lt;b&gt;Conversational:&lt;/b&gt; between 120 wpm and 150 wpm.<br>
+        &lt;b&gt;Fast:&lt;/b&gt; more than 160 wpm]]&gt;
 </source>
-        <target><![CDATA[Tempo je rychlost, kterou mluvíte. Má obrovský vliv na to, jak vás aváš projev publikum vnímá. Počítá se vpočtu slov pronesených za minutu.<br><br>
-        <b>Pokyny krychlosti řeči:</b><br>
-        <b>Nízká:</b> méně než 110slov za minutu<br>
-        <b>Konverzační:</b> mezi 120a150slovy za minutu<br>
-        <b>Vysoká:</b> více než 160slov za minutu
-    ]]></target>
+        <target>&lt;![CDATA[Tempo je rychlost, kterou mluvíte. Má obrovský vliv na to, jak vás aváš projev publikum vnímá. Počítá se vpočtu slov pronesených za minutu.<br><br>
+        &lt;b&gt;Pokyny krychlosti řeči:&lt;/b&gt;<br>
+        &lt;b&gt;Nízká:&lt;/b&gt; méně než 110slov za minutu<br>
+        &lt;b&gt;Konverzační:&lt;/b&gt; mezi 120a150slovy za minutu<br>
+        &lt;b&gt;Vysoká:&lt;/b&gt; více než 160slov za minutu
+    ]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:setup_is_completed_label" translate="yes">
@@ -20772,7 +20772,7 @@
       </notes>
       <segment>
         <source>COURSES ></source>
-        <target><![CDATA[KURZY >]]></target>
+        <target>&lt;![CDATA[KURZY >]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:you_are_being_leaped_to_the_card_in_this_pathway" translate="yes">
@@ -21841,8 +21841,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[You have decline the group, <b>%s</b>.]]></source>
-        <target><![CDATA[Odmítl(a) jste připojení ke skupině <b>%s</b>.]]></target>
+        <source>&lt;![CDATA[You have decline the group, &lt;b&gt;%s&lt;/b&gt;.]]&gt;</source>
+        <target>&lt;![CDATA[Odmítl(a) jste připojení ke skupině &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:no_topic_data" translate="yes">
@@ -25072,15 +25072,15 @@
       </notes>
       <segment>
         <source>
-        <![CDATA[In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what weâ€™re going to say next. Theyâ€™re the ums and uhs and ers that litter our conversations whether we like it or not.<br><br>
-        <b>Below are the filler words, that we try to find during the filler word analysis on the speech:</b><br>
-        Like, So, Basically, Actually]]>
+        &lt;![CDATA[In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what weâ€™re going to say next. They're the ums and uhs and ers that litter our conversations whether we like it or not.<br><br>
+        &lt;b&gt;Below are the filler words, that we try to find during the filler word analysis on the speech:&lt;/b&gt;<br>
+        Like, So, Basically, Actually]]&gt;
 </source>
-        <target><![CDATA[
+        <target>&lt;![CDATA[
         Vřeči jsou výplňová slova krátká, bezvýznamná slova (nebo zvuky), kterými vyplňujeme malé pauzy, ke kterým dochází, když se rozhodujeme, co říci dál. Jsou to ta „hm“, „ehm“ a„um“, které zaplevelují naše konverzace, jakkoli se nám to nemusí líbit.<br><br>
-        <b>Níže jsou uvedena výplňová slova, která se snažíme najít při analýze výplňových slov vprojevu:</b><br>
+        &lt;b&gt;Níže jsou uvedena výplňová slova, která se snažíme najít při analýze výplňových slov vprojevu:&lt;/b&gt;<br>
         Jako, takže, vpodstatě, tedy
-    ]]></target>
+    ]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_additional_info_pincode_error" translate="yes">
@@ -25609,8 +25609,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[There was an error leaving the group, <b>%s</b>. Please check your internet connection and try again.]]></source>
-        <target><![CDATA[Při opouštění skupiny <b>%s</b> došlo kchybě. Zkontrolujte připojení kinternetu azkuste to znovu.]]></target>
+        <source>&lt;![CDATA[There was an error leaving the group, &lt;b&gt;%s&lt;/b&gt;. Please check your internet connection and try again.]]&gt;</source>
+        <target>&lt;![CDATA[Při opouštění skupiny &lt;b&gt;%s&lt;/b&gt; došlo kchybě. Zkontrolujte připojení kinternetu azkuste to znovu.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:my_downloaded_success_msg" translate="yes">
@@ -26269,8 +26269,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[You are following the channel <b> %s</b>]]></source>
-        <target><![CDATA[Sledujete kanál <b>%s</b>.]]></target>
+        <source>&lt;![CDATA[You are following the channel &lt;b&gt; %s&lt;/b&gt;]]&gt;</source>
+        <target>&lt;![CDATA[Sledujete kanál &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_delete_video_successfully" translate="yes">
@@ -26699,8 +26699,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Welcome <b>%1$s!</b> With <b>%2$s</b>, you can continue learning on the go, anytime, anywhere.]]></source>
-        <target><![CDATA[Vítáme uživatele <b>%1$s.</b> <b>%2$s</b> vám umožní učit se na cestách, kdykoli akdekoli.]]></target>
+        <source>&lt;![CDATA[Welcome &lt;b&gt;%1$s!&lt;/b&gt; With &lt;b&gt;%2$s&lt;/b&gt;, you can continue learning on the go, anytime, anywhere.]]&gt;</source>
+        <target>&lt;![CDATA[Vítáme uživatele &lt;b&gt;%1$s.&lt;/b&gt; &lt;b&gt;%2$s&lt;/b&gt; vám umožní učit se na cestách, kdykoli akdekoli.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_gtc_alert_body" translate="yes">
@@ -26889,8 +26889,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[<b>%s</b> deleted. It will never show again.]]></source>
-        <target><![CDATA[ Skupina <b>%s</b> byla odstraněna. Již se nebude zobrazovat.]]></target>
+        <source>&lt;![CDATA[&lt;b&gt;%s&lt;/b&gt; deleted. It will never show again.]]&gt;</source>
+        <target>&lt;![CDATA[ Skupina &lt;b&gt;%s&lt;/b&gt; byla odstraněna. Již se nebude zobrazovat.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:schedule_ama_invitation_message" translate="yes">
@@ -27509,8 +27509,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[You have left the group <b>%s</b>.]]></source>
-        <target><![CDATA[Opustil(a) jste skupinu <b>%s</b>.]]></target>
+        <source>&lt;![CDATA[You have left the group &lt;b&gt;%s&lt;/b&gt;.]]&gt;</source>
+        <target>&lt;![CDATA[Opustil(a) jste skupinu &lt;b&gt;%s&lt;/b&gt;.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_additional_info_gst_code" translate="yes">
@@ -30439,7 +30439,7 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>Your preferred language is set to <b>%s</b>.<br/> Would you like to continue with the <b>%s</b>?</source>
+        <source>Your preferred language is set to &lt;b&gt;%s&lt;/b&gt;.&lt;br/&gt; Would you like to continue with the &lt;b&gt;%s&lt;/b&gt;?</source>
         <target>Váš nastavený preferovaný jazyk je %s. Chcete pokračovat sjazykem %s?</target>
       </segment>
     </unit>
@@ -34289,8 +34289,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source><![CDATA[Channel <b> %s</b> is Coming soon channel]]></source>
-        <target><![CDATA[Kanál <b> %s</b> bude brzy kdispozici.]]></target>
+        <source>&lt;![CDATA[Channel &lt;b&gt; %s&lt;/b&gt; is Coming soon channel]]&gt;</source>
+        <target>&lt;![CDATA[Kanál &lt;b&gt; %s&lt;/b&gt; bude brzy kdispozici.]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:observation" translate="yes">
