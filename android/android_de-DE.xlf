@@ -24865,15 +24865,6 @@ A+, A, B, C]]&gt;</target>
         <target>Conferencing Tool auswählen</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>00 : 00</source>
-        <target></target>
-      </segment>
-    </unit>
     <unit id="common.common:enter_time_am" translate="yes">
       <notes>
       	<note id="context">Missing</note>
@@ -25547,24 +25538,6 @@ A+, A, B, C]]&gt;</target>
       <segment>
         <source>This can be used to control awarding badges for Pathway completion</source>
         <target>Dies kann verwendet werden, um die Vergabe von Abzeichen für den Abschluss des Pathways zu steuern</target>
-      </segment>
-    </unit>
-    <unit id="common.common:enter_duration_000_hint" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>000</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>00</source>
-        <target></target>
       </segment>
     </unit>
     <unit id="common.common:skill_label" translate="yes">
