@@ -26085,15 +26085,6 @@ A+, A, B, C"]]&gt;
         <target>Tüm Yanıtlar Doğru</target>
       </segment>
     </unit>
-    <unit id="common.common:text_card_title_count_label" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>256</source>
-        <target></target>
-      </segment>
-    </unit>
     <unit id="common.common:support_only_2048_characters" translate="yes">
       <notes>
       	<note id="context">Missing</note>
@@ -26119,15 +26110,6 @@ A+, A, B, C"]]&gt;
       <segment>
         <source>Mark Journey as Complete</source>
         <target>Journey\'i Tamamlandı olarak işaretle</target>
-      </segment>
-    </unit>
-    <unit id="common.common:include_message_count_label" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>1450</source>
-        <target></target>
       </segment>
     </unit>
     <unit id="common.common:people_following_str" translate="yes">
