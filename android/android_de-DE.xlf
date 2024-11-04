@@ -24847,15 +24847,6 @@ A+, A, B, C]]&gt;</target>
         <target>Wird zur Identifizierung Ihrer SmartCard verwendet</target>
       </segment>
     </unit>
-    <unit id="common.common:live_event_title_count_label" translate="yes">
-      <notes>
-      	<note id="context">Missing</note>
-          </notes>
-      <segment>
-        <source>255</source>
-        <target></target>
-      </segment>
-    </unit>
     <unit id="common.common:live_event_image_label" translate="yes">
       <notes>
       	<note id="context">Missing</note>
