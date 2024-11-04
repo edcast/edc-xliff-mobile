@@ -6369,8 +6369,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>EDCASTERS ></source>
-        <target>&lt;![CDATA[UŽIVATELE EDCAST >]]&gt;</target>
+        <source>EDCASTERS &gt;</source>
+        <target>&lt;![CDATA[UŽIVATELE EDCAST &gt;]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:join_livestream_now" translate="yes">
@@ -7852,7 +7852,7 @@
       </notes>
       <segment>
         <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;&gt;?</source>
-        <target>&lt;![CDATA[Název nemůže obsahovat tyto znaky: ~!@#$%^&*={}|[]\:";&lt;&gt;>?]]&gt;</target>
+        <target>&lt;![CDATA[Název nemůže obsahovat tyto znaky: ~!@#$%^&*={}|[]\:";&lt;&gt;&gt;?]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:enter_topic_text" translate="yes">
@@ -14581,8 +14581,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>CHANNELS ></source>
-        <target>&lt;![CDATA[KANÁLY >]]&gt;</target>
+        <source>CHANNELS &gt;</source>
+        <target>&lt;![CDATA[KANÁLY &gt;]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_no_message" translate="yes">
@@ -20771,8 +20771,8 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>COURSES ></source>
-        <target>&lt;![CDATA[KURZY >]]&gt;</target>
+        <source>COURSES &gt;</source>
+        <target>&lt;![CDATA[KURZY &gt;]]&gt;</target>
       </segment>
     </unit>
     <unit id="common.common:you_are_being_leaped_to_the_card_in_this_pathway" translate="yes">
@@ -23611,7 +23611,7 @@
         <note id="legacy”>LEG01</note>
       </notes>
       <segment>
-        <source>Title<sup>*</sup></source>
+        <source>Title&lt;sup&gt;*&lt;/sup&gt;</source>
         <target>Název*</target>
       </segment>
     </unit>
