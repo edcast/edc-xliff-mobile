@@ -18,6 +18,15 @@
         <target>مباشر   </target>
       </segment>
     </unit>
+    <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
+      <notes>
+        <note id="context">Missing</note>        
+      </notes>
+      <segment>
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
+        <target>مرحبا دونالد. كيف حالك اليوم؟ اسمي ميكي، من جامعة المبيعات. وسبب اتصالي هو الحصول على بعض الوقت في تقويمك. لقد لاحظت للتو على موقعك أنك توظف 10 مندوبين مبيعات جدد هذا الربع. تستخدم العديد من الشركات في مجالك بالفعل SalesU لمساعدة فريق تطوير مبيعاتهم الحالي على بدء المزيد من المحادثات وحجز الاجتماعات. كما أنهم قادرون على تقليل وقت زيادة العرض الجديد إلى النصف. أعتقد أن أفضل مكان للبدء هو تحديد موعد لاجتماع كي تتعرف على تحديات المبيعات وأهدافها. هل لديك وقت الأربعاء أو الخميس ظهرًا حوالي الساعة 10 صباحًا؟</target>
+      </segment>
+    </unit>
     <!-- File::iOS:: NewWords: 11505, NewStrings: 3100 -->
   </file>
   <!-- XLIFF::iOS_ar-SA.xlf:: TotalNewWords: 11505, TotalNewStrings: 3100 -->
