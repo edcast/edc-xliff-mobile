@@ -728,8 +728,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>< Back to EdCast</source>
-        <target><EdCast में वापस जाएँ</target>
+        <source>&lt; Back to EdCast</source>
+        <target>&lt; EdCast में वापस जाएँ</target>
       </segment>
     </unit>
     <unit id="common.common:fs_nBelow_are_the_filler_wordscomma__that_we_try_to_find_during_the_filler_word_analysis_on_the_speechcln_fs_n" translate="yes">
@@ -1578,7 +1578,7 @@
         <target>सामग्री असाइन करने के बाद, आपसे आपके नए समूह के लिए विवरण मांगा जाएगा</target>
       </segment>
     </unit>
-"    <unit d="common.common:After_changing_passwordcomma__your_all_devices_active_session_will_be_terminateddot__Do_you_want_to_continue_change_passwordqmark_" translate="yes">
+    <unit id="common.common:After_changing_passwordcomma__your_all_devices_active_session_will_be_terminateddot__Do_you_want_to_continue_change_passwordqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
