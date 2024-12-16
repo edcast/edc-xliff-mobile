@@ -437,10 +437,8 @@
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>%1$zd hrs %2$zd mins left
-to access this content</source>
-        <target>%1$zd hrs %2$zd mins left
-to access this content</target>
+        <source>%1$zd hrs %2$zd mins left to access this content</source>
+        <target>%1$zd hrs %2$zd mins left to access this content</target>
       </segment>
     </unit>
     <unit id="common.common:pzd__individuals" translate="yes">
@@ -538,8 +536,8 @@ to access this content</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>*Associated assessment fee would be reimbursed over and above this take the help of the chatbot for further clarification on incentive eligibility and process</source>
-        <target>*Associated assessment fee would be reimbursed over and above this take the help of the chatbot for further clarification on incentive eligibility and process</target>
+        <source>*Associated assessment fee would be reimbursed over and above this. Take the help of the chatbot for further clarification on incentive eligibility and process</source>
+        <target>*Associated assessment fee would be reimbursed over and above this. Take the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
     <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
@@ -547,8 +545,8 @@ to access this content</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>*Eligibility for GOI Incentive may change basis Terms of the scheme your application for GOI Incentive will be updated once disposed</source>
-        <target>*Eligibility for GOI Incentive may change basis Terms of the scheme tour application for GOI Incentive will be updated once disposed</target>
+        <source>*Eligibility for GOI Incentive may change basis Terms of the scheme Your application for GOI Incentive will be updated once disposed</source>
+        <target>*Eligibility for GOI Incentive may change basis Terms of the scheme Your application for GOI Incentive will be updated once disposed</target>
       </segment>
     </unit>
     <unit id="common.common:star_I_wish_my_name_to_appear_on_the_awards_or_certificates_as_entered_above" translate="yes">
@@ -1079,7 +1077,7 @@ to access this content</target>
     </notes>
       <segment >
         <source>Add Learning Goal</source>
-        <target>शिक्षण लक्ष्य जोड़ें</target>
+        <target>Add Learning Goal</target>
       </segment>
     </unit>
     <unit id="common.common:Add_Learning_Goals" translate="yes">
@@ -7765,7 +7763,7 @@ to access this content</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Error publishing pathway. Please try again later</source>
+        <source>Error publishing pathway.Please try again later</source>
         <target>Error publishing pathway. Please try again later</target>
       </segment>
     </unit>
@@ -13527,10 +13525,8 @@ That team doesn&apos;t exist. Try again</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>OTP has expired.
- Please generate a new otp and try again.</source>
-        <target>OTP has expired.
- Please generate a new otp and try again.</target>
+        <source>OTP has expired. Please generate a new otp and try again.</source>
+        <target>OTP has expired. Please generate a new otp and try again.</target>
       </segment>
     </unit>
     <unit id="common.common:Overall_Activity" translate="yes">
@@ -20549,12 +20545,8 @@ That team doesn&apos;t exist. Try again</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>This is your own Channel&apos;s Banner Widget!
-0
-You can enable, disable, and customize this feature by editing the </source>
-        <target>This is your own Channel&apos;s Banner Widget!
-0
-You can enable, disable, and customize this feature by editing the </target>
+        <source>This is your own Channel&apos;s Banner Widget! You can enable, disable, and customize this feature by editing the </source>
+        <target>This is your own Channel&apos;s Banner Widget! You can enable, disable, and customize this feature by editing the </target>
       </segment>
     </unit>
     <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
@@ -22632,8 +22624,8 @@ You can enable, disable, and customize this feature by editing the </target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Welcome to your Ledger. A compilation of GoI Incentive eligible course-assessment pairs completed by you.</source>
-        <target>Welcome to your Ledger. A compilation of GoI Incentive eligible course-assessment pairs completed by you.</target>
+        <source>Welcome to your Ledger A compilation of GoI Incentive eligible course-assessment pairs completed by you.</source>
+        <target>Welcome to your Ledger A compilation of GoI Incentive eligible course-assessment pairs completed by you.</target>
       </segment>
     </unit>
     <unit id="common.common:Welcomecomma__youapt_ve_been_invited_to_join_pat_" translate="yes">
@@ -23883,10 +23875,8 @@ You can enable, disable, and customize this feature by editing the </target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You will be able to access this content on
-</source>
-        <target>You will be able to access this content on
-</target>
+        <source>You will be able to access this content on</source>
+        <target>You will be able to access this content on</target>
       </segment>
     </unit>
     <unit id="common.common:You_will_be_receiving_a_confirmation_email_after_the_deletion_is_completeddot_" translate="yes">
@@ -24373,130 +24363,6 @@ You can enable, disable, and customize this feature by editing the </target>
       <segment >
         <source>Your stream is scheduled to start in %1$ld %2$@ and %3$ld %4$@</source>
         <target>Your stream is scheduled to start in %1$ld %2$@ and %3$ld %4$@</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_stream_was_scheduled_to_go_live_pat_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your stream was scheduled to go live %@</source>
-        <target>आपकी स्ट्रीम लाइव%@ जाने वाली थी</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_team_administrator_has_suspended_your_accountdot__You_will_no_longer_have_access_to_content_in_this_organizationdot_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your team administrator has suspended your account. You will no longer have access to content in this organization.</source>
-        <target>आपकी टीम के व्यवस्थापक ने आपका खाता निलंबित कर दिया है। अब आपके पास इस संगठन की सामग्री तक पहुंच नहीं होगी।</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_video_is_saved_successfully_in_your_Photo_Librarynot_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your video is saved successfully in your Photo Library!</source>
-        <target>आपका वीडियो आपकी फोटो लाइब्रेरी में सफलतापूर्वक सेव की गयी है!</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_wallet_balance" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your wallet balance</source>
-        <target>आपका वॉलेट बैलंस</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Youapt1_re_not_authorized_to_access_this_contentdot_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>You’re not authorized to access this content.</source>
-        <target>आप इस विषय वस्तु को एक्सेस करने के लिए अधिकृत नहीं हैं।</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Youapt1_re_not_authorized_to_access_this_contentdot__This_is_a_locked_contentdot_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>You’re not authorized to access this content. This is a locked content.</source>
-        <target>आप इस विषय वस्तु का उपयोग करने के लिए अधिकृत नहीं हैं। यह एक बंद विषय वस्तु है।</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Zoom" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Zoom</source>
-        <target>ज़ूम</target>
-      </segment>
-    </unit>
-    <unit id="common.common:dt_see_less" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>…see less</source>
-        <target>… कम देखें</target>
-      </segment>
-    </unit>
-    <unit id="common.common:dt_see_more" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>…see more</source>
-        <target>…और देखें</target>
-      </segment>
-    </unit>
-    <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
-  </file>
-  <!-- XLIFF::ios_ar-SA.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
-</xliff>
-        <target>Your search query is \"%@\", and these are the search result:</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your security is important! We cannot open the link as it is not secure!</source>
-        <target>आपकी सुरक्षा महत्वपूर्ण है! हम लिंक नहीं खोल सकते क्योंकि यह सुरक्षित नहीं है!</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_SmartCard_could_not_be_createddot__Please_check_your_network_connection_and_try_again_later" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your SmartCard could not be created. Please check your network connection and try again later</source>
-        <target>आपका स्मार्टकार्ड नहीं बनाया जा सका। कृपया अपना नेटवर्क कनेक्शन जांचें और बाद में पुनः प्रयास करें</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_stream_is_scheduled_to_start_in_pld__pat_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your stream is scheduled to start in %1$ld %2$@</source>
-        <target>आपकी स्ट्रीम%ld%@ में शुरू होने वाली है</target>
-      </segment>
-    </unit>
-    <unit id="common.common:Your_stream_is_scheduled_to_start_in_pld__pat__and_pld__pat_" translate="yes">
-      <notes>
-      <note id="context">Missing</note>
-    </notes>
-      <segment >
-        <source>Your stream is scheduled to start in %1$ld %2$@ and %3$ld %4$@</source>
-        <target>आपकी स्ट्रीम%ld%@ और%ld%@ में शुरू होने वाली है</target>
       </segment>
     </unit>
     <unit id="common.common:Your_stream_was_scheduled_to_go_live_pat_" translate="yes">
