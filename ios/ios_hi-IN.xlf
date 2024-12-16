@@ -585,7 +585,7 @@
         <target>*Associated assessment fee would be reimbursed over and above this \nTake the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
-"    <unit d="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
+    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2191,7 +2191,7 @@
         <target>क्या आप वाकई सह-प्रसारण को रोकना चाहते हैं और एक दर्शक के रूप में जारी रखना चाहते हैं?</target>
       </segment>
     </unit>
-"    <unit d="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5164,7 +5164,7 @@
         <target>देखना जारी रखें</target>
       </segment>
     </unit>
-"    <unit d="common.common:Continuous_access_of_the_platform_and_usage_of_services_by_the_learner_therein_shall_amount_to_acceptance_of_the_amended_and_updated_GTCdot_" translate="yes">
+    <unit id="common.common:Continuous_access_of_the_platform_and_usage_of_services_by_the_learner_therein_shall_amount_to_acceptance_of_the_amended_and_updated_GTCdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5757,7 +5757,7 @@
         <target>वर्तमान में इस कोर्स से जुड़े कोई इवेंट नहीं हैं। कृपया बाद में वापस आएं।</target>
       </segment>
     </unit>
-"    <unit d="common.common:Currently_you_are_not_a_member_of_any_Groupdot__Once_you_are_being_added_in_any_groupcomma__they_will_appear_here_in_the_listingdot_" translate="yes">
+    <unit id="common.common:Currently_you_are_not_a_member_of_any_Groupdot__Once_you_are_being_added_in_any_groupcomma__they_will_appear_here_in_the_listingdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -12200,7 +12200,7 @@
         <target>Looks like we don't have any more recommendations for the Learning Goals you've selected.</target>
       </segment>
     </unit>
-"    <unit d="common.common:Looks_likecomma__during_generating_Pitch_analysiscomma__there_was_some_error_occurreddot__Please_try_out_any_of_the_options_available_below" translate="yes">
+    <unit id="common.common:Looks_likecomma__during_generating_Pitch_analysiscomma__there_was_some_error_occurreddot__Please_try_out_any_of_the_options_available_below" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -13115,7 +13115,7 @@
         <target>नाम *</target>
       </segment>
     </unit>
-"    <unit d="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
+    <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15056,7 +15056,7 @@
         <target>पासवर्ड लंबा? टाइप करना मुश्किल है?</target>
       </segment>
     </unit>
-"    <unit d="common.common:Password_must_be_at_least_8_characterscomma__and_contain_at_least_one_upper_case_lettercomma__and_one_symbolcomma__and_one_numberdot_" translate="yes">
+    <unit id="common.common:Password_must_be_at_least_8_characterscomma__and_contain_at_least_one_upper_case_lettercomma__and_one_symbolcomma__and_one_numberdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -15645,7 +15645,7 @@
         <target>आगे बढ़ने के लिए कृपया सामान्य नियम और शर्तों पर क्लिक करें</target>
       </segment>
     </unit>
-"    <unit d="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
+    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18029,7 +18029,7 @@
         <target>पंजीकरण बंद नहीं होता है</target>
       </segment>
     </unit>
-"    <unit d="common.common:Registration_is_based_on_Aadhaar_as_per_FutureSkills_Prime_scheme_rulescomma__hence_we_request_you_to_provide_details_as_per_Aadhaardot_" translate="yes">
+    <unit id="common.common:Registration_is_based_on_Aadhaar_as_per_FutureSkills_Prime_scheme_rulescomma__hence_we_request_you_to_provide_details_as_per_Aadhaardot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -22602,7 +22602,7 @@
         <target>यह विषय वस्तु का क्यूआर कोड है :%@</target>
       </segment>
     </unit>
-"    <unit d="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
+    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22924,7 +22924,7 @@
         <target>के लिए</target>
       </segment>
     </unit>
-"    <unit d="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
+    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25704,7 +25704,7 @@
         <target>आपने कोई भराव शब्द नहीं कहे!</target>
       </segment>
     </unit>
-"    <unit d="common.common:You_do_not_have_enough_SkillCoinsdot__The_required_amount_of_SkillCoins_is_pd__moredot__Please_recharge_your_SkillCoins_in_the_walletdot_" translate="yes">
+    <unit id="common.common:You_do_not_have_enough_SkillCoinsdot__The_required_amount_of_SkillCoins_is_pd__moredot__Please_recharge_your_SkillCoins_in_the_walletdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26110,7 +26110,7 @@
         <target>आपने अपनी ऑनबोर्डिंग प्रक्रिया सफलतापूर्वक पूर्ण कर ली है!</target>
       </segment>
     </unit>
-"    <unit d="common.common:You_have_successfully_enrolled_for_this_coursedot__Click_the_apt_Go_to_Courseapt__button_to_access_the_course_details_and_materialsdot_" translate="yes">
+    <unit id="common.common:You_have_successfully_enrolled_for_this_coursedot__Click_the_apt_Go_to_Courseapt__button_to_access_the_course_details_and_materialsdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26664,7 +26664,7 @@
         <target>आपका संगठन</target>
       </segment>
     </unit>
-"    <unit d="common.common:Your_organization_settings_requires_your_device_to_be_protected_with_a_passcodebs_biometricdot__Please_enable_it_to_use_the_applicationdot_" translate="yes">
+    <unit id="common.common:Your_organization_settings_requires_your_device_to_be_protected_with_a_passcodebs_biometricdot__Please_enable_it_to_use_the_applicationdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
