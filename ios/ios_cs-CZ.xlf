@@ -727,8 +727,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>< Back to EdCast</source>
-        <target>< Zpět na EdCast</target>
+        <source>&lt; Back to EdCast</source>
+        <target>&lt; Zpět na EdCast</target>
       </segment>
     </unit>
     <unit id="common.common:fs_nBelow_are_the_filler_wordscomma__that_we_try_to_find_during_the_filler_word_analysis_on_the_speechcln_fs_n" translate="yes">
