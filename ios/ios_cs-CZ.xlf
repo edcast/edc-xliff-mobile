@@ -29,7 +29,7 @@
         <target> - Koncept</target>
       </segment>
     </unit>
-    <unit id="common.common:_A_4_digit_OTP_has_been_sent_to_your_mobile_numberdot__Please_enter_the_code_below_to_verify_your_numberdot__TheOTP_will_be_alidfor_5_minutes"" translate="yes">
+    <unit id="common.common:_A_4_digit_OTP_has_been_sent_to_your_mobile_numberdot__Please_enter_the_code_below_to_verify_your_numberdot__The_OTP_will_be_valid_for_5_minutes" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -41,8 +41,8 @@
     </unit>
     <unit id="common.common:_and_pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source> and %zd groups</source>
         <target> and %zd groups</target>
@@ -50,8 +50,8 @@
     </unit>
     <unit id="common.common:_points_away_from_the_top_of_the_board" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source> points away from the top of the board</source>
         <target> points away from the top of the board</target>
@@ -59,8 +59,8 @@
     </unit>
     <unit id="common.common:pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%@</source>
         <target>%@</target>
@@ -68,8 +68,8 @@
     </unit>
     <unit id="common.common:pat__blocked" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%@ blocked</source>
         <target>%@ blocked</target>
@@ -197,14 +197,14 @@
     </unit>
     <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%@ is now live on EdCast. Would you like to join the stream?</source>
         <target>%@ is now live on EdCast. Would you like to join the stream?</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_requesting_for_sharing_screencomma__do_you_want_to_approve_qmark__Your_screen_sharing_will_endonce_you_appove" translate="yes">
+    <unit id="common.common:pat__is_requesting_for_sharing_screencomma__do_you_want_to_approve_qmark__Your_screen_sharing_will_end_once_you_approve" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -226,8 +226,8 @@
     </unit>
     <unit id="common.common:pat__is_Unblocked" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%@ is Unblocked</source>
         <target>%@ is Unblocked</target>
@@ -260,7 +260,7 @@
       </notes>
       <segment >
         <source>%1$@ results for &quot;%2$@&quot;</source>
-        <target>Počet výsledků vyhledávání výrazu „%@“: %@</target>
+        <target>Počet výsledků vyhledávání výrazu &quot;%@&quot;: %@</target>
       </segment>
     </unit>
     <unit id="common.common:pat__Selected" translate="yes">
@@ -275,8 +275,8 @@
     </unit>
     <unit id="common.common:pat__Unblocked" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%@ Unblocked</source>
         <target>%@ Unblocked</target>
@@ -302,7 +302,7 @@
         <target>%@ vám chce předat stream. Chcete nad ním převzít kontrolu?</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__will_restart_to_apply_this_changedot__Your_pat__language_will_now_be_independent_from_your_pone_languageot_" translate="yes">
+    <unit id="common.common:pat__will_restart_to_apply_this_changedot__Your_pat__language_will_now_be_independent_from_your_phone_languagedot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -334,8 +334,8 @@
     </unit>
     <unit id="common.common:pat_star__bs__per_pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%1$@* / per %2$@</source>
         <target>%1$@* / per %2$@</target>
@@ -373,8 +373,8 @@
     </unit>
     <unit id="common.common:pd__Downloads" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%d Downloads</source>
         <target>%d Downloads</target>
@@ -432,8 +432,8 @@
     </unit>
     <unit id="common.common:pld_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%ld</source>
         <target>%ld</target>
@@ -461,8 +461,8 @@
     </unit>
     <unit id="common.common:pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%zd groups</source>
         <target>%zd groups</target>
@@ -480,8 +480,8 @@
     </unit>
     <unit id="common.common:pzd__individuals" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>%zd individuals</source>
         <target>%zd individuals</target>
@@ -529,8 +529,8 @@
     </unit>
     <unit id="common.common:obkt_pat__ds__pat_cbkt_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>(%1$@ - %2$@)</source>
         <target>(%1$@ - %2$@)</target>
@@ -538,8 +538,8 @@
     </unit>
     <unit id="common.common:obkt_select_channelobkt_scbkt_cbkt_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>(select channel(s))</source>
         <target>(select channel(s))</target>
@@ -547,8 +547,8 @@
     </unit>
     <unit id="common.common:obkt_select_groupobkt_scbkt_cbkt_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>(select group(s))</source>
         <target>(select group(s))</target>
@@ -556,14 +556,14 @@
     </unit>
     <unit id="common.common:obkt_select_individualobkt_scbkt_cbkt_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>(select individual(s))</source>
         <target>(select individual(s))</target>
       </segment>
     </unit>
-    <unit id="common.common:star_star__This_is_a_closed_teamdot__If_you_donapt_t_have_an_existing_account_or_an_invitation_to_joincomma__plese_contact_yur_tam_administrator"" translate="yes">
+    <unit id="common.common:star_star__This_is_a_closed_teamdot__If_you_donapt_t_have_an_existing_account_or_an_invitation_to_joincomma__please_contact_your_team_administrator" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -573,7 +573,7 @@
         <target>** Tento tým je uzavřený. Pokud nemáte stávající účet nebo pozvánku k připojení, obraťte se na administrátora týmu.</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_furter_clarificaion_n_incentive_eligibility_and_process"" translate="yes">
+    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -583,7 +583,7 @@
         <target>* Související poplatek za test nad rámec této částky bude uhrazen. \nVyužijte pomoc chatbota pro další vysvětlení ohledně nároku na pobídky a procesu.</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updaed_once_dispsed" translate="yes">
+    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -605,8 +605,8 @@
     </unit>
     <unit id="common.common:star_Price_excluding_taxes" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>*Price excluding taxes</source>
         <target>*Price excluding taxes</target>
@@ -662,7 +662,7 @@
         <target>+%@ další(ch)</target>
       </segment>
     </unit>
-    <unit id="common.common:ds_ds__hrs_of_your_annual_learning_goal_of_ds_ds__hrsdot_Your_average_learning_is_ds_ds__minutes_a_day_ove_the_last_7_ays" translate="yes">
+    <unit id="common.common:ds_ds__hrs_of_your_annual_learning_goal_of_ds_ds__hrsdot_Your_average_learning_is_ds_ds__minutes_a_day_over_the_last_7_days" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -684,8 +684,8 @@
     </unit>
     <unit id="common.common:2bs_4" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>2/4</source>
         <target>2/4</target>
@@ -753,17 +753,17 @@
     </unit>
     <unit id="common.common:fs_nConversationalcln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
-        <source>\nConversational:</source>
-        <target>\nKonverzační:</target>
+        <source>Conversational:</source>
+        <target>Conversational:</target>
       </segment>
     </unit>
     <unit id="common.common:fs_nFastcln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>\nFast: </source>
         <target>\nFast: </target>
@@ -771,8 +771,8 @@
     </unit>
     <unit id="common.common:fs_nSlowcln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>\nSlow: </source>
         <target>\nSlow: </target>
@@ -800,8 +800,8 @@
     </unit>
     <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>A 6 digit OTP has been sent to your mobile number.</source>
         <target>A 6 digit OTP has been sent to your mobile number.</target>
@@ -1169,8 +1169,8 @@
     </unit>
     <unit id="common.common:Add_Learning_Goal" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Add Learning Goal</source>
         <target>Add Learning Goal</target>
@@ -1188,8 +1188,8 @@
     </unit>
     <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Add learning goals to help you to upskill and upgrade the level of your existing skills.</source>
         <target>Add learning goals to help you to upskill and upgrade the level of your existing skills.</target>
@@ -1327,8 +1327,8 @@
     </unit>
     <unit id="common.common:Add_to_Featured" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Add to Featured</source>
         <target>Add to Featured</target>
@@ -1496,8 +1496,8 @@
     </unit>
     <unit id="common.common:Address_missing" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Address missing</source>
         <target>Address missing</target>
@@ -1583,7 +1583,7 @@
         <target>Po zadání obsahu se zobrazí dotaz na podrobnosti o vaší nové skupině.</target>
       </segment>
     </unit>
-    <unit id="common.common:After_changing_passwordcomma__your_all_devices_active_session_will_be_terminateddot__Do_you_want_to_continue_chane_passwordqmrk_" translate="yes">
+    <unit id="common.common:After_changing_passwordcomma__your_all_devices_active_session_will_be_terminateddot__Do_you_want_to_continue_change_passwordqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -1735,8 +1735,8 @@
     </unit>
     <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>All users will be able to discover, access, follow, and unfollow this channel.</source>
         <target>All users will be able to discover, access, follow, and unfollow this channel.</target>
@@ -1784,8 +1784,8 @@
     </unit>
     <unit id="common.common:Already_have_an_accountqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Already have an account?</source>
         <target>Already have an account?</target>
@@ -1843,8 +1843,8 @@
     </unit>
     <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Another user has already logged in to this app. Please logout before login with another user.</source>
         <target>Another user has already logged in to this app. Please logout before login with another user.</target>
@@ -2030,10 +2030,10 @@
         <target>Opravdu chcete odstranit dovednost?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__ou_can_unblok_thm_from_the_fs_"" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</source>
         <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</target>
@@ -2121,14 +2121,14 @@
     </unit>
     <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Are you sure you want to go back without saving the changes?</source>
         <target>Are you sure you want to go back without saving the changes?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_leave_this_pageqmark__Any_changes_that_you_have_made_will_be_discardeddot__To_save_yourchanges_makesurethat_you_Update_your_Channel_firstdot__How_would_you_like_to_proceedqmark_"" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_leave_this_pageqmark__Any_changes_that_you_have_made_will_be_discardeddot__To_save_your_changes_make_sure_that_you_Update_your_Channel_firstdot__How_would_you_like_to_proceedqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -2198,10 +2198,10 @@
         <target>Opravdu chcete ukončit společné vysílání a pokračovat jako divák?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_vsible_to_youot_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Are you sure you want to unblock %1$@? Once unblocked, all the content or comments posted by %2$@ will now be visible to you.</source>
         <target>Are you sure you want to unblock %1$@? Once unblocked, all the content or comments posted by %2$@ will now be visible to you.</target>
@@ -2499,8 +2499,8 @@
     </unit>
     <unit id="common.common:Assigned_bycln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Assigned by: </source>
         <target>Assigned by: </target>
@@ -2508,8 +2508,8 @@
     </unit>
     <unit id="common.common:Assigned_bycln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Assigned by: %@</source>
         <target>Assigned by: %@</target>
@@ -2997,8 +2997,8 @@
     </unit>
     <unit id="common.common:Badge_Preview" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Badge Preview</source>
         <target>Badge Preview</target>
@@ -3114,7 +3114,7 @@
         <target>Na základě vašeho studijního tématu: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Based_on_your_selectioncomma__you_are_not_eligible_to_avail_GoI_benefits_associated_with_FutureSkills_Primedot__lease_registr_whn_your_status_changes"" translate="yes">
+    <unit id="common.common:Based_on_your_selectioncomma__you_are_not_eligible_to_avail_GoI_benefits_associated_with_FutureSkills_Primedot__Please_register_when_your_status_changes" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -3124,7 +3124,7 @@
         <target>Na základě vašeho výběru nemáte nárok na benefity v rámci pobídky GoI spojené s programem FutureSkills Prime. Zaregistrujte se, když se váš status změní.</target>
       </segment>
     </unit>
-    <unit id="common.common:Based_on_your_selectioncomma__you_are_not_eligible_to_avail_GoI_benefits_associated_with_FutureSkills_Primedot__lease_registr_whn_your_status_changesdot_"" translate="yes">
+    <unit id="common.common:Based_on_your_selectioncomma__you_are_not_eligible_to_avail_GoI_benefits_associated_with_FutureSkills_Primedot__Please_register_when_your_status_changesdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -3206,8 +3206,8 @@
     </unit>
     <unit id="common.common:Begin_Course" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Begin Course</source>
         <target>Begin Course</target>
@@ -3265,8 +3265,8 @@
     </unit>
     <unit id="common.common:Block_pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Block %@</source>
         <target>Block %@</target>
@@ -3284,8 +3284,8 @@
     </unit>
     <unit id="common.common:Blocked_Users" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Blocked Users</source>
         <target>Blocked Users</target>
@@ -3421,7 +3421,7 @@
         <target>Kamera</target>
       </segment>
     </unit>
-    <unit id="common.common:Camera_and_microphone_permissions_are_required_to_use_this_featuredot__Please_provide_permissions_inthe_Settingsapp" translate="yes">
+    <unit id="common.common:Camera_and_microphone_permissions_are_required_to_use_this_featuredot__Please_provide_permissions_in_the_Settings_app" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -3451,7 +3451,7 @@
         <target>Nezabezpečené adresy URL není možné otevřít. Zkuste odkazy začínající na https://</target>
       </segment>
     </unit>
-    <unit id="common.common:Can_not_record_audio_at_this_timedot__Microphone_is_being_used_by_another_applicationdot__Please_tr_again_laterot_" translate="yes">
+    <unit id="common.common:Can_not_record_audio_at_this_timedot__Microphone_is_being_used_by_another_applicationdot__Please_try_again_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -3893,8 +3893,8 @@
     </unit>
     <unit id="common.common:Change_Plan" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Change Plan</source>
         <target>Change Plan</target>
@@ -3912,8 +3912,8 @@
     </unit>
     <unit id="common.common:Changes_not_saved_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Changes not saved successfully</source>
         <target>Changes not saved successfully</target>
@@ -3991,8 +3991,8 @@
     </unit>
     <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Channel Name is Invalid. Please Choose Another Name.</source>
         <target>Channel Name is Invalid. Please Choose Another Name.</target>
@@ -4050,8 +4050,8 @@
     </unit>
     <unit id="common.common:channelapt_s_widget_settingsdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>channel&apos;s widget settings.</source>
         <target>channel&apos;s widget settings.</target>
@@ -4316,7 +4316,7 @@
         <target>Ke změně registračních údajů před podáním žádosti o pobídku GOI Incentive klikněte sem.</target>
       </segment>
     </unit>
-    <unit id="common.common:Click_here_to_change_registration_details_before_applying_for_GOI_Incentivedot__Continue_to_apply_for_GO_Incentiveqmrk_" translate="yes">
+    <unit id="common.common:Click_here_to_change_registration_details_before_applying_for_GOI_Incentivedot__Continue_to_apply_for_GOI_Incentiveqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -4398,8 +4398,8 @@
     </unit>
     <unit id="common.common:Collaborator_might_not_have_access_to_the_card_being_added" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Collaborator might not have access to the card being added</source>
         <target>Collaborator might not have access to the card being added</target>
@@ -4435,7 +4435,7 @@
         <target>Spolupracovníci (%zd)</target>
       </segment>
     </unit>
-    <unit id="common.common:Collaborators_are_only_able_to_post_content_to_this_channeldot__If_user_generated_content_is_being_curatedcomma_any_content_oste_by_a_collaborator_will_need_to_be_reviewed_by_a_channel_curatordot_"" translate="yes">
+    <unit id="common.common:Collaborators_are_only_able_to_post_content_to_this_channeldot__If_user_generated_content_is_being_curatedcomma__any_content_posted_by_a_collaborator_will_need_to_be_reviewed_by_a_channel_curatordot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -4527,8 +4527,8 @@
     </unit>
     <unit id="common.common:Comment_options" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Comment options</source>
         <target>Comment options</target>
@@ -4616,8 +4616,8 @@
     </unit>
     <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Complete all the previous content to unlock this SmartCard</source>
         <target>Complete all the previous content to unlock this SmartCard</target>
@@ -4675,8 +4675,8 @@
     </unit>
     <unit id="common.common:completed_Journey" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>completed Journey</source>
         <target>completed Journey</target>
@@ -4684,8 +4684,8 @@
     </unit>
     <unit id="common.common:Completed_On" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Completed On</source>
         <target>Completed On</target>
@@ -4913,8 +4913,8 @@
     </unit>
     <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Content has been posted to the selected channel(s)</source>
         <target>Content has been posted to the selected channel(s)</target>
@@ -4922,17 +4922,17 @@
     </unit>
     <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Content has been posted to the selected channel(s).</source>
         <target>Content has been posted to the selected channel(s).</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_b_visible_onc_appoved_by_the_curatordot_"" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Content has been posted to the selected channel(s). If it is a curated channel, your post will be visible once approved by the curator.</source>
         <target>Content has been posted to the selected channel(s). If it is a curated channel, your post will be visible once approved by the curator.</target>
@@ -5080,8 +5080,8 @@
     </unit>
     <unit id="common.common:Content_unavailable" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Content unavailable</source>
         <target>Content unavailable</target>
@@ -5107,7 +5107,7 @@
         <target>Zde se zobrazí obsah.</target>
       </segment>
     </unit>
-    <unit id="common.common:Contentobkt_cardbs_pathwaycbkt__is_associated_with_a_few_pathwaysbs_journeyscomma__please_remove_the_association_before_deleing_r_ask_admin_to_delete_the_contentdot_"" translate="yes">
+    <unit id="common.common:Contentobkt_cardbs_pathwaycbkt__is_associated_with_a_few_pathwaysbs_journeyscomma__please_remove_the_associations_before_deleting_or_ask_admin_to_delete_the_contentdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5177,7 +5177,7 @@
         <target>Pokračovat ve sledování</target>
       </segment>
     </unit>
-    <unit id="common.common:Continuous_access_of_the_platform_and_usage_of_services_by_the_learner_therein_shall_amount_to_acceptance_of_the_amended_an_updated_GTCot_" translate="yes">
+    <unit id="common.common:Continuous_access_of_the_platform_and_usage_of_services_by_the_learner_therein_shall_amount_to_acceptance_of_the_amended_and_updated_GTCdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5379,8 +5379,8 @@
     </unit>
     <unit id="common.common:Create_Account" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Create Account</source>
         <target>Create Account</target>
@@ -5448,8 +5448,8 @@
     </unit>
     <unit id="common.common:created_Journey" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>created Journey</source>
         <target>created Journey</target>
@@ -5457,8 +5457,8 @@
     </unit>
     <unit id="common.common:created_Livestream" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>created Livestream</source>
         <target>created Livestream</target>
@@ -5476,8 +5476,8 @@
     </unit>
     <unit id="common.common:created_Pathway" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>created Pathway</source>
         <target>created Pathway</target>
@@ -5485,8 +5485,8 @@
     </unit>
     <unit id="common.common:created_SmartCard" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>created SmartCard</source>
         <target>created SmartCard</target>
@@ -5504,8 +5504,8 @@
     </unit>
     <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Creating your payment profile for first subscription purchase. Please try again in some time.</source>
         <target>Creating your payment profile for first subscription purchase. Please try again in some time.</target>
@@ -5513,8 +5513,8 @@
     </unit>
     <unit id="common.common:Creation_Date" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Creation Date</source>
         <target>Creation Date</target>
@@ -5670,7 +5670,7 @@
         <target>Pouze správci a spolupracovníci</target>
       </segment>
     </unit>
-    <unit id="common.common:Curators_can_configurecomma__curatecomma__and_post_to_this_channel_obkt_unless_role_is_modified_by_admin_under_RAC_settingsckt_" translate="yes">
+    <unit id="common.common:Curators_can_configurecomma__curatecomma__and_post_to_this_channel_obkt_unless_role_is_modified_by_admin_under_RBAC_settingscbkt_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5680,7 +5680,7 @@
         <target>Kurátoři mohou konfigurovat, spravovat a publikovat příspěvky do tohoto kanálu (pokud není role upravena administrátorem v nastavení RBAC).</target>
       </segment>
     </unit>
-    <unit id="common.common:Curators_can_configurecomma__reviewcomma__and_post_content_to_this_channel_obkt_unless_the_role_is_modified_by_aplatform_admn_uner_RBAC_settingscbkt_"" translate="yes">
+    <unit id="common.common:Curators_can_configurecomma__reviewcomma__and_post_content_to_this_channel_obkt_unless_the_role_is_modified_by_a_platform_admin_under_RBAC_settingscbkt_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5770,7 +5770,7 @@
         <target>Momentálně nejsou k tomuto kurzu přidruženy žádné události. Vraťte se později.</target>
       </segment>
     </unit>
-    <unit id="common.common:Currently_you_are_not_a_member_of_any_Groupdot__Once_you_are_being_added_in_any_groupcomma__they_will_appear_here_i_the_listingot_" translate="yes">
+    <unit id="common.common:Currently_you_are_not_a_member_of_any_Groupdot__Once_you_are_being_added_in_any_groupcomma__they_will_appear_here_in_the_listingdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -5972,8 +5972,8 @@
     </unit>
     <unit id="common.common:Declined" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Declined</source>
         <target>Declined</target>
@@ -6229,7 +6229,7 @@
         <target>Odstraněno ze staženého obsahu</target>
       </segment>
     </unit>
-    <unit id="common.common:Deleting_your_account_will_permanently_erase_all_your_data_from_our_systemdot__This_action_is_irreversible_and_oce_deletedcoma__our_data_cannot_be_restoreddot_"" translate="yes">
+    <unit id="common.common:Deleting_your_account_will_permanently_erase_all_your_data_from_our_systemdot__This_action_is_irreversible_and_once_deletedcomma__your_data_cannot_be_restoreddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -6341,8 +6341,8 @@
     </unit>
     <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Detail Not Supported right now.</source>
         <target>Detail Not Supported right now.</target>
@@ -6630,8 +6630,8 @@
     </unit>
     <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</source>
         <target>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</target>
@@ -6639,8 +6639,8 @@
     </unit>
     <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</source>
         <target>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</target>
@@ -6648,8 +6648,8 @@
     </unit>
     <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Done! This SmartCard has been Bookmarked and can now be found in your bookmarked content.</source>
         <target>Done! This SmartCard has been Bookmarked and can now be found in your bookmarked content.</target>
@@ -6887,8 +6887,8 @@
     </unit>
     <unit id="common.common:Duecln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Due: </source>
         <target>Due: </target>
@@ -6926,8 +6926,8 @@
     </unit>
     <unit id="common.common:Durationcln__pat__ds__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Duration: %1$@ - %2$@</source>
         <target>Duration: %1$@ - %2$@</target>
@@ -6935,8 +6935,8 @@
     </unit>
     <unit id="common.common:Durationcln__All" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Duration: All</source>
         <target>Duration: All</target>
@@ -7274,8 +7274,8 @@
     </unit>
     <unit id="common.common:Edited" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Edited</source>
         <target>Edited</target>
@@ -8123,8 +8123,8 @@
     </unit>
     <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Enter the email address which you will use to sign in to your GoLearning</source>
         <target>Enter the email address which you will use to sign in to your GoLearning</target>
@@ -8262,8 +8262,8 @@
     </unit>
     <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Error adding SmartCard in group’s featured section. \nPlease try again later</source>
         <target>Error adding SmartCard in group’s featured section. \nPlease try again later</target>
@@ -8281,8 +8281,8 @@
     </unit>
     <unit id="common.common:Error_Blocking_Usercln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Error Blocking User: %@</source>
         <target>Error Blocking User: %@</target>
@@ -8420,8 +8420,8 @@
     </unit>
     <unit id="common.common:Error_in_fetching_user_informationdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Error in fetching user information.</source>
         <target>Error in fetching user information.</target>
@@ -8589,8 +8589,8 @@
     </unit>
     <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Error removing SmartCard in group’s featured section. \nPlease try again later</source>
         <target>Error removing SmartCard in group’s featured section. \nPlease try again later</target>
@@ -9028,8 +9028,8 @@
     </unit>
     <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Fail to create RTM channel.</source>
         <target>Fail to create RTM channel.</target>
@@ -9107,8 +9107,8 @@
     </unit>
     <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to establish communication in Live streaming. Please check your network connection and try again.</source>
         <target>Failed to establish communication in Live streaming. Please check your network connection and try again.</target>
@@ -9116,8 +9116,8 @@
     </unit>
     <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to Exit Channel: Request Rejected</source>
         <target>Failed to Exit Channel: Request Rejected</target>
@@ -9125,8 +9125,8 @@
     </unit>
     <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to get user attribtues from the server. Reason: %@</source>
         <target>Failed to get user attribtues from the server. Reason: %@</target>
@@ -9134,8 +9134,8 @@
     </unit>
     <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to join Live Stream RTC channel. Reason: %@</source>
         <target>Failed to join Live Stream RTC channel. Reason: %@</target>
@@ -9143,8 +9143,8 @@
     </unit>
     <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to join Real-Time Messaging Channel. Reason: %@</source>
         <target>Failed to join Real-Time Messaging Channel. Reason: %@</target>
@@ -9152,8 +9152,8 @@
     </unit>
     <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to login to RTM channel. Reason: %@</source>
         <target>Failed to login to RTM channel. Reason: %@</target>
@@ -9181,8 +9181,8 @@
     </unit>
     <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Failed to send attributes to the server. Reason: %@</source>
         <target>Failed to send attributes to the server. Reason: %@</target>
@@ -9290,8 +9290,8 @@
     </unit>
     <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Featured | The top recommended content by this channel</source>
         <target>Featured | The top recommended content by this channel</target>
@@ -9379,8 +9379,8 @@
     </unit>
     <unit id="common.common:Filters_applied_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Filters applied successfully</source>
         <target>Filters applied successfully</target>
@@ -9536,7 +9536,7 @@
         <target>Sledovaní</target>
       </segment>
     </unit>
-    <unit id="common.common:For_some_reasonscomma__we_cannot_start_the_livestream_recordingdot__You_can_continue_the_livestreamdot__Howevercmma__there_wll_b_no_recording_afterdot__Do_you_want_to_continue_the_livestreamqmark_"" translate="yes">
+    <unit id="common.common:For_some_reasonscomma__we_cannot_start_the_livestream_recordingdot__You_can_continue_the_livestreamdot__Howevercomma__there_will_be_no_recording_afterdot__Do_you_want_to_continue_the_livestreamqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -9608,8 +9608,8 @@
     </unit>
     <unit id="common.common:From" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>From</source>
         <target>Od</target>
@@ -9757,8 +9757,8 @@
     </unit>
     <unit id="common.common:Get_this_course_plus__pd__others" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Get this course + %d others</source>
         <target>Get this course + %d others</target>
@@ -9896,8 +9896,8 @@
     </unit>
     <unit id="common.common:Goto_My_Learning_Plan" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Goto My Learning Plan</source>
         <target>Goto My Learning Plan</target>
@@ -10055,8 +10055,8 @@
     </unit>
     <unit id="common.common:Group_Created" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Group Created</source>
         <target>Group Created</target>
@@ -10064,8 +10064,8 @@
     </unit>
     <unit id="common.common:Group_has_been_created_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Group has been created successfully</source>
         <target>Group has been created successfully</target>
@@ -10073,8 +10073,8 @@
     </unit>
     <unit id="common.common:Group_has_been_updated_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Group has been updated successfully</source>
         <target>Group has been updated successfully</target>
@@ -10152,8 +10152,8 @@
     </unit>
     <unit id="common.common:Group_Updated" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Group Updated</source>
         <target>Group Updated</target>
@@ -10211,8 +10211,8 @@
     </unit>
     <unit id="common.common:Groupscln__pzd_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Groups: %zd</source>
         <target>Groups: %zd</target>
@@ -10220,8 +10220,8 @@
     </unit>
     <unit id="common.common:Groupscln__All" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Groups: All</source>
         <target>Groups: All</target>
@@ -10277,14 +10277,14 @@
         <target>Uživatel: %@ Dobrý den, řekněte mi, co se chcete naučit.</target>
       </segment>
     </unit>
-    <unit id="common.common:Hellocomma__my_name_is_pat_comma__and_I_am_your_learning_assistant_from_EdCastdot__I_can_help_you_to_achieve_you_learning_goldot_To_see_what_I_can_do_for_youcomma__you_can_always_say_or_type_fs_"" translate="yes">
+    <unit id="common.common:Hellocomma__my_name_is_pat_comma__and_I_am_your_learning_assistant_from_EdCastdot__I_can_help_you_to_achieve_your_learning_goaldot__To_see_what_I_can_do_for_youcomma__you_can_always_say_or_type_fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type &quot;menu&quot;. Please try it.</source>
-        <target>Dobrý den, jmenuji se %@ a jsem váš studijní asistent v aplikaci EdCast. Mohu vám pomoci dosáhnout vašich studijních cílů. Pokud chcete zjistit, co pro vás mohu udělat, můžete vždy říci nebo napsat „menu“. Vyzkoušejte to.</target>
+        <target>Dobrý den, jmenuji se %@ a jsem váš studijní asistent v aplikaci EdCast. Mohu vám pomoci dosáhnout vašich studijních cílů. Pokud chcete zjistit, co pro vás mohu udělat, můžete vždy říci nebo napsat &quot;menu&quot;. Vyzkoušejte to.</target>
       </segment>
     </unit>
     <unit id="common.common:Help_us_understand_the_issuestar_" translate="yes">
@@ -10329,8 +10329,8 @@
     </unit>
     <unit id="common.common:Hi" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Hi</source>
         <target>Hi</target>
@@ -10427,8 +10427,8 @@
     </unit>
     <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>How do we calculate ratings?</source>
         <target>How do we calculate ratings?</target>
@@ -10454,7 +10454,7 @@
         <target>hod.</target>
       </segment>
     </unit>
-    <unit id="common.common:I_acknowledge_and_accept_that_I_have_read_the_terms_and_conditions_of_FutureSkills_Prime_schemeof_MeitY_GoIot_" translate="yes">
+    <unit id="common.common:I_acknowledge_and_accept_that_I_have_read_the_terms_and_conditions_of_FutureSkills_Prime_scheme_of_MeitY_GoIdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -10474,7 +10474,7 @@
         <target>Nemohu najít vaše studijní témata. Nejprve si nastavte studijní témata.</target>
       </segment>
     </unit>
-    <unit id="common.common:I_certify_that_the_information_provided_by_me_is_true_and_accept_that_these_details_will_be_used_for_subsequent_adhaar_or_oter_apropriate_verification_processdot__In_case_any"" translate="yes">
+    <unit id="common.common:I_certify_that_the_information_provided_by_me_is_true_and_accept_that_these_details_will_be_used_for_subsequent_Aadhaar_or_other_appropriate_verification_processdot__In_case_any" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -10594,16 +10594,16 @@
         <target>Pokud ano, váš výběr bude ztracen.</target>
       </segment>
     </unit>
-    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_ther_foldersot_" translate="yes">
+    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>If you don&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
         <target>If you don&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
-    <unit id="common.common:If_you_wish_only_for_specific_followers_to_be_able_to_post_contentcomma__consider_making_them_a_collaboator_insteadot_" translate="yes">
+    <unit id="common.common:If_you_wish_only_for_specific_followers_to_be_able_to_post_contentcomma__consider_making_them_a_collaborator_insteaddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -10653,14 +10653,14 @@
         <target>Probíhá</target>
       </segment>
     </unit>
-    <unit id="common.common:In_speechcomma__filler_words_are_shortcomma__meaningless_words_obkt_or_soundscbkt__we_use_to_fill_the_little_paues_that_occu_whie_we_decide_what_weapt1_re_going_to_say_nextdot__Theyapt1_re_the_ums_and_uhs_and_ers_that_litter_our_conversations_whether_we_like_it_or_notdot_fs_n"" translate="yes">
+    <unit id="common.common:In_speechcomma__filler_words_are_shortcomma__meaningless_words_obkt_or_soundscbkt__we_use_to_fill_the_little_pauses_that_occur_while_we_decide_what_weapt1_re_going_to_say_nextdot__Theyapt1_re_the_ums_and_uhs_and_ers_that_litter_our_conversations_whether_we_like_it_or_notdot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.\n</source>
-        <target>V řeči jsou výplňová slova krátká, bezvýznamná slova (nebo zvuky), kterými vyplňujeme malé pauzy, ke kterým dochází, když se rozhodujeme, co říci dál. Jsou to ta „hm“, „ehm“ a „um“, které zaplevelují naše konverzace, jakkoli se nám to nemusí líbit.\n</target>
+        <target>V řeči jsou výplňová slova krátká, bezvýznamná slova (nebo zvuky), kterými vyplňujeme malé pauzy, ke kterým dochází, když se rozhodujeme, co říci dál. Jsou to ta &quot;hm&quot;, &quot;ehm&quot; a &quot;um&quot;, které zaplevelují naše konverzace, jakkoli se nám to nemusí líbit.\n</target>
       </segment>
     </unit>
     <unit id="common.common:Inds_Progress" translate="yes">
@@ -10705,8 +10705,8 @@
     </unit>
     <unit id="common.common:Included_in_your_subscription" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Included in your subscription</source>
         <target>Included in your subscription</target>
@@ -10884,8 +10884,8 @@
     </unit>
     <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Internal Server Error. Please Try Again.</source>
         <target>Internal Server Error. Please Try Again.</target>
@@ -10903,8 +10903,8 @@
     </unit>
     <unit id="common.common:Intune_Logs" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Intune Logs</source>
         <target>Intune Logs</target>
@@ -10912,8 +10912,8 @@
     </unit>
     <unit id="common.common:INTUNE_LOGS" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>INTUNE LOGS</source>
         <target>INTUNE LOGS</target>
@@ -10941,8 +10941,8 @@
     </unit>
     <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Invalid Transaction. Please contact admin.</source>
         <target>Invalid Transaction. Please contact admin.</target>
@@ -10950,8 +10950,8 @@
     </unit>
     <unit id="common.common:Invalid_user_information_responsedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Invalid user information response.</source>
         <target>Invalid user information response.</target>
@@ -11107,7 +11107,7 @@
         <target>Vypadá to, že úložiště vašeho zařízení je téměř zaplněné. Uvolněte nějaké místo a zkuste to znovu.</target>
       </segment>
     </unit>
-    <unit id="common.common:It_seems_you_are_registeredcomma__but_you_have_not_completed_onboardingdot__Please_go_to_the_web_browser_and_comlete_your_onoardng_before_logindot_"" translate="yes">
+    <unit id="common.common:It_seems_you_are_registeredcomma__but_you_have_not_completed_onboardingdot__Please_go_to_the_web_browser_and_complete_your_onboarding_before_logindot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -11199,8 +11199,8 @@
     </unit>
     <unit id="common.common:Join_Live_Stream" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Join Live Stream</source>
         <target>Join Live Stream</target>
@@ -11346,7 +11346,7 @@
         <target>Pokračujte ve studiu</target>
       </segment>
     </unit>
-    <unit id="common.common:Kindly_furnish_details_as_available_in_your_Government_ID_like_Aadhaar_bs__PAN_bs__Voter_ID_bs__Passport_bs__Driing_License_s_pe_FutureSkills_Prime_scheme_rulesdot__Kindly_note_that_the_same_information_will_be_used_while_processing_for_GOI_Incentivesdot_"" translate="yes">
+    <unit id="common.common:Kindly_furnish_details_as_available_in_your_Government_ID_like_Aadhaar_bs__PAN_bs__Voter_ID_bs__Passport_bs__Driving_License_as_per_FutureSkills_Prime_scheme_rulesdot__Kindly_note_that_the_same_information_will_be_used_while_processing_for_GOI_Incentivesdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -11618,8 +11618,8 @@
     </unit>
     <unit id="common.common:Leaderboard_Position" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Leaderboard Position</source>
         <target>Leaderboard Position</target>
@@ -12077,8 +12077,8 @@
     </unit>
     <unit id="common.common:Live_Event_already_done_on_pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Live Event already done on %@</source>
         <target>Live Event already done on %@</target>
@@ -12216,14 +12216,14 @@
     </unit>
     <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Looks like we don&apos;t have any more recommendations for the Learning Goals you&apos;ve selected.</source>
         <target>Looks like we don&apos;t have any more recommendations for the Learning Goals you&apos;ve selected.</target>
       </segment>
     </unit>
-    <unit id="common.common:Looks_likecomma__during_generating_Pitch_analysiscomma__there_was_some_error_occurreddot__Please_try_out_any_of_the_option_available_blow" translate="yes">
+    <unit id="common.common:Looks_likecomma__during_generating_Pitch_analysiscomma__there_was_some_error_occurreddot__Please_try_out_any_of_the_options_available_below" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -12275,8 +12275,8 @@
     </unit>
     <unit id="common.common:Manage_Blocked_Users" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Manage Blocked Users</source>
         <target>Manage Blocked Users</target>
@@ -12564,8 +12564,8 @@
     </unit>
     <unit id="common.common:Meeting_linkcln_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Meeting link:</source>
         <target>Meeting link:</target>
@@ -12613,8 +12613,8 @@
     </unit>
     <unit id="common.common:Members_can_share_content_to_this_groupdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Members can share content to this group.</source>
         <target>Members can share content to this group.</target>
@@ -12752,8 +12752,8 @@
     </unit>
     <unit id="common.common:Mobile_number_not_saved_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Mobile number not saved successfully</source>
         <target>Mobile number not saved successfully</target>
@@ -12761,8 +12761,8 @@
     </unit>
     <unit id="common.common:Mobile_Numberstar_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Mobile Number*</source>
         <target>Mobile Number*</target>
@@ -12910,8 +12910,8 @@
     </unit>
     <unit id="common.common:My_Content" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>My Content</source>
         <target>My Content</target>
@@ -12969,8 +12969,8 @@
     </unit>
     <unit id="common.common:My_Ledger" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>My Ledger</source>
         <target>My Ledger</target>
@@ -13098,8 +13098,8 @@
     </unit>
     <unit id="common.common:Nbs_A" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>N/A</source>
         <target>–</target>
@@ -13117,8 +13117,8 @@
     </unit>
     <unit id="common.common:Name" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Name</source>
         <target>Name</target>
@@ -13136,7 +13136,7 @@
     </unit>
     <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__ob__csb__cln_fs_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
+       <note id="context">Missing</note>
       </notes>      
       <segment >
         <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
@@ -13145,8 +13145,8 @@
     </unit>
     <unit id="common.common:nameat_teamdot_com" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>name@team.com</source>
         <target>name@team.com</target>
@@ -13264,8 +13264,8 @@
     </unit>
     <unit id="common.common:No" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No</source>
         <target>NE</target>
@@ -13353,8 +13353,8 @@
     </unit>
     <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No attendees have been approved for attending this live event</source>
         <target>No attendees have been approved for attending this live event</target>
@@ -13362,8 +13362,8 @@
     </unit>
     <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No attendees have been declined for attending this live event</source>
         <target>No attendees have been declined for attending this live event</target>
@@ -13401,8 +13401,8 @@
     </unit>
     <unit id="common.common:No_blocked_users_found" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No blocked users found</source>
         <target>No blocked users found</target>
@@ -13508,10 +13508,10 @@
         <target>Nejsou sledovány žádné kanály</target>
       </segment>
     </unit>
-    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_formore_contentot_" translate="yes">
+    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No channels, livestreams, or pathways have been created. Please contact your administrator for more content.</source>
         <target>No channels, livestreams, or pathways have been created. Please contact your administrator for more content.</target>
@@ -13669,8 +13669,8 @@
     </unit>
     <unit id="common.common:No_filters_applied" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No filters applied</source>
         <target>No filters applied</target>
@@ -13818,8 +13818,8 @@
     </unit>
     <unit id="common.common:No_Level" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No Level</source>
         <target>No Level</target>
@@ -13957,8 +13957,8 @@
     </unit>
     <unit id="common.common:No_pending_registrations_for_this_live_event" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>No pending registrations for this live event</source>
         <target>No pending registrations for this live event</target>
@@ -14061,7 +14061,7 @@
       </notes>
       <segment >
         <source>No result for ’%@’</source>
-        <target>Pro výraz „%@“ nebyl nalezen žádný výsledek.</target>
+        <target>Pro výraz &quot;%@&quot; nebyl nalezen žádný výsledek.</target>
       </segment>
     </unit>
     <unit id="common.common:No_results_founddot_" translate="yes">
@@ -14356,8 +14356,8 @@
     </unit>
     <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Not able to unblock user right now. Please try again later.</source>
         <target>Not able to unblock user right now. Please try again later.</target>
@@ -14375,8 +14375,8 @@
     </unit>
     <unit id="common.common:Not_Logged_In_with_Channel_name" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Not Logged In with Channel name</source>
         <target>Not Logged In with Channel name</target>
@@ -14392,10 +14392,10 @@
         <target>Nezahájeno</target>
       </segment>
     </unit>
-    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_sSettings_appot_" translate="yes">
+    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</source>
         <target>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</target>
@@ -14503,8 +14503,8 @@
     </unit>
     <unit id="common.common:Number_of_cards_star_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Number of cards *</source>
         <target>Number of cards *</target>
@@ -14572,8 +14572,8 @@
     </unit>
     <unit id="common.common:OK" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>OK</source>
         <target>OK</target>
@@ -14581,8 +14581,8 @@
     </unit>
     <unit id="common.common:Ok" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Ok</source>
         <target>OK</target>
@@ -14590,8 +14590,8 @@
     </unit>
     <unit id="common.common:ok" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>ok</source>
         <target>OK</target>
@@ -14599,8 +14599,8 @@
     </unit>
     <unit id="common.common:Okay" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Okay</source>
         <target>OK</target>
@@ -14688,8 +14688,8 @@
     </unit>
     <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Only members of this channel can access the channel.</source>
         <target>Only members of this channel can access the channel.</target>
@@ -14747,8 +14747,8 @@
     </unit>
     <unit id="common.common:Open_Content" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Open Content</source>
         <target>Open Content</target>
@@ -14776,8 +14776,8 @@
     </unit>
     <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Operation Timed Out. Please Retry.</source>
         <target>Operation Timed Out. Please Retry.</target>
@@ -14933,7 +14933,7 @@
         <target>Tempo</target>
       </segment>
     </unit>
-    <unit id="common.common:Pace_is_the_speed_at_which_you_talkdot__It_has_a_huge_influence_on_how_the_audience_perceives_you_and_your_speecdot__Itapt1__calulated_in_the_number_of_words_spoken_in_a_minutedot_fs_n"" translate="yes">
+    <unit id="common.common:Pace_is_the_speed_at_which_you_talkdot__It_has_a_huge_influence_on_how_the_audience_perceives_you_and_your_speechdot__Itapt1_s_calculated_in_the_number_of_words_spoken_in_a_minutedot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -15045,8 +15045,8 @@
     </unit>
     <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Password and Confirm password should be the same.</source>
         <target>Password and Confirm password should be the same.</target>
@@ -15072,7 +15072,7 @@
         <target>Je heslo příliš dlouhé? Těžko se zapisuje?</target>
       </segment>
     </unit>
-    <unit id="common.common:Password_must_be_at_least_8_characterscomma__and_contain_at_least_one_upper_case_lettercomma__and_one_symbolcomma__ad_one_numberot_" translate="yes">
+    <unit id="common.common:Password_must_be_at_least_8_characterscomma__and_contain_at_least_one_upper_case_lettercomma__and_one_symbolcomma__and_one_numberdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -15354,8 +15354,8 @@
     </unit>
     <unit id="common.common:per" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>per</source>
         <target>za</target>
@@ -15513,8 +15513,8 @@
     </unit>
     <unit id="common.common:Playback_Speed" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Playback Speed</source>
         <target>Playback Speed</target>
@@ -15600,7 +15600,7 @@
         <target>Nejprve v aplikaci Nastavení povolte přístup ke kameře.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_be_aware_that_doing_so_will_remove_all_associated_statistics_and_commentsdot_fs_nThis_action_cannot_be_unonedot__How_ouldyou_like_to_proceedqmark_"" translate="yes">
+    <unit id="common.common:Please_be_aware_that_doing_so_will_remove_all_associated_statistics_and_commentsdot_fs_nThis_action_cannot_be_undonedot__How_would_you_like_to_proceedqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -15660,10 +15660,10 @@
         <target>Pro pokračování klikněte na Všeobecné podmínky a ujednání.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onoarding_hereot_" translate="yes">
+    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please click on the link inside to verify your account. You can also click on the mobile link to complete the onboarding here.</source>
         <target>Please click on the link inside to verify your account. You can also click on the mobile link to complete the onboarding here.</target>
@@ -15821,8 +15821,8 @@
     </unit>
     <unit id="common.common:Please_enter_a_valid_mobile_number" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please enter a valid mobile number</source>
         <target>Please enter a valid mobile number</target>
@@ -16210,8 +16210,8 @@
     </unit>
     <unit id="common.common:Please_login_from_HIVE_app" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please login from HIVE app</source>
         <target>Please login from HIVE app</target>
@@ -16219,8 +16219,8 @@
     </unit>
     <unit id="common.common:Please_login_on_the_web_to_review_the_reported_issuedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please login on the web to review the reported issue.</source>
         <target>Please login on the web to review the reported issue.</target>
@@ -16256,7 +16256,7 @@
         <target>Pro získání přístupu k obsahu proveďte platbu.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_make_sure_your_password_has_at_least_8_characterscomma__one_capital_lettercomma__one_numbercomma__ad_one_symbolot_" translate="yes">
+    <unit id="common.common:Please_make_sure_your_password_has_at_least_8_characterscomma__one_capital_lettercomma__one_numbercomma__and_one_symboldot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -16318,8 +16318,8 @@
     </unit>
     <unit id="common.common:Please_provide_any_additional_details" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please provide any additional details</source>
         <target>Please provide any additional details</target>
@@ -16525,7 +16525,7 @@
         <target>Vyberte pohlaví.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_select_if_you_have_been_offered_employment_but_are_yet_to_take_up_a_job_OR_are_undergoingbs_selected_for_nternship_am__Aprenticeship_roles_in_IT_or_IT_enabled_services"" translate="yes">
+    <unit id="common.common:Please_select_if_you_have_been_offered_employment_but_are_yet_to_take_up_a_job_OR_are_undergoingbs_selected_for_Internship_amp__Apprenticeship_roles_in_IT_or_IT_enabled_services" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -16817,8 +16817,8 @@
     </unit>
     <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please update the address to proceed with the purchase.</source>
         <target>Please update the address to proceed with the purchase.</target>
@@ -16856,8 +16856,8 @@
     </unit>
     <unit id="common.common:Please_verify_the_number" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please verify the number</source>
         <target>Please verify the number</target>
@@ -16865,8 +16865,8 @@
     </unit>
     <unit id="common.common:Please_verify_the_numberdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Please verify the number.</source>
         <target>Please verify the number.</target>
@@ -17164,8 +17164,8 @@
     </unit>
     <unit id="common.common:Price_excluding_taxes" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Price excluding taxes</source>
         <target>Price excluding taxes</target>
@@ -17233,8 +17233,8 @@
     </unit>
     <unit id="common.common:Private_Channel" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Private Channel</source>
         <target>Private Channel</target>
@@ -17282,8 +17282,8 @@
     </unit>
     <unit id="common.common:Profile_creation_in_progress" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Profile creation in progress</source>
         <target>Profile creation in progress</target>
@@ -17321,8 +17321,8 @@
     </unit>
     <unit id="common.common:Progress" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Progress</source>
         <target>Progress</target>
@@ -17420,8 +17420,8 @@
     </unit>
     <unit id="common.common:Public_Channel" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Public Channel</source>
         <target>Public Channel</target>
@@ -17509,8 +17509,8 @@
     </unit>
     <unit id="common.common:Purchase_options" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Purchase options</source>
         <target>Purchase options</target>
@@ -17638,8 +17638,8 @@
     </unit>
     <unit id="common.common:Rate" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Rate</source>
         <target>Rate</target>
@@ -17657,8 +17657,8 @@
     </unit>
     <unit id="common.common:Ratings" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Ratings</source>
         <target>Ratings</target>
@@ -17764,7 +17764,7 @@
         <target>Doporučit</target>
       </segment>
     </unit>
-    <unit id="common.common:Recommend_new_skill_level_as_a_learning_goal_to_the_team_members_who_are_beginnerscomma__so_they_can_receive_relvant_recommedatins_and_upskill_themselvesdot_"" translate="yes">
+    <unit id="common.common:Recommend_new_skill_level_as_a_learning_goal_to_the_team_members_who_are_beginnerscomma__so_they_can_receive_relevant_recommendations_and_upskill_themselvesdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -17864,7 +17864,7 @@
         <target>Zaznamenat novou prezentaci</target>
       </segment>
     </unit>
-    <unit id="common.common:Record_or_Import_your_audio_in_real_timedot__After_youapt1_re_finishedcomma__your_podcast_will_be_available_onyour_EdCast_age" translate="yes">
+    <unit id="common.common:Record_or_Import_your_audio_in_real_timedot__After_youapt1_re_finishedcomma__your_podcast_will_be_available_on_your_EdCast_page" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -17976,8 +17976,8 @@
     </unit>
     <unit id="common.common:Registeredcln__" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Registered: </source>
         <target>Registered: </target>
@@ -17985,8 +17985,8 @@
     </unit>
     <unit id="common.common:Registration_closeddot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Registration closed.</source>
         <target>Registration closed.</target>
@@ -18042,7 +18042,7 @@
         <target>Registrace se neuzavírá.</target>
       </segment>
     </unit>
-    <unit id="common.common:Registration_is_based_on_Aadhaar_as_per_FutureSkills_Prime_scheme_rulescomma__hence_we_request_you_to_provide_details_a_per_Aadhaarot_" translate="yes">
+    <unit id="common.common:Registration_is_based_on_Aadhaar_as_per_FutureSkills_Prime_scheme_rulescomma__hence_we_request_you_to_provide_details_as_per_Aadhaardot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -18134,8 +18134,8 @@
     </unit>
     <unit id="common.common:Relevance" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Relevance</source>
         <target>Relevance</target>
@@ -18193,8 +18193,8 @@
     </unit>
     <unit id="common.common:Reminder_is_sent_successfullydot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Reminder is sent successfully.</source>
         <target>Reminder is sent successfully.</target>
@@ -18222,8 +18222,8 @@
     </unit>
     <unit id="common.common:Remove_pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Remove %@</source>
         <target>Remove %@</target>
@@ -18241,8 +18241,8 @@
     </unit>
     <unit id="common.common:Remove_and_Unshare_content" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Remove and Unshare content</source>
         <target>Remove and Unshare content</target>
@@ -18260,8 +18260,8 @@
     </unit>
     <unit id="common.common:Remove_from_Featured" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Remove from Featured</source>
         <target>Remove from Featured</target>
@@ -18279,8 +18279,8 @@
     </unit>
     <unit id="common.common:Remove_Member" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Remove Member</source>
         <target>Remove Member</target>
@@ -18553,7 +18553,7 @@
       </notes>
       <segment >
         <source>Results for &quot;%@&quot;</source>
-        <target>Výsledky vyhledávání výrazu „%@“</target>
+        <target>Výsledky vyhledávání výrazu &quot;%@&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Resultscln__" translate="yes">
@@ -18598,8 +18598,8 @@
     </unit>
     <unit id="common.common:Role" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Role</source>
         <target>Role</target>
@@ -18897,8 +18897,8 @@
     </unit>
     <unit id="common.common:Search_for_learning_goals" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Search for learning goals</source>
         <target>Search for learning goals</target>
@@ -19041,7 +19041,7 @@
       </notes>
       <segment >
         <source>Searching for &apos;%@&apos;</source>
-        <target>Probíhá vyhledávání výrazu „%@“.</target>
+        <target>Probíhá vyhledávání výrazu &quot;%@&quot;.</target>
       </segment>
     </unit>
     <unit id="common.common:Seats" translate="yes">
@@ -19096,8 +19096,8 @@
     </unit>
     <unit id="common.common:See_other_plans" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>See other plans</source>
         <target>See other plans</target>
@@ -19195,8 +19195,8 @@
     </unit>
     <unit id="common.common:Select_Badge_Icon" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Select Badge Icon</source>
         <target>Select Badge Icon</target>
@@ -19444,8 +19444,8 @@
     </unit>
     <unit id="common.common:Select_Skill" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Select Skill</source>
         <target>Select Skill</target>
@@ -19613,8 +19613,8 @@
     </unit>
     <unit id="common.common:Selected_Groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Selected Groups</source>
         <target>Selected Groups</target>
@@ -19622,8 +19622,8 @@
     </unit>
     <unit id="common.common:Selected_Individuals" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Selected Individuals</source>
         <target>Selected Individuals</target>
@@ -19821,8 +19821,8 @@
     </unit>
     <unit id="common.common:Share_Content_withdt1_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Share Content with...</source>
         <target>Share Content with...</target>
@@ -19880,8 +19880,8 @@
     </unit>
     <unit id="common.common:Share_your_content_to_engage_your_followersdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Share your content to engage your followers.</source>
         <target>Share your content to engage your followers.</target>
@@ -20239,8 +20239,8 @@
     </unit>
     <unit id="common.common:Skillcln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Skill: %@</source>
         <target>Skill: %@</target>
@@ -20368,8 +20368,8 @@
     </unit>
     <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>SmartCard added to the group’s featured section.</source>
         <target>SmartCard added to the group’s featured section.</target>
@@ -20377,8 +20377,8 @@
     </unit>
     <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>SmartCard already available in the group’s featured section.</source>
         <target>SmartCard already available in the group’s featured section.</target>
@@ -20396,8 +20396,8 @@
     </unit>
     <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>SmartCard removed from the group’s featured section.</source>
         <target>SmartCard removed from the group’s featured section.</target>
@@ -20493,7 +20493,7 @@
         <target>Omlouváme se</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorry_that_you_had_to_opt_out_of_certain_emailsdot_fs_nSome_emailscomma__howevercomma__are_set_up_by_the_admincoma__which_yo_canot_opt_out_ofdot__We_will_continue_to_be_in_touchdot_"" translate="yes">
+    <unit id="common.common:Sorry_that_you_had_to_opt_out_of_certain_emailsdot_fs_nSome_emailscomma__howevercomma__are_set_up_by_the_admincomma__which_you_cannot_opt_out_ofdot__We_will_continue_to_be_in_touchdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -20585,8 +20585,8 @@
     </unit>
     <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Sorry, this content is currently unavailable for purchase on your device</source>
         <target>Sorry, this content is currently unavailable for purchase on your device</target>
@@ -20594,8 +20594,8 @@
     </unit>
     <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Sorry, this content is currently unavailable for purchase on your device.</source>
         <target>Sorry, this content is currently unavailable for purchase on your device.</target>
@@ -20621,19 +20621,19 @@
         <target>Omlouváme se, sdílený odkaz nyní nelze vytvořit. Zkuste to znovu později.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_th_live_streamot_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Sorry, We encountered an issue while trying to send a message to another participant in the live stream.</source>
         <target>Sorry, We encountered an issue while trying to send a message to another participant in the live stream.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_Reasoncln__at_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Sorry, We encountered an issue while trying to send a message to another participant in the live stream. Reason: %@</source>
         <target>Sorry, We encountered an issue while trying to send a message to another participant in the live stream. Reason: %@</target>
@@ -20729,7 +20729,7 @@
         <target>Chyba oprávnění k rozpoznávání řeči</target>
       </segment>
     </unit>
-    <unit id="common.common:Speech_Recognition_permissions_is_required_to_use_this_featuredot__Please_provide_permission_inthe_Settingsapp" translate="yes">
+    <unit id="common.common:Speech_Recognition_permissions_is_required_to_use_this_featuredot__Please_provide_permission_in_the_Settings_app" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -20831,8 +20831,8 @@
     </unit>
     <unit id="common.common:Start_following_others_to_discover_new_content_and_stay_connected" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Start following others to discover new content and stay connected</source>
         <target>Start following others to discover new content and stay connected</target>
@@ -21088,7 +21088,7 @@
         <target>3. krok: Úspěšně absolvujte test související s dříve dokončeným kurzem.</target>
       </segment>
     </unit>
-    <unit id="common.common:Step_4cln__After_successfully_passing_the_assessmentcomma__the_courseds_assessment_pair_will_appear_as_a_ledger_ntry_belowdo__Clck_apt_apply_for_GoI_incentiveapt_dot_"" translate="yes">
+    <unit id="common.common:Step_4cln__After_successfully_passing_the_assessmentcomma__the_courseds_assessment_pair_will_appear_as_a_ledger_entry_belowdot__Click_apt_apply_for_GoI_incentiveapt_dot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -21100,8 +21100,8 @@
     </unit>
     <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Step Not Supported right now.</source>
         <target>Step Not Supported right now.</target>
@@ -21299,8 +21299,8 @@
     </unit>
     <unit id="common.common:Subscribed" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Subscribed</source>
         <target>Subscribed</target>
@@ -21318,8 +21318,8 @@
     </unit>
     <unit id="common.common:Subscription_already_purchased" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Subscription already purchased</source>
         <target>Subscription already purchased</target>
@@ -21337,8 +21337,8 @@
     </unit>
     <unit id="common.common:Subscription_not_available" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Subscription not available</source>
         <target>Subscription not available</target>
@@ -21346,8 +21346,8 @@
     </unit>
     <unit id="common.common:Subscription_Plan" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Subscription Plan</source>
         <target>Subscription Plan</target>
@@ -21395,8 +21395,8 @@
     </unit>
     <unit id="common.common:Successfully_assigned_to_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully assigned to </source>
         <target>Successfully assigned to </target>
@@ -21404,8 +21404,8 @@
     </unit>
     <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully assigned to %zd groups</source>
         <target>Successfully assigned to %zd groups</target>
@@ -21413,8 +21413,8 @@
     </unit>
     <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully assigned to %zd individuals</source>
         <target>Successfully assigned to %zd individuals</target>
@@ -21422,8 +21422,8 @@
     </unit>
     <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully assigned to %1$zd individuals and %2$zd groups</source>
         <target>Successfully assigned to %1$zd individuals and %2$zd groups</target>
@@ -21481,8 +21481,8 @@
     </unit>
     <unit id="common.common:Successfully_shared_with_pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully shared with %zd groups</source>
         <target>Successfully shared with %zd groups</target>
@@ -21490,8 +21490,8 @@
     </unit>
     <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully shared with %zd individuals</source>
         <target>Successfully shared with %zd individuals</target>
@@ -21499,8 +21499,8 @@
     </unit>
     <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Successfully shared with %1$zd individuals and %2$zd groups</source>
         <target>Successfully shared with %1$zd individuals and %2$zd groups</target>
@@ -21538,8 +21538,8 @@
     </unit>
     <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Summary of %@&apos;s Activity</source>
         <target>Summary of %@&apos;s Activity</target>
@@ -21607,8 +21607,8 @@
     </unit>
     <unit id="common.common:Switch_to_this_plan" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Switch to this plan</source>
         <target>Switch to this plan</target>
@@ -21684,10 +21684,10 @@
         <target>Pokud chcete nějakou kartu SmartCard přidat do svého seznamu záložek, klepněte na dané kartě na ikonu Přidat do záložek.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_thesubscriptionot_" translate="yes">
+    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>TBD Your credit card was declined on 15th September, 2022. Please edit your information to renew the subscription.</source>
         <target>TBD Your credit card was declined on 15th September, 2022. Please edit your information to renew the subscription.</target>
@@ -21695,8 +21695,8 @@
     </unit>
     <unit id="common.common:TBD_Your_credit_card_was_declineddot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>TBD Your credit card was declined. Please edit your information to renew the subscription.</source>
         <target>TBD Your credit card was declined. Please edit your information to renew the subscription.</target>
@@ -21842,7 +21842,7 @@
         <target>Text</target>
       </segment>
     </unit>
-    <unit id="common.common:Thank_you_for_Applying_for_GOI_Incentivedot__You_will_be_notified_via_an_email_for_the_next_steps_in_the_appliction_processot_" translate="yes">
+    <unit id="common.common:Thank_you_for_Applying_for_GOI_Incentivedot__You_will_be_notified_via_an_email_for_the_next_steps_in_the_application_processdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -21884,8 +21884,8 @@
     </unit>
     <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Thanks for joining! Please check for your verification email</source>
         <target>Thanks for joining! Please check for your verification email</target>
@@ -21911,7 +21911,7 @@
         <target>To je pro tuto chvíli vše.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_AI_engine_will_provide_a_maximum_number_of_recommendations_every_24_hoursdot__This_setting_is_only_availablewhen_AI_recomendtions_are_not_being_curateddot_"" translate="yes">
+    <unit id="common.common:The_AI_engine_will_provide_a_maximum_number_of_recommendations_every_24_hoursdot__This_setting_is_only_available_when_AI_recommendations_are_not_being_curateddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -21921,7 +21921,7 @@
         <target>Systém umělé inteligence (AI) poskytne každých 24 hodin maximální počet doporučení. Toto nastavení je k dispozici pouze v případě, že nejsou spravována doporučení AI.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_assignment_content_cannot_be_displayed_right_nowdot__Please_try_again_laterdot__In_the_meantimecomma__pleasecontinue_theassinment_on_our_websitedot_"" translate="yes">
+    <unit id="common.common:The_assignment_content_cannot_be_displayed_right_nowdot__Please_try_again_laterdot__In_the_meantimecomma__please_continue_the_assignment_on_our_websitedot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -21971,7 +21971,7 @@
         <target>Obsah, který se snažíte publikovat, pochází z neschváleného webu nebo obsahuje neschválené slovo.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_course_content_cannot_be_displayed_right_nowdot__Please_try_again_laterdot__In_the_meantimecomma__please_coninue_the_couses_n_our_websitedot_"" translate="yes">
+    <unit id="common.common:The_course_content_cannot_be_displayed_right_nowdot__Please_try_again_laterdot__In_the_meantimecomma__please_continue_the_courses_on_our_websitedot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -22031,7 +22031,7 @@
         <target>Jazyk nelze nyní zaktualizovat. Zkuste to znovu později.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_link_youapt1_ve_entered_has_already_been_associated_with_an_existing_SmartCarddot__SmartCards_with_duplicatelinks_are_no_allwed_as_per_your_administratorapt1_s_configurationdot__Please_try_another_URL"" translate="yes">
+    <unit id="common.common:The_link_youapt1_ve_entered_has_already_been_associated_with_an_existing_SmartCarddot__SmartCards_with_duplicate_links_are_not_allowed_as_per_your_administratorapt1_s_configurationdot__Please_try_another_URL" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -22111,10 +22111,10 @@
         <target>Kód QR byl zaslán e-mailem.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_o_suspicious_rofies_to_ensure_genuine_ratings"" translate="yes">
+    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>The ratings calculated and determined by aggregating feedback or data from users.\n\nWe checks for spam or suspicious profiles to ensure genuine ratings</source>
         <target>The ratings calculated and determined by aggregating feedback or data from users.\n\nWe checks for spam or suspicious profiles to ensure genuine ratings</target>
@@ -22132,8 +22132,8 @@
     </unit>
     <unit id="common.common:The_request_is_rejecteddot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>The request is rejected.</source>
         <target>The request is rejected.</target>
@@ -22169,7 +22169,7 @@
         <target>Streamer má zpoždění. Živý stream %@ měl podle plánu začít %@.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_total_of_the_number_of_invites_and_the_number_of_current_costreamers_cannot_exceed_the_number_of_maximum_cosreamers_in_te_steamdot__Please_try_again_when_an_empty_slot_is_open_updot_"" translate="yes">
+    <unit id="common.common:The_total_of_the_number_of_invites_and_the_number_of_current_costreamers_cannot_exceed_the_number_of_maximum_costreamers_in_the_streamdot__Please_try_again_when_an_empty_slot_is_open_updot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -22241,8 +22241,8 @@
     </unit>
     <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>There are no bookmarked cards available.</source>
         <target>There are no bookmarked cards available.</target>
@@ -22250,8 +22250,8 @@
     </unit>
     <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>There are no cards available to display right now.</source>
         <target>There are no cards available to display right now.</target>
@@ -22279,8 +22279,8 @@
     </unit>
     <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>There are no more Groups assigned.</source>
         <target>There are no more Groups assigned.</target>
@@ -22288,8 +22288,8 @@
     </unit>
     <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>There are no more Individuals assigned.</source>
         <target>There are no more Individuals assigned.</target>
@@ -22615,10 +22615,10 @@
         <target>Toto je QR kód obsahu: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_featur_by_editing_he_" translate="yes">
+    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </source>
         <target>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
@@ -22626,8 +22626,8 @@
     </unit>
     <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This Journey has been removed from your Bookmarks.</source>
         <target>This Journey has been removed from your Bookmarks.</target>
@@ -22675,8 +22675,8 @@
     </unit>
     <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This Pathway has been removed from your Bookmarks.</source>
         <target>This Pathway has been removed from your Bookmarks.</target>
@@ -22694,8 +22694,8 @@
     </unit>
     <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This SmartCard has been removed from your Bookmarks.</source>
         <target>This SmartCard has been removed from your Bookmarks.</target>
@@ -22733,17 +22733,17 @@
     </unit>
     <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This subscription is already purchased. You can check more details in My Profile section</source>
         <target>This subscription is already purchased. You can check more details in My Profile section</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organsation_adminot_" translate="yes">
+    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This subscription is unavailable for a purchase. Please try a different subscription/contact your organisation admin.</source>
         <target>This subscription is unavailable for a purchase. Please try a different subscription/contact your organisation admin.</target>
@@ -22779,7 +22779,7 @@
         <target>Tento týden</target>
       </segment>
     </unit>
-    <unit id="common.common:This_widget_will_be_made_public_to_your_profile_for_everyone_to_seedot__You_can_check_how_it_looks_by_viewing_yor_public_proile_rom_the_gear_icon_on_the_top_right_cornet_on_your_profiledot_"" translate="yes">
+    <unit id="common.common:This_widget_will_be_made_public_to_your_profile_for_everyone_to_seedot__You_can_check_how_it_looks_by_viewing_your_public_profile_from_the_gear_icon_on_the_top_right_cornet_on_your_profiledot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -22821,8 +22821,8 @@
     </unit>
     <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This will send you to a secured environment, where you can complete your transaction.</source>
         <target>This will send you to a secured environment, where you can complete your transaction.</target>
@@ -22830,8 +22830,8 @@
     </unit>
     <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>This will send you to a secured environment, where you can view and consume the course.</source>
         <target>This will send you to a secured environment, where you can view and consume the course.</target>
@@ -22937,10 +22937,10 @@
         <target>Komu</target>
       </segment>
     </unit>
-    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_ubscriptionsot_" translate="yes">
+    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</source>
         <target>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</target>
@@ -23138,8 +23138,8 @@
     </unit>
     <unit id="common.common:Totalcln__pd_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Total: %d</source>
         <target>Total: %d</target>
@@ -23337,8 +23337,8 @@
     </unit>
     <unit id="common.common:Type_Userscomma__Groups_you_want_to_restrict" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Type Users, Groups you want to restrict</source>
         <target>Type Users, Groups you want to restrict</target>
@@ -23584,7 +23584,7 @@
         <target>Nelze stáhnout přepis.</target>
       </segment>
     </unit>
-    <unit id="common.common:Unable_to_get_the_organization_detailscomma__please_try_againdot__Contact_your_administrator_if_the_prolem_persistsot_" translate="yes">
+    <unit id="common.common:Unable_to_get_the_organization_detailscomma__please_try_againdot__Contact_your_administrator_if_the_problem_persistsdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -23626,8 +23626,8 @@
     </unit>
     <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unable to Send Message: Invalid Format!</source>
         <target>Unable to Send Message: Invalid Format!</target>
@@ -23665,8 +23665,8 @@
     </unit>
     <unit id="common.common:Unassign" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unassign</source>
         <target>Unassign</target>
@@ -23674,8 +23674,8 @@
     </unit>
     <unit id="common.common:Unblock" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unblock</source>
         <target>Unblock</target>
@@ -23683,8 +23683,8 @@
     </unit>
     <unit id="common.common:Unblock_pat_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unblock %@</source>
         <target>Unblock %@</target>
@@ -23702,8 +23702,8 @@
     </unit>
     <unit id="common.common:uncompleted" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>uncompleted</source>
         <target>uncompleted</target>
@@ -23801,8 +23801,8 @@
     </unit>
     <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unknown Error. Please try again.</source>
         <target>Unknown Error. Please try again.</target>
@@ -23820,8 +23820,8 @@
     </unit>
     <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unlock the badge after Quiz is passed successfully</source>
         <target>Unlock the badge after Quiz is passed successfully</target>
@@ -23849,8 +23849,8 @@
     </unit>
     <unit id="common.common:Unshare" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unshare</source>
         <target>Unshare</target>
@@ -23858,8 +23858,8 @@
     </unit>
     <unit id="common.common:Unshare_Content_fromdt1_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Unshare Content from...</source>
         <target>Unshare Content from...</target>
@@ -24137,8 +24137,8 @@
     </unit>
     <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Upon completing this pathway the assignee will get a badge</source>
         <target>Upon completing this pathway the assignee will get a badge</target>
@@ -24236,17 +24236,17 @@
     </unit>
     <unit id="common.common:Users_will_be_able_to_find_and_join_this_groupdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Users will be able to find and join this group.</source>
         <target>Users will be able to find and join this group.</target>
       </segment>
     </unit>
-    <unit id="common.common:Users_will_not_be_able_to_leave_the_group_once_addeddot__Only_a_group_admin_or_a_group_leader_canremove_usersot_" translate="yes">
+    <unit id="common.common:Users_will_not_be_able_to_leave_the_group_once_addeddot__Only_a_group_admin_or_a_group_leader_can_remove_usersdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Users will not be able to leave the group once added. Only a group admin or a group leader can remove users.</source>
         <target>Users will not be able to leave the group once added. Only a group admin or a group leader can remove users.</target>
@@ -24384,8 +24384,8 @@
     </unit>
     <unit id="common.common:View_Attendees" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>View Attendees</source>
         <target>View Attendees</target>
@@ -24783,8 +24783,8 @@
     </unit>
     <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>We have sent a verification email to your registered email address.</source>
         <target>We have sent a verification email to your registered email address.</target>
@@ -24900,7 +24900,7 @@
         <target>Vítejte</target>
       </segment>
     </unit>
-    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_comleted_by_youot_" translate="yes">
+    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25182,8 +25182,8 @@
     </unit>
     <unit id="common.common:With" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>With</source>
         <target>S</target>
@@ -25311,14 +25311,14 @@
     </unit>
     <unit id="common.common:You" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You</source>
         <target>Vy</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_assign_a_private_contentcomma__this_content_once_is_assignedcomma__will_be_accessible_to_all_th_users_of_th_gropdot__Do_you_want_to_continueqmark_"" translate="yes">
+    <unit id="common.common:You_are_about_to_assign_a_private_contentcomma__this_content_once_is_assignedcomma__will_be_accessible_to_all_the_users_of_the_groupdot__Do_you_want_to_continueqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25328,7 +25328,7 @@
         <target>Chystáte se zadat soukromý obsah. Po zadání bude tento obsah přístupný všem uživatelům ve skupině. Chcete pokračovat?</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_change_this_channel_from_curated_to_not_curateddot_It_is_highly_recommended_that_you_process_an_SmartCards_n_th_Curation_queue_before_proceedingdot__Cards_that_have_not_been_processed_will_not_be_added_to_the_channel_laterdot_"" translate="yes">
+    <unit id="common.common:You_are_about_to_change_this_channel_from_curated_to_not_curateddot_It_is_highly_recommended_that_you_process_any_SmartCards_in_the_Curation_queue_before_proceedingdot__Cards_that_have_not_been_processed_will_not_be_added_to_the_channel_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25348,7 +25348,7 @@
         <target>Chystáte se odstranit %@ %@.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_go_back_to_the_previous_stepdot__Please_be_aware_that_doing_so_will_remove_all_the_unsaved_chanes_you_have_mpleented_on_this_pagedot__This_action_cannot_be_undonedot__How_would_you_like_to_proceedqmark_"" translate="yes">
+    <unit id="common.common:You_are_about_to_go_back_to_the_previous_stepdot__Please_be_aware_that_doing_so_will_remove_all_the_unsaved_changes_you_have_implemented_on_this_pagedot__This_action_cannot_be_undonedot__How_would_you_like_to_proceedqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25360,14 +25360,14 @@
     </unit>
     <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You are about to remove %@ from this group. How would you like to proceed?</source>
         <target>You are about to remove %@ from this group. How would you like to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_share_a_private_contentcomma__this_content_once_is_sharedcomma__will_be_accessible_to_all_the_uers_of_the_goup_mp__all_followers_of_the_channelsdot__Do_you_want_to_continueqmark_"" translate="yes">
+    <unit id="common.common:You_are_about_to_share_a_private_contentcomma__this_content_once_is_sharedcomma__will_be_accessible_to_all_the_users_of_the_group_amp__all_followers_of_the_channelsdot__Do_you_want_to_continueqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25377,7 +25377,7 @@
         <target>Chystáte se nasdílet soukromý obsah. Po nasdílení bude tento obsah přístupný všem uživatelům ve skupině a sledujícím tohoto kanálu. Chcete pokračovat?</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_share_a_private_contentcomma__this_content_once_is_sharedcomma__will_be_accessible_to_all_the_uers_of_the_goupdt__Do_you_want_to_continueqmark_"" translate="yes">
+    <unit id="common.common:You_are_about_to_share_a_private_contentcomma__this_content_once_is_sharedcomma__will_be_accessible_to_all_the_users_of_the_groupdot__Do_you_want_to_continueqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25459,8 +25459,8 @@
     </unit>
     <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You are not authorized to access this content. Please contact the content sharer for access.</source>
         <target>You are not authorized to access this content. Please contact the content sharer for access.</target>
@@ -25538,8 +25538,8 @@
     </unit>
     <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You can earn points by completing content and by earning badges</source>
         <target>You can earn points by completing content and by earning badges</target>
@@ -25605,7 +25605,7 @@
         <target>Můžete si vybrat několik studijních cílů (maximálně %d).</target>
       </segment>
     </unit>
-    <unit id="common.common:You_can_select_up_to_pd__learning_topicsdot__Donapt_t_worry_you_can_always_change_them_from_yourprofile_pageot_" translate="yes">
+    <unit id="common.common:You_can_select_up_to_pd__learning_topicsdot__Donapt_t_worry_you_can_always_change_them_from_your_profile_pagedot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25715,7 +25715,7 @@
         <target>Neřekl(a) jste žádná výplňová slova.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_do_not_have_enough_SkillCoinsdot__The_required_amount_of_SkillCoins_is_pd__moredot__Please_recharge_your_SkillCoins_n_the_walletot_" translate="yes">
+    <unit id="common.common:You_do_not_have_enough_SkillCoinsdot__The_required_amount_of_SkillCoins_is_pd__moredot__Please_recharge_your_SkillCoins_in_the_walletdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25777,8 +25777,8 @@
     </unit>
     <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You have a video stream scheduled to be live now. Do you want to start it?</source>
         <target>You have a video stream scheduled to be live now. Do you want to start it?</target>
@@ -25806,8 +25806,8 @@
     </unit>
     <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You have assigned this Journey to yourself.</source>
         <target>You have assigned this Journey to yourself.</target>
@@ -25815,8 +25815,8 @@
     </unit>
     <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You have assigned this Pathway to yourself.</source>
         <target>You have assigned this Pathway to yourself.</target>
@@ -25834,8 +25834,8 @@
     </unit>
     <unit id="common.common:You_have_blocked_this_user" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You have blocked this user</source>
         <target>You have blocked this user</target>
@@ -25901,7 +25901,7 @@
         <target>Opustil(a) jste skupinu %@.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_no_Machine_Recommended_Content_to_curatedot__Please_check_the_items_in_User_Posted_Contet_curation_qeue" translate="yes">
+    <unit id="common.common:You_have_no_Machine_Recommended_Content_to_curatedot__Please_check_the_items_in_User_Posted_Content_curation_queue" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -25921,7 +25921,7 @@
         <target>Zatím nemáte žádné odběry.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_no_User_Posted_Content_to_curatedot__Please_check_the_items_in_Machine_Recommended_Contet_curation_qeue" translate="yes">
+    <unit id="common.common:You_have_no_User_Posted_Content_to_curatedot__Please_check_the_items_in_Machine_Recommended_Content_curation_queue" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26011,7 +26011,7 @@
         <target>Zatím jste nevytvořil(a) žádný obsah. Nejprve kliknutím na tlačítko Vytvořit vytvořte nějaký obsah.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_not_created_any_journeys_yetdot__Please_use_the_dropdown_menu_of_SmartCard_to_create_some_jurneys_firstot_" translate="yes">
+    <unit id="common.common:You_have_not_created_any_journeys_yetdot__Please_use_the_dropdown_menu_of_SmartCard_to_create_some_journeys_firstdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26031,7 +26031,7 @@
         <target>Zatím jste nevytvořil(a) žádný živý stream. Nejprve kliknutím na tlačítko Vytvořit vytvořte nějaký živý stream.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_not_created_any_pathways_yetdot__Please_use_the_dropdown_menu_of_SmartCard_to_create_some_pthways_firstot_" translate="yes">
+    <unit id="common.common:You_have_not_created_any_pathways_yetdot__Please_use_the_dropdown_menu_of_SmartCard_to_create_some_pathways_firstdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26051,7 +26051,7 @@
         <target>Zatím jste nevytvořil(a) žádnou prezentaci. Nejprve kliknutím na tlačítko Vytvořit vytvořte nějakou prezentaci.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_not_created_any_private_card_yetdot__Please_use_the_create_button_to_create_some_Private_SmatCards_firstot_" translate="yes">
+    <unit id="common.common:You_have_not_created_any_private_card_yetdot__Please_use_the_create_button_to_create_some_Private_SmartCards_firstdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26061,7 +26061,7 @@
         <target>Zatím jste nevytvořil(a) žádnou privátní kartu. Nejprve kliknutím na tlačítko Vytvořit vytvořte nějakou privátní kartu SmartCard.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_not_created_any_skill_passport_yetdot__Please_use_the_create_button_to_create_some_skill_pssport_firstot_" translate="yes">
+    <unit id="common.common:You_have_not_created_any_skill_passport_yetdot__Please_use_the_create_button_to_create_some_skill_passport_firstdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26091,7 +26091,7 @@
         <target>Zatím jste si nepřidal(a) žádný kanál do sledovaných. Nejprve si na kartě Objevit přidejte nějaký kanál do sledovaných.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_not_pay_the_subscription_yetdot__Please_go_to_httpscln_bs_bs_pat__to_pay_for_the_subscription_nd_come_backot_" translate="yes">
+    <unit id="common.common:You_have_not_pay_the_subscription_yetdot__Please_go_to_httpscln_bs_bs_pat__to_pay_for_the_subscription_and_come_backdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26121,7 +26121,7 @@
         <target>Úspěšně jste dokončil(a) onboarding.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_successfully_enrolled_for_this_coursedot__Click_the_apt_Go_to_Courseapt__button_to_access_the_course_details_nd_materialsot_" translate="yes">
+    <unit id="common.common:You_have_successfully_enrolled_for_this_coursedot__Click_the_apt_Go_to_Courseapt__button_to_access_the_course_details_and_materialsdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26313,8 +26313,8 @@
     </unit>
     <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You won&apos;t see any content and comments from this user</source>
         <target>You won&apos;t see any content and comments from this user</target>
@@ -26330,19 +26330,19 @@
         <target>Do této skupiny nebudete mít přístup, opravdu ji chcete opustit?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_wantto_proceedqmrk_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</source>
         <target>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_wantto_proceedqmrk_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</source>
         <target>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
@@ -26350,8 +26350,8 @@
     </unit>
     <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>You&apos;re about to remove this content from %@&apos;s assignments. Would you like to proceed?</source>
         <target>You&apos;re about to remove this content from %@&apos;s assignments. Would you like to proceed?</target>
@@ -26437,7 +26437,7 @@
         <target>Z vašeho účtu Apple nelze provádět platby. Zkontrolujte nastavení svého účtu.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_card_has_been_published_publicly_and_will_be_accessible_to_everyonedot__If_the_card_is_posted_to_a_curated_hannelcomma_it_wll_be_visible_in_channel_once_curateddot_"" translate="yes">
+    <unit id="common.common:Your_card_has_been_published_publicly_and_will_be_accessible_to_everyonedot__If_the_card_is_posted_to_a_curated_channelcomma__it_will_be_visible_in_channel_once_curateddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26477,7 +26477,7 @@
         <target>Vaše vlastní karta zatím nemá žádný obsah.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_download_is_in_progressdot__When_completecomma__youapt_ll_be_able_to_access_the_content_fromthe_pat__tabot_" translate="yes">
+    <unit id="common.common:Your_download_is_in_progressdot__When_completecomma__youapt_ll_be_able_to_access_the_content_from_the_pat__tabdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26509,8 +26509,8 @@
     </unit>
     <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Your Feed is currently empty. Please follow a few Subject Matter Experts (SME) and Channels.</source>
         <target>Your Feed is currently empty. Please follow a few Subject Matter Experts (SME) and Channels.</target>
@@ -26546,7 +26546,7 @@
         <target>Vaše skupina zatím nemá žádný obsah.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_HDds_Video_has_been_successfully_uploaded_and_will_be_shortly_available_for_offline_viewing_by_yur_followersot_" translate="yes">
+    <unit id="common.common:Your_HDds_Video_has_been_successfully_uploaded_and_will_be_shortly_available_for_offline_viewing_by_your_followersdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26646,10 +26646,10 @@
         <target>Vaše síť není dostupná. Zkontrolujte síť a zkuste to znovu.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_toa_better_netork_or_a_better_user_experiencedot_"" translate="yes">
+    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Your network quality is: %@. We do not recommend to do livestream with this quality. Please switch to a better network for a better user experience.</source>
         <target>Your network quality is: %@. We do not recommend to do livestream with this quality. Please switch to a better network for a better user experience.</target>
@@ -26675,7 +26675,7 @@
         <target>vaše organizace</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_organization_settings_requires_your_device_to_be_protected_with_a_passcodebs_biometricdot__Please_enable_it_to_use_th_applicationot_" translate="yes">
+    <unit id="common.common:Your_organization_settings_requires_your_device_to_be_protected_with_a_passcodebs_biometricdot__Please_enable_it_to_use_the_applicationdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26747,8 +26747,8 @@
     </unit>
     <unit id="common.common:Your_rating" translate="yes">
       <notes>
-        <note id="context">Missing</note>
-      </notes>      
+       <note id="context">Missing</note>
+    </notes>
       <segment >
         <source>Your rating</source>
         <target>Your rating</target>
@@ -26781,7 +26781,7 @@
       </notes>
       <segment >
         <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
-        <target>Vyhledáváte výraz „%@“ a toto jsou výsledky:</target>
+        <target>Vyhledáváte výraz &quot;%@&quot; a toto jsou výsledky:</target>
       </segment>
     </unit>
     <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
@@ -26834,7 +26834,7 @@
         <target>Váš stream měl podle plánu začít v %@.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_team_administrator_has_suspended_your_accountdot__You_will_no_longer_have_access_to_content_in_thisorganizationot_" translate="yes">
+    <unit id="common.common:Your_team_administrator_has_suspended_your_accountdot__You_will_no_longer_have_access_to_content_in_this_organizationdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -26914,6 +26914,7 @@
         <target>…zobrazit více</target>
       </segment>
     </unit>
+"
     <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
   </file>
   <!-- XLIFF::ios_cs-CZ.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
