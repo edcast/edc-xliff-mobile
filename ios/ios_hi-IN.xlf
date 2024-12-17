@@ -259,8 +259,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@ results for \""%2$@\""</source>
-        <target>%1$@ के लिए\""%2$@\"" परिणाम</target>
+        <source>%1$@ results for &quot;%2$@&quot;</source>
+        <target>%1$@ के लिए&quot;%2$@&quot; परिणाम</target>
       </segment>
     </unit>
     <unit id="common.common:pat__Selected" translate="yes">
@@ -318,7 +318,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@'s stream is scheduled to start in %2$ld %3$@</source>
+        <source>%1$@&apos;s stream is scheduled to start in %2$ld %3$@</source>
         <target>%@ की स्ट्रीम%ld%@ में शुरू होने वाली है</target>
       </segment>
     </unit>
@@ -328,7 +328,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@'s stream is scheduled to start in %2$ld %3$@ and %4$ld %5$@</source>
+        <source>%1$@&apos;s stream is scheduled to start in %2$ld %3$@ and %4$ld %5$@</source>
         <target>%@ की स्ट्रीम%ld%@ और%ld%@ में शुरू होने वाली है</target>
       </segment>
     </unit>
@@ -572,7 +572,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>** This is a closed team. If you don't have an existing account or an invitation to join, please contact your team administrator</source>
+        <source>** This is a closed team. If you don&apos;t have an existing account or an invitation to join, please contact your team administrator</source>
         <target>** यह एक बंद टीम है। यदि आपके पास कोई मौजूदा खाता या जुड़ने का निमंत्रण नहीं है, तो कृपया अपनी टीम के व्यवस्थापक से संपर्क करें</target>
       </segment>
     </unit>
@@ -1812,7 +1812,7 @@
       </notes>
       <segment >
         <source>Amount to pay: %1$@ %2$@</source>
-        <target>भुगतान करने की राशि:%1 $ @%2 $ @</target>
+        <target>भुगतान करने की राशि:%1$@ %2$@</target>
       </segment>
     </unit>
     <unit id="common.common:Analyzing" translate="yes">
@@ -1890,7 +1890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device's system settings</source>
+        <source>Appearance will be based on your device&apos;s system settings</source>
         <target>दिखावट आपके डिवाइस की सिस्टम सेटिंग पर आधारित होगी</target>
       </segment>
     </unit>
@@ -2028,8 +2028,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \""Manage Blocked Users\""</source>
-        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \""Manage Blocked Users\""</target>
+        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</source>
+        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Are_you_sure_you_want_to_cancel_registrationqmark_" translate="yes">
@@ -2098,7 +2098,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to delete this group? This can't be undone.</source>
+        <source>Are you sure you want to delete this group? This can&apos;t be undone.</source>
         <target>क्या आप वाकई इस ग्रुप को हटाना चाहते हैं? यह पूर्ववत नहीं किया जा सकता है।</target>
       </segment>
     </unit>
@@ -2147,7 +2147,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove %@? This can't be undone</source>
+        <source>Are you sure you want to remove %@? This can&apos;t be undone</source>
         <target>क्या आप सुनिश्चित हैं कि आप%@ को हटाना चाहते हैं? यह पूर्ववत नहीं किया जा सकता है</target>
       </segment>
     </unit>
@@ -2157,7 +2157,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove %@? This can't be undone.</source>
+        <source>Are you sure you want to remove %@? This can&apos;t be undone.</source>
         <target>क्या आप सुनिश्चित हैं कि आप%@ को हटाना चाहते हैं? यह पूर्ववत नहीं किया जा सकता है।</target>
       </segment>
     </unit>
@@ -3272,7 +3272,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don't show similar content; content is not relevant</source>
+        <source>Block: Don&apos;t show similar content; content is not relevant</source>
         <target>ब्लॉक करें: समान विषय वस्तु न दिखाएं; विषय वस्तु प्रासंगिक नहीं है</target>
       </segment>
     </unit>
@@ -3441,8 +3441,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with 'https://'</source>
-        <target>असुरक्षित URL नहीं खोल सकते। कृपया 'https: //' से शुरू होने वाले लिंक की कोशिश करें।</target>
+        <source>Can not open insecure URLs. Please try links starting with &apos;https://&apos;</source>
+        <target>असुरक्षित URL नहीं खोल सकते। कृपया &apos;https: //&apos; से शुरू होने वाले लिंक की कोशिश करें।</target>
       </segment>
     </unit>
     <unit id="common.common:Can_not_record_audio_at_this_timedot__Microphone_is_being_used_by_another_applicationdot__Please_try_again_laterdot_" translate="yes">
@@ -3461,7 +3461,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can't be empty if Paid content is selected</source>
+        <source>Can&apos;t be empty if Paid content is selected</source>
         <target>सशुल्क सामग्री चुने जाने पर खाली नहीं रह सकता</target>
       </segment>
     </unit>
@@ -4047,8 +4047,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>channel's widget settings.</source>
-        <target>channel's widget settings.</target>
+        <source>channel&apos;s widget settings.</source>
+        <target>channel&apos;s widget settings.</target>
       </segment>
     </unit>
     <unit id="common.common:channels" translate="yes">
@@ -6571,7 +6571,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don't be the only one.</source>
+        <source>Don&apos;t be the only one.</source>
         <target>केवल एक ही न बनें.</target>
       </segment>
     </unit>
@@ -6581,7 +6581,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don't have an account?</source>
+        <source>Don&apos;t have an account?</source>
         <target>खाता नहीं है?</target>
       </segment>
     </unit>
@@ -6591,7 +6591,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don't miss important updates from your network.</source>
+        <source>Don&apos;t miss important updates from your network.</source>
         <target>अपने नेटवर्क से महत्वपूर्ण अपडेट मिस न करें।</target>
       </segment>
     </unit>
@@ -9235,7 +9235,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father's Name *</source>
+        <source>Father&apos;s Name *</source>
         <target>पिता का नाम *</target>
       </segment>
     </unit>
@@ -9453,8 +9453,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the 'Discover' page to see them here. Start exploring now!</source>
-        <target>उन्हें यहां देखने के लिए 'खोजें' पेज पर वो चैनल फ़ॉलो करें, जिनमें आपकी रुचि है. अभी अन्वेषण शुरू करें!</target>
+        <source>Follow channels that interest you on the &apos;Discover&apos; page to see them here. Start exploring now!</source>
+        <target>उन्हें यहां देखने के लिए &apos;खोजें&apos; पेज पर वो चैनल फ़ॉलो करें, जिनमें आपकी रुचि है. अभी अन्वेषण शुरू करें!</target>
       </segment>
     </unit>
     <unit id="common.common:Follow_others_to_grow_your_knowledge_networknot_" translate="yes">
@@ -9712,7 +9712,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that'll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that&apos;ll sign you in instantly!</source>
         <target>अपने ईमेल पर एक मैजिक लिंक भेजें जो आपको तुरंत साइन इन कर देगा!</target>
       </segment>
     </unit>
@@ -10268,8 +10268,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type \""menu\"". Please try it.</source>
-        <target>नमस्ते, मेरा नाम %@, और मैं EdCast में आपका सीखाने वाला सहायक हूं. मैं आपके सीखने के लक्ष्यों को प्राप्त करने में आपकी सहायता कर सकता हूं.यह देखने के लिए कि मैं आपके लिए क्या कर सकता हूं, आप हमेशा \""मेनू\"" कह सकते हैं या टाइप कर सकते हैं। कोशिश करें.</target>
+        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type &quot;menu&quot;. Please try it.</source>
+        <target>नमस्ते, मेरा नाम %@, और मैं EdCast में आपका सीखाने वाला सहायक हूं. मैं आपके सीखने के लक्ष्यों को प्राप्त करने में आपकी सहायता कर सकता हूं.यह देखने के लिए कि मैं आपके लिए क्या कर सकता हूं, आप हमेशा &quot;मेनू&quot; कह सकते हैं या टाइप कर सकते हैं। कोशिश करें.</target>
       </segment>
     </unit>
     <unit id="common.common:Help_us_understand_the_issuestar_" translate="yes">
@@ -10517,7 +10517,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I think it's fake, spam, or scam</source>
+        <source>I think it&apos;s fake, spam, or scam</source>
         <target>मुझे लगता है कि यह नकली, स्पैम या घोटाला है</target>
       </segment>
     </unit>
@@ -10576,8 +10576,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don't see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don't see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:If_you_wish_only_for_specific_followers_to_be_able_to_post_contentcomma__consider_making_them_a_collaborator_insteaddot_" translate="yes">
@@ -10695,7 +10695,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel's header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel&apos;s header.</source>
         <target>इस चैनल के लिए विषय बताएं. ये चैनल के हेडर में प्रदर्शित होंगे.</target>
       </segment>
     </unit>
@@ -10795,8 +10795,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use 'https://' in '%@'</source>
-        <target>सम्मिलित URL सुरक्षित नहीं है, '%@' में 'https: //' का प्रयोग करें</target>
+        <source>Inserted URL is not secure, use &apos;https://&apos; in &apos;%@&apos;</source>
+        <target>सम्मिलित URL सुरक्षित नहीं है, &apos;%@&apos; में &apos;https: //&apos; का प्रयोग करें</target>
       </segment>
     </unit>
     <unit id="common.common:Inserted_URL_is_not_securecomma__use_apt_httpscln_bs_bs_apt__instead_of_apt_httpcln_bs_bs_apt_dot_" translate="yes">
@@ -10805,8 +10805,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use 'https://' instead of 'http://'.</source>
-        <target>सम्मिलित URL सुरक्षित नहीं है, 'http: //' के बजाय 'https: //' का उपयोग करें</target>
+        <source>Inserted URL is not secure, use &apos;https://&apos; instead of &apos;http://&apos;.</source>
+        <target>सम्मिलित URL सुरक्षित नहीं है, &apos;http: //&apos; के बजाय &apos;https: //&apos; का उपयोग करें</target>
       </segment>
     </unit>
     <unit id="common.common:Insufficient_fund" translate="yes">
@@ -11170,8 +11170,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the 'Discover' page to see them here. Start exploring now!</source>
-        <target>उन्हें यहां देखने के लिए 'खोजें' पेज पर उन समूहों से जुड़ें, जिनमें आपकी रुचि है. अभी अन्वेषण शुरू करें!</target>
+        <source>Join groups that interest you on the &apos;Discover&apos; page to see them here. Start exploring now!</source>
+        <target>उन्हें यहां देखने के लिए &apos;खोजें&apos; पेज पर उन समूहों से जुड़ें, जिनमें आपकी रुचि है. अभी अन्वेषण शुरू करें!</target>
       </segment>
     </unit>
     <unit id="common.common:Join_Live_Stream" translate="yes">
@@ -11858,7 +11858,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let's Get Started</source>
+        <source>Let&apos;s Get Started</source>
         <target>आइए शुरू करें</target>
       </segment>
     </unit>
@@ -12196,8 +12196,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don't have any more recommendations for the Learning Goals you've selected.</source>
-        <target>Looks like we don't have any more recommendations for the Learning Goals you've selected.</target>
+        <source>Looks like we don&apos;t have any more recommendations for the Learning Goals you&apos;ve selected.</source>
+        <target>Looks like we don&apos;t have any more recommendations for the Learning Goals you&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:Looks_likecomma__during_generating_Pitch_analysiscomma__there_was_some_error_occurreddot__Please_try_out_any_of_the_options_available_below" translate="yes">
@@ -12812,7 +12812,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother's name *</source>
+        <source>Mother&apos;s name *</source>
         <target>माँ का नाम *</target>
       </segment>
     </unit>
@@ -13120,8 +13120,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : \"" ; < > </source>
-        <target>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : \"" ; < > </target>
+        <source>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : &quot; ; < > </source>
+        <target>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : &quot; ; < > </target>
       </segment>
     </unit>
     <unit id="common.common:nameat_teamdot_com" translate="yes">
@@ -14043,7 +14043,7 @@
       </notes>
       <segment >
         <source>No result for ’%@’</source>
-        <target>%@' के लिए कोई परिणाम नहीं</target>
+        <target>%@&apos; के लिए कोई परिणाम नहीं</target>
       </segment>
     </unit>
     <unit id="common.common:No_results_founddot_" translate="yes">
@@ -14617,7 +14617,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you'll be able to interact with learners from the %@ organization on EdCast!</source>
+        <source>Once you join, you&apos;ll be able to interact with learners from the %@ organization on EdCast!</source>
         <target>एक बार शामिल होने के बाद, आप एडकास्ट पर%@ संगठन के शिक्षार्थियों के साथ बातचीत कर सकेंगे!</target>
       </segment>
     </unit>
@@ -14627,7 +14627,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you'll be able to interact with peers in your organization!</source>
+        <source>Once you join, you&apos;ll be able to interact with peers in your organization!</source>
         <target>एक बार शामिल होने के बाद, आप अपने संगठन में साथियों के साथ बातचीत कर सकेंगे!</target>
       </segment>
     </unit>
@@ -14726,7 +14726,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Oops!\nThat team doesn't exist. Try again</source>
+        <source>Oops!\nThat team doesn&apos;t exist. Try again</source>
         <target>ओह! \n टीम मौजूद नहीं है। पुनः प्रयास करें</target>
       </segment>
     </unit>
@@ -15969,7 +15969,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer's name</source>
+        <source>Please enter the Assessment issuer&apos;s name</source>
         <target>कृपया आकलन जारीकर्ता का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -15979,7 +15979,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer's name</source>
+        <source>Please enter the Badge issuer&apos;s name</source>
         <target>कृपया बैज जारीकर्ता का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -15989,7 +15989,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certificate issuer's name</source>
+        <source>Please enter the Certificate issuer&apos;s name</source>
         <target>कृपया सर्टिफिकेट जारीकर्ता का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -16079,7 +16079,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father's name</source>
+        <source>Please enter valid father&apos;s name</source>
         <target>कृपया मान्य पिता का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -16119,7 +16119,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother's name</source>
+        <source>Please enter valid mother&apos;s name</source>
         <target>कृपया मान्य माँ का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -16189,7 +16189,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer's name</source>
+        <source>Please enter your employer&apos;s name</source>
         <target>कृपया अपने नियोक्ता का नाम दर्ज करें</target>
       </segment>
     </unit>
@@ -18538,8 +18538,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Results for \""%@\""</source>
-        <target>का परिणाम \""%@\""</target>
+        <source>%1$@ results for &quot;%@&quot;</source>
+        <target>का परिणाम &quot;%@&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Resultscln__" translate="yes">
@@ -19027,8 +19027,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for '%@'</source>
-        <target>के लिए खोज '%@'</target>
+        <source>Searching for &apos;%@&apos;</source>
+        <target>के लिए खोज &apos;%@&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:Seats" translate="yes">
@@ -20051,7 +20051,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel's header and cards.</source>
+        <source>Shown in the channel&apos;s header and cards.</source>
         <target>चैनल के हेडर और कार्ड में दिखाया गया.</target>
       </segment>
     </unit>
@@ -20061,7 +20061,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group's cards.</source>
+        <source>Shown in your group&apos;s cards.</source>
         <target>आपके ग्रुप के कार्ड में दिखाया गया.</target>
       </segment>
     </unit>
@@ -20330,7 +20330,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don't show again, content is relevant</source>
+        <source>Skip: Don&apos;t show again, content is relevant</source>
         <target>छोड़ें: फिर से न दिखाएं, विषय वस्तु प्रासंगिक है</target>
       </segment>
     </unit>
@@ -20537,7 +20537,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry! We haven't received your subscription fee. Please try again later</source>
+        <source>Sorry! We haven&apos;t received your subscription fee. Please try again later</source>
         <target>क्षमा करें! हमें आपका सदस्यता शुल्क नहीं मिला है। कृपया बाद में पुनः प्रयास करें</target>
       </segment>
     </unit>
@@ -21083,8 +21083,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click 'apply for GoI incentive'.</source>
-        <target>चरण 4 : आंकलन को सफलतापूर्वक पूरा करने के बाद, पाठ्यक्रम-आंकलन जोड़ी नीचे लेजर की प्रविष्टि के रूप में दिखाई देगी. 'GoI incentive के लिए आवेदन करें' पर क्लिक करें.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click &apos;apply for GoI incentive&apos;.</source>
+        <target>चरण 4 : आंकलन को सफलतापूर्वक पूरा करने के बाद, पाठ्यक्रम-आंकलन जोड़ी नीचे लेजर की प्रविष्टि के रूप में दिखाई देगी. &apos;GoI incentive के लिए आवेदन करें&apos; पर क्लिक करें.</target>
       </segment>
     </unit>
     <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="yes">
@@ -21530,8 +21530,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Summary of %@'s Activity</source>
-        <target>Summary of %@'s Activity</target>
+        <source>Summary of %@&apos;s Activity</source>
+        <target>Summary of %@&apos;s Activity</target>
       </segment>
     </unit>
     <unit id="common.common:Summary_of_My_Teamapt_s_Activity" translate="yes">
@@ -21540,7 +21540,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of My Team's Activity</source>
+        <source>Summary of My Team&apos;s Activity</source>
         <target>मेरी टीम की गतिविधि का सारांश</target>
       </segment>
     </unit>
@@ -21669,8 +21669,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tap the 'Bookmark' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>बुकमार्क की अपनी सूची में जोड़ने के लिए किसी भी स्मार्ट कार्ड पर 'बुकमार्क' आइकन को टैप करें।</target>
+        <source>Tap the &apos;Bookmark&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>बुकमार्क की अपनी सूची में जोड़ने के लिए किसी भी स्मार्ट कार्ड पर &apos;बुकमार्क&apos; आइकन को टैप करें।</target>
       </segment>
     </unit>
     <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
@@ -21894,7 +21894,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That's all for now</source>
+        <source>That&apos;s all for now</source>
         <target>अभी के लिए इतना ही</target>
       </segment>
     </unit>
@@ -22607,8 +22607,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>This is your own Channel's Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </source>
-        <target>This is your own Channel's Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
+        <source>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </source>
+        <target>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
       </segment>
     </unit>
     <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
@@ -22890,7 +22890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can't be empty</source>
+        <source>Title can&apos;t be empty</source>
         <target>शीर्षक खाली नहीं हो सकता</target>
       </segment>
     </unit>
@@ -24855,7 +24855,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent an email to %@. It has a magic link that'll sign you in.</source>
+        <source>We sent an email to %@. It has a magic link that&apos;ll sign you in.</source>
         <target>हमने @ @ को ईमेल भेजा है। इसमें एक मैजिक लिंक है जो आपको साइन इन करेगा।</target>
       </segment>
     </unit>
@@ -24904,7 +24904,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you've been invited to join %@</source>
+        <source>Welcome, you&apos;ve been invited to join %@</source>
         <target>स्वागत है, आपको%@ में शामिल होने के लिए आमंत्रित किया गया है</target>
       </segment>
     </unit>
@@ -24944,7 +24944,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What's up? Don't get left behind, I can help you learn about anything.</source>
+        <source>What&apos;s up? Don&apos;t get left behind, I can help you learn about anything.</source>
         <target>क्या हो रहा है? पीछे मत जाओ, मैं तुम्हें कुछ भी सीखने में मदद कर सकता हूँ।</target>
       </segment>
     </unit>
@@ -25580,7 +25580,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can select up to %d Job Roles. Don't worry you can always change them from your profile page.</source>
+        <source>You can select up to %d Job Roles. Don&apos;t worry you can always change them from your profile page.</source>
         <target>आप %d कार्य भूमिका तक चुन सकते हैं. चिंता न करें, आप उन्हें अपने प्रोफ़ाइल पेज से हमेशा बदल सकते हैं.</target>
       </segment>
     </unit>
@@ -25600,7 +25600,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can select up to %d learning topics. Don't worry you can always change them from your profile page.</source>
+        <source>You can select up to %d learning topics. Don&apos;t worry you can always change them from your profile page.</source>
         <target>आप%d सीखने के विषयों का चयन कर सकते हैं। चिंता न करें आप हमेशा उन्हें अपने प्रोफाइल पेज से बदल सकते हैं।</target>
       </segment>
     </unit>
@@ -25610,7 +25610,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel's header and the channel's content</source>
+        <source>You can use a fully customizable widget to be used between the channel&apos;s header and the channel&apos;s content</source>
         <target>आप चैनल के हेडर और चैनल की सामग्री के बीच उपयोग करने के लिए पूरी तरह से कस्टमाइज़ करने योग्य विजेट का उपयोग कर सकते हैं</target>
       </segment>
     </unit>
@@ -25720,7 +25720,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don't have any notifications.</source>
+        <source>You don&apos;t have any notifications.</source>
         <target>आपके पास कोई नोटिफिकेशन नहीं है।</target>
       </segment>
     </unit>
@@ -25856,8 +25856,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You have exceeded the maximum attempts to enter the OTP. Please click on \""Resend OTP\"" to generate another OTP</source>
-        <target>आपने ओटीपी दर्ज करने के अधिकतम प्रयासों को पार कर लिया है। कृपया एक और OTP जनरेट करने के लिए \""Resend OTP\"" पर क्लिक करें</target>
+        <source>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</source>
+        <target>आपने ओटीपी दर्ज करने के अधिकतम प्रयासों को पार कर लिया है। कृपया एक और OTP जनरेट करने के लिए &quot;Resend OTP&quot; पर क्लिक करें</target>
       </segment>
     </unit>
     <unit id="common.common:You_have_exceeded_the_maximum_number_of_login_attemptsdot__Please_try_again_in_sometimedot_" translate="yes">
@@ -26116,8 +26116,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You have successfully enrolled for this course. Click the 'Go to Course' button to access the course details and materials.</source>
-        <target>आपने इस कोर्स में सफलतापूर्वक दाखिला लिया है। कोर्स विवरण और विषय वस्तु को एक्सेस करने के लिए 'गो टू कोर्स' बटन पर क्लिक करें।</target>
+        <source>You have successfully enrolled for this course. Click the &apos;Go to Course&apos; button to access the course details and materials.</source>
+        <target>आपने इस कोर्स में सफलतापूर्वक दाखिला लिया है। कोर्स विवरण और विषय वस्तु को एक्सेस करने के लिए &apos;गो टू कोर्स&apos; बटन पर क्लिक करें।</target>
       </segment>
     </unit>
     <unit id="common.common:You_have_unfollowed_the_channel" translate="yes">
@@ -26305,8 +26305,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won't see any content and comments from this user</source>
-        <target>You won't see any content and comments from this user</target>
+        <source>You won&apos;t see any content and comments from this user</source>
+        <target>You won&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:You_wonapt1_t_be_able_to_access_this_groupcomma__do_you_really_want_to_leaveqmark_" translate="yes">
@@ -26324,8 +26324,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You're about to remove %@, which will unassign their content. Are you sure you want to proceed?</source>
-        <target>You're about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
+        <source>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</source>
+        <target>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
@@ -26333,8 +26333,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You're about to remove %@, which will unshare their content. Are you sure you want to proceed?</source>
-        <target>You're about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
+        <source>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</source>
+        <target>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="yes">
@@ -26342,8 +26342,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You're about to remove this content from %@'s assignments. Would you like to proceed?</source>
-        <target>You're about to remove this content from %@'s assignments. Would you like to proceed?</target>
+        <source>You&apos;re about to remove this content from %@&apos;s assignments. Would you like to proceed?</source>
+        <target>You&apos;re about to remove this content from %@&apos;s assignments. Would you like to proceed?</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt_re_not_authorized_to_access_this_contentdot_" translate="yes">
@@ -26352,7 +26352,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You're not authorized to access this content.</source>
+        <source>You&apos;re not authorized to access this content.</source>
         <target>आप इस विषय वस्तु का उपयोग करने के लिए अधिकृत नहीं हैं।</target>
       </segment>
     </unit>
@@ -26362,7 +26362,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You've completed this Card</source>
+        <source>You&apos;ve completed this Card</source>
         <target>आपने यह कार्ड पूरा कर लिया है</target>
       </segment>
     </unit>
@@ -26372,7 +26372,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You've completed this Journey</source>
+        <source>You&apos;ve completed this Journey</source>
         <target>आपने यह जर्नी पूरी कर ली है</target>
       </segment>
     </unit>
@@ -26382,7 +26382,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You've completed this Pathway</source>
+        <source>You&apos;ve completed this Pathway</source>
         <target>आपने यह पाथवे पूरा कर लिया है</target>
       </segment>
     </unit>
@@ -26392,7 +26392,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You've earned a Badge</source>
+        <source>You&apos;ve earned a Badge</source>
         <target>आपने बैज अर्जित किया है</target>
       </segment>
     </unit>
@@ -26402,7 +26402,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You've learned</source>
+        <source>You&apos;ve learned</source>
         <target>आपने सीखा है</target>
       </segment>
     </unit>
@@ -26472,7 +26472,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your download is in progress. When complete, you'll be able to access the content from the %@ tab.</source>
+        <source>Your download is in progress. When complete, you&apos;ll be able to access the content from the %@ tab.</source>
         <target>आपका डाउनलोड प्रगति पर है। पूरा होने पर, आप %@ टैब से विषय वस्तु का उपयोग कर सकेंगे।</target>
       </segment>
     </unit>
@@ -26769,8 +26769,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your search query is \""%@\"", and these are the search result:</source>
-        <target>आपकी खोज क्वेरी \""%@\"", है, और ये खोज परिणाम हैं:</target>
+        <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
+        <target>आपकी खोज क्वेरी &quot;%@&quot;, है, और ये खोज परिणाम हैं:</target>
       </segment>
     </unit>
     <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
