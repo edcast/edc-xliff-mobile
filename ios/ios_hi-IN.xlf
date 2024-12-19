@@ -8,8 +8,8 @@
   <file id="ios:common.common" original="packages/ios/common/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for ios</note>
-  </notes>
-       <unit id="common.common:__LIVE" translate="yes">
+    </notes>
+    <unit id="common.common:__LIVE" translate="yes">
       <notes>
         <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
@@ -758,28 +758,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Conversational: </source>
-        <target>वार्तालाप: </target>
-      </segment>
-    </unit>
-    <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
-      <notes>
-       <note id="context">Missing</note>
-       <note id="legacy">legacy01</note>
-      </notes>
-      <segment >
-        <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
-        <target>वाणी में स्पष्टता दो प्रकार की होती है- मौखिक और मुखर। मौखिक स्पष्टता का अर्थ होगा कि आपकी सामग्री विचार की निरंतरता को दर्शाती है। मुखर स्पष्टता का मतलब है कि आप बहुत तेज या बहुत धीरे नहीं बोलते हैं। आपके पास एक भारी उच्चारण नहीं है, आप अपने शब्दों को कम नहीं करते हैं और न ही तुड़वाते हैं, और आप अपने शब्द के लिए मानक उच्चारण का उपयोग करते हैं।</target>
-      </segment>
-    </unit>
-     <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
-    <notes>
-       <note id="context">Missing</note>
-       <note id="legacy">legacy01</note>
-    </notes>
-      <segment >
-        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half. \n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</target>
+        <source>Conversational:</source>
+        <target>संवादी:</target>
       </segment>
     </unit>
     <unit id="common.common:fs_nFastcln__" translate="yes">
@@ -2522,10 +2502,11 @@
     <unit id="common.common:Assigned_bycln__" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assigned by: </source>
-        <target>Assigned by: </target>
+        <target>असाइन करने वाले का नाम: </target>
       </segment>
     </unit>
     <unit id="common.common:Assigned_bycln__pat_" translate="yes">
@@ -4230,7 +4211,15 @@
         <target>शहर जिला*</target>
       </segment>
     </unit>
-"VALUE!
+    <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
+      <notes>
+        <note id="context">Missing</note>
+      </notes>
+      <segment >
+        <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
+        <target>वाणी में स्पष्टता दो प्रकार की होती है- मौखिक और मुखर। मौखिक स्पष्टता का अर्थ होगा कि आपकी सामग्री विचार की निरंतरता को दर्शाती है। मुखर स्पष्टता का मतलब है कि आप बहुत तेज या बहुत धीरे नहीं बोलते हैं। आपके पास एक भारी उच्चारण नहीं है, आप अपने शब्दों को कम नहीं करते हैं और न ही तुड़वाते हैं, और आप अपने शब्द के लिए मानक उच्चारण का उपयोग करते हैं। \n</target>
+      </segment>
+    </unit>
     <unit id="common.common:Clc_Badge" translate="yes">
       <notes>
         <note id="context">Missing</note>
@@ -10360,7 +10349,15 @@
         <target>नमस्ते %@, स्वागत!</target>
       </segment>
     </unit>
-"VALUE!
+    <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
+      <notes>
+        <note id="context">Missing</note>
+      </notes>
+      <segment >
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
+        <target>हाय डोनाल्ड, आज आप कैसे हैं? मेरा नाम मिक्की है, सेल्स यूनिवर्सिटी के साथ। जिस कारण से मैं फोन कर रहा हूं वह आपके कैलेंडर पर कुछ समय पाने के लिए है। मैंने अभी आपकी साइट पर ध्यान दिया है कि आप इस तिमाही में 10 नए बिक्री प्रतिनिधि नियुक्त कर रहे हैं। आपके उद्योग में कई कंपनियां पहले से ही सेल्सयू का उपयोग कर रही हैं ताकि उनकी वर्तमान बिक्री विकास टीम को अधिक बातचीत शुरू करने और बुक की गई बैठकों को प्राप्त करने में मदद मिल सके। वे आधे में नए प्रतिनिधि रैंप समय में कटौती करने में सक्षम हैं। \n मैंने सोचा कि शुरू करने के लिए सबसे अच्छी जगह आपकी बिक्री की चुनौतियों और लक्ष्यों के बारे में जानने के लिए एक बैठक निर्धारित करना है। क्या आपके पास बुधवार या गुरुवार दोपहर लगभग 10 बजे का समय है?</target>
+      </segment>
+    </unit>
     <unit id="common.common:Hicomma__pat_not__How_are_you_todayqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
@@ -18567,7 +18564,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@ results for &quot;%@&quot;</source>
+        <source>Results for &quot;%@&quot;</source>
         <target>का परिणाम &quot;%@&quot;</target>
       </segment>
     </unit>
