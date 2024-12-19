@@ -11,7 +11,7 @@
     </notes>
     <unit id="common.common:__LIVE" translate="yes">
       <notes>
-        <note id="conext">Mising</note>
+        <note id="context">Missing</note>
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
@@ -754,13 +754,12 @@
     <unit id="common.common:fs_nConversationalcln__" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>
-        Conversational: </source>
-        <target>
-        Conversational: </target>
-        </segment>
+        <source>Conversational:</source>
+        <target>محادثات:</target>
+      </segment>
     </unit>
     <unit id="common.common:fs_nFastcln__" translate="yes">
       <notes>
@@ -2273,10 +2272,11 @@
     <unit id="common.common:Assessment" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assessment</source>
-        <target>Assessment</target>
+        <target>تقييم</target>
       </segment>
     </unit>
     <unit id="common.common:Assessment_added_successfully" translate="yes">
@@ -2502,10 +2502,11 @@
     <unit id="common.common:Assigned_bycln__" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assigned by: </source>
-        <target>Assigned by: </target>
+        <target>معين بواسطـة </target>
       </segment>
     </unit>
     <unit id="common.common:Assigned_bycln__pat_" translate="yes">
@@ -4212,7 +4213,7 @@
     </unit>
     <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
       <notes>
-       <note id="context">Missing</note>
+        <note id="context">Missing</note>
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
@@ -12916,10 +12917,11 @@
     <unit id="common.common:My_Content" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>My Content</source>
-        <target>My Content</target>
+        <target>المحتوى الخاص بي</target>
       </segment>
     </unit>
     <unit id="common.common:My_Courses" translate="yes">
@@ -13449,10 +13451,11 @@
     <unit id="common.common:No_Cards_Availablenot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>No Cards Available!</source>
-        <target>No Cards Available!</target>
+        <target>لا توجد بطاقات متاحة!</target>
       </segment>
     </unit>
     <unit id="common.common:No_Cards_Shared" translate="yes">
@@ -26513,19 +26516,21 @@
     <unit id="common.common:Your_email_address_for_organization" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your email address for organization</source>
-        <target>Your email address for organization</target>
+        <target>عنوان بريدك الإلكتروني للمؤسسة</target>
       </segment>
     </unit>
     <unit id="common.common:Your_featured_tab_has_no_content_yetnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your featured tab has no content yet!</source>
-        <target>Your featured tab has no content yet!</target>
+        <target>لا تحتوي علامة التبويب المميزة على محتوى حتى الآن!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="yes">
@@ -26540,118 +26545,131 @@
     <unit id="common.common:Your_group_has_no_assigned_content_yetnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your group has no assigned content yet!</source>
-        <target>Your group has no assigned content yet!</target>
+        <target>لم يتم تعيين محتوى لمجموعتك حتى الآن!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_group_has_no_associated_channels_yetnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your group has no associated channels yet!</source>
-        <target>Your group has no associated channels yet!</target>
+        <target>مجموعتك ليس لديها قنوات مرتبطة حتى الآن!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_group_has_no_content_yetnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your group has no content yet!</source>
-        <target>Your group has no content yet!</target>
+        <target>لا يوجد محتوى لمجموعتك حتى الآن!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_HDds_Video_has_been_successfully_uploaded_and_will_be_shortly_available_for_offline_viewing_by_your_followersdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your HD-Video has been successfully uploaded and will be shortly available for offline viewing by your followers.</source>
-        <target>Your HD-Video has been successfully uploaded and will be shortly available for offline viewing by your followers.</target>
+        <target>تم تحميل مقطع الفيديو عالي الدقة الخاص بك بنجاح، وسيكون متاحًا قريبًا ليشاهده متابعوك في وضع عدم الاتصال.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_instructor_has_not_uploaded_a_description_yetnot__Please_check_back_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your instructor has not uploaded a description yet! Please check back later.</source>
-        <target>Your instructor has not uploaded a description yet! Please check back later.</target>
+        <target>لم يقم مدرسك بتحميل وصف حتى الآن! يرجى التحقق مرة أخرى في وقت لاحق.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_instructor_has_not_uploaded_any_content_for_this_course_yetdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your instructor has not uploaded any content for this course yet.</source>
-        <target>Your instructor has not uploaded any content for this course yet.</target>
+        <target>لم يقم مدرسك بتحميل أي محتوى لهذه الدورة التدريبية حتى الآن.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_internet_connection_is_unstabledot__You_may_drop_at_any_time_if_it_is_not_fixed_immediatelynot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your internet connection is unstable. You may drop at any time if it is not fixed immediately!</source>
-        <target>Your internet connection is unstable. You may drop at any time if it is not fixed immediately!</target>
+        <target>اتصالك بالإنترنت غير مستقر. قد تفقد الاتصال في أي وقت إذا لم يتم إصلاحه على الفور!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_language_is_set_to_pat_dot__Would_you_like_to_update_the_language_in_your_mobile_app_as_wellqmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your language is set to %@. Would you like to update the language in your mobile app as well?</source>
-        <target>Your language is set to %@. Would you like to update the language in your mobile app as well?</target>
+        <target>تم تعيين لغتك لتكون %@. هل ترغب في تحديث اللغة في التطبيق المحمول كذلك؟</target>
       </segment>
     </unit>
     <unit id="common.common:Your_Livestream_created_will_be_private_to_selected_channels_or_groups" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your Livestream created will be private to selected channels or groups</source>
-        <target>Your Livestream created will be private to selected channels or groups</target>
+        <target>سيكون البث المباشر الذي تم إنشاؤه خاصًا بالقنوات أو المجموعات المحددة</target>
       </segment>
     </unit>
     <unit id="common.common:Your_Manager_will_be_able_to_see_your_Profilecomma__Performancecomma__Reports_and_Activity_Data" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your Manager will be able to see your Profile, Performance, Reports and Activity Data</source>
-        <target>Your Manager will be able to see your Profile, Performance, Reports and Activity Data</target>
+        <target>سيتمكن مديرك من رؤية ملفك الشخصي وأدائك وتقاريرك وبيانات نشاطك</target>
       </segment>
     </unit>
     <unit id="common.common:Your_Mobile_number_has_been_successfully_verified" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your Mobile number has been successfully verified</source>
-        <target>Your Mobile number has been successfully verified</target>
+        <target>تم التحقق من رقم هاتفك المحمول بنجاح</target>
       </segment>
     </unit>
     <unit id="common.common:Your_Mobile_number_has_been_successfully_verifieddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your Mobile number has been successfully verified.</source>
-        <target>Your Mobile number has been successfully verified.</target>
+        <target>تم التحقق من رقم هاتفك المحمول بنجاح.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_network_is_not_reachabledot__Please_check_your_network_and_try_again_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your network is not reachable. Please check your network and try again later.</source>
-        <target>Your network is not reachable. Please check your network and try again later.</target>
+        <target>لا يمكن الوصول للشبكة. يرجى التحقق من الشبكة والمحاولة مرة أخرى في وقت لاحق.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="yes">
@@ -26666,82 +26684,91 @@
     <unit id="common.common:Your_new_password_must_be_different_from_your_previous_password" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your new password must be different from your previous password</source>
-        <target>Your new password must be different from your previous password</target>
+        <target>يجب أن تكون كلمة مرورك الجديدة مختلفة عن كلمة مرورك السابقة</target>
       </segment>
     </unit>
     <unit id="common.common:your_organization" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>your organization</source>
-        <target>your organization</target>
+        <target>مؤسستك</target>
       </segment>
     </unit>
     <unit id="common.common:Your_organization_settings_requires_your_device_to_be_protected_with_a_passcodebs_biometricdot__Please_enable_it_to_use_the_applicationdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your organization settings requires your device to be protected with a passcode/biometric. Please enable it to use the application.</source>
-        <target>Your organization settings requires your device to be protected with a passcode/biometric. Please enable it to use the application.</target>
+        <target>تتطلب إعدادات مؤسستك حماية جهازك برمز مرور/مقاييس حيوية. يرجى تمكينه لاستخدام التطبيق.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_pending_groups_invitations_will_appear_heredot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your pending groups invitations will appear here.</source>
-        <target>Your pending groups invitations will appear here.</target>
+        <target>ستظهر دعوات المجموعات المعلقة هنا.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_poll_selection_could_not_be_sent_due_to_network_issuesdot__Please_try_again_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your poll selection could not be sent due to network issues. Please try again later.</source>
-        <target>Your poll selection could not be sent due to network issues. Please try again later.</target>
+        <target>تعذر إرسال اختيار الاستطلاع الخاص بك بسبب مشاكل في الشبكة. الرجاء معاودة المحاولة في وقت لاحق.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_post_has_been_created" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your post has been created</source>
-        <target>Your post has been created</target>
+        <target>تم إنشاء منشورك</target>
       </segment>
     </unit>
     <unit id="common.common:Your_post_has_been_updated" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your post has been updated</source>
-        <target>Your post has been updated</target>
+        <target>تم تحديث منشورك</target>
       </segment>
     </unit>
     <unit id="common.common:Your_post_was_created_successfully" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your post was created successfully</source>
-        <target>Your post was created successfully</target>
+        <target>تم إنشاء منشورك بنجاح</target>
       </segment>
     </unit>
     <unit id="common.common:Your_quiz_selection_could_not_be_sent_due_to_network_issuesdot__Please_try_again_laterdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your quiz selection could not be sent due to network issues. Please try again later.</source>
-        <target>Your quiz selection could not be sent due to network issues. Please try again later.</target>
+        <target>تعذر إرسال اختيار الاختبار الخاص بك بسبب مشاكل في الشبكة. الرجاء معاودة المحاولة في وقت لاحق.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_rating" translate="yes">
@@ -26756,145 +26783,161 @@
     <unit id="common.common:Your_report_will_be_sent_to_you_to_registered_email_once_its_processeddot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your report will be sent to you to registered email once its processed.</source>
-        <target>Your report will be sent to you to registered email once its processed.</target>
+        <target>سيتم إرسال تقريرك إلى البريد الإلكتروني المسجل بمجرد معالجته.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_search_history_is_visible_only_to_youdot__Are_you_sure_you_want_to_clear_it_qmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your search history is visible only to you. Are you sure you want to clear it ?</source>
-        <target>Your search history is visible only to you. Are you sure you want to clear it ?</target>
+        <target>أنت فقط من يُمكنه رؤية سجل البحث. هل أنت متأكد أنك تريد مسحه؟</target>
       </segment>
     </unit>
     <unit id="common.common:Your_search_query_is_fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
-        <target>Your search query is &quot;%@&quot;, and these are the search result:</target>
+        <target>استعلام البحث الخاص بك هو &quot;%@&quot;، وهذه هي نتيجة البحث:</target>
       </segment>
     </unit>
     <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your security is important! We cannot open the link as it is not secure!</source>
-        <target>Your security is important! We cannot open the link as it is not secure!</target>
+        <target>أمنك مهم! لا يمكننا فتح الرابط لأنه غير آمن!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_SmartCard_could_not_be_createddot__Please_check_your_network_connection_and_try_again_later" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your SmartCard could not be created. Please check your network connection and try again later</source>
-        <target>Your SmartCard could not be created. Please check your network connection and try again later</target>
+        <target>تعذر إنشاء بطاقتك الذكية. يرجى التحقق من اتصال شبكتك والمحاولة مرة أخرى في وقت لاحق</target>
       </segment>
     </unit>
     <unit id="common.common:Your_stream_is_scheduled_to_start_in_pld__pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your stream is scheduled to start in %1$ld %2$@</source>
-        <target>Your stream is scheduled to start in %1$ld %2$@</target>
+        <target>تمت جدولة بثك ليبدأ في %ld %@</target>
       </segment>
     </unit>
     <unit id="common.common:Your_stream_is_scheduled_to_start_in_pld__pat__and_pld__pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your stream is scheduled to start in %1$ld %2$@ and %3$ld %4$@</source>
-        <target>Your stream is scheduled to start in %1$ld %2$@ and %3$ld %4$@</target>
+        <target>تمت جدولة بثك ليبدأ في %ld %@ و%ld %@</target>
       </segment>
     </unit>
     <unit id="common.common:Your_stream_was_scheduled_to_go_live_pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your stream was scheduled to go live %@</source>
-        <target>Your stream was scheduled to go live %@</target>
+        <target>تمت جدولة بثك ليكون مباشرًا في %@</target>
       </segment>
     </unit>
     <unit id="common.common:Your_team_administrator_has_suspended_your_accountdot__You_will_no_longer_have_access_to_content_in_this_organizationdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your team administrator has suspended your account. You will no longer have access to content in this organization.</source>
-        <target>Your team administrator has suspended your account. You will no longer have access to content in this organization.</target>
+        <target>قام مشرف فريقك بتعليق حسابك. لن تتمكن بعد الآن من الوصول إلى المحتوى في هذه المؤسسة.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_video_is_saved_successfully_in_your_Photo_Librarynot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your video is saved successfully in your Photo Library!</source>
-        <target>Your video is saved successfully in your Photo Library!</target>
+        <target>تم حفظ الفيديو الخاص بك بنجاح في مكتبة صورك!</target>
       </segment>
     </unit>
     <unit id="common.common:Your_wallet_balance" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Your wallet balance</source>
-        <target>Your wallet balance</target>
+        <target>رصيدك في المحفظة</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt1_re_not_authorized_to_access_this_contentdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You’re not authorized to access this content.</source>
-        <target>You’re not authorized to access this content.</target>
+        <target>أنت غير مصرح لك بدخول هذا المحتوى.</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt1_re_not_authorized_to_access_this_contentdot__This_is_a_locked_contentdot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You’re not authorized to access this content. This is a locked content.</source>
-        <target>You’re not authorized to access this content. This is a locked content.</target>
+        <target>أنت غير مصرح لك للوصول إلى هذا المحتوى. هذا محتوى مغلق.</target>
       </segment>
     </unit>
     <unit id="common.common:Zoom" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Zoom</source>
-        <target>Zoom</target>
+        <target>تكبير</target>
       </segment>
     </unit>
     <unit id="common.common:dt_see_less" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>…see less</source>
-        <target>…see less</target>
+        <target>… شاهد أقل</target>
       </segment>
     </unit>
     <unit id="common.common:dt_see_more" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>…see more</source>
-        <target>…see more</target>
+        <target>...شاهد المزيد</target>
       </segment>
     </unit>
     <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
