@@ -4221,7 +4221,7 @@
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
-        <target></target>
+        <target>ความชัดเจนในการพูดมีสองประเภทคือวาจาและเสียงพูด ความชัดเจนทางวาจาหมายความว่าเนื้อหาของคุณแสดงความต่อเนื่องของความคิด ความชัดเจนของเสียงหมายความว่าคุณไม่พูดเร็วหรือช้าเกินไป คุณไม่ได้เน้นเสียงหนักคุณไม่พูดพึมพำคำพูดของคุณและคุณใช้การออกเสียงมาตรฐานสำหรับคำของคุณ \n</target>
       </segment>
     </unit>
     <unit id="common.common:Clc_Badge" translate="yes">
@@ -10360,7 +10360,7 @@
       </notes>
       <segment >
         <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target></target>
+        <target>สวัสดีโดนัลด์ วันนี้คุณสบายดีไหม? ฉันชื่อมิคกี้มาจากมหาวิทยาลัยเซลส์ เหตุผลที่ฉันโทรมาก็เพราะจะนัดเวลาในปฏิทินของคุณ ฉันเห็นว่าในเว็บไซต์ของคุณว่าคุณรับสมัครตัวแทนฝ่ายขายใหม่ 10 ตำแหน่งในไตรมาส หลายบริษัทในอุตสาหกรรมของคุณใช้ SalesU เพื่อช่วยให้ทีมพัฒนายอดขายในปัจจุบันสร้างบทสนทนามากขึ้นและทำการนัดประชุม SalesU สามารถลดเวลาขาขึ้นตัวแทนใหม่ลงครึ่งนึง\n ฉันคิดว่าสถานที่ที่ดีที่สุดที่จะกำหนดการประชุมเพื่อเรียนรู้เกี่ยวกับปัญหาและเป้าหมายการขายของคุณ คุณมีเวลาว่างวันพุธหรือวันพฤหัสฯช่วงสายประมาณ 10.00 น. ไหม?</target>
       </segment>
     </unit>
     <unit id="common.common:Hicomma__pat_not__How_are_you_todayqmark_" translate="yes">
@@ -13149,8 +13149,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : &quot; ; < > </source>
-        <target></target>
+        <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
+        <target>ชื่อจะต้องไม่มีอักขระต่อไปนี้: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</target>
       </segment>
     </unit>
     <unit id="common.common:nameat_teamdot_com" translate="yes">
