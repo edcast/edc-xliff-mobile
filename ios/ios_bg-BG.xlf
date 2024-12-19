@@ -7532,7 +7532,7 @@ Pathway!</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Error adding SmartCard in group’s featured section. 
+        <source>Error adding SmartCard in group&apos;s featured section. 
 Please try again later</source>
         <target>Грешка при добавяне на SmartCard в представения раздел на групата. 
 Моля, опитайте отново по-късно</target>
@@ -7873,7 +7873,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Error removing SmartCard in group’s featured section. 
+        <source>Error removing SmartCard in group&apos;s featured section. 
 Please try again later</source>
         <target>Грешка при премахването на SmartCard в представения раздел на групата. 
 Моля, опитайте отново по-късно</target>
@@ -9503,7 +9503,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
  I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
         <target>Здравей Доналд, как си днес? Името ми е Мики от Университета за продажби. Причината, поради която ви се обаждам, е да запазя малко време в календара ви. Току-що забелязах на вашия сайт, че наемате 10 нови търговски представители това тримесечие. Няколко компании във вашата индустрия вече използват SalesU, за да помогнат на настоящия си екип за развитие на продажбите да започне повече разговори и да резервира срещи. Освен това те могат да съкратят наполовина времето за въвеждане на нови представители.
  Помислих си, че най-добре е да започнем с насрочване на среща, на която да се запознаем с вашите предизвикателства и цели в областта на продажбите. Имате ли време в сряда или четвъртък в около 10 ч. сутринта?</target>
@@ -9667,7 +9667,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>I think it shouldn’t be here</source>
+        <source>I think it shouldn&apos;t be here</source>
         <target>Мисля, че не трябва да е тук</target>
       </segment>
     </unit>
@@ -9685,7 +9685,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>I think it’s inappropriate content</source>
+        <source>I think it&apos;s inappropriate content</source>
         <target>Мисля, че това е неподходящо съдържание</target>
       </segment>
     </unit>
@@ -9784,7 +9784,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.
+        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we&apos;re going to say next. They&apos;re the ums and uhs and ers that litter our conversations whether we like it or not.
 </source>
         <target>В речта думите-пълнители са кратки, безсмислени думи (или звуци), които използваме, за да запълним малките паузи, които възникват, докато решаваме какво ще кажем по-нататък. Това са онези „ъм“, „ъъ“ и „хмм“, които загрозяват разговорите ни, независимо дали това ни харесва, или не.
 </target>
@@ -12875,7 +12875,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>No result for ’%@’</source>
+        <source>No result for &apos;%@&apos;</source>
         <target>Няма резултат за „%@“</target>
       </segment>
     </unit>
@@ -13181,7 +13181,7 @@ Please try again later</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</source>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device&apos;s Settings app.</source>
         <target>Забележка: Можете да превключите на друг пакет, като управлявате абонаментите си в приложението „Настройки“ на вашето устройство.</target>
       </segment>
     </unit>
@@ -13682,7 +13682,7 @@ That team doesn&apos;t exist. Try again</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It’s calculated in the number of words spoken in a minute.
+        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It&apos;s calculated in the number of words spoken in a minute.
 </source>
         <target>Темпото е скоростта, с която говорите. Има огромно влияние върху това как публиката възприема вас и вашата реч. Изчислява се в броя думи, изречени в минута.
 </target>
@@ -16341,7 +16341,7 @@ This action cannot be undone. How would you like to proceed?</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you’re finished, your podcast will be available on your EdCast page</source>
+        <source>Record or Import your audio in real time. After you&apos;re finished, your podcast will be available on your EdCast page</source>
         <target>Записвайте или импортирайте вашето аудио в реално време. След като приключите, вашият подкаст ще бъде достъпен на страницата ви в EdCast</target>
       </segment>
     </unit>
@@ -18609,7 +18609,7 @@ This action cannot be undone. How would you like to proceed?</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard added to the group’s featured section.</source>
+        <source>SmartCard added to the group&apos;s featured section.</source>
         <target>SmartCard е добавена към раздела с препоръчани на групата.</target>
       </segment>
     </unit>
@@ -18618,7 +18618,7 @@ This action cannot be undone. How would you like to proceed?</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard already available in the group’s featured section.</source>
+        <source>SmartCard already available in the group&apos;s featured section.</source>
         <target>SmartCard вече е налична в раздела с препоръчани на групата.</target>
       </segment>
     </unit>
@@ -18636,7 +18636,7 @@ This action cannot be undone. How would you like to proceed?</source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard removed from the group’s featured section.</source>
+        <source>SmartCard removed from the group&apos;s featured section.</source>
         <target>SmartCard е премахната от раздела с препоръчани на групата.</target>
       </segment>
     </unit>
@@ -20134,7 +20134,7 @@ Some emails, however, are set up by the admin, which you cannot opt out of. We w
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>The link you’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</source>
+        <source>The link you&apos;ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator&apos;s configuration. Please try another URL</source>
         <target>Връзката, която сте въвели, вече е свързана със съществуваща SmartCard. SmartCards с дублиращи се връзки не са разрешени според конфигурацията на вашия администратор. Моля, опитайте с друг URL адрес</target>
       </segment>
     </unit>
@@ -20970,7 +20970,7 @@ You can enable, disable, and customize this feature by editing the </source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</source>
+        <source>To manage your subscription, navigate to your device&apos;s Settings app, tap your username, and select Subscriptions.</source>
         <target>За да управлявате абонамента си, отворете приложението Настройки на вашето устройство, докоснете вашето потребителско име и изберете Абонаменти.</target>
       </segment>
     </unit>
@@ -21267,7 +21267,7 @@ You can enable, disable, and customize this feature by editing the </source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Try saving some contents that you can view in your downloads when you’re offline!</source>
+        <source>Try saving some contents that you can view in your downloads when you&apos;re offline!</source>
         <target>Опитайте се да запазите някакво съдържание, което да можете да видите в изтеглянията си, когато сте офлайн!</target>
       </segment>
     </unit>
@@ -22626,7 +22626,7 @@ You can enable, disable, and customize this feature by editing the </source>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>We have less cards by your request. We’ve just generated %d cards</source>
+        <source>We have less cards by your request. We&apos;ve just generated %d cards</source>
         <target>Имаме по-малко карти по вашата заявка. Току-що генерирахме %d карти</target>
       </segment>
     </unit>
@@ -24045,7 +24045,7 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You won’t be able to access this group, do you really want to leave?</source>
+        <source>You won&apos;t be able to access this group, do you really want to leave?</source>
         <target>Няма да имате достъп до тази група, наистина ли искате да напуснете?</target>
       </segment>
     </unit>
@@ -24540,7 +24540,7 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You’re not authorized to access this content.</source>
+        <source>You&apos;re not authorized to access this content.</source>
         <target>Нямате разрешение за достъп до това съдържание.</target>
       </segment>
     </unit>
@@ -24549,7 +24549,7 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You’re not authorized to access this content. This is a locked content.</source>
+        <source>You&apos;re not authorized to access this content. This is a locked content.</source>
         <target>Нямате разрешение за достъп до това съдържание. Това е заключено съдържание.</target>
       </segment>
     </unit>

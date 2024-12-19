@@ -8266,8 +8266,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Error adding SmartCard in group’s featured section. \nPlease try again later</source>
-        <target>Error adding SmartCard in group’s featured section. \nPlease try again later</target>
+        <source>Error adding SmartCard in group&apos;s featured section. \nPlease try again later</source>
+        <target>Error adding SmartCard in group&apos;s featured section. \nPlease try again later</target>
       </segment>
     </unit>
     <unit id="common.common:Error_approving_this_registrationfs_nPlease_try_again_later" translate="yes">
@@ -8593,8 +8593,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Error removing SmartCard in group’s featured section. \nPlease try again later</source>
-        <target>Error removing SmartCard in group’s featured section. \nPlease try again later</target>
+        <source>Error removing SmartCard in group&apos;s featured section. \nPlease try again later</source>
+        <target>Error removing SmartCard in group&apos;s featured section. \nPlease try again later</target>
       </segment>
     </unit>
     <unit id="common.common:Error_reportingfs_nPlease_try_again_later" translate="yes">
@@ -10352,7 +10352,7 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
         <target>Dobrý den, Davide, jmenuji se Michal a pracuji pro Obchodní univerzitu. Volám, abych se zeptal, zda byste si našel chvilku ve svém kalendáři. Právě jsem si na vašem webu všiml, že v tomto čtvrtletí přijímáte 10 nových obchodních zástupců. Několik společností z vašeho oboru již využívá ObUni aby pomohlo svému stávajícímu týmu pro rozvoj prodeje lépe komunikovat a domlouvat si schůzky. Jsou také schopni zkrátit zaškolení nových zástupců na polovinu.\nMyslím, že do začátku bude vhodné se sejít a pohovořit o vašich obchodních výzvách a cílech. Hodilo by se vám to ve středu nebo ve čtvrtek kolem 10. hodiny?</target>
       </segment>
     </unit>
@@ -10531,7 +10531,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I think it shouldn’t be here</source>
+        <source>I think it shouldn&apos;t be here</source>
         <target>Myslím, že by to tu nemělo být.</target>
       </segment>
     </unit>
@@ -10551,7 +10551,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I think it’s inappropriate content</source>
+        <source>I think it&apos;s inappropriate content</source>
         <target>Myslím, že se jedná o nevhodný obsah.</target>
       </segment>
     </unit>
@@ -10660,7 +10660,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.\n</source>
+        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we&apos;re going to say next. They&apos;re the ums and uhs and ers that litter our conversations whether we like it or not.\n</source>
         <target>V řeči jsou výplňová slova krátká, bezvýznamná slova (nebo zvuky), kterými vyplňujeme malé pauzy, ke kterým dochází, když se rozhodujeme, co říci dál. Jsou to ta &quot;hm&quot;, &quot;ehm&quot; a &quot;um&quot;, které zaplevelují naše konverzace, jakkoli se nám to nemusí líbit.\n</target>
       </segment>
     </unit>
@@ -14061,7 +14061,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No result for ’%@’</source>
+        <source>No result for &apos;%@&apos;</source>
         <target>Pro výraz &quot;%@&quot; nebyl nalezen žádný výsledek.</target>
       </segment>
     </unit>
@@ -14398,8 +14398,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:Nothing_in_your_queue_yetdot_fs_nYour_Announcements_will_appear_heredot_" translate="yes">
@@ -14940,7 +14940,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It’s calculated in the number of words spoken in a minute.\n</source>
+        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It&apos;s calculated in the number of words spoken in a minute.\n</source>
         <target>Tempo je rychlost, kterou mluvíte. Má obrovský vliv na to, jak vás a váš projev publikum vnímá. Počítá se v počtu slov pronesených za minutu.\n</target>
       </segment>
     </unit>
@@ -17871,7 +17871,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you’re finished, your podcast will be available on your EdCast page</source>
+        <source>Record or Import your audio in real time. After you&apos;re finished, your podcast will be available on your EdCast page</source>
         <target>Zaznamenejte nebo naimportujte svůj zvuk v reálném čase. Po dokončení bude váš podcast k dispozici na vaší stránce v aplikaci EdCast.</target>
       </segment>
     </unit>
@@ -20372,8 +20372,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>SmartCard added to the group’s featured section.</source>
-        <target>SmartCard added to the group’s featured section.</target>
+        <source>SmartCard added to the group&apos;s featured section.</source>
+        <target>SmartCard added to the group&apos;s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="yes">
@@ -20381,8 +20381,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>SmartCard already available in the group’s featured section.</source>
-        <target>SmartCard already available in the group’s featured section.</target>
+        <source>SmartCard already available in the group&apos;s featured section.</source>
+        <target>SmartCard already available in the group&apos;s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCard_Collaborators" translate="yes">
@@ -20400,8 +20400,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>SmartCard removed from the group’s featured section.</source>
-        <target>SmartCard removed from the group’s featured section.</target>
+        <source>SmartCard removed from the group&apos;s featured section.</source>
+        <target>SmartCard removed from the group&apos;s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCards_selectedcln__pat_" translate="yes">
@@ -22038,7 +22038,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>The link you’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</source>
+        <source>The link you&apos;ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator&apos;s configuration. Please try another URL</source>
         <target>Zadaný odkaz je již přidružený k existující kartě SmartCard. Karty SmartCard s duplicitními odkazy nejsou podle konfigurace vašeho administrátora povoleny. Zkuste jinou adresu URL.</target>
       </segment>
     </unit>
@@ -22943,8 +22943,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</source>
-        <target>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</target>
+        <source>To manage your subscription, navigate to your device&apos;s Settings app, tap your username, and select Subscriptions.</source>
+        <target>To manage your subscription, navigate to your device&apos;s Settings app, tap your username, and select Subscriptions.</target>
       </segment>
     </unit>
     <unit id="common.common:To_shine_add_your_certificates_to_your_profile" translate="yes">
@@ -23272,7 +23272,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Try saving some contents that you can view in your downloads when you’re offline!</source>
+        <source>Try saving some contents that you can view in your downloads when you&apos;re offline!</source>
         <target>Zkuste uložit nějaký obsah, který si můžete prohlížet ve staženém obsahu, když jste offline.</target>
       </segment>
     </unit>
@@ -24768,7 +24768,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We have less cards by your request. We’ve just generated %d cards</source>
+        <source>We have less cards by your request. We&apos;ve just generated %d cards</source>
         <target>Na vaši žádost máme méně karet. Právě jsme vygenerovali další karty (%d).</target>
       </segment>
     </unit>
@@ -26327,7 +26327,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You won’t be able to access this group, do you really want to leave?</source>
+        <source>You won&apos;t be able to access this group, do you really want to leave?</source>
         <target>Do této skupiny nebudete mít přístup, opravdu ji chcete opustit?</target>
       </segment>
     </unit>
@@ -26871,7 +26871,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You’re not authorized to access this content.</source>
+        <source>You&apos;re not authorized to access this content.</source>
         <target>Nemáte oprávnění k přístupu k tomuto obsahu.</target>
       </segment>
     </unit>
@@ -26881,7 +26881,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You’re not authorized to access this content. This is a locked content.</source>
+        <source>You&apos;re not authorized to access this content. This is a locked content.</source>
         <target>Nemáte oprávnění k přístupu k tomuto obsahu. Tento obsah je uzamčený.</target>
       </segment>
     </unit>
