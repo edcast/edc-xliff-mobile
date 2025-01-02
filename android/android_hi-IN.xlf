@@ -1223,7 +1223,7 @@
       </notes>
       <segment >
         <source>That team doesn’t exist.</source>
-        <target>वह टीम मौजूदÃ¢â‚¬â„¢t नहीं है।</target>
+        <target>वह टीम मौजूद नहीं है।</target>
       </segment>
     </unit>
     <unit id="common.common:login_message_error3" translate="yes">
