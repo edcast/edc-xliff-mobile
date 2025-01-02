@@ -4375,9 +4375,10 @@
         <target>Buat Siaran Langsung</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_card_time" translate="no">
+    <unit id="common.common:feed_card_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1d</source>
@@ -5014,9 +5015,10 @@
         <target>Mendaftar</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -8124,9 +8126,10 @@
         <target>Petunjuk: Jika video Anda pendek, pengikut Anda mungkin tidak punya waktu untuk mendengarkan. Jangan khawatir,video Anda akan segera tersedia untuk permutaran sesuai permintaan setelah siaran Anda.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8562,9 +8565,10 @@
         <target>90 Hari Terakhir</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8641,9 +8645,10 @@
         <target>Tambah</target>
       </segment>
     </unit>
-    <unit id="common.common:yes" translate="no">
+    <unit id="common.common:yes" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Yes</source>
@@ -9609,9 +9614,10 @@
         <target>0.99</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9818,9 +9824,10 @@
         <target>Memberdayakan Kinerja Tinggi</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9857,9 +9864,10 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -18155,9 +18163,10 @@
         <target>00 j</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -21792,9 +21801,10 @@
         <target>Jawab Lagi</target>
       </segment>
     </unit>
-    <unit id="common.common:na_label" translate="no">
+    <unit id="common.common:na_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>NA</source>
@@ -27815,9 +27825,10 @@
         <target>Harap masukkan Tanggal Lahir yang valid</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -29574,18 +29585,20 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_am" translate="no">
+    <unit id="common.common:enter_time_am" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>AM</source>
         <target>AM</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_pm" translate="no">
+    <unit id="common.common:enter_time_pm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>PM</source>
@@ -37319,7 +37332,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 207074, NewStrings: 61063 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_in-ID.xlf:: TotalNewWords: 207074, TotalNewStrings: 61063 -->
+  <!-- XLIFF::android_in-ID.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
