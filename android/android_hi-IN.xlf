@@ -9,7 +9,7 @@
     <notes>
       <note id="n1">Edcast Translation file for android</note>
     </notes>
-        <unit id="common.common:app_name" translate="no">
+    <unit id="common.common:app_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
