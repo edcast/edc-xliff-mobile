@@ -1769,9 +1769,10 @@
         <target>Pokud najdeme účet nebo pozvánku spojenou s %s, obdržíte e-mail.</target>
       </segment>
     </unit>
-    <unit id="common.common:of_label" translate="no">
+    <unit id="common.common:of_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>of</source>
@@ -5014,9 +5015,10 @@
         <target>Zapsat se</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5984,9 +5986,10 @@
         <target>rok</target>
       </segment>
     </unit>
-    <unit id="common.common:years_label" translate="no">
+    <unit id="common.common:years_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>years</source>
@@ -7793,9 +7796,10 @@
         <target>Vytvořit živý stream</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="no">
+    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -8122,9 +8126,10 @@
         <target>Tip: Pokud je vaše video krátké, vaši sledující nemusí stihnout se na něj podívat. Nemějte obavy, krátce po skončení streamu bude kdispozici záznam vašeho videa.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8560,9 +8565,10 @@
         <target>Posledních 90dnů</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8619,9 +8625,10 @@
         <target>Kanály</target>
       </segment>
     </unit>
-    <unit id="common.common:okay" translate="no">
+    <unit id="common.common:okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -8648,9 +8655,10 @@
         <target>Ano</target>
       </segment>
     </unit>
-    <unit id="common.common:no" translate="no">
+    <unit id="common.common:no" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>No</source>
@@ -9606,9 +9614,10 @@
         <target>0.99</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9815,9 +9824,10 @@
         <target>Vytváření podmínek kdosahování vysoké výkonnosti</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9854,9 +9864,10 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -10013,9 +10024,10 @@
         <target>Shrnutí kurzu</target>
       </segment>
     </unit>
-    <unit id="common.common:promotion_course_data_not_available" translate="no">
+    <unit id="common.common:promotion_course_data_not_available" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>N/A</source>
@@ -12052,9 +12064,10 @@
         <target>Zadavatel:</target>
       </segment>
     </unit>
-    <unit id="common.common:user_assign_from_team" translate="no">
+    <unit id="common.common:user_assign_from_team" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>from</source>
@@ -12391,9 +12404,10 @@
         <target>Zde zadejte téma.</target>
       </segment>
     </unit>
-    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="no">
+    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -12799,9 +12813,10 @@
         <target>Záznam</target>
       </segment>
     </unit>
-    <unit id="common.common:me_label" translate="no">
+    <unit id="common.common:me_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Me</source>
@@ -13457,9 +13472,10 @@
         <target>Zobrazit profil</target>
       </segment>
     </unit>
-    <unit id="common.common:pts_text" translate="no">
+    <unit id="common.common:pts_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Pts</source>
@@ -14415,9 +14431,10 @@
         <target>Ostatní</target>
       </segment>
     </unit>
-    <unit id="common.common:and_text_string" translate="no">
+    <unit id="common.common:and_text_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>and</source>
@@ -17795,9 +17812,10 @@
         <target>hod.</target>
       </segment>
     </unit>
-    <unit id="common.common:minute_label" translate="no">
+    <unit id="common.common:minute_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>sec</source>
@@ -18142,9 +18160,10 @@
         <target>00 hod.</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -19872,9 +19891,10 @@
         <target>Nemáte oprávnění kpřístupu ktomuto obsahu.</target>
       </segment>
     </unit>
-    <unit id="common.common:from_label" translate="no">
+    <unit id="common.common:from_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>From</source>
@@ -21779,9 +21799,10 @@
         <target>Znovu odpovědět</target>
       </segment>
     </unit>
-    <unit id="common.common:na_label" translate="no">
+    <unit id="common.common:na_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>NA</source>
@@ -24920,9 +24941,10 @@
         <target>Správce vyhledávání</target>
       </segment>
     </unit>
-    <unit id="common.common:you_label" translate="no">
+    <unit id="common.common:you_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -27798,9 +27820,10 @@
         <target>Zadejte platné datum narození.</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -28827,9 +28850,10 @@
         <target>Neúspěch</target>
       </segment>
     </unit>
-    <unit id="common.common:not_applicable_radio_text" translate="no">
+    <unit id="common.common:not_applicable_radio_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Not Applicable</source>
@@ -35130,9 +35154,10 @@
         <target>Prozkoumejte naše nabídky předplatného apřístupu kexkluzivnímu obsahu.</target>
       </segment>
     </unit>
-    <unit id="common.common:per_label" translate="no">
+    <unit id="common.common:per_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>per</source>
@@ -37382,7 +37407,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 73741, NewStrings: 23718 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_cs-CZ.xlf:: TotalNewWords: 73741, TotalNewStrings: 23718 -->
+  <!-- XLIFF::android_cs-CZ.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>

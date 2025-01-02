@@ -1628,9 +1628,10 @@
         <target>Η ομάδα σας χρησιμοποιεί ήδη το EdCast;</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_divider_text" translate="no">
+    <unit id="common.common:login_and_signup_message_divider_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>or</source>
@@ -3933,9 +3934,10 @@
         <target>Δεν υπάρχουν μαθήματα</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="no">
+    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1%</source>
@@ -4372,9 +4374,10 @@
         <target>Δημιουργία ζωντανής μετάδοσης</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_card_time" translate="no">
+    <unit id="common.common:feed_card_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1d</source>
@@ -5011,9 +5014,10 @@
         <target>Εγγραφή</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5170,18 +5174,20 @@
         <target>Λήψη (</target>
       </segment>
     </unit>
-    <unit id="common.common:current_index_text" translate="no">
+    <unit id="common.common:current_index_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:total_download_count" translate="no">
+    <unit id="common.common:total_download_count" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
@@ -7079,9 +7085,10 @@
         <target>Ρυθμός πλαισίων Wowza:</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="no">
+    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>30</source>
@@ -7788,9 +7795,10 @@
         <target>Δημιουργία ζωντανής μετάδοσης</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="no">
+    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -8067,9 +8075,10 @@
         <target>Τέλος προβολής</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="no">
+    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -8116,9 +8125,10 @@
         <target>Συμβουλή: Εάν το βίντεό σας είναι σύντομο, οι ακόλουθοί σας μπορεί να μην έχουν χρόνο να συντονιστούν. Μην ανησυχείτε, το βίντεο θα είναι διαθέσιμο για αναπαραγωγή κατ\' απαίτηση λίγο μετά τη μετάδοσή σας.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8554,9 +8564,10 @@
         <target>Τελευταίες 90 ημέρες</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8613,9 +8624,10 @@
         <target>Κανάλια</target>
       </segment>
     </unit>
-    <unit id="common.common:okay" translate="no">
+    <unit id="common.common:okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -9601,9 +9613,10 @@
         <target>99%</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9810,9 +9823,10 @@
         <target>Δίνοντας τη δυνατότητα για υψηλή απόδοση</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9839,18 +9853,20 @@
         <target>Απενεργοποιήθηκε</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero" translate="no">
+    <unit id="common.common:label_zero" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
         <target>0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -12427,9 +12443,10 @@
         <target>Συνδεθείτε εδώ</target>
       </segment>
     </unit>
-    <unit id="common.common:or_text" translate="no">
+    <unit id="common.common:or_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OR</source>
@@ -17450,27 +17467,30 @@
         <target>Για να ξεχωρίσετε, προσθέστε πιστοποιητικά στο προφίλ σας</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1" translate="no">
+    <unit id="common.common:text_1" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2" translate="no">
+    <unit id="common.common:text_2" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>2</source>
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:text_3" translate="no">
+    <unit id="common.common:text_3" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -17923,9 +17943,10 @@
         <target>Βρέθηκαν %1$s αποτελέσματα για %2$s</target>
       </segment>
     </unit>
-    <unit id="common.common:Oh_label" translate="no">
+    <unit id="common.common:Oh_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Oh!</source>
@@ -18141,9 +18162,10 @@
         <target>00 ω</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -20980,9 +21002,10 @@
         <target>Δολάρια ΗΠΑ</target>
       </segment>
     </unit>
-    <unit id="common.common:inr_label" translate="no">
+    <unit id="common.common:inr_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>INR</source>
@@ -27801,9 +27824,10 @@
         <target>Εισαγάγετε έγκυρη ημερομηνία γέννησης</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -30425,9 +30449,10 @@
         <target>000</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="no">
+    <unit id="common.common:enter_duration_00_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00</source>
@@ -37305,7 +37330,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 98444, NewStrings: 30549 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_el-GR.xlf:: TotalNewWords: 98444, TotalNewStrings: 30549 -->
+  <!-- XLIFF::android_el-GR.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>

@@ -1769,9 +1769,10 @@
         <target>Ha találtunk a(z) %s elemhez tartozó fiókot vagy meghívót, akkor kap egy e-mailt</target>
       </segment>
     </unit>
-    <unit id="common.common:of_label" translate="no">
+    <unit id="common.common:of_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>of</source>
@@ -2877,9 +2878,10 @@
         <target>Férfi</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoarding_additional_info_female" translate="no">
+    <unit id="common.common:onBoarding_additional_info_female" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Female</source>
@@ -5013,9 +5015,10 @@
         <target>Beiratkozás</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5973,18 +5976,20 @@
         <target>hónap</target>
       </segment>
     </unit>
-    <unit id="common.common:timestamp_year" translate="no">
+    <unit id="common.common:timestamp_year" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>year</source>
         <target>év</target>
       </segment>
     </unit>
-    <unit id="common.common:years_label" translate="no">
+    <unit id="common.common:years_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>years</source>
@@ -8121,9 +8126,10 @@
         <target>Tipp: Ha a videó rövid, előfordulhat, hogy a követőinek nincs ideje csatlakozni. Ne aggódjon, a videó a közvetítés után nem sokkal elérhető lesz az igény szerinti lejátszáshoz.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8559,9 +8565,10 @@
         <target>Az utolsó 90 nap</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -9387,9 +9394,10 @@
         <target>Értékelés</target>
       </segment>
     </unit>
-    <unit id="common.common:search_filter_type_year" translate="no">
+    <unit id="common.common:search_filter_type_year" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Year</source>
@@ -9606,9 +9614,10 @@
         <target>0.99</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9815,9 +9824,10 @@
         <target>Nagy teljesítmény fokozása</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9854,9 +9864,10 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -12393,9 +12404,10 @@
         <target>Itt adjon meg egy témakört</target>
       </segment>
     </unit>
-    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="no">
+    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -12461,9 +12473,10 @@
         <target>+</target>
       </segment>
     </unit>
-    <unit id="common.common:new_text" translate="no">
+    <unit id="common.common:new_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>NEW</source>
@@ -12800,9 +12813,10 @@
         <target>Felvétel</target>
       </segment>
     </unit>
-    <unit id="common.common:me_label" translate="no">
+    <unit id="common.common:me_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Me</source>
@@ -14417,9 +14431,10 @@
         <target>Mások</target>
       </segment>
     </unit>
-    <unit id="common.common:and_text_string" translate="no">
+    <unit id="common.common:and_text_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>and</source>
@@ -15540,9 +15555,10 @@
         <target>Határidő (nem kötelező)</target>
       </segment>
     </unit>
-    <unit id="common.common:today_text" translate="no">
+    <unit id="common.common:today_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Today</source>
@@ -17925,9 +17941,10 @@
         <target>%1$s találat erre: %2$s</target>
       </segment>
     </unit>
-    <unit id="common.common:Oh_label" translate="no">
+    <unit id="common.common:Oh_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Oh!</source>
@@ -18143,9 +18160,10 @@
         <target>00 ó</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -23315,9 +23333,10 @@
         <target>Közzétette:</target>
       </segment>
     </unit>
-    <unit id="common.common:year_label" translate="no">
+    <unit id="common.common:year_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Year</source>
@@ -24922,9 +24941,10 @@
         <target>Vezető keresése</target>
       </segment>
     </unit>
-    <unit id="common.common:you_label" translate="no">
+    <unit id="common.common:you_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -25301,9 +25321,10 @@
         <target>Realtime</target>
       </segment>
     </unit>
-    <unit id="common.common:off" translate="no">
+    <unit id="common.common:off" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Off</source>
@@ -26048,18 +26069,20 @@
         <target>A feltöltés folyamatban van</target>
       </segment>
     </unit>
-    <unit id="common.common:dark_mode_option_on" translate="no">
+    <unit id="common.common:dark_mode_option_on" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>On</source>
         <target>Be</target>
       </segment>
     </unit>
-    <unit id="common.common:dark_mode_option_off" translate="no">
+    <unit id="common.common:dark_mode_option_off" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Off</source>
@@ -27349,9 +27372,10 @@
         <target>Teljesítés dátuma</target>
       </segment>
     </unit>
-    <unit id="common.common:price_label" translate="no">
+    <unit id="common.common:price_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Price</source>
@@ -27798,9 +27822,10 @@
         <target>Írjon be érvényes születési dátumot</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -35131,9 +35156,10 @@
         <target>Fedezze fel, hogy milyen lehetőségei vannak az exkluzív tartalmak elérésére és az azokra való feliratkozásra</target>
       </segment>
     </unit>
-    <unit id="common.common:per_label" translate="no">
+    <unit id="common.common:per_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>per</source>
@@ -37383,7 +37409,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 186304, NewStrings: 54575 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_hu-HU.xlf:: TotalNewWords: 186304, TotalNewStrings: 54575 -->
+  <!-- XLIFF::android_hu-HU.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>

@@ -8,8 +8,8 @@
   <file id="android:common.common" original="packages/android/common/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for android</note>
-   </notes>
-  <unit id="common.common:app_name" translate="no">
+    </notes>
+    <unit id="common.common:app_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1629,9 +1629,10 @@
         <target>هل يستخدم فريقك EdCast بالفعل؟</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_divider_text" translate="no">
+    <unit id="common.common:login_and_signup_message_divider_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>or</source>
@@ -1768,9 +1769,10 @@
         <target>إذا وجدنا حسابًا أو دعوة مقترنة بـ %s، فستتلقى بريدًا إلكترونيًا</target>
       </segment>
     </unit>
-    <unit id="common.common:of_label" translate="no">
+    <unit id="common.common:of_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>of</source>
@@ -3933,9 +3935,10 @@
         <target>لا توجد دورات</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="no">
+    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1%</source>
@@ -4372,9 +4375,10 @@
         <target>إنشاء بث مباشر</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_card_time" translate="no">
+    <unit id="common.common:feed_card_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1d</source>
@@ -5011,9 +5015,10 @@
         <target>تسجيل</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5170,18 +5175,20 @@
         <target>جارى التحميل (</target>
       </segment>
     </unit>
-    <unit id="common.common:current_index_text" translate="no">
+    <unit id="common.common:current_index_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:total_download_count" translate="no">
+    <unit id="common.common:total_download_count" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
@@ -7078,9 +7085,10 @@
         <target>معدل لقطات Wowza:</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="no">
+    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>30</source>
@@ -7677,9 +7685,10 @@
         <target>متابعون</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_stopwatch_reset" translate="no">
+    <unit id="common.common:publishvideostream_stopwatch_reset" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00:00</source>
@@ -8066,9 +8075,10 @@
         <target>إنهاء المشاهدة</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="no">
+    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -8584,9 +8594,10 @@
         <target>حذف</target>
       </segment>
     </unit>
-    <unit id="common.common:done" translate="no">
+    <unit id="common.common:done" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Done</source>
@@ -8643,9 +8654,10 @@
         <target>نعم</target>
       </segment>
     </unit>
-    <unit id="common.common:no" translate="no">
+    <unit id="common.common:no" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>No</source>
@@ -9181,9 +9193,10 @@
         <target>فيديو</target>
       </segment>
     </unit>
-    <unit id="common.common:screen_label_text" translate="no">
+    <unit id="common.common:screen_label_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Text</source>
@@ -9600,9 +9613,10 @@
         <target>99%</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9809,9 +9823,10 @@
         <target>تمكين الأداء العالي</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9838,18 +9853,20 @@
         <target>متوقف</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero" translate="no">
+    <unit id="common.common:label_zero" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
         <target>0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -11716,9 +11733,10 @@
         <target>هذا الجهاز لا يدعم Camera2 API.</target>
       </segment>
     </unit>
-    <unit id="common.common:tele_record_default_time" translate="no">
+    <unit id="common.common:tele_record_default_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00:00</source>
@@ -12045,9 +12063,10 @@
         <target>تعيين بواسطة:</target>
       </segment>
     </unit>
-    <unit id="common.common:user_assign_from_team" translate="no">
+    <unit id="common.common:user_assign_from_team" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>from</source>
@@ -12424,9 +12443,10 @@
         <target>تسجيل الدخول هنا</target>
       </segment>
     </unit>
-    <unit id="common.common:or_text" translate="no">
+    <unit id="common.common:or_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OR</source>
@@ -13182,9 +13202,10 @@
         <target>صورة</target>
       </segment>
     </unit>
-    <unit id="common.common:smartbite_text" translate="no">
+    <unit id="common.common:smartbite_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Text</source>
@@ -14409,9 +14430,10 @@
         <target>أخرى</target>
       </segment>
     </unit>
-    <unit id="common.common:and_text_string" translate="no">
+    <unit id="common.common:and_text_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>and</source>
@@ -17445,27 +17467,30 @@
         <target>للتألق، أضف شهادات إلى ملف تعريفك</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1" translate="no">
+    <unit id="common.common:text_1" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2" translate="no">
+    <unit id="common.common:text_2" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>2</source>
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:text_3" translate="no">
+    <unit id="common.common:text_3" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -18495,9 +18520,10 @@
         <target>بطاقة ذكية</target>
       </segment>
     </unit>
-    <unit id="common.common:done_label" translate="no">
+    <unit id="common.common:done_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>done</source>
@@ -18792,9 +18818,10 @@
         <target>الرجاء النقر فوق "رجوع" مرة أخرى للخروج</target>
       </segment>
     </unit>
-    <unit id="common.common:my_string" translate="no">
+    <unit id="common.common:my_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>my</source>
@@ -19596,9 +19623,10 @@
         <target>المحتوى الذي ينشئه المستخدم</target>
       </segment>
     </unit>
-    <unit id="common.common:create_text_label" translate="no">
+    <unit id="common.common:create_text_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Text</source>
@@ -19865,9 +19893,10 @@
         <target>أنت غير مصرح لك بدخول هذا المحتوى.</target>
       </segment>
     </unit>
-    <unit id="common.common:from_label" translate="no">
+    <unit id="common.common:from_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>From</source>
@@ -27794,9 +27823,10 @@
         <target>الرجاء إدخال تاريخ ميلاد صحيح</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -29543,9 +29573,10 @@
         <target>تحديد أداة المؤتمرات</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time" translate="no">
+    <unit id="common.common:enter_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00 : 00</source>
@@ -30406,18 +30437,20 @@
         <target>يمكن استخدام ذلك للتحكم في منح شارات لإكمال المسار</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_000_hint" translate="no">
+    <unit id="common.common:enter_duration_000_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>000</source>
         <target>0</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="no">
+    <unit id="common.common:enter_duration_00_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00</source>
@@ -37310,7 +37343,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 24256, NewStrings: 7199 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_ar-SA.xlf:: TotalNewWords: 24256, TotalNewStrings: 7199 -->
+  <!-- XLIFF::android_ar-SA.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>

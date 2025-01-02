@@ -1768,9 +1768,10 @@
         <target>Jos löydämme tilin tai kutsun, joka liittyy kohteeseen %s, saat sähköpostiviestin</target>
       </segment>
     </unit>
-    <unit id="common.common:of_label" translate="no">
+    <unit id="common.common:of_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>of</source>
@@ -3933,9 +3934,10 @@
         <target>Ei kursseja</target>
       </segment>
     </unit>
-    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="no">
+    <unit id="common.common:profile_screen_footer_view_percentile_score" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1%</source>
@@ -5012,9 +5014,10 @@
         <target>Ilmoittaudu</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5171,18 +5174,20 @@
         <target>Ladataan (</target>
       </segment>
     </unit>
-    <unit id="common.common:current_index_text" translate="no">
+    <unit id="common.common:current_index_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:total_download_count" translate="no">
+    <unit id="common.common:total_download_count" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
@@ -7080,9 +7085,10 @@
         <target>Wowza-kuvanopeus:</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="no">
+    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>30</source>
@@ -7789,9 +7795,10 @@
         <target>Luo suoratoisto</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="no">
+    <unit id="common.common:publishvideostream_video_streaming_help_message_ok_button_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -8068,9 +8075,10 @@
         <target>Lopeta katselu</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="no">
+    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -8117,9 +8125,10 @@
         <target>Vihje: Jos video on kovin lyhyt, seuraajilla ei ehkä ole aikaa liittyä lähetykseen. Video on kuitenkin saatavilla toistoa varten pian suoratoiston päättymisen jälkeen.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8555,9 +8564,10 @@
         <target>Edelliset 90 päivää</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8614,9 +8624,10 @@
         <target>Kanavat</target>
       </segment>
     </unit>
-    <unit id="common.common:okay" translate="no">
+    <unit id="common.common:okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OKAY</source>
@@ -8643,9 +8654,10 @@
         <target>Kyllä</target>
       </segment>
     </unit>
-    <unit id="common.common:no" translate="no">
+    <unit id="common.common:no" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>No</source>
@@ -9601,9 +9613,10 @@
         <target>99%</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9810,9 +9823,10 @@
         <target>Autamme huippusuorituksiin</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9839,18 +9853,20 @@
         <target>Keskeytetty</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero" translate="no">
+    <unit id="common.common:label_zero" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
         <target>0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -13465,9 +13481,10 @@
         <target>pistettä</target>
       </segment>
     </unit>
-    <unit id="common.common:hour_syntax" translate="no">
+    <unit id="common.common:hour_syntax" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hr</source>
@@ -14413,9 +14430,10 @@
         <target>Muut</target>
       </segment>
     </unit>
-    <unit id="common.common:and_text_string" translate="no">
+    <unit id="common.common:and_text_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>and</source>
@@ -16779,9 +16797,10 @@
         <target>min</target>
       </segment>
     </unit>
-    <unit id="common.common:duration_unit_hr" translate="no">
+    <unit id="common.common:duration_unit_hr" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hr</source>
@@ -17448,27 +17467,30 @@
         <target>Näytä osaamisesi lisäämällä todistukset profiiliin</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1" translate="no">
+    <unit id="common.common:text_1" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2" translate="no">
+    <unit id="common.common:text_2" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>2</source>
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:text_3" translate="no">
+    <unit id="common.common:text_3" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -17782,18 +17804,20 @@
         <target>Ansaitsit tämän merkin suorittamalla sisällön</target>
       </segment>
     </unit>
-    <unit id="common.common:hour_label" translate="no">
+    <unit id="common.common:hour_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hr</source>
         <target>t</target>
       </segment>
     </unit>
-    <unit id="common.common:minute_label" translate="no">
+    <unit id="common.common:minute_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>sec</source>
@@ -18138,9 +18162,10 @@
         <target>00 t</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -21775,9 +21800,10 @@
         <target>Vastaa uudelleen</target>
       </segment>
     </unit>
-    <unit id="common.common:na_label" translate="no">
+    <unit id="common.common:na_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>NA</source>
@@ -27798,9 +27824,10 @@
         <target>Anna kelvollinen syntymäaika</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -29557,18 +29584,20 @@
         <target>00 : 00</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_am" translate="no">
+    <unit id="common.common:enter_time_am" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>AM</source>
         <target>AP</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_pm" translate="no">
+    <unit id="common.common:enter_time_pm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>PM</source>
@@ -30420,9 +30449,10 @@
         <target>000</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="no">
+    <unit id="common.common:enter_duration_00_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00</source>
@@ -37300,7 +37330,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 120028, NewStrings: 37377 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_fi-FI.xlf:: TotalNewWords: 120028, TotalNewStrings: 37377 -->
+  <!-- XLIFF::android_fi-FI.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>

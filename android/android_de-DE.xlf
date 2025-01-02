@@ -4375,9 +4375,10 @@
         <target>Livestream erstellen</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_card_time" translate="no">
+    <unit id="common.common:feed_card_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1d</source>
@@ -5014,9 +5015,10 @@
         <target>Anmelden</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -5173,18 +5175,20 @@
         <target>Download läuft (</target>
       </segment>
     </unit>
-    <unit id="common.common:current_index_text" translate="no">
+    <unit id="common.common:current_index_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:total_download_count" translate="no">
+    <unit id="common.common:total_download_count" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
@@ -7082,9 +7086,10 @@
         <target>Wowza-Bildrate:</target>
       </segment>
     </unit>
-    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="no">
+    <unit id="common.common:secret_streaming_wowza_framerate_default_rate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>30</source>
@@ -7681,9 +7686,10 @@
         <target>Follower</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_stopwatch_reset" translate="no">
+    <unit id="common.common:publishvideostream_stopwatch_reset" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00:00</source>
@@ -8070,9 +8076,10 @@
         <target>Anzeige beenden</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="no">
+    <unit id="common.common:publishvideostream_label_default_countdown_digit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -8119,9 +8126,10 @@
         <target>Tipp: Wenn Ihr Video kurz ist, haben Ihre Follower möglicherweise nicht die Zeit, um einzuschalten. Keine Sorge, Ihr Video wird zum Abspielen nach Abruf kurz nach Ihrem Stream verfügbar sein.</target>
       </segment>
     </unit>
-    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="no">
+    <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8557,9 +8565,10 @@
         <target>Letzte 90 Tage</target>
       </segment>
     </unit>
-    <unit id="common.common:ok" translate="no">
+    <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -8636,9 +8645,10 @@
         <target>Hinzufügen</target>
       </segment>
     </unit>
-    <unit id="common.common:yes" translate="no">
+    <unit id="common.common:yes" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Yes</source>
@@ -9604,9 +9614,10 @@
         <target>0.99</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9813,9 +9824,10 @@
         <target>Befähigen zu Höchstleistungen</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9842,18 +9854,20 @@
         <target>Angehalten</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero" translate="no">
+    <unit id="common.common:label_zero" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>0</source>
         <target>0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -11720,9 +11734,10 @@
         <target>Dieser Dienst unterstützt Camera2 API nicht.</target>
       </segment>
     </unit>
-    <unit id="common.common:tele_record_default_time" translate="no">
+    <unit id="common.common:tele_record_default_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00:00</source>
@@ -17453,27 +17468,30 @@
         <target>Fügen Sie Ihrem Profil Zertifikate hinzu, um zu brillieren</target>
       </segment>
     </unit>
-    <unit id="common.common:text_1" translate="no">
+    <unit id="common.common:text_1" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1</source>
         <target>1</target>
       </segment>
     </unit>
-    <unit id="common.common:text_2" translate="no">
+    <unit id="common.common:text_2" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>2</source>
         <target>2</target>
       </segment>
     </unit>
-    <unit id="common.common:text_3" translate="no">
+    <unit id="common.common:text_3" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>3</source>
@@ -17797,9 +17815,10 @@
         <target>Std.</target>
       </segment>
     </unit>
-    <unit id="common.common:minute_label" translate="no">
+    <unit id="common.common:minute_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>sec</source>
@@ -18144,9 +18163,10 @@
         <target>00 h</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_mm" translate="no">
+    <unit id="common.common:enter_duration_mm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MM</source>
@@ -21253,9 +21273,10 @@
         <target>Wird angefordert...</target>
       </segment>
     </unit>
-    <unit id="common.common:hi_message" translate="no">
+    <unit id="common.common:hi_message" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hi</source>
@@ -25680,9 +25701,10 @@
         <target>Ihre Kompetenzen finden</target>
       </segment>
     </unit>
-    <unit id="common.common:to_label" translate="no">
+    <unit id="common.common:to_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>To</string</source>
@@ -27804,9 +27826,10 @@
         <target>Bitte gültiges Geburtsdatum eingeben</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -29523,9 +29546,10 @@
         <target>Wird zur Identifizierung Ihrer SmartCard verwendet</target>
       </segment>
     </unit>
-    <unit id="common.common:live_event_title_count_label" translate="no">
+    <unit id="common.common:live_event_title_count_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>255</source>
@@ -29552,9 +29576,10 @@
         <target>Conferencing Tool auswählen</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time" translate="no">
+    <unit id="common.common:enter_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00 : 00</source>
@@ -30416,18 +30441,20 @@
         <target>Dies kann verwendet werden, um die Vergabe von Abzeichen für den Abschluss des Pathways zu steuern</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_000_hint" translate="no">
+    <unit id="common.common:enter_duration_000_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>000</source>
         <target></target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="no">
+    <unit id="common.common:enter_duration_00_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00</source>
@@ -37046,9 +37073,10 @@
         <target>Your session has expired. Please login from Hive app to continue.</target>
       </segment>
     </unit>
-    <unit id="common.common:sign_up_hi_message" translate="no">
+    <unit id="common.common:sign_up_hi_message" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hi</source>
@@ -37307,7 +37335,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 85440, NewStrings: 27137 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_de-DE.xlf:: TotalNewWords: 85440, TotalNewStrings: 27137 -->
+  <!-- XLIFF::android_de-DE.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
