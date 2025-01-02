@@ -9,7 +9,7 @@
     <notes>
       <note id="n1">Edcast Translation file for android</note>
     </notes>
-        <unit id="common.common:app_name" translate="no">
+    <unit id="common.common:app_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1629,9 +1629,10 @@
         <target>आपकी टीम पहले से ही EdCast का प्रयोग करती है?</target>
       </segment>
     </unit>
-    <unit id="common.common:login_and_signup_message_divider_text" translate="no">
+    <unit id="common.common:login_and_signup_message_divider_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>or</source>
@@ -1768,9 +1769,10 @@
         <target>यदि हमें %s से जुड़ा कोई खाता या आमंत्रण मिलता है, तो आपको ईमेल प्राप्त होगा</target>
       </segment>
     </unit>
-    <unit id="common.common:of_label" translate="no">
+    <unit id="common.common:of_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>of</source>
@@ -4373,9 +4375,10 @@
         <target>लाइवस्ट्रीम बनाएं</target>
       </segment>
     </unit>
-    <unit id="common.common:feed_card_time" translate="no">
+    <unit id="common.common:feed_card_time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>1d</source>
@@ -5012,9 +5015,10 @@
         <target>नामांकन</target>
       </segment>
     </unit>
-    <unit id="common.common:course_navigation_separator" translate="no">
+    <unit id="common.common:course_navigation_separator" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>/</source>
@@ -9610,9 +9614,10 @@
         <target>0.99</target>
       </segment>
     </unit>
-    <unit id="common.common:top_percentage_text" translate="no">
+    <unit id="common.common:top_percentage_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%</source>
@@ -9819,9 +9824,10 @@
         <target>उच्च प्रदर्शन को सशक्त बनाना</target>
       </segment>
     </unit>
-    <unit id="common.common:splash_empowering_high_performance_tm" translate="no">
+    <unit id="common.common:splash_empowering_high_performance_tm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TM</source>
@@ -9858,9 +9864,10 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:label_zero_percentile" translate="no">
+    <unit id="common.common:label_zero_percentile" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>&#8211;&#8211;</source>
@@ -12057,9 +12064,10 @@
         <target>के द्वारा असाइन किया गया:</target>
       </segment>
     </unit>
-    <unit id="common.common:user_assign_from_team" translate="no">
+    <unit id="common.common:user_assign_from_team" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>from</source>
@@ -12396,9 +12404,10 @@
         <target>विषय यहॉं दर्ज करें</target>
       </segment>
     </unit>
-    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="no">
+    <unit id="common.common:calender_event_meeting_attendees_you_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -12435,9 +12444,10 @@
         <target>यहॉं साइन इन करें</target>
       </segment>
     </unit>
-    <unit id="common.common:or_text" translate="no">
+    <unit id="common.common:or_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OR</source>
@@ -13262,9 +13272,10 @@
         <target>रीडर व्यू</target>
       </segment>
     </unit>
-    <unit id="common.common:novice_label" translate="no">
+    <unit id="common.common:novice_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Novice</source>
@@ -14420,9 +14431,10 @@
         <target>अन्य</target>
       </segment>
     </unit>
-    <unit id="common.common:and_text_string" translate="no">
+    <unit id="common.common:and_text_string" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>and</source>
@@ -15543,18 +15555,20 @@
         <target>बकाया तारीख (वैकल्पिक)</target>
       </segment>
     </unit>
-    <unit id="common.common:today_text" translate="no">
+    <unit id="common.common:today_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Today</source>
         <target>आज</target>
       </segment>
     </unit>
-    <unit id="common.common:tomorrow_text" translate="no">
+    <unit id="common.common:tomorrow_text" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Tomorrow</source>
@@ -18040,9 +18054,10 @@
         <target>सभी SmartCard</target>
       </segment>
     </unit>
-    <unit id="common.common:curate_tab_all_label" translate="no">
+    <unit id="common.common:curate_tab_all_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>All</source>
@@ -19879,9 +19894,10 @@
         <target>आपको इस कार्ड को एक्सेस करने के लिए अधिकृत नहीं हैं</target>
       </segment>
     </unit>
-    <unit id="common.common:from_label" translate="no">
+    <unit id="common.common:from_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>From</source>
@@ -21786,9 +21802,10 @@
         <target>फिर से जवाब दें</target>
       </segment>
     </unit>
-    <unit id="common.common:na_label" translate="no">
+    <unit id="common.common:na_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>NA</source>
@@ -23119,9 +23136,10 @@
         <target>आपके द्वारा क्यूरेट की गई सभी सामग्री खो जाएगी</target>
       </segment>
     </unit>
-    <unit id="common.common:all_label" translate="no">
+    <unit id="common.common:all_label" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>All</source>
@@ -26052,18 +26070,20 @@
         <target>अपलोड होना प्रगति पर है</target>
       </segment>
     </unit>
-    <unit id="common.common:dark_mode_option_on" translate="no">
+    <unit id="common.common:dark_mode_option_on" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>On</source>
         <target>ऑन</target>
       </segment>
     </unit>
-    <unit id="common.common:dark_mode_option_off" translate="no">
+    <unit id="common.common:dark_mode_option_off" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Off</source>
@@ -27806,9 +27826,10 @@
         <target>कृपया मान्य जन्म तिथि दर्ज करें</target>
       </segment>
     </unit>
-    <unit id="common.common:colon" translate="no">
+    <unit id="common.common:colon" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>:</source>
@@ -29565,18 +29586,20 @@
         <target>0.0</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_am" translate="no">
+    <unit id="common.common:enter_time_am" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>AM</source>
         <target>AM</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_time_pm" translate="no">
+    <unit id="common.common:enter_time_pm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>PM</source>
@@ -30428,9 +30451,10 @@
         <target>000</target>
       </segment>
     </unit>
-    <unit id="common.common:enter_duration_00_hint" translate="no">
+    <unit id="common.common:enter_duration_00_hint" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>00</source>
@@ -32866,9 +32890,10 @@
         <target>सूची</target>
       </segment>
     </unit>
-    <unit id="common.common:position" translate="no">
+    <unit id="common.common:position" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>position</source>
@@ -37307,7 +37332,7 @@
         <target>Invite people to your group</target>
       </segment>
     </unit>
-    <!-- File::android:: NewWords: 163324, NewStrings: 47623 -->
+    <!-- File::android:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::android_hi-IN.xlf:: TotalNewWords: 163324, TotalNewStrings: 47623 -->
+  <!-- XLIFF::android_hi-IN.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
