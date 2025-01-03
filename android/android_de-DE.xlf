@@ -29553,7 +29553,7 @@
       </notes>
       <segment >
         <source>255</source>
-        <target></target>
+        <target>255</target>
       </segment>
     </unit>
     <unit id="common.common:live_event_image_label" translate="yes">
@@ -29583,7 +29583,7 @@
       </notes>
       <segment >
         <source>00 : 00</source>
-        <target></target>
+        <target>00 : 00</target>
       </segment>
     </unit>
     <unit id="common.common:enter_time_am" translate="yes">
@@ -30448,7 +30448,7 @@
       </notes>
       <segment >
         <source>000</source>
-        <target></target>
+        <target>000</target>
       </segment>
     </unit>
     <unit id="common.common:enter_duration_00_hint" translate="yes">
@@ -30458,7 +30458,7 @@
       </notes>
       <segment >
         <source>00</source>
-        <target></target>
+        <target>00</target>
       </segment>
     </unit>
     <unit id="common.common:skill_label" translate="yes">
