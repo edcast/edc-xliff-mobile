@@ -4218,6 +4218,7 @@
     <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
@@ -13150,6 +13151,7 @@
     <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
