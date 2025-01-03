@@ -39,7 +39,7 @@
         <target> 4 자리 OTP가 휴대폰 번호로 전송되었습니다. 번호를 확인하려면 아래 코드를 입력하세요. OTP는 5 분 동안 유효합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:_and_pzd__groups" translate="yes">
+    <unit id="common.common:_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -48,7 +48,7 @@
         <target> and %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="yes">
+    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -60,13 +60,14 @@
     <unit id="common.common:pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%@</source>
         <target>%@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__blocked" translate="yes">
+    <unit id="common.common:pat__blocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -195,7 +196,7 @@
         <target>%@(이)가 이미 화면에 공유되었습니다. 계속 화면 공유를 요청하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="yes">
+    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -224,7 +225,7 @@
         <target>%@ 필요</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_Unblocked" translate="yes">
+    <unit id="common.common:pat__is_Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -259,8 +260,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@ results for &quot;%2$@&quot;</source>
-        <target>&quot;%2$@&quot;에 대한 %1$@ 결과</target>
+        <source>%1$@ results for \&quot;%2$@\&quot;</source>
+        <target>\&quot;%2$@\&quot;에 대한 %1$@ 결과</target>
       </segment>
     </unit>
     <unit id="common.common:pat__Selected" translate="yes">
@@ -273,7 +274,7 @@
         <target>%@ 선택됨</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__Unblocked" translate="yes">
+    <unit id="common.common:pat__Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -332,7 +333,7 @@
         <target>%@의 스트림이 %ld %@ 및 %ld %@에서 시작되도록 예약되었습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:pat_star__bs__per_pat_" translate="yes">
+    <unit id="common.common:pat_star__bs__per_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -371,7 +372,7 @@
         <target>%d 일 @ 2 시간 / 일</target>
       </segment>
     </unit>
-    <unit id="common.common:pd__Downloads" translate="yes">
+    <unit id="common.common:pd__Downloads" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -460,7 +461,7 @@
         <target>%zd명의 팔로워</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__groups" translate="yes">
+    <unit id="common.common:pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -479,7 +480,7 @@
         <target>%zd 시간 %zd 분 남음 \n이 콘텐츠에 액세스</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__individuals" translate="yes">
+    <unit id="common.common:pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -578,7 +579,7 @@
         <target>** 이것은 비공개 팀입니다. 기존 계정이나 가입 초대가없는 경우 팀 관리자에게 문의하세요.</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="yes">
+    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -587,7 +588,7 @@
         <target>*Associated assessment fee would be reimbursed over and above this \nTake the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
+    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -606,7 +607,7 @@
         <target>*위에 입력한 표창 또는 인증서에 제 이름이 표시되기를 원합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Price_excluding_taxes" translate="yes">
+    <unit id="common.common:star_Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -805,7 +806,7 @@
         <target>\n이 콘텐츠에 액세스하려면</target>
       </segment>
     </unit>
-    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="yes">
+    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -887,6 +888,7 @@
     <unit id="common.common:Accept" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Accept</source>
@@ -896,6 +898,7 @@
     <unit id="common.common:Accepted" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Accepted</source>
@@ -945,6 +948,7 @@
     <unit id="common.common:ACCOUNTS" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>ACCOUNTS</source>
@@ -964,6 +968,7 @@
     <unit id="common.common:Active" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Active</source>
@@ -983,6 +988,7 @@
     <unit id="common.common:Activity" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Activity</source>
@@ -992,6 +998,7 @@
     <unit id="common.common:Add" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Add</source>
@@ -1168,7 +1175,7 @@
         <target>언어 추가</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_Learning_Goal" translate="yes">
+    <unit id="common.common:Add_Learning_Goal" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1187,7 +1194,7 @@
         <target>학습 목표 추가</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="yes">
+    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1209,6 +1216,7 @@
     <unit id="common.common:Add_more" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Add more</source>
@@ -1325,7 +1333,7 @@
         <target>팀 추가</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_to_Featured" translate="yes">
+    <unit id="common.common:Add_to_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1494,7 +1502,7 @@
         <target>주소 3</target>
       </segment>
     </unit>
-    <unit id="common.common:Address_missing" translate="yes">
+    <unit id="common.common:Address_missing" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1546,6 +1554,7 @@
     <unit id="common.common:Advanced" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Advanced</source>
@@ -1555,6 +1564,7 @@
     <unit id="common.common:advanced" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>advanced</source>
@@ -1594,6 +1604,7 @@
     <unit id="common.common:Alert" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Alert</source>
@@ -1730,7 +1741,7 @@
         <target>이 그룹은 모든 사용자가 검색, 접근, 가입할 수 있습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="yes">
+    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1779,7 +1790,7 @@
         <target>사용자가 이 질문에 다시 답하도록 허용</target>
       </segment>
     </unit>
-    <unit id="common.common:Already_have_an_accountqmark_" translate="yes">
+    <unit id="common.common:Already_have_an_accountqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1838,7 +1849,7 @@
         <target>공지사항</target>
       </segment>
     </unit>
-    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="yes">
+    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1850,6 +1861,7 @@
     <unit id="common.common:Answer" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Answer</source>
@@ -1929,6 +1941,7 @@
     <unit id="common.common:Approve" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Approve</source>
@@ -1945,7 +1958,7 @@
         <target>승인됨</target>
       </segment>
     </unit>
-    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2024,13 +2037,13 @@
         <target>스킬을 정말로 삭제하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</source>
-        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</target>
+        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</source>
+        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Are_you_sure_you_want_to_cancel_registrationqmark_" translate="yes">
@@ -2113,7 +2126,7 @@
         <target>Livestream을 종료 하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2192,7 +2205,7 @@
         <target>공동 방송을 중단하고 시청자로서 계속 하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2344,6 +2357,7 @@
     <unit id="common.common:Assessments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assessments</source>
@@ -2363,6 +2377,7 @@
     <unit id="common.common:Assign" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assign</source>
@@ -2499,7 +2514,7 @@
         <target>할당한 사람 </target>
       </segment>
     </unit>
-    <unit id="common.common:Assigned_bycln__pat_" translate="yes">
+    <unit id="common.common:Assigned_bycln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2611,6 +2626,7 @@
     <unit id="common.common:assignments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>assignments</source>
@@ -2620,6 +2636,7 @@
     <unit id="common.common:Assignments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Assignments</source>
@@ -2839,6 +2856,7 @@
     <unit id="common.common:Automatically" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Automatically</source>
@@ -2848,6 +2866,7 @@
     <unit id="common.common:Average" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Average</source>
@@ -2917,6 +2936,7 @@
     <unit id="common.common:Back" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Back</source>
@@ -2926,6 +2946,7 @@
     <unit id="common.common:Badge" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Badge</source>
@@ -2982,7 +3003,7 @@
         <target>배지 ID: </target>
       </segment>
     </unit>
-    <unit id="common.common:Badge_Preview" translate="yes">
+    <unit id="common.common:Badge_Preview" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3024,6 +3045,7 @@
     <unit id="common.common:Badges" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Badges</source>
@@ -3123,6 +3145,7 @@
     <unit id="common.common:Be_a_part_of" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Be a part of</source>
@@ -3189,7 +3212,7 @@
         <target>첫 번째로 반응하기</target>
       </segment>
     </unit>
-    <unit id="common.common:Begin_Course" translate="yes">
+    <unit id="common.common:Begin_Course" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3231,6 +3254,7 @@
     <unit id="common.common:Bio" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Bio</source>
@@ -3240,6 +3264,7 @@
     <unit id="common.common:Block" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Block</source>
@@ -3266,7 +3291,7 @@
         <target>차단: 관련된 콘텐츠와 유사한 콘텐츠를 다시 표시 안 함</target>
       </segment>
     </unit>
-    <unit id="common.common:Blocked_Users" translate="yes">
+    <unit id="common.common:Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3431,7 +3456,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with &apos;https://&apos;</source>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https://\&apos;</source>
         <target>안전하지 않은 URL을 열 수 없습니다. &apos;https : //&apos;로 시작하는 링크를 시도하십시오.</target>
       </segment>
     </unit>
@@ -3458,6 +3483,7 @@
     <unit id="common.common:Cancel" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Cancel</source>
@@ -3467,6 +3493,7 @@
     <unit id="common.common:CANCEL" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>CANCEL</source>
@@ -3706,6 +3733,7 @@
     <unit id="common.common:Category" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Category</source>
@@ -3815,6 +3843,7 @@
     <unit id="common.common:Change" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Change</source>
@@ -3871,7 +3900,7 @@
         <target>암호 변경</target>
       </segment>
     </unit>
-    <unit id="common.common:Change_Plan" translate="yes">
+    <unit id="common.common:Change_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3890,7 +3919,7 @@
         <target>%@(으)로 변경</target>
       </segment>
     </unit>
-    <unit id="common.common:Changes_not_saved_successfully" translate="yes">
+    <unit id="common.common:Changes_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3902,6 +3931,7 @@
     <unit id="common.common:Channel" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Channel</source>
@@ -3968,7 +3998,7 @@
         <target>채널 이름 *</target>
       </segment>
     </unit>
-    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="yes">
+    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4027,7 +4057,7 @@
         <target>업데이트된 채널</target>
       </segment>
     </unit>
-    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="yes">
+    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4039,6 +4069,7 @@
     <unit id="common.common:channels" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>channels</source>
@@ -4048,6 +4079,7 @@
     <unit id="common.common:Channels" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Channels</source>
@@ -4147,6 +4179,7 @@
     <unit id="common.common:City" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>City</source>
@@ -4156,6 +4189,7 @@
     <unit id="common.common:City_star_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>City *</source>
@@ -4165,6 +4199,7 @@
     <unit id="common.common:Citystar_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>City*</source>
@@ -4184,6 +4219,7 @@
     <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
@@ -4303,6 +4339,7 @@
     <unit id="common.common:Close" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Close</source>
@@ -4352,6 +4389,7 @@
     <unit id="common.common:Code" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Code</source>
@@ -4481,6 +4519,7 @@
     <unit id="common.common:Comment" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Comment</source>
@@ -4497,7 +4536,7 @@
         <target>댓글이 너무 짧습니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:Comment_options" translate="yes">
+    <unit id="common.common:Comment_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4519,6 +4558,7 @@
     <unit id="common.common:comments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>comments</source>
@@ -4528,6 +4568,7 @@
     <unit id="common.common:Comments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Comments</source>
@@ -4567,6 +4608,7 @@
     <unit id="common.common:Complete" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Complete</source>
@@ -4583,7 +4625,7 @@
         <target>잠금 해제하려면 이전 콘텐츠를 모두 완료하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="yes">
+    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4642,7 +4684,7 @@
         <target>완료된 코스</target>
       </segment>
     </unit>
-    <unit id="common.common:completed_Journey" translate="yes">
+    <unit id="common.common:completed_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4684,6 +4726,7 @@
     <unit id="common.common:Completes" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Completes</source>
@@ -4693,6 +4736,7 @@
     <unit id="common.common:Completion" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Completion</source>
@@ -4742,6 +4786,7 @@
     <unit id="common.common:Configurations" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Configurations</source>
@@ -4751,6 +4796,7 @@
     <unit id="common.common:Confirm" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Confirm</source>
@@ -4877,7 +4923,7 @@
         <target>콘텐츠가 성공적으로 다운로드되었습니다. 내 다운로드에서 장치를 보거나 저장합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4886,7 +4932,7 @@
         <target>Content has been posted to the selected channel(s)</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4895,7 +4941,7 @@
         <target>Content has been posted to the selected channel(s).</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5044,7 +5090,7 @@
         <target>콘텐츠 유형</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_unavailable" translate="yes">
+    <unit id="common.common:Content_unavailable" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5086,6 +5132,7 @@
     <unit id="common.common:Continue" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Continue</source>
@@ -5095,6 +5142,7 @@
     <unit id="common.common:CONTINUE" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>CONTINUE</source>
@@ -5184,6 +5232,7 @@
     <unit id="common.common:Correspondence" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Correspondence</source>
@@ -5213,6 +5262,7 @@
     <unit id="common.common:Country" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Country</source>
@@ -5222,6 +5272,7 @@
     <unit id="common.common:Countrystar_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Country*</source>
@@ -5231,6 +5282,7 @@
     <unit id="common.common:Course" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Course</source>
@@ -5240,6 +5292,7 @@
     <unit id="common.common:course" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>course</source>
@@ -5336,7 +5389,7 @@
         <target>콘텐츠 추가를 시작하기 전에 Pathway 만들기</target>
       </segment>
     </unit>
-    <unit id="common.common:Create_Account" translate="yes">
+    <unit id="common.common:Create_Account" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5405,7 +5458,7 @@
         <target>평생 학습 경험을 위한 계정을 만드십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Journey" translate="yes">
+    <unit id="common.common:created_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5414,7 +5467,7 @@
         <target>created Journey</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Livestream" translate="yes">
+    <unit id="common.common:created_Livestream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5433,7 +5486,7 @@
         <target>만든 날짜</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Pathway" translate="yes">
+    <unit id="common.common:created_Pathway" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5442,7 +5495,7 @@
         <target>created Pathway</target>
       </segment>
     </unit>
-    <unit id="common.common:created_SmartCard" translate="yes">
+    <unit id="common.common:created_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5461,7 +5514,7 @@
         <target>채널 만드는 중...</target>
       </segment>
     </unit>
-    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="yes">
+    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5470,7 +5523,7 @@
         <target>Creating your payment profile for first subscription purchase. Please try again in some time.</target>
       </segment>
     </unit>
-    <unit id="common.common:Creation_Date" translate="yes">
+    <unit id="common.common:Creation_Date" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5552,6 +5605,7 @@
     <unit id="common.common:Curate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Curate</source>
@@ -5701,6 +5755,7 @@
     <unit id="common.common:Current_Year" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Current Year</source>
@@ -5770,6 +5825,7 @@
     <unit id="common.common:Daily" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Daily</source>
@@ -5789,6 +5845,7 @@
     <unit id="common.common:Date" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Date</source>
@@ -5858,6 +5915,7 @@
     <unit id="common.common:Date_Range" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Date Range</source>
@@ -5917,13 +5975,14 @@
     <unit id="common.common:Decline" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Decline</source>
         <target>거절</target>
       </segment>
     </unit>
-    <unit id="common.common:Declined" translate="yes">
+    <unit id="common.common:Declined" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5955,6 +6014,7 @@
     <unit id="common.common:Defer" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Defer</source>
@@ -5974,6 +6034,7 @@
     <unit id="common.common:Delete" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Delete</source>
@@ -6213,6 +6274,7 @@
     <unit id="common.common:Deny" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Deny</source>
@@ -6232,6 +6294,7 @@
     <unit id="common.common:Description" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Description</source>
@@ -6271,6 +6334,7 @@
     <unit id="common.common:Descriptionstar_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Description*</source>
@@ -6287,7 +6351,7 @@
         <target>직함 *</target>
       </segment>
     </unit>
-    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6389,6 +6453,7 @@
     <unit id="common.common:Dismiss" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Dismiss</source>
@@ -6558,6 +6623,7 @@
     <unit id="common.common:Done" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Done</source>
@@ -6574,7 +6640,7 @@
         <target>완료!</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6583,7 +6649,7 @@
         <target>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6592,7 +6658,7 @@
         <target>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6714,6 +6780,7 @@
     <unit id="common.common:Draft" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Draft</source>
@@ -6830,7 +6897,7 @@
         <target>마감일: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Duecln__" translate="yes">
+    <unit id="common.common:Duecln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6842,6 +6909,7 @@
     <unit id="common.common:Duration" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Duration</source>
@@ -6868,7 +6936,7 @@
         <target>기간이 필요합니다</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__pat__ds__pat_" translate="yes">
+    <unit id="common.common:Durationcln__pat__ds__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6877,7 +6945,7 @@
         <target>Duration: %1$@ - %2$@</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__All" translate="yes">
+    <unit id="common.common:Durationcln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6886,7 +6954,7 @@
         <target>Duration: All</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__High_to_Low" translate="yes">
+    <unit id="common.common:Durationcln__High_to_Low" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6895,7 +6963,7 @@
         <target>Duration: High to Low</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__Low_to_High" translate="yes">
+    <unit id="common.common:Durationcln__Low_to_High" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6947,6 +7015,7 @@
     <unit id="common.common:Edit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Edit</source>
@@ -7213,7 +7282,7 @@
         <target>채널을 편집하여 설명을 추가합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Edited" translate="yes">
+    <unit id="common.common:Edited" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -7335,6 +7404,7 @@
     <unit id="common.common:Employed" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Employed</source>
@@ -7504,6 +7574,7 @@
     <unit id="common.common:Enroll" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Enroll</source>
@@ -7543,6 +7614,7 @@
     <unit id="common.common:Enrollments" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Enrollments</source>
@@ -7552,6 +7624,7 @@
     <unit id="common.common:ENROLLMENTS" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>ENROLLMENTS</source>
@@ -8058,7 +8131,7 @@
         <target>배너 위젯의 콘텐츠를 입력합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="yes">
+    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8190,13 +8263,14 @@
     <unit id="common.common:Error" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Error</source>
         <target>오류</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8215,7 +8289,7 @@
         <target>등록을 승인하는 동안 오류가 발생했습니다\n나중에 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="yes">
+    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8354,7 +8428,7 @@
         <target>제출물을 채점하는 동안 오류가 발생했습니다\n나중에 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="yes">
+    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8433,7 +8507,7 @@
         <target>댓글을 게시하는 동안 오류가 발생했습니다\n나중에 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8442,7 +8516,7 @@
         <target>Error posting in group\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8451,7 +8525,7 @@
         <target>Error posting in submission\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8520,7 +8594,7 @@
         <target>등록하는 동안 오류가 발생했습니다\n나중에 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8699,7 +8773,7 @@
         <target>채널의 팔로우를 취소하는 동안 오류가 발생했습니다\n나중에 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8811,6 +8885,7 @@
     <unit id="common.common:Experience" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Experience</source>
@@ -8830,6 +8905,7 @@
     <unit id="common.common:Experiencestar_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Experience*</source>
@@ -8956,7 +9032,7 @@
         <target>네트워크 상태를 확인하지 못했습니다. 인터넷 연결을 확인하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="yes">
+    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8998,6 +9074,7 @@
     <unit id="common.common:Failed" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Failed</source>
@@ -9007,6 +9084,7 @@
     <unit id="common.common:FAILED" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>FAILED</source>
@@ -9033,7 +9111,7 @@
         <target>직업 추가에 실패했습니다. 다시 시도해주십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="yes">
+    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9042,7 +9120,7 @@
         <target>Failed to establish communication in Live streaming. Please check your network connection and try again.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="yes">
+    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9051,7 +9129,7 @@
         <target>Failed to Exit Channel: Request Rejected</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9060,7 +9138,7 @@
         <target>Failed to get user attribtues from the server. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9069,7 +9147,7 @@
         <target>Failed to join Live Stream RTC channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9078,7 +9156,7 @@
         <target>Failed to join Real-Time Messaging Channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9107,7 +9185,7 @@
         <target>거부하지 못했습니다. 다시 시도하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9169,6 +9247,7 @@
     <unit id="common.common:Failure" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Failure</source>
@@ -9188,6 +9267,7 @@
     <unit id="common.common:Featured" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Featured</source>
@@ -9214,7 +9294,7 @@
         <target>추천 콘텐츠가 여기에 표시됩니다</target>
       </segment>
     </unit>
-    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="yes">
+    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9236,6 +9316,7 @@
     <unit id="common.common:Female" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Female</source>
@@ -9245,6 +9326,7 @@
     <unit id="common.common:file" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>file</source>
@@ -9254,6 +9336,7 @@
     <unit id="common.common:File" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>File</source>
@@ -9300,7 +9383,7 @@
         <target>필터링 기준</target>
       </segment>
     </unit>
-    <unit id="common.common:Filters_applied_successfully" translate="yes">
+    <unit id="common.common:Filters_applied_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9362,6 +9445,7 @@
     <unit id="common.common:First_Name" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>First Name</source>
@@ -9661,6 +9745,7 @@
     <unit id="common.common:Get_Ready" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Get Ready</source>
@@ -9670,13 +9755,14 @@
     <unit id="common.common:Get_Started" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Get Started</source>
         <target>시작</target>
       </segment>
     </unit>
-    <unit id="common.common:Get_this_course_plus__pd__others" translate="yes">
+    <unit id="common.common:Get_this_course_plus__pd__others" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9815,7 +9901,7 @@
         <target>고급 설정으로 이동</target>
       </segment>
     </unit>
-    <unit id="common.common:Goto_My_Learning_Plan" translate="yes">
+    <unit id="common.common:Goto_My_Learning_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9827,6 +9913,7 @@
     <unit id="common.common:Government" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Government</source>
@@ -9916,6 +10003,7 @@
     <unit id="common.common:Group" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Group</source>
@@ -10085,6 +10173,7 @@
     <unit id="common.common:Groups" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Groups</source>
@@ -10094,6 +10183,7 @@
     <unit id="common.common:groups" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>groups</source>
@@ -10130,7 +10220,7 @@
         <target>내가 관리자인 그룹</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__pzd_" translate="yes">
+    <unit id="common.common:Groupscln__pzd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10139,7 +10229,7 @@
         <target>Groups: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__All" translate="yes">
+    <unit id="common.common:Groupscln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10161,6 +10251,7 @@
     <unit id="common.common:Handle" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Handle</source>
@@ -10203,8 +10294,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type &quot;menu&quot;. Please try it.</source>
-        <target>안녕하세요, 저는 %@이고 EdCast의 학습 조교입니다. 학습 목표를 달성하도록 도와 드릴 수 있습니다. 내가 무엇을 도와 드릴 수 있는지 확인하려면 언제든지 &quot;메뉴&quot;라고 말하거나 입력하세요. 시도해주세요.</target>
+        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type \&quot;menu\&quot;. Please try it.</source>
+        <target>안녕하세요, 저는 %@이고 EdCast의 학습 조교입니다. 학습 목표를 달성하도록 도와 드릴 수 있습니다. 내가 무엇을 도와 드릴 수 있는지 확인하려면 언제든지 \&quot;메뉴\&quot;라고 말하거나 입력하세요. 시도해주세요.</target>
       </segment>
     </unit>
     <unit id="common.common:Help_us_understand_the_issuestar_" translate="yes">
@@ -10220,6 +10311,7 @@
     <unit id="common.common:here" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>here</source>
@@ -10246,7 +10338,7 @@
         <target>안녕하시죠! 신나게 시작해 볼까요?</target>
       </segment>
     </unit>
-    <unit id="common.common:Hi" translate="yes">
+    <unit id="common.common:Hi" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10268,6 +10360,7 @@
     <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
@@ -10287,6 +10380,7 @@
     <unit id="common.common:Hide" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hide</source>
@@ -10296,6 +10390,7 @@
     <unit id="common.common:Home" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Home</source>
@@ -10305,6 +10400,7 @@
     <unit id="common.common:hour" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hour</source>
@@ -10314,6 +10410,7 @@
     <unit id="common.common:hours" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hours</source>
@@ -10323,6 +10420,7 @@
     <unit id="common.common:Hours" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hours</source>
@@ -10339,7 +10437,7 @@
         <target>하우스 번호, 건물</target>
       </segment>
     </unit>
-    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="yes">
+    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10351,6 +10449,7 @@
     <unit id="common.common:hr" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hr</source>
@@ -10360,6 +10459,7 @@
     <unit id="common.common:hrs" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>hrs</source>
@@ -10506,7 +10606,7 @@
         <target>[예]를 선택하면 선택 영역이 손실됩니다</target>
       </segment>
     </unit>
-    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="yes">
+    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10615,7 +10715,7 @@
         <target>메시지 포함하기</target>
       </segment>
     </unit>
-    <unit id="common.common:Included_in_your_subscription" translate="yes">
+    <unit id="common.common:Included_in_your_subscription" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10637,6 +10737,7 @@
     <unit id="common.common:Individual" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Individual</source>
@@ -10656,6 +10757,7 @@
     <unit id="common.common:individuals" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>individuals</source>
@@ -10665,6 +10767,7 @@
     <unit id="common.common:Individuals" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Individuals</source>
@@ -10684,6 +10787,7 @@
     <unit id="common.common:Info" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Info</source>
@@ -10726,8 +10830,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; in &apos;%@&apos;</source>
-        <target>입력한 URL이 안전하지 않습니다. &apos;%@&apos;에 &apos;https://&apos;를 사용하십시오</target>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; in &apos;%@&apos;</source>
+        <target>입력한 URL이 안전하지 않습니다. &apos;%@&apos;에 \&apos;https://\&apos;를 사용하십시오</target>
       </segment>
     </unit>
     <unit id="common.common:Inserted_URL_is_not_securecomma__use_apt_httpscln_bs_bs_apt__instead_of_apt_httpcln_bs_bs_apt_dot_" translate="yes">
@@ -10736,8 +10840,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; instead of &apos;http://&apos;.</source>
-        <target>입력한 URL이 안전하지 않습니다. &apos;http://&apos; 대신에 &apos;https://&apos;를 사용하십시오.</target>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; instead of &apos;http://&apos;.</source>
+        <target>입력한 URL이 안전하지 않습니다. &apos;http://&apos; 대신에 \&apos;https://\&apos;를 사용하십시오.</target>
       </segment>
     </unit>
     <unit id="common.common:Insufficient_fund" translate="yes">
@@ -10753,6 +10857,7 @@
     <unit id="common.common:intermediate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>intermediate</source>
@@ -10762,6 +10867,7 @@
     <unit id="common.common:Intermediate" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Intermediate</source>
@@ -10788,7 +10894,7 @@
         <target>내부 내용</target>
       </segment>
     </unit>
-    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="yes">
+    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10807,7 +10913,7 @@
         <target>인터넷 연결됨. 다시 오신 것을 환영합니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:Intune_Logs" translate="yes">
+    <unit id="common.common:Intune_Logs" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10816,7 +10922,7 @@
         <target>Intune Logs</target>
       </segment>
     </unit>
-    <unit id="common.common:INTUNE_LOGS" translate="yes">
+    <unit id="common.common:INTUNE_LOGS" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10845,7 +10951,7 @@
         <target>잘못된 파일 스택 API 및 비밀 키입니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="yes">
+    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10854,7 +10960,7 @@
         <target>Invalid Transaction. Please contact admin.</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_user_information_responsedot_" translate="yes">
+    <unit id="common.common:Invalid_user_information_responsedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11036,6 +11142,7 @@
     <unit id="common.common:Job_Role" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Job Role</source>
@@ -11055,6 +11162,7 @@
     <unit id="common.common:Job_Title" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Job Title</source>
@@ -11074,6 +11182,7 @@
     <unit id="common.common:Join" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Join</source>
@@ -11100,7 +11209,7 @@
         <target>&apos;검색&apos; 페이지에서 관심 있는 그룹을 가입하면 여기에서 볼 수 있습니다. 지금 탐색을 시작하십시오!</target>
       </segment>
     </unit>
-    <unit id="common.common:Join_Live_Stream" translate="yes">
+    <unit id="common.common:Join_Live_Stream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11132,6 +11241,7 @@
     <unit id="common.common:Join_with" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Join with</source>
@@ -11261,6 +11371,7 @@
     <unit id="common.common:Language" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Language</source>
@@ -11290,6 +11401,7 @@
     <unit id="common.common:Languages" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Languages</source>
@@ -11399,6 +11511,7 @@
     <unit id="common.common:Last_Name" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Last Name</source>
@@ -11448,6 +11561,7 @@
     <unit id="common.common:last_year" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>last year</source>
@@ -11497,6 +11611,7 @@
     <unit id="common.common:Leader" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Leader</source>
@@ -11513,7 +11628,7 @@
         <target>리더보드</target>
       </segment>
     </unit>
-    <unit id="common.common:Leaderboard_Position" translate="yes">
+    <unit id="common.common:Leaderboard_Position" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11525,6 +11640,7 @@
     <unit id="common.common:Leaders" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Leaders</source>
@@ -11534,6 +11650,7 @@
     <unit id="common.common:LEAP_AHEAD" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>LEAP AHEAD</source>
@@ -11543,6 +11660,7 @@
     <unit id="common.common:LEARN" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>LEARN</source>
@@ -11552,6 +11670,7 @@
     <unit id="common.common:Learn" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Learn</source>
@@ -11691,6 +11810,7 @@
     <unit id="common.common:Lectures" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Lectures</source>
@@ -11780,6 +11900,7 @@
     <unit id="common.common:Level" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Level</source>
@@ -11819,6 +11940,7 @@
     <unit id="common.common:Like" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Like</source>
@@ -11878,6 +12000,7 @@
     <unit id="common.common:link" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>link</source>
@@ -11964,7 +12087,7 @@
         <target>라이브 이벤트</target>
       </segment>
     </unit>
-    <unit id="common.common:Live_Event_already_done_on_pat_" translate="yes">
+    <unit id="common.common:Live_Event_already_done_on_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12046,6 +12169,7 @@
     <unit id="common.common:Location" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Location</source>
@@ -12055,6 +12179,7 @@
     <unit id="common.common:Locations" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Locations</source>
@@ -12101,7 +12226,7 @@
         <target>Enterprise SSO로 로그인</target>
       </segment>
     </unit>
-    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="yes">
+    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12153,13 +12278,14 @@
     <unit id="common.common:Male" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Male</source>
         <target>남성</target>
       </segment>
     </unit>
-    <unit id="common.common:Manage_Blocked_Users" translate="yes">
+    <unit id="common.common:Manage_Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12448,7 +12574,7 @@
         <target>회의 세부 정보는 비워 둘 수 없습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Meeting_linkcln_" translate="yes">
+    <unit id="common.common:Meeting_linkcln_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12460,6 +12586,7 @@
     <unit id="common.common:member" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>member</source>
@@ -12469,6 +12596,7 @@
     <unit id="common.common:Members" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Members</source>
@@ -12578,6 +12706,7 @@
     <unit id="common.common:min" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>min</source>
@@ -12587,6 +12716,7 @@
     <unit id="common.common:mins" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>mins</source>
@@ -12596,6 +12726,7 @@
     <unit id="common.common:minute" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>minute</source>
@@ -12632,7 +12763,7 @@
         <target>Aadhaar에 따른 모바일</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_number_not_saved_successfully" translate="yes">
+    <unit id="common.common:Mobile_number_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12641,7 +12772,7 @@
         <target>Mobile number not saved successfully</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_Numberstar_" translate="yes">
+    <unit id="common.common:Mobile_Numberstar_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12663,6 +12794,7 @@
     <unit id="common.common:Months" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Months</source>
@@ -12672,6 +12804,7 @@
     <unit id="common.common:MORE" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>MORE</source>
@@ -12788,7 +12921,7 @@
         <target>나의 채널</target>
       </segment>
     </unit>
-    <unit id="common.common:My_Content" translate="yes">
+    <unit id="common.common:My_Content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13000,6 +13133,7 @@
     <unit id="common.common:Name" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Name</source>
@@ -13019,13 +13153,14 @@
     <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
         <target>이름에는 다음 문자를 포함할 수 없습니다: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</target>
       </segment>
     </unit>
-    <unit id="common.common:nameat_teamdot_com" translate="yes">
+    <unit id="common.common:nameat_teamdot_com" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13097,6 +13232,7 @@
     <unit id="common.common:News" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>News</source>
@@ -13106,6 +13242,7 @@
     <unit id="common.common:Next" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Next</source>
@@ -13232,7 +13369,7 @@
         <target>할당 없음</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13241,7 +13378,7 @@
         <target>No attendees have been approved for attending this live event</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13280,7 +13417,7 @@
         <target>현재 표시할 배지가 없음</target>
       </segment>
     </unit>
-    <unit id="common.common:No_blocked_users_found" translate="yes">
+    <unit id="common.common:No_blocked_users_found" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13389,7 +13526,7 @@
         <target>팔로우한 채널 없음</target>
       </segment>
     </unit>
-    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="yes">
+    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13548,7 +13685,7 @@
         <target>추천 콘텐츠 없음</target>
       </segment>
     </unit>
-    <unit id="common.common:No_filters_applied" translate="yes">
+    <unit id="common.common:No_filters_applied" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13697,7 +13834,7 @@
         <target>원장을 찾을 수 없습니다</target>
       </segment>
     </unit>
-    <unit id="common.common:No_Level" translate="yes">
+    <unit id="common.common:No_Level" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13836,7 +13973,7 @@
         <target>아직 경로 없음</target>
       </segment>
     </unit>
-    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="yes">
+    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14235,7 +14372,7 @@
         <target>멤버를 현재 제거할 수 없습니다. 나중에 다시 시도하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="yes">
+    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14254,7 +14391,7 @@
         <target>사용 불가능</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="yes">
+    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14273,7 +14410,7 @@
         <target>시작 안 함</target>
       </segment>
     </unit>
-    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="yes">
+    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14305,6 +14442,7 @@
     <unit id="common.common:Notifications" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Notifications</source>
@@ -14394,6 +14532,7 @@
     <unit id="common.common:Occupation" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Occupation</source>
@@ -14403,6 +14542,7 @@
     <unit id="common.common:Occurence" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Occurence</source>
@@ -14422,6 +14562,7 @@
     <unit id="common.common:Off" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Off</source>
@@ -14451,6 +14592,7 @@
     <unit id="common.common:OK" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -14460,6 +14602,7 @@
     <unit id="common.common:Ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Ok</source>
@@ -14469,6 +14612,7 @@
     <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>ok</source>
@@ -14478,6 +14622,7 @@
     <unit id="common.common:Okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Okay</source>
@@ -14487,6 +14632,7 @@
     <unit id="common.common:On" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>On</source>
@@ -14563,7 +14709,7 @@
         <target>URL에서는 2048자만 지원됩니다</target>
       </segment>
     </unit>
-    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="yes">
+    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14585,6 +14731,7 @@
     <unit id="common.common:Oops" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Oops</source>
@@ -14604,6 +14751,7 @@
     <unit id="common.common:Oopsnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Oops!</source>
@@ -14650,7 +14798,7 @@
         <target>오픈 퀴즈</target>
       </segment>
     </unit>
-    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="yes">
+    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14682,6 +14830,7 @@
     <unit id="common.common:Options" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Options</source>
@@ -14691,6 +14840,7 @@
     <unit id="common.common:OR" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OR</source>
@@ -14700,6 +14850,7 @@
     <unit id="common.common:Order_By" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Order By</source>
@@ -14709,6 +14860,7 @@
     <unit id="common.common:Organization" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Organization</source>
@@ -14718,6 +14870,7 @@
     <unit id="common.common:Organizations" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Organizations</source>
@@ -14727,6 +14880,7 @@
     <unit id="common.common:Other" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Other</source>
@@ -14753,7 +14907,7 @@
         <target>기타 공개 그룹</target>
       </segment>
     </unit>
-    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="yes">
+    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14785,6 +14939,7 @@
     <unit id="common.common:Overview" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Overview</source>
@@ -14794,6 +14949,7 @@
     <unit id="common.common:Pace" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Pace</source>
@@ -14813,6 +14969,7 @@
     <unit id="common.common:Paid" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Paid</source>
@@ -14892,6 +15049,7 @@
     <unit id="common.common:Password" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Password</source>
@@ -14908,7 +15066,7 @@
         <target>암호 *</target>
       </segment>
     </unit>
-    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="yes">
+    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15060,6 +15218,7 @@
     <unit id="common.common:Pathways" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Pathways</source>
@@ -15169,6 +15328,7 @@
     <unit id="common.common:People" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>People</source>
@@ -15218,6 +15378,7 @@
     <unit id="common.common:per" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>per</source>
@@ -15237,6 +15398,7 @@
     <unit id="common.common:period" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>period</source>
@@ -15266,6 +15428,7 @@
     <unit id="common.common:Photo" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Photo</source>
@@ -15345,6 +15508,7 @@
     <unit id="common.common:Pitches" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Pitches</source>
@@ -15371,7 +15535,7 @@
         <target>지금 재생</target>
       </segment>
     </unit>
-    <unit id="common.common:Playback_Speed" translate="yes">
+    <unit id="common.common:Playback_Speed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15520,7 +15684,7 @@
         <target>계속 진행하려면 일반 약관을 클릭하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
+    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15679,7 +15843,7 @@
         <target>유효한 종료 시간을 입력해주십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="yes">
+    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16068,7 +16232,7 @@
         <target>고용주의 이름을 입력해주십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_login_from_HIVE_app" translate="yes">
+    <unit id="common.common:Please_login_from_HIVE_app" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16177,7 +16341,7 @@
         <target>Pathway에 대한 설명을 추가해 주십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_provide_any_additional_details" translate="yes">
+    <unit id="common.common:Please_provide_any_additional_details" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16676,7 +16840,7 @@
         <target>다시 시도하십시오. 조용한 장소로 이동하면 도움이 될 수 있습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="yes">
+    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16715,7 +16879,7 @@
         <target>위의 검색 필드를 사용하여 학습하려는 토픽을 선택하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_number" translate="yes">
+    <unit id="common.common:Please_verify_the_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16724,7 +16888,7 @@
         <target>Please verify the number</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_numberdot_" translate="yes">
+    <unit id="common.common:Please_verify_the_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16806,6 +16970,7 @@
     <unit id="common.common:poll" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>poll</source>
@@ -16815,6 +16980,7 @@
     <unit id="common.common:Poll" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Poll</source>
@@ -17014,13 +17180,14 @@
     <unit id="common.common:Price" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Price</source>
         <target>가격</target>
       </segment>
     </unit>
-    <unit id="common.common:Price_excluding_taxes" translate="yes">
+    <unit id="common.common:Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17089,7 +17256,7 @@
         <target>프라이빗 카드</target>
       </segment>
     </unit>
-    <unit id="common.common:Private_Channel" translate="yes">
+    <unit id="common.common:Private_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17121,6 +17288,7 @@
     <unit id="common.common:Processing" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Processing</source>
@@ -17137,7 +17305,7 @@
         <target>프로필</target>
       </segment>
     </unit>
-    <unit id="common.common:Profile_creation_in_progress" translate="yes">
+    <unit id="common.common:Profile_creation_in_progress" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17209,6 +17377,7 @@
     <unit id="common.common:Promote" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Promote</source>
@@ -17268,13 +17437,14 @@
     <unit id="common.common:Public" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Public</source>
         <target>공개</target>
       </segment>
     </unit>
-    <unit id="common.common:Public_Channel" translate="yes">
+    <unit id="common.common:Public_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17296,6 +17466,7 @@
     <unit id="common.common:Publish" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Publish</source>
@@ -17362,7 +17533,7 @@
         <target>콘텐츠 구매</target>
       </segment>
     </unit>
-    <unit id="common.common:Purchase_options" translate="yes">
+    <unit id="common.common:Purchase_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17404,6 +17575,7 @@
     <unit id="common.common:Quarter" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Quarter</source>
@@ -17413,6 +17585,7 @@
     <unit id="common.common:Question" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Question</source>
@@ -17422,6 +17595,7 @@
     <unit id="common.common:Quiz" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Quiz</source>
@@ -17431,6 +17605,7 @@
     <unit id="common.common:quiz" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>quiz</source>
@@ -17480,13 +17655,14 @@
     <unit id="common.common:RANGE" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>RANGE</source>
         <target>범위</target>
       </segment>
     </unit>
-    <unit id="common.common:Rate" translate="yes">
+    <unit id="common.common:Rate" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17498,13 +17674,14 @@
     <unit id="common.common:Rating" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Rating</source>
         <target>평가</target>
       </segment>
     </unit>
-    <unit id="common.common:Ratings" translate="yes">
+    <unit id="common.common:Ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17606,6 +17783,7 @@
     <unit id="common.common:Recommend" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Recommend</source>
@@ -17785,6 +17963,7 @@
     <unit id="common.common:Register" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Register</source>
@@ -17821,7 +18000,7 @@
         <target>등록됨</target>
       </segment>
     </unit>
-    <unit id="common.common:Registeredcln__" translate="yes">
+    <unit id="common.common:Registeredcln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17830,7 +18009,7 @@
         <target>Registered: </target>
       </segment>
     </unit>
-    <unit id="common.common:Registration_closeddot_" translate="yes">
+    <unit id="common.common:Registration_closeddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17912,6 +18091,7 @@
     <unit id="common.common:Reject" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Reject</source>
@@ -17978,7 +18158,7 @@
         <target>LiveStream에 다시 참여하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:Relevance" translate="yes">
+    <unit id="common.common:Relevance" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17987,7 +18167,7 @@
         <target>Relevance</target>
       </segment>
     </unit>
-    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17999,6 +18179,7 @@
     <unit id="common.common:Remark" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Remark</source>
@@ -18008,6 +18189,7 @@
     <unit id="common.common:Remarks" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Remarks</source>
@@ -18034,7 +18216,7 @@
         <target>설명을 업데이트했습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="yes">
+    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18056,13 +18238,14 @@
     <unit id="common.common:Remove" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Remove</source>
         <target>제거</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_pat_" translate="yes">
+    <unit id="common.common:Remove_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18081,7 +18264,7 @@
         <target>콘텐츠 제거 및 할당 취소</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_and_Unshare_content" translate="yes">
+    <unit id="common.common:Remove_and_Unshare_content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18100,7 +18283,7 @@
         <target>채널에서 제거</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_from_Featured" translate="yes">
+    <unit id="common.common:Remove_from_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18119,7 +18302,7 @@
         <target>경로에서 제거</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_Member" translate="yes">
+    <unit id="common.common:Remove_Member" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18151,6 +18334,7 @@
     <unit id="common.common:Report" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Report</source>
@@ -18170,6 +18354,7 @@
     <unit id="common.common:Report_it" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Report it</source>
@@ -18179,6 +18364,7 @@
     <unit id="common.common:Request" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Request</source>
@@ -18208,6 +18394,7 @@
     <unit id="common.common:Required" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Required</source>
@@ -18307,6 +18494,7 @@
     <unit id="common.common:Responses" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Responses</source>
@@ -18356,6 +18544,7 @@
     <unit id="common.common:Restrict_To" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Restrict To</source>
@@ -18365,6 +18554,7 @@
     <unit id="common.common:Restrict_to" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Restrict to</source>
@@ -18374,6 +18564,7 @@
     <unit id="common.common:Results" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Results</source>
@@ -18386,8 +18577,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Results for &quot;%@&quot;</source>
-        <target>&quot;%@&quot;에 대한 결과</target>
+        <source>Results for \&quot;%@\&quot;</source>
+        <target>\&quot;%@\&quot;에 대한 결과</target>
       </segment>
     </unit>
     <unit id="common.common:Resultscln__" translate="yes">
@@ -18430,7 +18621,7 @@
         <target>Pitch 분석 다시하기</target>
       </segment>
     </unit>
-    <unit id="common.common:Role" translate="yes">
+    <unit id="common.common:Role" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18462,6 +18653,7 @@
     <unit id="common.common:Save" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Save</source>
@@ -18521,6 +18713,7 @@
     <unit id="common.common:Schedule" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Schedule</source>
@@ -18590,6 +18783,7 @@
     <unit id="common.common:Score" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Score</source>
@@ -18669,6 +18863,7 @@
     <unit id="common.common:Search" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Search</source>
@@ -18878,6 +19073,7 @@
     <unit id="common.common:Seats" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Seats</source>
@@ -18924,7 +19120,7 @@
         <target>첨부 파일 보기</target>
       </segment>
     </unit>
-    <unit id="common.common:See_other_plans" translate="yes">
+    <unit id="common.common:See_other_plans" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18936,6 +19132,7 @@
     <unit id="common.common:Select" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Select</source>
@@ -19022,7 +19219,7 @@
         <target>관련 기술 선택</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Badge_Icon" translate="yes">
+    <unit id="common.common:Select_Badge_Icon" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19271,7 +19468,7 @@
         <target>직업 선택</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Skill" translate="yes">
+    <unit id="common.common:Select_Skill" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19440,7 +19637,7 @@
         <target>선택 항목: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Groups" translate="yes">
+    <unit id="common.common:Selected_Groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19449,7 +19646,7 @@
         <target>Selected Groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Individuals" translate="yes">
+    <unit id="common.common:Selected_Individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19611,6 +19808,7 @@
     <unit id="common.common:Settings" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Settings</source>
@@ -19620,6 +19818,7 @@
     <unit id="common.common:Share" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Share</source>
@@ -19646,7 +19845,7 @@
         <target>자격증 공유</target>
       </segment>
     </unit>
-    <unit id="common.common:Share_Content_withdt1_" translate="yes">
+    <unit id="common.common:Share_Content_withdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19868,6 +20067,7 @@
     <unit id="common.common:Show_me" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Show me</source>
@@ -19997,6 +20197,7 @@
     <unit id="common.common:Skill" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Skill</source>
@@ -20063,7 +20264,7 @@
         <target>스킬이 성공적으로 업데이트되었습니다</target>
       </segment>
     </unit>
-    <unit id="common.common:Skillcln__pat_" translate="yes">
+    <unit id="common.common:Skillcln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20095,6 +20296,7 @@
     <unit id="common.common:Skills" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Skills</source>
@@ -20191,7 +20393,7 @@
         <target>스마트카드</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20200,7 +20402,7 @@
         <target>SmartCard added to the group&apos;s featured section.</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20219,7 +20421,7 @@
         <target>SmartCard 공동 작업자</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20271,6 +20473,7 @@
     <unit id="common.common:Social" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Social</source>
@@ -20407,7 +20610,7 @@
         <target>죄송합니다. 게시하려는 콘텐츠가 승인되지 않은 웹 사이트에서 얻은 것이거나 승인되지 않은 단어를 포함하고 있습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20416,7 +20619,7 @@
         <target>Sorry, this content is currently unavailable for purchase on your device</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20445,7 +20648,7 @@
         <target>죄송합니다. 공유 링크를 현재 만들 수 없습니다. 나중에 다시 시도하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20454,7 +20657,7 @@
         <target>Sorry, We encountered an issue while trying to send a message to another participant in the live stream.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20496,6 +20699,7 @@
     <unit id="common.common:Sort" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Sort</source>
@@ -20585,6 +20789,7 @@
     <unit id="common.common:Start" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Start</source>
@@ -20714,6 +20919,7 @@
     <unit id="common.common:Started" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Started</source>
@@ -20723,6 +20929,7 @@
     <unit id="common.common:started" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>started</source>
@@ -20852,6 +21059,7 @@
     <unit id="common.common:Statistics" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Statistics</source>
@@ -20861,6 +21069,7 @@
     <unit id="common.common:Status" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Status</source>
@@ -20917,7 +21126,7 @@
         <target>4단계: 평가를 통과하면 과정-평가 쌍이 아래에 원장 항목으로 표시됩니다. &apos;GoI incentive 신청&apos;을 클릭합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20949,6 +21158,7 @@
     <unit id="common.common:Stop" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Stop</source>
@@ -21048,6 +21258,7 @@
     <unit id="common.common:Submit" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Submit</source>
@@ -21057,6 +21268,7 @@
     <unit id="common.common:Submitted" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Submitted</source>
@@ -21066,6 +21278,7 @@
     <unit id="common.common:submitted" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>submitted</source>
@@ -21105,13 +21318,14 @@
     <unit id="common.common:Subscribe" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Subscribe</source>
         <target>구독</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscribed" translate="yes">
+    <unit id="common.common:Subscribed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21123,13 +21337,14 @@
     <unit id="common.common:Subscription" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Subscription</source>
         <target>구독</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_already_purchased" translate="yes">
+    <unit id="common.common:Subscription_already_purchased" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21148,7 +21363,7 @@
         <target>구독에 실패했습니다. 나중에 다시 시도하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_not_available" translate="yes">
+    <unit id="common.common:Subscription_not_available" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21157,7 +21372,7 @@
         <target>Subscription not available</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_Plan" translate="yes">
+    <unit id="common.common:Subscription_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21169,6 +21384,7 @@
     <unit id="common.common:Subscriptions" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Subscriptions</source>
@@ -21178,6 +21394,7 @@
     <unit id="common.common:Success" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Success</source>
@@ -21204,7 +21421,7 @@
         <target>성공적으로</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21213,7 +21430,7 @@
         <target>Successfully assigned to </target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21222,7 +21439,7 @@
         <target>Successfully assigned to %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21231,7 +21448,7 @@
         <target>Successfully assigned to %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21290,7 +21507,7 @@
         <target>성공적으로 보고됨</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21299,7 +21516,7 @@
         <target>Successfully shared with %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21308,7 +21525,7 @@
         <target>Successfully shared with %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21347,7 +21564,7 @@
         <target>추천 그룹</target>
       </segment>
     </unit>
-    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="yes">
+    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21416,7 +21633,7 @@
         <target>팀 변경</target>
       </segment>
     </unit>
-    <unit id="common.common:Switch_to_this_plan" translate="yes">
+    <unit id="common.common:Switch_to_this_plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21428,6 +21645,7 @@
     <unit id="common.common:Switched_into" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Switched into</source>
@@ -21447,6 +21665,7 @@
     <unit id="common.common:Tags" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Tags</source>
@@ -21493,7 +21712,7 @@
         <target>스마트카드의 &apos;책갈피&apos; 아이콘을 탭해서 책갈피 목록에 추가하세요.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
+    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21502,7 +21721,7 @@
         <target>TBD Your credit card was declined on 15th September, 2022. Please edit your information to renew the subscription.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_credit_card_was_declineddot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
+    <unit id="common.common:TBD_Your_credit_card_was_declineddot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21511,7 +21730,7 @@
         <target>TBD Your credit card was declined. Please edit your information to renew the subscription.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_subscription_ended_on_15th_Augustcomma__2022dot_" translate="yes">
+    <unit id="common.common:TBD_Your_subscription_ended_on_15th_Augustcomma__2022dot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21553,6 +21772,7 @@
     <unit id="common.common:Team_Members" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Team Members</source>
@@ -21599,7 +21819,7 @@
         <target>기술적인 문제로 콘텐츠가 열리지 않음</target>
       </segment>
     </unit>
-    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="yes">
+    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21688,7 +21908,7 @@
         <target>LiveStream에 참여해주셔서 감사합니다. 해당 비디오 재생은 재생 수요를 위해 곧 사용할 수 있습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="yes">
+    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21917,7 +22137,7 @@
         <target>QR 코드가 이메일로 전송됐습니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="yes">
+    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21936,7 +22156,7 @@
         <target>이 비디오의 다시보기는 곧 %@에서 볼 수 있습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:The_request_is_rejecteddot_" translate="yes">
+    <unit id="common.common:The_request_is_rejecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22045,7 +22265,7 @@
         <target>사용할 수 있는 카드가 없습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="yes">
+    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22054,7 +22274,7 @@
         <target>There are no bookmarked cards available.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="yes">
+    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22083,7 +22303,7 @@
         <target>아직 코스가 없습니다. 나중에 다시 확인하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22092,7 +22312,7 @@
         <target>There are no more Groups assigned.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22421,7 +22641,7 @@
         <target>콘텐츠의 QR 코드: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
+    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22430,7 +22650,7 @@
         <target>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
       </segment>
     </unit>
-    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22479,7 +22699,7 @@
         <target>이 조직은 등록 할 수 없습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22498,7 +22718,7 @@
         <target>이번 분기</target>
       </segment>
     </unit>
-    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22537,7 +22757,7 @@
         <target>이 스마트 카드 게시자 : %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="yes">
+    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22546,7 +22766,7 @@
         <target>This subscription is already purchased. You can check more details in My Profile section</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="yes">
+    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22625,7 +22845,7 @@
         <target>이를 통해 새로 가입한 멤버에게 지난 모든 그룹 과제를 자동으로 할당합니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22634,7 +22854,7 @@
         <target>This will send you to a secured environment, where you can complete your transaction.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22646,6 +22866,7 @@
     <unit id="common.common:Time" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Time</source>
@@ -22685,6 +22906,7 @@
     <unit id="common.common:Title" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Title</source>
@@ -22724,6 +22946,7 @@
     <unit id="common.common:Titlestar_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Title*</source>
@@ -22740,7 +22963,7 @@
         <target>받는 이</target>
       </segment>
     </unit>
-    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
+    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22772,6 +22995,7 @@
     <unit id="common.common:Today" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Today</source>
@@ -22781,6 +23005,7 @@
     <unit id="common.common:Tomorrow" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Tomorrow</source>
@@ -22820,6 +23045,7 @@
     <unit id="common.common:Topic" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Topic</source>
@@ -22839,6 +23065,7 @@
     <unit id="common.common:Topics" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Topics</source>
@@ -22935,7 +23162,7 @@
         <target>여론조사한 총 투표수: </target>
       </segment>
     </unit>
-    <unit id="common.common:Totalcln__pd_" translate="yes">
+    <unit id="common.common:Totalcln__pd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22947,6 +23174,7 @@
     <unit id="common.common:Trainer" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Trainer</source>
@@ -23026,6 +23254,7 @@
     <unit id="common.common:TRENDING" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>TRENDING</source>
@@ -23075,6 +23304,7 @@
     <unit id="common.common:Tuning" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Tuning</source>
@@ -23084,6 +23314,7 @@
     <unit id="common.common:Type" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Type</source>
@@ -23153,6 +23384,7 @@
     <unit id="common.common:Ughnot_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Ugh!</source>
@@ -23162,6 +23394,7 @@
     <unit id="common.common:Uh_Oh" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Uh Oh</source>
@@ -23418,7 +23651,7 @@
         <target>처리할 수 없습니다. 잠시 후 다시 시도하십시오</target>
       </segment>
     </unit>
-    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="yes">
+    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23457,7 +23690,7 @@
         <target>업데이트할 수 없습니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:Unassign" translate="yes">
+    <unit id="common.common:Unassign" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23466,7 +23699,7 @@
         <target>Unassign</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock" translate="yes">
+    <unit id="common.common:Unblock" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23475,7 +23708,7 @@
         <target>Unblock</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock_pat_" translate="yes">
+    <unit id="common.common:Unblock_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23494,7 +23727,7 @@
         <target>책갈피 제거</target>
       </segment>
     </unit>
-    <unit id="common.common:uncompleted" translate="yes">
+    <unit id="common.common:uncompleted" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23516,6 +23749,7 @@
     <unit id="common.common:Unemployed" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Unemployed</source>
@@ -23592,7 +23826,7 @@
         <target>알 수 없는 카드 유형</target>
       </segment>
     </unit>
-    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="yes">
+    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23611,7 +23845,7 @@
         <target>경로와 여정을 완료해서 배지를 잠금 해제하세요</target>
       </segment>
     </unit>
-    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="yes">
+    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23640,7 +23874,7 @@
         <target>등록 취소</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare" translate="yes">
+    <unit id="common.common:Unshare" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23649,7 +23883,7 @@
         <target>Unshare</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare_Content_fromdt1_" translate="yes">
+    <unit id="common.common:Unshare_Content_fromdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23691,6 +23925,7 @@
     <unit id="common.common:Up_Next" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Up Next</source>
@@ -23927,7 +24162,7 @@
         <target>썸네일 업로드 *</target>
       </segment>
     </unit>
-    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="yes">
+    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24059,6 +24294,7 @@
     <unit id="common.common:Verified" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Verified</source>
@@ -24068,6 +24304,7 @@
     <unit id="common.common:Verify" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Verify</source>
@@ -24087,6 +24324,7 @@
     <unit id="common.common:Version" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Version</source>
@@ -24146,6 +24384,7 @@
     <unit id="common.common:View" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>View</source>
@@ -24172,7 +24411,7 @@
         <target>모두 보기</target>
       </segment>
     </unit>
-    <unit id="common.common:View_Attendees" translate="yes">
+    <unit id="common.common:View_Attendees" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24394,6 +24633,7 @@
     <unit id="common.common:Viewers" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Viewers</source>
@@ -24463,6 +24703,7 @@
     <unit id="common.common:Vote" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Vote</source>
@@ -24569,7 +24810,7 @@
         <target>현재 최대 공동 방송 자 수에 도달했습니다. 나중에 다시 시도하세요.</target>
       </segment>
     </unit>
-    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="yes">
+    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24671,6 +24912,7 @@
     <unit id="common.common:Weekly" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Weekly</source>
@@ -24687,7 +24929,7 @@
         <target>환영합니다</target>
       </segment>
     </unit>
-    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="yes">
+    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24949,6 +25191,7 @@
     <unit id="common.common:Widgets" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Widgets</source>
@@ -24968,6 +25211,7 @@
     <unit id="common.common:With" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>With</source>
@@ -25037,6 +25281,7 @@
     <unit id="common.common:Year" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Year</source>
@@ -25056,6 +25301,7 @@
     <unit id="common.common:Years" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Years</source>
@@ -25065,6 +25311,7 @@
     <unit id="common.common:Yes" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Yes</source>
@@ -25094,6 +25341,7 @@
     <unit id="common.common:You" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -25140,7 +25388,7 @@
         <target>이전 단계로 돌아가려고 합니다. 이렇게 하면 이 페이지에서 구현한 저장되지 않은 변경 사항이 모두 제거됩니다. 이 작업은 실행 취소할 수 없습니다. 계속하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25239,7 +25487,7 @@
         <target>이 채널에 액세스할 수 있는 권한이 없습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="yes">
+    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25318,7 +25566,7 @@
         <target>언제 어디에서나 이동 중에도 학습을 계속할 수 있습니다</target>
       </segment>
     </unit>
-    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="yes">
+    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25557,7 +25805,7 @@
         <target>지갑에 스킬코인을 %1$d개 보유 중입니다. 콘텐츠 구매에는 %2$@의 비용이 듭니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="yes">
+    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25586,7 +25834,7 @@
         <target>이 댓글을 이미 신고했습니다</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25595,7 +25843,7 @@
         <target>You have assigned this Journey to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25614,7 +25862,7 @@
         <target>자신에게 이 SmartCard를 할당하셨습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_blocked_this_user" translate="yes">
+    <unit id="common.common:You_have_blocked_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25649,8 +25897,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</source>
-        <target>OTP에 들어갈 수있는 최대 시도 횟수를 초과했습니다. 다른 OTP를 생성하려면 &quot;OTP 재전송&quot;을 클릭하십시오.</target>
+        <source>You have exceeded the maximum attempts to enter the OTP. Please click on \&quot;Resend OTP\&quot; to generate another OTP</source>
+        <target>OTP에 들어갈 수있는 최대 시도 횟수를 초과했습니다. 다른 OTP를 생성하려면 \&quot;OTP 재전송\&quot;을 클릭하십시오.</target>
       </segment>
     </unit>
     <unit id="common.common:You_have_exceeded_the_maximum_number_of_login_attemptsdot__Please_try_again_in_sometimedot_" translate="yes">
@@ -26093,7 +26341,7 @@
         <target>채널에 게시된 콘텐츠에 대해 더 이상 알림을 받지 않습니다.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="yes">
+    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26112,7 +26360,7 @@
         <target>이 그룹에 액세스 할 수 없습니다. 나가시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26121,7 +26369,7 @@
         <target>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26130,7 +26378,7 @@
         <target>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26289,7 +26537,7 @@
         <target>특집 탭에 아직 콘텐츠가 없습니다!</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="yes">
+    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26428,7 +26676,7 @@
         <target>네트워크에 연결할 수 없습니다. 네트워크를 확인한 후 다시 시도해 주십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="yes">
+    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26527,7 +26775,7 @@
         <target>퀴즈 선택 영역을 네트워크 문제로 전송할 수 없습니다. 나중에 다시 시도하십시오.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_rating" translate="yes">
+    <unit id="common.common:Your_rating" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26562,8 +26810,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
-        <target>검색어는 &quot;%@&quot;이며 다음은 검색 결과입니다.</target>
+        <source>Your search query is \&quot;%@\&quot;, and these are the search result:</source>
+        <target>검색어는 \&quot;%@\&quot;이며 다음은 검색 결과입니다.</target>
       </segment>
     </unit>
     <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
@@ -26669,6 +26917,7 @@
     <unit id="common.common:Zoom" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Zoom</source>
@@ -26695,7 +26944,7 @@
         <target>...더보기</target>
       </segment>
     </unit>
-    <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
+    <!-- File::ios:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::ios_ko-KR.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
+  <!-- XLIFF::ios_ko-KR.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
