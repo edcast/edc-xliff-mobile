@@ -4213,13 +4213,14 @@
         <target>District de la ville*</target>
       </segment>
     </unit>
-    <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="no">
+    <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
-        <target></target>
+        <target>La clarté du discours est de deux types: verbale et vocale. La clarté verbale signifierait que votre contenu montre une continuité de pensée. La clarté vocale signifie que vous ne parlez pas trop vite ou trop lentement. Vous n’avez pas un accent prononcé, vous n’inspirez pas et ne marmonnez pas vos mots et vous utilisez une prononciation standard pour votre mot. \n</target>
       </segment>
     </unit>
     <unit id="common.common:Clc_Badge" translate="yes">
@@ -10352,13 +10353,13 @@
         <target>Bonjour %@, Bienvenue!</target>
       </segment>
     </unit>
-    <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="no">
+    <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target></target>
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
+        <target>Salut Donald, comment allez-vous aujourd&apos;hui? Je m&apos;appelle Mickey, de Sales University. Je vous appelle pour vous demander si vous pouvez me consacrer du temps dans votre calendrier. Je viens de remarquer sur votre site que vous avez embauché 10 nouveaux représentants commerciaux ce trimestre. Plusieurs entreprises dans votre secteur utilisent déjà SalesU pour aider leur équipe de développement des ventes à lancer plus de conversations et à réserver des réunions. Elles peuvent également réduire de moitié le temps de rampe des nouveaux représentants. \N Je pensais que le meilleur itinéraire pour commencer était de planifier une réunion pour en savoir plus sur vos défis et vos objectifs commerciaux. Avez-vous du temps libre à me consacrer mercredi ou jeudi après-midi?</target>
       </segment>
     </unit>
     <unit id="common.common:Hicomma__pat_not__How_are_you_todayqmark_" translate="yes">
@@ -13142,13 +13143,14 @@
         <target>Nom *</target>
       </segment>
     </unit>
-    <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="no">
+    <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Name cannot contain the following characters: ~ ! @ # $ % ^ & * = { } | [ ] : \&quot; ; < > </source>
-        <target></target>
+         <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
+         <target>Le champ de nom ne peut pas contenir les caractères suivants: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</target>
       </segment>
     </unit>
     <unit id="common.common:nameat_teamdot_com" translate="no">
