@@ -2593,8 +2593,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;>?</source>
-        <target><![CDATA[Nimi ei voi sisältää merkkejä ~!@#$%^&*={}|[]\:";<>>?]]></target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</source>
+        <target>Nimi ei voi sisältää merkkejä ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="yes">

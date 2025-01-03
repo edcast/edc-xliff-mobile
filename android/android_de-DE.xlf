@@ -2588,14 +2588,13 @@
         <target>Hochladen des Bildes fehlgeschlagen</target>
       </segment>
     </unit>
-    <unit id="common.common:onBoaring_fname_lName_error" translate="yes">
+    <unit id="common.common:onBoaring_fname_lName_error" translate="no">
       <notes>
         <note id="context">Missing</note>
-        <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;>?</source>
-        <target>Titel *</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</source>
+        <target>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="yes">
