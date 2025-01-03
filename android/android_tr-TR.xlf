@@ -31026,7 +31026,7 @@
       </notes>
       <segment >
         <source>256</source>
-        <target></target>
+        <target>256</target>
       </segment>
     </unit>
     <unit id="common.common:team_count_label" translate="yes">
@@ -31196,7 +31196,7 @@
       </notes>
       <segment >
         <source>1450</source>
-        <target></target>
+        <target>1450</target>
       </segment>
     </unit>
     <unit id="common.common:manager_dashboard_recommended_skill_level_desc" translate="yes">
