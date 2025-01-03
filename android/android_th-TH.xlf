@@ -2594,8 +2594,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;>?</source>
-        <target><![CDATA[ชื่อต้องไม่ประกอบไปด้วย ~!@#$%^&*={}|[]\:";<>>?]]></target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</source>
+        <target>ชื่อต้องไม่ประกอบไปด้วย ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="yes">
