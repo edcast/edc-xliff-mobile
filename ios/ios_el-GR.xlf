@@ -39,7 +39,7 @@
         <target> Στον αριθμό κινητού τηλεφώνου σας έχει σταλεί ένας 4ψήφιος κωδικός OTP. Εισαγάγετε τον παρακάτω κωδικό για να επαληθεύσετε τον αριθμό σας. Ο κωδικός OTP θα ισχύει για 5 λεπτά</target>
       </segment>
     </unit>
-    <unit id="common.common:_and_pzd__groups" translate="yes">
+    <unit id="common.common:_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -48,7 +48,7 @@
         <target> and %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="yes">
+    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -60,13 +60,14 @@
     <unit id="common.common:pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%@</source>
         <target>%@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__blocked" translate="yes">
+    <unit id="common.common:pat__blocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -195,7 +196,7 @@
         <target>Ο %@ κάνει ήδη κοινή χρήση οθόνης. Εξακολουθείτε να θέλετε να ζητήσετε κοινή χρήση οθόνης;</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="yes">
+    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -224,7 +225,7 @@
         <target>%@ είναι υποχρεωτικό</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_Unblocked" translate="yes">
+    <unit id="common.common:pat__is_Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -259,8 +260,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@ results for &quot;%2$@&quot;</source>
-        <target>%@ αποτελέσματα για &quot;%@&quot;</target>
+        <source>%1$@ results for \&quot;%2$@\&quot;</source>
+        <target>%@ αποτελέσματα για \&quot;%@\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:pat__Selected" translate="yes">
@@ -273,7 +274,7 @@
         <target>%@ επιλέχθηκαν</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__Unblocked" translate="yes">
+    <unit id="common.common:pat__Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -332,7 +333,7 @@
         <target>Η μετάδοση του %@ έχει προγραμματιστεί να ξεκινήσει σε %ld %@ και %ld %@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat_star__bs__per_pat_" translate="yes">
+    <unit id="common.common:pat_star__bs__per_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -371,7 +372,7 @@
         <target>%d ημέρες @2 ώρες/ημέρα</target>
       </segment>
     </unit>
-    <unit id="common.common:pd__Downloads" translate="yes">
+    <unit id="common.common:pd__Downloads" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -433,6 +434,7 @@
     <unit id="common.common:pld_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%ld</source>
@@ -459,7 +461,7 @@
         <target>%zd ακόλουθοι</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__groups" translate="yes">
+    <unit id="common.common:pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -478,7 +480,7 @@
         <target>Απομένουν %zd ώρες %zd λεπτά\nγια πρόσβαση σε αυτό το περιεχόμενο</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__individuals" translate="yes">
+    <unit id="common.common:pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -530,6 +532,7 @@
     <unit id="common.common:obkt_pat__ds__pat_cbkt_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>(%1$@ - %2$@)</source>
@@ -576,7 +579,7 @@
         <target>** Αυτή είναι μια κλειστή ομάδα. Εάν δεν έχετε υπάρχοντα λογαριασμό ή πρόσκληση συμμετοχής, επικοινωνήστε με τον διαχειριστή της ομάδας σας</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="yes">
+    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -585,7 +588,7 @@
         <target>*Associated assessment fee would be reimbursed over and above this \nTake the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
+    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -604,7 +607,7 @@
         <target>*Θέλω το όνομά μου να εμφανίζεται σε βραβεία ή πιστοποιητικά όπως καταχωρήθηκε παραπάνω</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Price_excluding_taxes" translate="yes">
+    <unit id="common.common:star_Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -686,6 +689,7 @@
     <unit id="common.common:2bs_4" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>2/4</source>
@@ -802,7 +806,7 @@
         <target>\nγια να αποκτήσετε πρόσβαση σε αυτό το περιεχόμενο</target>
       </segment>
     </unit>
-    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="yes">
+    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1171,7 +1175,7 @@
         <target>Προσθήκη γλωσσών</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_Learning_Goal" translate="yes">
+    <unit id="common.common:Add_Learning_Goal" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1190,7 +1194,7 @@
         <target>Προσθήκη στόχων εκπαίδευσης</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="yes">
+    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1329,7 +1333,7 @@
         <target>Προσθήκη ομάδας</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_to_Featured" translate="yes">
+    <unit id="common.common:Add_to_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1498,7 +1502,7 @@
         <target>Γραμμή διεύθυνσης 3</target>
       </segment>
     </unit>
-    <unit id="common.common:Address_missing" translate="yes">
+    <unit id="common.common:Address_missing" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1737,7 +1741,7 @@
         <target>Όλοι οι χρήστες θα μπορούν να ανακαλύπτουν, να έχουν πρόσβαση και να συμμετέχουν σε αυτή την ομάδα.</target>
       </segment>
     </unit>
-    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="yes">
+    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1786,7 +1790,7 @@
         <target>Να επιτρέπεται στον χρήστη να απαντήσει ξανά σε αυτό το κουίζ</target>
       </segment>
     </unit>
-    <unit id="common.common:Already_have_an_accountqmark_" translate="yes">
+    <unit id="common.common:Already_have_an_accountqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1845,7 +1849,7 @@
         <target>Ανακοίνωση</target>
       </segment>
     </unit>
-    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="yes">
+    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1954,7 +1958,7 @@
         <target>Εγκεκριμένη</target>
       </segment>
     </unit>
-    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2033,13 +2037,13 @@
         <target>Είστε βέβαιοι ότι θέλετε να διαγράψετε τη δεξιότητα;</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</source>
-        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</target>
+        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</source>
+        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Are_you_sure_you_want_to_cancel_registrationqmark_" translate="yes">
@@ -2122,7 +2126,7 @@
         <target>Είστε βέβαιοι ότι θέλετε να τερματίσετε τη ζωντανή μετάδοση;</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2201,7 +2205,7 @@
         <target>Είστε βέβαιοι ότι θέλετε να διακόψετε την από κοινού εκπομπή και να συνεχίσετε ως θεατής;</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2510,7 +2514,7 @@
         <target>Ανατέθηκε από </target>
       </segment>
     </unit>
-    <unit id="common.common:Assigned_bycln__pat_" translate="yes">
+    <unit id="common.common:Assigned_bycln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2999,7 +3003,7 @@
         <target>Κωδικός κάρτας: </target>
       </segment>
     </unit>
-    <unit id="common.common:Badge_Preview" translate="yes">
+    <unit id="common.common:Badge_Preview" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3208,7 +3212,7 @@
         <target>Αντιδράστε πρώτος</target>
       </segment>
     </unit>
-    <unit id="common.common:Begin_Course" translate="yes">
+    <unit id="common.common:Begin_Course" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3267,7 +3271,7 @@
         <target>Αποκλεισμός</target>
       </segment>
     </unit>
-    <unit id="common.common:Block_pat_" translate="yes">
+    <unit id="common.common:Block_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3286,7 +3290,7 @@
         <target>Αποκλεισμός: Να μην εμφανίσει ξανά παρόμοιο περιεχόμενο. Το περιεχόμενο δεν είναι σχετικό</target>
       </segment>
     </unit>
-    <unit id="common.common:Blocked_Users" translate="yes">
+    <unit id="common.common:Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3451,8 +3455,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with &apos;https://&apos;</source>
-        <target>Δεν είναι δυνατό το άνοιγμα μη ασφαλών διευθύνσεων URL. Δοκιμάστε συνδέσμους που αρχίζουν με &apos;https://&apos;</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https://\&apos;</source>
+        <target>Δεν είναι δυνατό το άνοιγμα μη ασφαλών διευθύνσεων URL. Δοκιμάστε συνδέσμους που αρχίζουν με \&apos;https://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:Can_not_record_audio_at_this_timedot__Microphone_is_being_used_by_another_applicationdot__Please_try_again_laterdot_" translate="yes">
@@ -3895,7 +3899,7 @@
         <target>Αλλαγή κωδικού πρόσβασης</target>
       </segment>
     </unit>
-    <unit id="common.common:Change_Plan" translate="yes">
+    <unit id="common.common:Change_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3914,7 +3918,7 @@
         <target>Αλλαγή σε %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Changes_not_saved_successfully" translate="yes">
+    <unit id="common.common:Changes_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3993,7 +3997,7 @@
         <target>Όνομα καναλιού *</target>
       </segment>
     </unit>
-    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="yes">
+    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4052,7 +4056,7 @@
         <target>Το κανάλι ενημερώθηκε</target>
       </segment>
     </unit>
-    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="yes">
+    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4403,6 +4407,7 @@
     <unit id="common.common:Collaborator_might_not_have_access_to_the_card_being_added" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Collaborator might not have access to the card being added</source>
@@ -4529,7 +4534,7 @@
         <target>Το σχόλιο είναι πολύ σύντομο!</target>
       </segment>
     </unit>
-    <unit id="common.common:Comment_options" translate="yes">
+    <unit id="common.common:Comment_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4618,7 +4623,7 @@
         <target>Ολοκληρώστε όλο το προηγούμενο περιεχόμενο για να το ξεκλειδώσετε</target>
       </segment>
     </unit>
-    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="yes">
+    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4677,7 +4682,7 @@
         <target>ΟΛΟΚΛΗΡΩΜΕΝΑ ΜΑΘΗΜΑΤΑ</target>
       </segment>
     </unit>
-    <unit id="common.common:completed_Journey" translate="yes">
+    <unit id="common.common:completed_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4916,7 +4921,7 @@
         <target>Έγινε επιτυχής λήψη του περιεχομένου. Προβάλετε ή αποθηκεύστε το στη συσκευή σας από την ενότητα Οι λήψεις μου.</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4925,7 +4930,7 @@
         <target>Content has been posted to the selected channel(s)</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4934,7 +4939,7 @@
         <target>Content has been posted to the selected channel(s).</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5083,7 +5088,7 @@
         <target>Τύποι περιεχομένου</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_unavailable" translate="yes">
+    <unit id="common.common:Content_unavailable" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5382,7 +5387,7 @@
         <target>Δημιουργήστε ένα μονοπάτι προτού αρχίσετε να προσθέτετε περιεχόμενο σε αυτό</target>
       </segment>
     </unit>
-    <unit id="common.common:Create_Account" translate="yes">
+    <unit id="common.common:Create_Account" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5451,7 +5456,7 @@
         <target>Δημιουργήστε τον λογαριασμό σας για μια δια βίου εκπαιδευτική εμπειρία.</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Journey" translate="yes">
+    <unit id="common.common:created_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5460,7 +5465,7 @@
         <target>created Journey</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Livestream" translate="yes">
+    <unit id="common.common:created_Livestream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5479,7 +5484,7 @@
         <target>Δημιουργήθηκε στις</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Pathway" translate="yes">
+    <unit id="common.common:created_Pathway" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5488,7 +5493,7 @@
         <target>created Pathway</target>
       </segment>
     </unit>
-    <unit id="common.common:created_SmartCard" translate="yes">
+    <unit id="common.common:created_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5507,7 +5512,7 @@
         <target>Δημιουργία καναλιού...</target>
       </segment>
     </unit>
-    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="yes">
+    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5516,7 +5521,7 @@
         <target>Creating your payment profile for first subscription purchase. Please try again in some time.</target>
       </segment>
     </unit>
-    <unit id="common.common:Creation_Date" translate="yes">
+    <unit id="common.common:Creation_Date" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5975,7 +5980,7 @@
         <target>Απόρριψη</target>
       </segment>
     </unit>
-    <unit id="common.common:Declined" translate="yes">
+    <unit id="common.common:Declined" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6344,7 +6349,7 @@
         <target>Χαρακτηρισμός *</target>
       </segment>
     </unit>
-    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6633,7 +6638,7 @@
         <target>Τέλος!</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6642,7 +6647,7 @@
         <target>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6651,7 +6656,7 @@
         <target>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6890,7 +6895,7 @@
         <target>Λήγει στις: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Duecln__" translate="yes">
+    <unit id="common.common:Duecln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6929,7 +6934,7 @@
         <target>Απαιτείται διάρκεια</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__pat__ds__pat_" translate="yes">
+    <unit id="common.common:Durationcln__pat__ds__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6938,7 +6943,7 @@
         <target>Duration: %1$@ - %2$@</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__All" translate="yes">
+    <unit id="common.common:Durationcln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6947,7 +6952,7 @@
         <target>Duration: All</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__High_to_Low" translate="yes">
+    <unit id="common.common:Durationcln__High_to_Low" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6956,7 +6961,7 @@
         <target>Duration: High to Low</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__Low_to_High" translate="yes">
+    <unit id="common.common:Durationcln__Low_to_High" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -7275,7 +7280,7 @@
         <target>Επεξεργαστείτε το κανάλι σας για να προσθέσετε περιγραφή.</target>
       </segment>
     </unit>
-    <unit id="common.common:Edited" translate="yes">
+    <unit id="common.common:Edited" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8124,7 +8129,7 @@
         <target>Εισαγάγετε τα περιεχόμενα του γραφικού στοιχείου του διαφημιστικού πλαισίου σας</target>
       </segment>
     </unit>
-    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="yes">
+    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8263,7 +8268,7 @@
         <target>Σφάλμα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8282,7 +8287,7 @@
         <target>Σφάλμα κατά την έγκριση αυτής της εγγραφής\nΔοκιμάστε ξανά αργότερα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="yes">
+    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8421,7 +8426,7 @@
         <target>Σφάλμα κατά τη βαθμολόγηση υποβολής\nΔοκιμάστε ξανά αργότερα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="yes">
+    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8500,7 +8505,7 @@
         <target>Σφάλμα κατά τη δημοσίευση σχολίου\nΔοκιμάστε ξανά αργότερα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8509,7 +8514,7 @@
         <target>Error posting in group\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8518,7 +8523,7 @@
         <target>Error posting in submission\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8587,7 +8592,7 @@
         <target>Σφάλμα κατά την εγγραφή\nΔοκιμάστε ξανά αργότερα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8766,7 +8771,7 @@
         <target>Σφάλμα κατά την παύση παρακολούθησης καναλιού\nΔοκιμάστε ξανά αργότερα</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9025,7 +9030,7 @@
         <target>Αποτυχία ελέγχου της κατάστασης του δικτύου. Ελέγξτε τη σύνδεσή σας στο Internet.</target>
       </segment>
     </unit>
-    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="yes">
+    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9104,7 +9109,7 @@
         <target>Αποτυχία προσθήκης επαγγέλματος. Δοκιμάστε ξανά.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="yes">
+    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9113,7 +9118,7 @@
         <target>Failed to establish communication in Live streaming. Please check your network connection and try again.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="yes">
+    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9122,7 +9127,7 @@
         <target>Failed to Exit Channel: Request Rejected</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9131,7 +9136,7 @@
         <target>Failed to get user attribtues from the server. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9140,7 +9145,7 @@
         <target>Failed to join Live Stream RTC channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9149,7 +9154,7 @@
         <target>Failed to join Real-Time Messaging Channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9178,7 +9183,7 @@
         <target>Ανεπιτυχής απόρριψη. Δοκιμάστε ξανά.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9287,7 +9292,7 @@
         <target>Εδώ θα εμφανίζεται το προτεινόμενο περιεχόμενο</target>
       </segment>
     </unit>
-    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="yes">
+    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9376,7 +9381,7 @@
         <target>Φιλτράρισμα βάσει</target>
       </segment>
     </unit>
-    <unit id="common.common:Filters_applied_successfully" translate="yes">
+    <unit id="common.common:Filters_applied_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9755,7 +9760,7 @@
         <target>Έναρξη</target>
       </segment>
     </unit>
-    <unit id="common.common:Get_this_course_plus__pd__others" translate="yes">
+    <unit id="common.common:Get_this_course_plus__pd__others" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9894,7 +9899,7 @@
         <target>Μετάβαση στις ρυθμίσεις για προχωρημένους</target>
       </segment>
     </unit>
-    <unit id="common.common:Goto_My_Learning_Plan" translate="yes">
+    <unit id="common.common:Goto_My_Learning_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10213,7 +10218,7 @@
         <target>Ομάδες στις οποίες είμαι διαχειριστής</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__pzd_" translate="yes">
+    <unit id="common.common:Groupscln__pzd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10222,7 +10227,7 @@
         <target>Groups: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__All" translate="yes">
+    <unit id="common.common:Groupscln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10287,8 +10292,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type &quot;menu&quot;. Please try it.</source>
-        <target>Χαίρετε, με λένε %@ και είμαι ο βοηθός εκπαίδευσής σας από το EdCast. Μπορώ να σας βοηθήσω να πετύχετε τον στόχο εκπαίδευσής σας. Για να δείτε τι μπορώ να κάνω για εσάς, μπορείτε πάντα να πείτε ή να πληκτρολογήσετε &quot;μενού&quot;. Δοκιμάστε το.</target>
+        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type \&quot;menu\&quot;. Please try it.</source>
+        <target>Χαίρετε, με λένε %@ και είμαι ο βοηθός εκπαίδευσής σας από το EdCast. Μπορώ να σας βοηθήσω να πετύχετε τον στόχο εκπαίδευσής σας. Για να δείτε τι μπορώ να κάνω για εσάς, μπορείτε πάντα να πείτε ή να πληκτρολογήσετε \&quot;μενού\&quot;. Δοκιμάστε το.</target>
       </segment>
     </unit>
     <unit id="common.common:Help_us_understand_the_issuestar_" translate="yes">
@@ -10331,7 +10336,7 @@
         <target>Γεια σου! Είστε ενθουσιασμένοι που θα ξεκινήσετε;</target>
       </segment>
     </unit>
-    <unit id="common.common:Hi" translate="yes">
+    <unit id="common.common:Hi" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10429,7 +10434,7 @@
         <target>Σπίτι όχι, κτίριο</target>
       </segment>
     </unit>
-    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="yes">
+    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10598,7 +10603,7 @@
         <target>Εάν ναι, τότε η επιλογή σας θα χαθεί</target>
       </segment>
     </unit>
-    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="yes">
+    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10707,7 +10712,7 @@
         <target>Συμπερίληψη μηνύματος</target>
       </segment>
     </unit>
-    <unit id="common.common:Included_in_your_subscription" translate="yes">
+    <unit id="common.common:Included_in_your_subscription" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10822,8 +10827,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; in &apos;%@&apos;</source>
-        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε &apos;https://&apos; in &apos;%@&apos;</target>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; in &apos;%@&apos;</source>
+        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε \&apos;https://\&apos; in &apos;%@&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:Inserted_URL_is_not_securecomma__use_apt_httpscln_bs_bs_apt__instead_of_apt_httpcln_bs_bs_apt_dot_" translate="yes">
@@ -10832,8 +10837,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; instead of &apos;http://&apos;.</source>
-        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε &apos;https://&apos; αντί για &apos;http://&apos;.</target>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; instead of &apos;http://&apos;.</source>
+        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε \&apos;https://\&apos; αντί για &apos;http://&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:Insufficient_fund" translate="yes">
@@ -10886,7 +10891,7 @@
         <target>Εσωτερικό περιεχόμενο</target>
       </segment>
     </unit>
-    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="yes">
+    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10905,7 +10910,7 @@
         <target>Έχει γίνει σύνδεση στο Internet. Καλώς ήλθατε πάλι!</target>
       </segment>
     </unit>
-    <unit id="common.common:Intune_Logs" translate="yes">
+    <unit id="common.common:Intune_Logs" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10914,7 +10919,7 @@
         <target>Intune Logs</target>
       </segment>
     </unit>
-    <unit id="common.common:INTUNE_LOGS" translate="yes">
+    <unit id="common.common:INTUNE_LOGS" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10943,7 +10948,7 @@
         <target>Μη έγκυρο API στοίβας αρχείων και μυστικά κλειδιά!</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="yes">
+    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10952,7 +10957,7 @@
         <target>Invalid Transaction. Please contact admin.</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_user_information_responsedot_" translate="yes">
+    <unit id="common.common:Invalid_user_information_responsedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11201,7 +11206,7 @@
         <target>Εγγραφείτε σε ομάδες που σας ενδιαφέρουν στη σελίδα &apos;Discover&apos; για να τις βλέπετε εδώ. Αρχίστε την εξερεύνηση τώρα!</target>
       </segment>
     </unit>
-    <unit id="common.common:Join_Live_Stream" translate="yes">
+    <unit id="common.common:Join_Live_Stream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11620,7 +11625,7 @@
         <target>Πίνακας κατάταξης κορυφαίων</target>
       </segment>
     </unit>
-    <unit id="common.common:Leaderboard_Position" translate="yes">
+    <unit id="common.common:Leaderboard_Position" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12079,7 +12084,7 @@
         <target>Ζωντανή εκδήλωση</target>
       </segment>
     </unit>
-    <unit id="common.common:Live_Event_already_done_on_pat_" translate="yes">
+    <unit id="common.common:Live_Event_already_done_on_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12218,7 +12223,7 @@
         <target>Σύνδεση με επιχειρηματική SSO</target>
       </segment>
     </unit>
-    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="yes">
+    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12277,7 +12282,7 @@
         <target>Άνδρας</target>
       </segment>
     </unit>
-    <unit id="common.common:Manage_Blocked_Users" translate="yes">
+    <unit id="common.common:Manage_Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12566,7 +12571,7 @@
         <target>Λεπτομέρειες σύσκεψης *</target>
       </segment>
     </unit>
-    <unit id="common.common:Meeting_linkcln_" translate="yes">
+    <unit id="common.common:Meeting_linkcln_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12755,7 +12760,7 @@
         <target>Κινητό σύμφωνα με Aadhaar</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_number_not_saved_successfully" translate="yes">
+    <unit id="common.common:Mobile_number_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12764,7 +12769,7 @@
         <target>Mobile number not saved successfully</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_Numberstar_" translate="yes">
+    <unit id="common.common:Mobile_Numberstar_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12913,7 +12918,7 @@
         <target>Τα κανάλια μου</target>
       </segment>
     </unit>
-    <unit id="common.common:My_Content" translate="yes">
+    <unit id="common.common:My_Content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13151,7 +13156,7 @@
         <target>Το όνομα δεν μπορεί να περιέχει οποιονδήποτε από τους ακόλουθους χαρακτήρες: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</target>
       </segment>
     </unit>
-    <unit id="common.common:nameat_teamdot_com" translate="yes">
+    <unit id="common.common:nameat_teamdot_com" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13360,7 +13365,7 @@
         <target>Δεν υπάρχουν αναθέσεις</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13369,7 +13374,7 @@
         <target>No attendees have been approved for attending this live event</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13408,7 +13413,7 @@
         <target>Δεν υπάρχουν κάρτες προς εμφάνιση αυτήν τη στιγμή</target>
       </segment>
     </unit>
-    <unit id="common.common:No_blocked_users_found" translate="yes">
+    <unit id="common.common:No_blocked_users_found" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13517,7 +13522,7 @@
         <target>Δεν ακολουθούνται κανάλια</target>
       </segment>
     </unit>
-    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="yes">
+    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13676,7 +13681,7 @@
         <target>Δεν υπάρχει προτεινόμενο περιεχόμενο</target>
       </segment>
     </unit>
-    <unit id="common.common:No_filters_applied" translate="yes">
+    <unit id="common.common:No_filters_applied" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13825,7 +13830,7 @@
         <target>Δεν βρέθηκε μητρώο</target>
       </segment>
     </unit>
-    <unit id="common.common:No_Level" translate="yes">
+    <unit id="common.common:No_Level" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13964,7 +13969,7 @@
         <target>Δεν υπάρχουν μονοπάτια ακόμα</target>
       </segment>
     </unit>
-    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="yes">
+    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14363,7 +14368,7 @@
         <target>Δεν είναι δυνατή η κατάργηση μελών αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="yes">
+    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14382,7 +14387,7 @@
         <target>Μη διαθέσιμο</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="yes">
+    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14401,7 +14406,7 @@
         <target>Δεν έχει ξεκινήσει</target>
       </segment>
     </unit>
-    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="yes">
+    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14583,6 +14588,7 @@
     <unit id="common.common:OK" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -14592,6 +14598,7 @@
     <unit id="common.common:Ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Ok</source>
@@ -14601,6 +14608,7 @@
     <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>ok</source>
@@ -14610,6 +14618,7 @@
     <unit id="common.common:Okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Okay</source>
@@ -14696,7 +14705,7 @@
         <target>Μόνο 2048 χαρακτήρες υποστηρίζονται στη διεύθυνση URL</target>
       </segment>
     </unit>
-    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="yes">
+    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14718,6 +14727,7 @@
     <unit id="common.common:Oops" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Oops</source>
@@ -14784,7 +14794,7 @@
         <target>Ανοιχτό κουίζ</target>
       </segment>
     </unit>
-    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="yes">
+    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14826,6 +14836,7 @@
     <unit id="common.common:OR" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OR</source>
@@ -14892,7 +14903,7 @@
         <target>Άλλες δημόσιες ομάδες</target>
       </segment>
     </unit>
-    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="yes">
+    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15051,7 +15062,7 @@
         <target>Κωδικός πρόσβασης *</target>
       </segment>
     </unit>
-    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="yes">
+    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15520,7 +15531,7 @@
         <target>Αναπαραγωγή τώρα</target>
       </segment>
     </unit>
-    <unit id="common.common:Playback_Speed" translate="yes">
+    <unit id="common.common:Playback_Speed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15669,7 +15680,7 @@
         <target>Κάντε κλικ στους Γενικούς Όρους και Προϋποθέσεις για να προχωρήσετε περαιτέρω</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
+    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15828,7 +15839,7 @@
         <target>Εισαγάγετε έγκυρη ώρα λήξης.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="yes">
+    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16217,7 +16228,7 @@
         <target>Εισαγάγετε το όνομα του εργοδότη σας</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_login_from_HIVE_app" translate="yes">
+    <unit id="common.common:Please_login_from_HIVE_app" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16326,7 +16337,7 @@
         <target>Δώστε μια περιγραφή για το μονοπάτι σας</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_provide_any_additional_details" translate="yes">
+    <unit id="common.common:Please_provide_any_additional_details" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16825,7 +16836,7 @@
         <target>Δοκιμάστε ξανά. Μπορεί να βοηθήσει να μετακινηθείτε σε ένα ήσυχο μέρος.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="yes">
+    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16864,7 +16875,7 @@
         <target>Χρησιμοποιήστε το παραπάνω πεδίο αναζήτησης για να επιλέξετε θέματα για τα οποία θέλετε να μάθετε</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_number" translate="yes">
+    <unit id="common.common:Please_verify_the_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16873,7 +16884,7 @@
         <target>Please verify the number</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_numberdot_" translate="yes">
+    <unit id="common.common:Please_verify_the_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17172,7 +17183,7 @@
         <target>Τιμή</target>
       </segment>
     </unit>
-    <unit id="common.common:Price_excluding_taxes" translate="yes">
+    <unit id="common.common:Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17241,7 +17252,7 @@
         <target>Ιδιωτικές κάρτες</target>
       </segment>
     </unit>
-    <unit id="common.common:Private_Channel" translate="yes">
+    <unit id="common.common:Private_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17290,7 +17301,7 @@
         <target>Προφίλ</target>
       </segment>
     </unit>
-    <unit id="common.common:Profile_creation_in_progress" translate="yes">
+    <unit id="common.common:Profile_creation_in_progress" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17429,7 +17440,7 @@
         <target>Δημόσιο</target>
       </segment>
     </unit>
-    <unit id="common.common:Public_Channel" translate="yes">
+    <unit id="common.common:Public_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17518,7 +17529,7 @@
         <target>Αγορά περιεχομένου</target>
       </segment>
     </unit>
-    <unit id="common.common:Purchase_options" translate="yes">
+    <unit id="common.common:Purchase_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17647,7 +17658,7 @@
         <target>ΕΥΡΟΣ</target>
       </segment>
     </unit>
-    <unit id="common.common:Rate" translate="yes">
+    <unit id="common.common:Rate" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17666,7 +17677,7 @@
         <target>Βαθμολογία αξιολόγησης</target>
       </segment>
     </unit>
-    <unit id="common.common:Ratings" translate="yes">
+    <unit id="common.common:Ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17985,7 +17996,7 @@
         <target>Εγγεγραμμένος</target>
       </segment>
     </unit>
-    <unit id="common.common:Registeredcln__" translate="yes">
+    <unit id="common.common:Registeredcln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17994,7 +18005,7 @@
         <target>Registered: </target>
       </segment>
     </unit>
-    <unit id="common.common:Registration_closeddot_" translate="yes">
+    <unit id="common.common:Registration_closeddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18143,7 +18154,7 @@
         <target>Επανασύνδεση με τη ζωντανή μετάδοση;</target>
       </segment>
     </unit>
-    <unit id="common.common:Relevance" translate="yes">
+    <unit id="common.common:Relevance" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18152,7 +18163,7 @@
         <target>Relevance</target>
       </segment>
     </unit>
-    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18201,7 +18212,7 @@
         <target>Οι παρατηρήσεις ενημερώθηκαν με επιτυχία</target>
       </segment>
     </unit>
-    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="yes">
+    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18230,7 +18241,7 @@
         <target>Κατάργηση</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_pat_" translate="yes">
+    <unit id="common.common:Remove_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18249,7 +18260,7 @@
         <target>Κατάργηση και κατάργηση ανάθεσης περιεχομένου</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_and_Unshare_content" translate="yes">
+    <unit id="common.common:Remove_and_Unshare_content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18268,7 +18279,7 @@
         <target>Κατάργηση από το κανάλι</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_from_Featured" translate="yes">
+    <unit id="common.common:Remove_from_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18287,7 +18298,7 @@
         <target>Κατάργηση από το μονοπάτι</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_Member" translate="yes">
+    <unit id="common.common:Remove_Member" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18562,8 +18573,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Results for &quot;%@&quot;</source>
-        <target>Αποτελέσματα για &quot;%@&quot;</target>
+        <source>Results for \&quot;%@\&quot;</source>
+        <target>Αποτελέσματα για \&quot;%@\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Resultscln__" translate="yes">
@@ -18606,7 +18617,7 @@
         <target>Επανάληψη ανάλυσης παρουσίασης</target>
       </segment>
     </unit>
-    <unit id="common.common:Role" translate="yes">
+    <unit id="common.common:Role" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19105,7 +19116,7 @@
         <target>Βλέπε συνημμένο</target>
       </segment>
     </unit>
-    <unit id="common.common:See_other_plans" translate="yes">
+    <unit id="common.common:See_other_plans" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19204,7 +19215,7 @@
         <target>Επιλογή συσχετισμένων δεξιοτήτων</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Badge_Icon" translate="yes">
+    <unit id="common.common:Select_Badge_Icon" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19453,7 +19464,7 @@
         <target>Επιλογή επαγγέλματος</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Skill" translate="yes">
+    <unit id="common.common:Select_Skill" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19622,7 +19633,7 @@
         <target>Επιλεγμένοι: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Groups" translate="yes">
+    <unit id="common.common:Selected_Groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19631,7 +19642,7 @@
         <target>Selected Groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Individuals" translate="yes">
+    <unit id="common.common:Selected_Individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19830,7 +19841,7 @@
         <target>Κοινή χρήση πιστοποίησης</target>
       </segment>
     </unit>
-    <unit id="common.common:Share_Content_withdt1_" translate="yes">
+    <unit id="common.common:Share_Content_withdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20249,7 +20260,7 @@
         <target>Επιτυχής ενημέρωση δεξιότητας</target>
       </segment>
     </unit>
-    <unit id="common.common:Skillcln__pat_" translate="yes">
+    <unit id="common.common:Skillcln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20378,7 +20389,7 @@
         <target>ΈξυπνηΚάρτα</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20387,7 +20398,7 @@
         <target>SmartCard added to the group&apos;s featured section.</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20406,7 +20417,7 @@
         <target>Συνεργάτες ΈξυπνωνΚαρτών</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20595,7 +20606,7 @@
         <target>Λυπούμαστε, το περιεχόμενο που προσπαθείτε να δημοσιεύσετε προέρχεται από μη εγκεκριμένο ιστότοπο ή λέξεις.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20604,7 +20615,7 @@
         <target>Sorry, this content is currently unavailable for purchase on your device</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20633,7 +20644,7 @@
         <target>Λυπούμαστε, δεν είναι δυνατή η δημιουργία του κοινόχρηστου συνδέσμου αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20642,7 +20653,7 @@
         <target>Sorry, We encountered an issue while trying to send a message to another participant in the live stream.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21108,10 +21119,10 @@
       </notes>
       <segment >
         <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click &apos;apply for GoI incentive&apos;.</source>
-        <target>Βήμα 4: Μετά την επιτυχή ολοκλήρωση της αξιολόγησης, το ζεύγος μαθήματος-αξιολόγησης θα εμφανίζεται ως εγγραφή μητρώου παρακάτω. Επιλέξτε &quot;Υποβολή αίτησης για το πρόγραμμα GoI incentive&quot;.</target>
+        <target>Βήμα 4: Μετά την επιτυχή ολοκλήρωση της αξιολόγησης, το ζεύγος μαθήματος-αξιολόγησης θα εμφανίζεται ως εγγραφή μητρώου παρακάτω. Επιλέξτε \&quot;Υποβολή αίτησης για το πρόγραμμα GoI incentive\&quot;.</target>
       </segment>
     </unit>
-    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21310,7 +21321,7 @@
         <target>Προεγγραφή</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscribed" translate="yes">
+    <unit id="common.common:Subscribed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21329,7 +21340,7 @@
         <target>Προεγγραφή</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_already_purchased" translate="yes">
+    <unit id="common.common:Subscription_already_purchased" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21348,7 +21359,7 @@
         <target>Η προεγγραφή απέτυχε. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_not_available" translate="yes">
+    <unit id="common.common:Subscription_not_available" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21357,7 +21368,7 @@
         <target>Subscription not available</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_Plan" translate="yes">
+    <unit id="common.common:Subscription_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21406,7 +21417,7 @@
         <target>Επιτυχώς</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21415,7 +21426,7 @@
         <target>Successfully assigned to </target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21424,7 +21435,7 @@
         <target>Successfully assigned to %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21433,7 +21444,7 @@
         <target>Successfully assigned to %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21492,7 +21503,7 @@
         <target>Επιτυχής αναφορά</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21501,7 +21512,7 @@
         <target>Successfully shared with %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21510,7 +21521,7 @@
         <target>Successfully shared with %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21549,7 +21560,7 @@
         <target>Προτεινόμενες ομάδες</target>
       </segment>
     </unit>
-    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="yes">
+    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21618,7 +21629,7 @@
         <target>Αλλαγή ομάδας</target>
       </segment>
     </unit>
-    <unit id="common.common:Switch_to_this_plan" translate="yes">
+    <unit id="common.common:Switch_to_this_plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21807,7 +21818,7 @@
         <target>Τεχνικά προβλήματα κατά το άνοιγμα του περιεχομένου</target>
       </segment>
     </unit>
-    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="yes">
+    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21896,7 +21907,7 @@
         <target>Ευχαριστούμε για τη συμμετοχή σας στη ζωντανή μετάδοση. Η επανάληψη αυτού του βίντεο θα είναι διαθέσιμη σύντομα για αναπαραγωγή κατ&apos; απαίτηση.</target>
       </segment>
     </unit>
-    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="yes">
+    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22125,7 +22136,7 @@
         <target>Ο κωδικός QR στάλθηκε μέσω email!</target>
       </segment>
     </unit>
-    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="yes">
+    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22144,7 +22155,7 @@
         <target>Η επανάληψη αυτού του βίντεο θα είναι διαθέσιμη στο %@ σύντομα</target>
       </segment>
     </unit>
-    <unit id="common.common:The_request_is_rejecteddot_" translate="yes">
+    <unit id="common.common:The_request_is_rejecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22253,7 +22264,7 @@
         <target>Δεν υπάρχουν διαθέσιμες κάρτες.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="yes">
+    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22262,7 +22273,7 @@
         <target>There are no bookmarked cards available.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="yes">
+    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22291,7 +22302,7 @@
         <target>Δεν υπάρχουν μαθήματα ακόμα. Ελέγξτε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22300,7 +22311,7 @@
         <target>There are no more Groups assigned.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22629,7 +22640,7 @@
         <target>Αυτός είναι ο κωδικός QR του περιεχομένου: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
+    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22638,7 +22649,7 @@
         <target>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
       </segment>
     </unit>
-    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22687,7 +22698,7 @@
         <target>Αυτός ο οργανισμός δεν είναι ανοιχτός για εγγραφή</target>
       </segment>
     </unit>
-    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22706,7 +22717,7 @@
         <target>Αυτό το τρίμηνο</target>
       </segment>
     </unit>
-    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22745,7 +22756,7 @@
         <target>Αυτή η ΈξυπνηΚάρτα δημοσιεύτηκε από: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="yes">
+    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22754,7 +22765,7 @@
         <target>This subscription is already purchased. You can check more details in My Profile section</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="yes">
+    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22833,7 +22844,7 @@
         <target>Αυτό θα αναθέσει αυτόματα όλες τις προηγούμενες αναθέσεις της ομάδας σε τυχόν νέα μέλη που συνδέονται.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22842,7 +22853,7 @@
         <target>This will send you to a secured environment, where you can complete your transaction.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22951,7 +22962,7 @@
         <target>Προς</target>
       </segment>
     </unit>
-    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
+    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23150,7 +23161,7 @@
         <target>Σύνολο ψήφων που λήφθηκαν: </target>
       </segment>
     </unit>
-    <unit id="common.common:Totalcln__pd_" translate="yes">
+    <unit id="common.common:Totalcln__pd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23382,6 +23393,7 @@
     <unit id="common.common:Uh_Oh" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Uh Oh</source>
@@ -23638,7 +23650,7 @@
         <target>Δεν είναι δυνατή η επεξεργασία, δοκιμάστε μετά από λίγο</target>
       </segment>
     </unit>
-    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="yes">
+    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23677,7 +23689,7 @@
         <target>Δεν είναι δυνατή η ενημέρωση!</target>
       </segment>
     </unit>
-    <unit id="common.common:Unassign" translate="yes">
+    <unit id="common.common:Unassign" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23686,7 +23698,7 @@
         <target>Unassign</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock" translate="yes">
+    <unit id="common.common:Unblock" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23695,7 +23707,7 @@
         <target>Unblock</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock_pat_" translate="yes">
+    <unit id="common.common:Unblock_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23714,7 +23726,7 @@
         <target>Κατάργηση σελιδοδείκτη</target>
       </segment>
     </unit>
-    <unit id="common.common:uncompleted" translate="yes">
+    <unit id="common.common:uncompleted" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23813,7 +23825,7 @@
         <target>άγνωστος τύπος κάρτας</target>
       </segment>
     </unit>
-    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="yes">
+    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23832,7 +23844,7 @@
         <target>Ξεκλειδώστε κάρτες ολοκληρώνοντας μονοπάτια και ταξίδια</target>
       </segment>
     </unit>
-    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="yes">
+    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23861,7 +23873,7 @@
         <target>Κατάργηση εγγραφής</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare" translate="yes">
+    <unit id="common.common:Unshare" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23870,7 +23882,7 @@
         <target>Unshare</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare_Content_fromdt1_" translate="yes">
+    <unit id="common.common:Unshare_Content_fromdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24149,7 +24161,7 @@
         <target>Μεταφόρτωση μικρογραφίας *</target>
       </segment>
     </unit>
-    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="yes">
+    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24398,7 +24410,7 @@
         <target>Προβολή όλων</target>
       </segment>
     </unit>
-    <unit id="common.common:View_Attendees" translate="yes">
+    <unit id="common.common:View_Attendees" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24797,7 +24809,7 @@
         <target>Αυτή τη στιγμή έχουμε φτάσει τον μέγιστο υπευθύνων μετάδοσης βίντεο. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="yes">
+    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24916,7 +24928,7 @@
         <target>Καλώς ήλθατε</target>
       </segment>
     </unit>
-    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="yes">
+    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25198,6 +25210,7 @@
     <unit id="common.common:With" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>With</source>
@@ -25374,7 +25387,7 @@
         <target>Πρόκειται να επιστρέψετε στο προηγούμενο βήμα. Λάβετε υπόψη ότι με αυτόν τον τρόπο θα καταργηθούν όλες οι μη αποθηκευμένες αλλαγές που έχετε κάνει σε αυτήν τη σελίδα. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Πώς θέλετε να συνεχίσετε;</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25473,7 +25486,7 @@
         <target>Δεν έχετε εξουσιοδότηση πρόσβασης σε αυτό το κανάλι.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="yes">
+    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25552,7 +25565,7 @@
         <target>μπορείτε να συνεχίσετε να μαθαίνετε καθ&apos; οδόν, οποτεδήποτε και οπουδήποτε</target>
       </segment>
     </unit>
-    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="yes">
+    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25791,7 +25804,7 @@
         <target>Έχετε %d πόντους δεξιοτήτων στο πορτοφόλι. Θα δαπανήσετε %@ για να αγοράσετε το περιεχόμενο.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="yes">
+    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25820,7 +25833,7 @@
         <target>Έχετε ήδη αναφέρει αυτό το σχόλιο</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25829,7 +25842,7 @@
         <target>You have assigned this Journey to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25848,7 +25861,7 @@
         <target>Έχετε αναθέσει αυτή την ΈξυπνηΚάρτα στον εαυτό σας.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_blocked_this_user" translate="yes">
+    <unit id="common.common:You_have_blocked_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25883,8 +25896,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</source>
-        <target>Έχετε υπερβεί τον μέγιστο αριθμό προσπαθειών εισαγωγής του κωδικού OTP. Επιλέξτε &quot;Επανάληψη αποστολής κωδικού OTP&quot; για να δημιουργήσετε έναν άλλο κωδικό OTP</target>
+        <source>You have exceeded the maximum attempts to enter the OTP. Please click on \&quot;Resend OTP\&quot; to generate another OTP</source>
+        <target>Έχετε υπερβεί τον μέγιστο αριθμό προσπαθειών εισαγωγής του κωδικού OTP. Επιλέξτε \&quot;Επανάληψη αποστολής κωδικού OTP\&quot; για να δημιουργήσετε έναν άλλο κωδικό OTP</target>
       </segment>
     </unit>
     <unit id="common.common:You_have_exceeded_the_maximum_number_of_login_attemptsdot__Please_try_again_in_sometimedot_" translate="yes">
@@ -26327,7 +26340,7 @@
         <target>Δεν θα ειδοποιείστε πλέον για το περιεχόμενο που δημοσιεύεται στο κανάλι</target>
       </segment>
     </unit>
-    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="yes">
+    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26346,7 +26359,7 @@
         <target>Δεν θα έχετε πρόσβαση σε αυτή την ομάδα, θέλετε πραγματικά να αποχωρήσετε;</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26355,7 +26368,7 @@
         <target>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26364,7 +26377,7 @@
         <target>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26523,7 +26536,7 @@
         <target>Η καρτέλα προτεινόμενων δεν έχει ακόμα περιεχόμενο!</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="yes">
+    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26662,7 +26675,7 @@
         <target>Το δίκτυό σας δεν είναι προσβάσιμο. Ελέγξτε το δίκτυό σας και δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="yes">
+    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26761,7 +26774,7 @@
         <target>Δεν ήταν δυνατή η αποστολή της επιλογής κουίζ λόγω προβλημάτων που σχετίζονται με δίκτυο. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_rating" translate="yes">
+    <unit id="common.common:Your_rating" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26796,8 +26809,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
-        <target>Το ερώτημα αναζήτησης είναι &quot;%@&quot; και αυτά είναι τα αποτελέσματα της αναζήτησης:</target>
+        <source>Your search query is \&quot;%@\&quot;, and these are the search result:</source>
+        <target>Το ερώτημα αναζήτησης είναι \&quot;%@\&quot; και αυτά είναι τα αποτελέσματα της αναζήτησης:</target>
       </segment>
     </unit>
     <unit id="common.common:Your_security_is_importantnot__We_cannot_open_the_link_as_it_is_not_securenot_" translate="yes">
@@ -26930,8 +26943,7 @@
         <target>…δείτε περισσότερα</target>
       </segment>
     </unit>
-
-    <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
+    <!-- File::ios:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::ios_el-GR.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
+  <!-- XLIFF::ios_el-GR.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
