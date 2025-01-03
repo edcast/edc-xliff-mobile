@@ -39,7 +39,7 @@
         <target> 4-cyfrowe hasło jednorazowe zostało wysłane na Twój numer telefonu komórkowego. Wprowadź poniższy kod, aby zweryfikować swój numer. Hasło jednorazowe będzie ważne przez 5 minut</target>
       </segment>
     </unit>
-    <unit id="common.common:_and_pzd__groups" translate="yes">
+    <unit id="common.common:_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -48,7 +48,7 @@
         <target> and %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="yes">
+    <unit id="common.common:_points_away_from_the_top_of_the_board" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -60,13 +60,14 @@
     <unit id="common.common:pat_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>%@</source>
         <target>%@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__blocked" translate="yes">
+    <unit id="common.common:pat__blocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -195,7 +196,7 @@
         <target>%@ już udostępnia ekran. Czy nadal chcesz poprosić o udostępnienie ekranu?</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="yes">
+    <unit id="common.common:pat__is_now_live_on_EdCastdot__Would_you_like_to_join_the_streamqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -224,7 +225,7 @@
         <target>%@ jest wymagane</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__is_Unblocked" translate="yes">
+    <unit id="common.common:pat__is_Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -259,8 +260,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>%1$@ results for &quot;%2$@&quot;</source>
-        <target>%@ wyniki dla &quot;%@&quot;</target>
+        <source>%1$@ results for \&quot;%2$@\&quot;</source>
+        <target>%@ wyniki dla \&quot;%@\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:pat__Selected" translate="yes">
@@ -273,7 +274,7 @@
         <target>Wybrano%@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat__Unblocked" translate="yes">
+    <unit id="common.common:pat__Unblocked" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -332,7 +333,7 @@
         <target>Strumień%@ ma rozpocząć się w%ld%@ i%ld%@</target>
       </segment>
     </unit>
-    <unit id="common.common:pat_star__bs__per_pat_" translate="yes">
+    <unit id="common.common:pat_star__bs__per_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -371,7 +372,7 @@
         <target>%d dni @ 2 godziny / dzień</target>
       </segment>
     </unit>
-    <unit id="common.common:pd__Downloads" translate="yes">
+    <unit id="common.common:pd__Downloads" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -460,7 +461,7 @@
         <target>obserwujący %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__groups" translate="yes">
+    <unit id="common.common:pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -479,7 +480,7 @@
         <target>Pozostało%zd godz.%zd min \ndo uzyskania dostępu do tej zawartości</target>
       </segment>
     </unit>
-    <unit id="common.common:pzd__individuals" translate="yes">
+    <unit id="common.common:pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -578,7 +579,7 @@
         <target>** To jest zamknięty zespół. Jeśli nie masz istniejącego konta ani zaproszenia do dołączenia, skontaktuj się z administratorem zespołu</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="yes">
+    <unit id="common.common:star_Associated_assessment_fee_would_be_reimbursed_over_and_above_this_fs_nTake_the_help_of_the_chatbot_for_further_clarification_on_incentive_eligibility_and_process" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -587,7 +588,7 @@
         <target>*Associated assessment fee would be reimbursed over and above this \nTake the help of the chatbot for further clarification on incentive eligibility and process</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="yes">
+    <unit id="common.common:star_Eligibility_for_GOI_Incentive_may_change_basis_Terms_of_the_scheme_fs_nYour_application_for_GOI_Incentive_will_be_updated_once_disposed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -606,7 +607,7 @@
         <target>* Chcę, aby moje nazwisko widniało na nagrodach lub certyfikatach w formie podanej powyżej</target>
       </segment>
     </unit>
-    <unit id="common.common:star_Price_excluding_taxes" translate="yes">
+    <unit id="common.common:star_Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -805,7 +806,7 @@
         <target>\naby uzyskać dostęp do tej zawartości</target>
       </segment>
     </unit>
-    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="yes">
+    <unit id="common.common:A_6_digit_OTP_has_been_sent_to_your_mobile_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1174,7 +1175,7 @@
         <target>Dodaj języki</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_Learning_Goal" translate="yes">
+    <unit id="common.common:Add_Learning_Goal" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1193,7 +1194,7 @@
         <target>Dodaj cele szkoleniowe</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="yes">
+    <unit id="common.common:Add_learning_goals_to_help_you_to_upskill_and_upgrade_the_level_of_your_existing_skillsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1332,7 +1333,7 @@
         <target>Dodaj zespół</target>
       </segment>
     </unit>
-    <unit id="common.common:Add_to_Featured" translate="yes">
+    <unit id="common.common:Add_to_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1501,7 +1502,7 @@
         <target>Wiersz adresowy 3</target>
       </segment>
     </unit>
-    <unit id="common.common:Address_missing" translate="yes">
+    <unit id="common.common:Address_missing" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1740,7 +1741,7 @@
         <target>Wszyscy użytkownicy będą mogli wykryć tę grupę, uzyskać do niej dostęp i dołączyć do niej.</target>
       </segment>
     </unit>
-    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="yes">
+    <unit id="common.common:All_users_will_be_able_to_discovercomma__accesscomma__followcomma__and_unfollow_this_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1789,7 +1790,7 @@
         <target>Zezwól użytkownikowi na ponowne udzielenie odpowiedzi na ten quiz.</target>
       </segment>
     </unit>
-    <unit id="common.common:Already_have_an_accountqmark_" translate="yes">
+    <unit id="common.common:Already_have_an_accountqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1848,7 +1849,7 @@
         <target>Ogłoszenie</target>
       </segment>
     </unit>
-    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="yes">
+    <unit id="common.common:Another_user_has_already_logged_in_to_this_appdot__Please_logout_before_login_with_another_userdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -1957,7 +1958,7 @@
         <target>Zatwierdzono</target>
       </segment>
     </unit>
-    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Aquiring_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2036,13 +2037,13 @@
         <target>Czy na pewno chcesz usunąć umiejętność?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_block_pat_qmark__Any_content_or_comments_posted_by_pat__will_not_be_visible_to_youdot__You_can_unblock_them_from_the_fs_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</source>
-        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the &quot;Manage Blocked Users&quot;</target>
+        <source>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</source>
+        <target>Are you sure you want to block %1$@? Any content or comments posted by %2$@ will not be visible to you. You can unblock them from the \&quot;Manage Blocked Users\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Are_you_sure_you_want_to_cancel_registrationqmark_" translate="yes">
@@ -2125,7 +2126,7 @@
         <target>Czy na pewno chcesz zakończyć transmisję?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_go_back_without_saving_the_changesqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2204,7 +2205,7 @@
         <target>Czy na pewno chcesz przerwać wspólne nadawanie i kontynuować jako widz?</target>
       </segment>
     </unit>
-    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="yes">
+    <unit id="common.common:Are_you_sure_you_want_to_unblock_pat_qmark__Once_unblockedcomma__all_the_content_or_comments_posted_by_pat__will_now_be_visible_to_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -2513,7 +2514,7 @@
         <target>Przypisane przez </target>
       </segment>
     </unit>
-    <unit id="common.common:Assigned_bycln__pat_" translate="yes">
+    <unit id="common.common:Assigned_bycln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3002,7 +3003,7 @@
         <target>Identyfikator odznaki: </target>
       </segment>
     </unit>
-    <unit id="common.common:Badge_Preview" translate="yes">
+    <unit id="common.common:Badge_Preview" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3211,7 +3212,7 @@
         <target>Bądź pierwszym, który zareaguje</target>
       </segment>
     </unit>
-    <unit id="common.common:Begin_Course" translate="yes">
+    <unit id="common.common:Begin_Course" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3290,7 +3291,7 @@
         <target>Zablokuj: Nie pokazuj podobnych treści; treść nie jest odpowiednia</target>
       </segment>
     </unit>
-    <unit id="common.common:Blocked_Users" translate="yes">
+    <unit id="common.common:Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3455,7 +3456,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with &apos;https://&apos;</source>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https://\&apos;</source>
         <target>Nie można otworzyć niezabezpieczonych adresów URL. Wypróbuj linki zaczynające się od „https: //”</target>
       </segment>
     </unit>
@@ -3899,7 +3900,7 @@
         <target>Zmień hasło</target>
       </segment>
     </unit>
-    <unit id="common.common:Change_Plan" translate="yes">
+    <unit id="common.common:Change_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3918,7 +3919,7 @@
         <target>Zmień na %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Changes_not_saved_successfully" translate="yes">
+    <unit id="common.common:Changes_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -3997,7 +3998,7 @@
         <target>Nazwa kanału*</target>
       </segment>
     </unit>
-    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="yes">
+    <unit id="common.common:Channel_Name_is_Invaliddot__Please_Choose_Another_Namedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4056,7 +4057,7 @@
         <target>Zaktualizowano kanał</target>
       </segment>
     </unit>
-    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="yes">
+    <unit id="common.common:channelapt_s_widget_settingsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4218,6 +4219,7 @@
     <unit id="common.common:Clarity_in_speech_is_of_two_kindsds__verbal_and_vocaldot__Verbal_clarity_would_mean_that_your_content_shows_continuity_of_thoughtdot__Vocal_clarity_means_you_do_not_speak_too_fast_or_too_slowlydot__You_do_not_have_a_heavy_accentcomma__you_do_not_slur_or_mumble_your_wordscomma__and_you_use_standard_pronunciation_for_your_worddot_fs_n" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Clarity in speech is of two kinds- verbal and vocal. Verbal clarity would mean that your content shows continuity of thought. Vocal clarity means you do not speak too fast or too slowly. You do not have a heavy accent, you do not slur or mumble your words, and you use standard pronunciation for your word.</source>
@@ -4534,7 +4536,7 @@
         <target>Komentarz jest zbyt krótki!</target>
       </segment>
     </unit>
-    <unit id="common.common:Comment_options" translate="yes">
+    <unit id="common.common:Comment_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4623,7 +4625,7 @@
         <target>Zakończ całą poprzednią zawartość, aby to odblokować</target>
       </segment>
     </unit>
-    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="yes">
+    <unit id="common.common:Complete_all_the_previous_content_to_unlock_this_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4682,7 +4684,7 @@
         <target>UKOŃCZONE KURSY</target>
       </segment>
     </unit>
-    <unit id="common.common:completed_Journey" translate="yes">
+    <unit id="common.common:completed_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4921,7 +4923,7 @@
         <target>Zawartość została pomyślnie pobrana. Wyświetl lub zapisz ją na swoim urządzeniu w Moich pobranych plikach.</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4930,7 +4932,7 @@
         <target>Content has been posted to the selected channel(s)</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -4939,7 +4941,7 @@
         <target>Content has been posted to the selected channel(s).</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="yes">
+    <unit id="common.common:Content_has_been_posted_to_the_selected_channelobkt_scbkt_dot__If_it_is_a_curated_channelcomma__your_post_will_be_visible_once_approved_by_the_curatordot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5088,7 +5090,7 @@
         <target>Typy zawartości</target>
       </segment>
     </unit>
-    <unit id="common.common:Content_unavailable" translate="yes">
+    <unit id="common.common:Content_unavailable" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5387,7 +5389,7 @@
         <target>Utwórz ścieżkę, zanim zaczniesz dodawać do niej zawartość</target>
       </segment>
     </unit>
-    <unit id="common.common:Create_Account" translate="yes">
+    <unit id="common.common:Create_Account" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5456,7 +5458,7 @@
         <target>Utwórz konto, aby uczyć się przez całe życie.</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Journey" translate="yes">
+    <unit id="common.common:created_Journey" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5465,7 +5467,7 @@
         <target>created Journey</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Livestream" translate="yes">
+    <unit id="common.common:created_Livestream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5484,7 +5486,7 @@
         <target>Data utworzenia</target>
       </segment>
     </unit>
-    <unit id="common.common:created_Pathway" translate="yes">
+    <unit id="common.common:created_Pathway" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5493,7 +5495,7 @@
         <target>created Pathway</target>
       </segment>
     </unit>
-    <unit id="common.common:created_SmartCard" translate="yes">
+    <unit id="common.common:created_SmartCard" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5512,7 +5514,7 @@
         <target>Tworzenie kanału...</target>
       </segment>
     </unit>
-    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="yes">
+    <unit id="common.common:Creating_your_payment_profile_for_first_subscription_purchasedot__Please_try_again_in_some_timedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5521,7 +5523,7 @@
         <target>Creating your payment profile for first subscription purchase. Please try again in some time.</target>
       </segment>
     </unit>
-    <unit id="common.common:Creation_Date" translate="yes">
+    <unit id="common.common:Creation_Date" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -5980,7 +5982,7 @@
         <target>Odmów</target>
       </segment>
     </unit>
-    <unit id="common.common:Declined" translate="yes">
+    <unit id="common.common:Declined" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6349,7 +6351,7 @@
         <target>Oznaczenie *</target>
       </segment>
     </unit>
-    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Detail_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6638,7 +6640,7 @@
         <target>Gotowe!</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Journey_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6647,7 +6649,7 @@
         <target>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_Pathway_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6656,7 +6658,7 @@
         <target>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</target>
       </segment>
     </unit>
-    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="yes">
+    <unit id="common.common:Donenot__This_SmartCard_has_been_Bookmarked_and_can_now_be_found_in_your_bookmarked_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6895,7 +6897,7 @@
         <target>Termin:%@</target>
       </segment>
     </unit>
-    <unit id="common.common:Duecln__" translate="yes">
+    <unit id="common.common:Duecln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6934,7 +6936,7 @@
         <target>Wymagany jest czas trwania</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__pat__ds__pat_" translate="yes">
+    <unit id="common.common:Durationcln__pat__ds__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6943,7 +6945,7 @@
         <target>Duration: %1$@ - %2$@</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__All" translate="yes">
+    <unit id="common.common:Durationcln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6952,7 +6954,7 @@
         <target>Duration: All</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__High_to_Low" translate="yes">
+    <unit id="common.common:Durationcln__High_to_Low" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -6961,7 +6963,7 @@
         <target>Duration: High to Low</target>
       </segment>
     </unit>
-    <unit id="common.common:Durationcln__Low_to_High" translate="yes">
+    <unit id="common.common:Durationcln__Low_to_High" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -7280,7 +7282,7 @@
         <target>Edytuj swój kanał, aby dodać opis.</target>
       </segment>
     </unit>
-    <unit id="common.common:Edited" translate="yes">
+    <unit id="common.common:Edited" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8129,7 +8131,7 @@
         <target>Wprowadź zawartość widżetu banera</target>
       </segment>
     </unit>
-    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="yes">
+    <unit id="common.common:Enter_the_email_address_which_you_will_use_to_sign_in_to_your_GoLearning" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8268,7 +8270,7 @@
         <target>Błąd</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_adding_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8287,7 +8289,7 @@
         <target>Błąd zatwierdzenia tej rejestracji\nSpróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="yes">
+    <unit id="common.common:Error_Blocking_Usercln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8426,7 +8428,7 @@
         <target>Błąd podczas oceniania przesłania \nSpróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="yes">
+    <unit id="common.common:Error_in_fetching_user_informationdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8505,7 +8507,7 @@
         <target>Błąd podczas publikowania komentarza \nSpróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_groupfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8514,7 +8516,7 @@
         <target>Error posting in group\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8523,7 +8525,7 @@
         <target>Error posting in submission\nPlease try again later</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_posting_remark_in_submissionfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8592,7 +8594,7 @@
         <target>Błąd rejestracji \nSpróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_removing_SmartCard_in_groupapt1_s_featured_sectiondot__fs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -8771,7 +8773,7 @@
         <target>Błąd zakończenia obserwacji kanału \nSpróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="yes">
+    <unit id="common.common:Error_unfollowing_userfs_nPlease_try_again_later" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9030,7 +9032,7 @@
         <target>Nie udało się sprawdzić stanu sieci. Proszę sprawdzić swoje połączenie z internetem.</target>
       </segment>
     </unit>
-    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="yes">
+    <unit id="common.common:Fail_to_create_RTM_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9109,7 +9111,7 @@
         <target>Nie udało się dodać zawodu. Spróbuj ponownie.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="yes">
+    <unit id="common.common:Failed_to_establish_communication_in_Live_streamingdot__Please_check_your_network_connection_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9118,7 +9120,7 @@
         <target>Failed to establish communication in Live streaming. Please check your network connection and try again.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="yes">
+    <unit id="common.common:Failed_to_Exit_Channelcln__Request_Rejected" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9127,7 +9129,7 @@
         <target>Failed to Exit Channel: Request Rejected</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_get_user_attribtues_from_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9136,7 +9138,7 @@
         <target>Failed to get user attribtues from the server. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Live_Stream_RTC_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9145,7 +9147,7 @@
         <target>Failed to join Live Stream RTC channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_join_Realds_Time_Messaging_Channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9154,7 +9156,7 @@
         <target>Failed to join Real-Time Messaging Channel. Reason: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_login_to_RTM_channeldot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9183,7 +9185,7 @@
         <target>Nie udało się odrzucić. Spróbuj ponownie.</target>
       </segment>
     </unit>
-    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Failed_to_send_attributes_to_the_serverdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9292,7 +9294,7 @@
         <target>Polecana zawartość zostanie przedstawiona tutaj</target>
       </segment>
     </unit>
-    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="yes">
+    <unit id="common.common:Featured_vbar__The_top_recommended_content_by_this_channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9381,7 +9383,7 @@
         <target>Filtruj według</target>
       </segment>
     </unit>
-    <unit id="common.common:Filters_applied_successfully" translate="yes">
+    <unit id="common.common:Filters_applied_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9613,6 +9615,7 @@
     <unit id="common.common:From" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>From</source>
@@ -9759,7 +9762,7 @@
         <target>Zacznij</target>
       </segment>
     </unit>
-    <unit id="common.common:Get_this_course_plus__pd__others" translate="yes">
+    <unit id="common.common:Get_this_course_plus__pd__others" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -9898,7 +9901,7 @@
         <target>Przejdź do ustawień zaawansowanych</target>
       </segment>
     </unit>
-    <unit id="common.common:Goto_My_Learning_Plan" translate="yes">
+    <unit id="common.common:Goto_My_Learning_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10217,7 +10220,7 @@
         <target>Grupy, których jestem administratorem</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__pzd_" translate="yes">
+    <unit id="common.common:Groupscln__pzd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10226,7 +10229,7 @@
         <target>Groups: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Groupscln__All" translate="yes">
+    <unit id="common.common:Groupscln__All" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10291,7 +10294,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type &quot;menu&quot;. Please try it.</source>
+        <source>Hello, my name is %@, and I am your learning assistant from EdCast. I can help you to achieve your learning goal. To see what I can do for you, you can always say or type \&quot;menu\&quot;. Please try it.</source>
         <target>Witam, nazywam się%@ i jestem Twoim asystentem w nauce z EdCast. Mogę pomóc Ci osiągnąć cel nauki. Aby zobaczyć, co mogę dla Ciebie zrobić, zawsze możesz powiedzieć lub wpisać „menu”. Proszę, spróbuj.</target>
       </segment>
     </unit>
@@ -10335,7 +10338,7 @@
         <target>Hej! Cieszysz się, że możesz zacząć?</target>
       </segment>
     </unit>
-    <unit id="common.common:Hi" translate="yes">
+    <unit id="common.common:Hi" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10357,6 +10360,7 @@
     <unit id="common.common:Hi_Donaldcomma__how_are_you_todayqmark__My_name_is_Mickeycomma__with_Sales_Universitydot__The_reason_Iapt1_m_calling_is_to_get_some_time_on_your_calendardot__I_just_noticed_on_your_site_that_youapt1_re_hiring_10_new_sales_reps_this_quarterdot__Several_companies_in_your_industry_are_already_using_SalesU_to_help_their_current_sales_development_team_get_more_conversations_started_and_meetings_bookeddot__They_are_also_able_to_cut_new_rep_ramp_time_in_halfdot_fs_n_I_thought_the_best_place_to_start_is_to_schedule_a_meeting_to_learn_about_your_sales_challenges_and_goalsdot__Do_you_have_time_Wednesday_or_Thursday_afternoon_around_10_adot_mdot_qmark_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
@@ -10433,7 +10437,7 @@
         <target>Dom Nie, Budynek</target>
       </segment>
     </unit>
-    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="yes">
+    <unit id="common.common:How_do_we_calculate_ratingsqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10602,7 +10606,7 @@
         <target>Jeśli tak, Twój wybór zostanie utracony</target>
       </segment>
     </unit>
-    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="yes">
+    <unit id="common.common:If_you_donapt_t_see_the_email_in_your_inboxcomma__please_check_your_junkcomma__socialcomma__spamcomma__or_other_foldersdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10711,7 +10715,7 @@
         <target>Dołącz wiadomość</target>
       </segment>
     </unit>
-    <unit id="common.common:Included_in_your_subscription" translate="yes">
+    <unit id="common.common:Included_in_your_subscription" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10826,7 +10830,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; in &apos;%@&apos;</source>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; in &apos;%@&apos;</source>
         <target>Wstawiony adres URL nie jest bezpieczny, użyj „https: //” w „%@”</target>
       </segment>
     </unit>
@@ -10836,7 +10840,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use &apos;https://&apos; instead of &apos;http://&apos;.</source>
+        <source>Inserted URL is not secure, use \&apos;https://\&apos; instead of &apos;http://&apos;.</source>
         <target>Wstawiony adres URL nie jest bezpieczny, użyj „https: //” zamiast „http: //”.</target>
       </segment>
     </unit>
@@ -10890,7 +10894,7 @@
         <target>Treść wewnętrzna</target>
       </segment>
     </unit>
-    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="yes">
+    <unit id="common.common:Internal_Server_Errordot__Please_Try_Againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10909,7 +10913,7 @@
         <target>Internet podłączony. Witamy z powrotem!</target>
       </segment>
     </unit>
-    <unit id="common.common:Intune_Logs" translate="yes">
+    <unit id="common.common:Intune_Logs" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10918,7 +10922,7 @@
         <target>Intune Logs</target>
       </segment>
     </unit>
-    <unit id="common.common:INTUNE_LOGS" translate="yes">
+    <unit id="common.common:INTUNE_LOGS" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10947,7 +10951,7 @@
         <target>Nieprawidłowy interfejs API stosu plików i tajne klucze!</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="yes">
+    <unit id="common.common:Invalid_Transactiondot__Please_contact_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -10956,7 +10960,7 @@
         <target>Invalid Transaction. Please contact admin.</target>
       </segment>
     </unit>
-    <unit id="common.common:Invalid_user_information_responsedot_" translate="yes">
+    <unit id="common.common:Invalid_user_information_responsedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11205,7 +11209,7 @@
         <target>Dołącz do grup, które Cię interesują na stronie „Odkrywaj”, aby zobaczyć je tutaj. Rozpocznij odkrywanie!</target>
       </segment>
     </unit>
-    <unit id="common.common:Join_Live_Stream" translate="yes">
+    <unit id="common.common:Join_Live_Stream" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -11624,7 +11628,7 @@
         <target>Tablica liderów</target>
       </segment>
     </unit>
-    <unit id="common.common:Leaderboard_Position" translate="yes">
+    <unit id="common.common:Leaderboard_Position" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12083,7 +12087,7 @@
         <target>Wydarzenie na żywo</target>
       </segment>
     </unit>
-    <unit id="common.common:Live_Event_already_done_on_pat_" translate="yes">
+    <unit id="common.common:Live_Event_already_done_on_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12222,7 +12226,7 @@
         <target>Logowanie za pomocą Enterprise SSO</target>
       </segment>
     </unit>
-    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="yes">
+    <unit id="common.common:Looks_like_we_donapt_t_have_any_more_recommendations_for_the_Learning_Goals_youapt_ve_selecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12281,7 +12285,7 @@
         <target>Męski</target>
       </segment>
     </unit>
-    <unit id="common.common:Manage_Blocked_Users" translate="yes">
+    <unit id="common.common:Manage_Blocked_Users" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12570,7 +12574,7 @@
         <target>Szczegóły spotkania nie mogą być puste</target>
       </segment>
     </unit>
-    <unit id="common.common:Meeting_linkcln_" translate="yes">
+    <unit id="common.common:Meeting_linkcln_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12759,7 +12763,7 @@
         <target>Mobilny zgodnie z Aadhaar</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_number_not_saved_successfully" translate="yes">
+    <unit id="common.common:Mobile_number_not_saved_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12768,7 +12772,7 @@
         <target>Mobile number not saved successfully</target>
       </segment>
     </unit>
-    <unit id="common.common:Mobile_Numberstar_" translate="yes">
+    <unit id="common.common:Mobile_Numberstar_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -12917,7 +12921,7 @@
         <target>Moje kanały</target>
       </segment>
     </unit>
-    <unit id="common.common:My_Content" translate="yes">
+    <unit id="common.common:My_Content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13149,13 +13153,14 @@
     <unit id="common.common:Name_cannot_contain_the_following_characterscln__tld__not__at__hash__dlr__ptg__exp__amp__star__et__ocb__ccb__vbar__osb__csb__cln__fs_" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Name cannot contain the following characters: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</source>
         <target>Imię i nazwisko nie może zawierać następujących znaków: ~ ! @ # $ % ^ &amp; * = { } | [ ] : &quot; ; &lt; &gt; ?</target>
       </segment>
     </unit>
-    <unit id="common.common:nameat_teamdot_com" translate="yes">
+    <unit id="common.common:nameat_teamdot_com" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13364,7 +13369,7 @@
         <target>Brak zadań</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_approved_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13373,7 +13378,7 @@
         <target>No attendees have been approved for attending this live event</target>
       </segment>
     </unit>
-    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="yes">
+    <unit id="common.common:No_attendees_have_been_declined_for_attending_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13412,7 +13417,7 @@
         <target>Obecnie nie ma żadnych odznak do wyświetlenia</target>
       </segment>
     </unit>
-    <unit id="common.common:No_blocked_users_found" translate="yes">
+    <unit id="common.common:No_blocked_users_found" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13521,7 +13526,7 @@
         <target>Brak obserwowanych kanałów</target>
       </segment>
     </unit>
-    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="yes">
+    <unit id="common.common:No_channelscomma__livestreamscomma__or_pathways_have_been_createddot__Please_contact_your_administrator_for_more_contentdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13680,7 +13685,7 @@
         <target>Brak wyróżnionej treści</target>
       </segment>
     </unit>
-    <unit id="common.common:No_filters_applied" translate="yes">
+    <unit id="common.common:No_filters_applied" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13829,7 +13834,7 @@
         <target>Nie znaleziono dziennika</target>
       </segment>
     </unit>
-    <unit id="common.common:No_Level" translate="yes">
+    <unit id="common.common:No_Level" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -13968,7 +13973,7 @@
         <target>Nie ma jeszcze ścieżek</target>
       </segment>
     </unit>
-    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="yes">
+    <unit id="common.common:No_pending_registrations_for_this_live_event" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14367,7 +14372,7 @@
         <target>W tej chwili nie można usunąć członków. Spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="yes">
+    <unit id="common.common:Not_able_to_unblock_user_right_nowdot__Please_try_again_laterdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14386,7 +14391,7 @@
         <target>Niedostępne</target>
       </segment>
     </unit>
-    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="yes">
+    <unit id="common.common:Not_Logged_In_with_Channel_name" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14405,7 +14410,7 @@
         <target>Nie uruchomiono</target>
       </segment>
     </unit>
-    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="yes">
+    <unit id="common.common:Notecln__You_can_switch_to_a_different_bundle_by_managing_your_subscriptions_in_your_deviceapt1_s_Settings_appdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14587,6 +14592,7 @@
     <unit id="common.common:OK" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>OK</source>
@@ -14596,6 +14602,7 @@
     <unit id="common.common:Ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Ok</source>
@@ -14605,6 +14612,7 @@
     <unit id="common.common:ok" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>ok</source>
@@ -14614,6 +14622,7 @@
     <unit id="common.common:Okay" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>Okay</source>
@@ -14623,6 +14632,7 @@
     <unit id="common.common:On" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>On</source>
@@ -14699,7 +14709,7 @@
         <target>W adresie URL obsługiwanych jest tylko 2048 znaków</target>
       </segment>
     </unit>
-    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="yes">
+    <unit id="common.common:Only_members_of_this_channel_can_access_the_channeldot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14788,7 +14798,7 @@
         <target>Otwórz quiz</target>
       </segment>
     </unit>
-    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="yes">
+    <unit id="common.common:Operation_Timed_Outdot__Please_Retrydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -14897,7 +14907,7 @@
         <target>Inne grupy publiczne</target>
       </segment>
     </unit>
-    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="yes">
+    <unit id="common.common:OTP_has_expireddot_fs_n_Please_generate_a_new_otp_and_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15056,7 +15066,7 @@
         <target>Hasło*</target>
       </segment>
     </unit>
-    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="yes">
+    <unit id="common.common:Password_and_Confirm_password_should_be_the_samedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15368,6 +15378,7 @@
     <unit id="common.common:per" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>per</source>
@@ -15524,7 +15535,7 @@
         <target>Odtwarzaj teraz</target>
       </segment>
     </unit>
-    <unit id="common.common:Playback_Speed" translate="yes">
+    <unit id="common.common:Playback_Speed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15673,7 +15684,7 @@
         <target>Kliknij Ogólne warunki i postanowienia, aby kontynuować</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="yes">
+    <unit id="common.common:Please_click_on_the_link_inside_to_verify_your_accountdot__You_can_also_click_on_the_mobile_link_to_complete_the_onboarding_heredot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -15832,7 +15843,7 @@
         <target>Wpisz prawidłowy czas zakończenia.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="yes">
+    <unit id="common.common:Please_enter_a_valid_mobile_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16221,7 +16232,7 @@
         <target>Wpisz nazwę pracodawcy</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_login_from_HIVE_app" translate="yes">
+    <unit id="common.common:Please_login_from_HIVE_app" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16330,7 +16341,7 @@
         <target>Podaj opis swojej ścieżki</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_provide_any_additional_details" translate="yes">
+    <unit id="common.common:Please_provide_any_additional_details" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16829,7 +16840,7 @@
         <target>Spróbuj ponownie. Być może pomoże przeniesienie w spokojne miejsce.</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="yes">
+    <unit id="common.common:Please_update_the_address_to_proceed_with_the_purchasedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16868,7 +16879,7 @@
         <target>Użyj pola wyszukiwania powyżej, aby wybrać tematy, których chcesz się uczyć</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_number" translate="yes">
+    <unit id="common.common:Please_verify_the_number" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -16877,7 +16888,7 @@
         <target>Please verify the number</target>
       </segment>
     </unit>
-    <unit id="common.common:Please_verify_the_numberdot_" translate="yes">
+    <unit id="common.common:Please_verify_the_numberdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17176,7 +17187,7 @@
         <target>Cena</target>
       </segment>
     </unit>
-    <unit id="common.common:Price_excluding_taxes" translate="yes">
+    <unit id="common.common:Price_excluding_taxes" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17245,7 +17256,7 @@
         <target>Karty prywatne</target>
       </segment>
     </unit>
-    <unit id="common.common:Private_Channel" translate="yes">
+    <unit id="common.common:Private_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17294,7 +17305,7 @@
         <target>Profil</target>
       </segment>
     </unit>
-    <unit id="common.common:Profile_creation_in_progress" translate="yes">
+    <unit id="common.common:Profile_creation_in_progress" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17433,7 +17444,7 @@
         <target>Publiczny</target>
       </segment>
     </unit>
-    <unit id="common.common:Public_Channel" translate="yes">
+    <unit id="common.common:Public_Channel" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17522,7 +17533,7 @@
         <target>Kup treść</target>
       </segment>
     </unit>
-    <unit id="common.common:Purchase_options" translate="yes">
+    <unit id="common.common:Purchase_options" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17651,7 +17662,7 @@
         <target>ZAKRES</target>
       </segment>
     </unit>
-    <unit id="common.common:Rate" translate="yes">
+    <unit id="common.common:Rate" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17670,7 +17681,7 @@
         <target>Ocena</target>
       </segment>
     </unit>
-    <unit id="common.common:Ratings" translate="yes">
+    <unit id="common.common:Ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17989,7 +18000,7 @@
         <target>Zarejestrowano</target>
       </segment>
     </unit>
-    <unit id="common.common:Registeredcln__" translate="yes">
+    <unit id="common.common:Registeredcln__" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -17998,7 +18009,7 @@
         <target>Registered: </target>
       </segment>
     </unit>
-    <unit id="common.common:Registration_closeddot_" translate="yes">
+    <unit id="common.common:Registration_closeddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18147,7 +18158,7 @@
         <target>Dołączyć do transmisji na żywo?</target>
       </segment>
     </unit>
-    <unit id="common.common:Relevance" translate="yes">
+    <unit id="common.common:Relevance" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18156,7 +18167,7 @@
         <target>Relevance</target>
       </segment>
     </unit>
-    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="yes">
+    <unit id="common.common:Relinquishing_authentication_tokendt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18205,7 +18216,7 @@
         <target>Uwagi pomyślnie zaktualizowane</target>
       </segment>
     </unit>
-    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="yes">
+    <unit id="common.common:Reminder_is_sent_successfullydot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18234,7 +18245,7 @@
         <target>Usuń</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_pat_" translate="yes">
+    <unit id="common.common:Remove_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18253,7 +18264,7 @@
         <target>Usuń i cofnij przypisanie zawartości</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_and_Unshare_content" translate="yes">
+    <unit id="common.common:Remove_and_Unshare_content" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18272,7 +18283,7 @@
         <target>Usuń z kanału</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_from_Featured" translate="yes">
+    <unit id="common.common:Remove_from_Featured" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18291,7 +18302,7 @@
         <target>Usuń ze ścieżki</target>
       </segment>
     </unit>
-    <unit id="common.common:Remove_Member" translate="yes">
+    <unit id="common.common:Remove_Member" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -18566,8 +18577,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Results for &quot;%@&quot;</source>
-        <target>Wyniki dla &quot;%@&quot;</target>
+        <source>Results for \&quot;%@\&quot;</source>
+        <target>Wyniki dla \&quot;%@\&quot;</target>
       </segment>
     </unit>
     <unit id="common.common:Resultscln__" translate="yes">
@@ -18610,7 +18621,7 @@
         <target>Ponów analizę prenzentacji</target>
       </segment>
     </unit>
-    <unit id="common.common:Role" translate="yes">
+    <unit id="common.common:Role" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19109,7 +19120,7 @@
         <target>Patrz załącznik</target>
       </segment>
     </unit>
-    <unit id="common.common:See_other_plans" translate="yes">
+    <unit id="common.common:See_other_plans" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19208,7 +19219,7 @@
         <target>Wybierz powiązane umiejętności</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Badge_Icon" translate="yes">
+    <unit id="common.common:Select_Badge_Icon" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19457,7 +19468,7 @@
         <target>Wybierz zawód</target>
       </segment>
     </unit>
-    <unit id="common.common:Select_Skill" translate="yes">
+    <unit id="common.common:Select_Skill" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19626,7 +19637,7 @@
         <target>Wybrano: %zd</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Groups" translate="yes">
+    <unit id="common.common:Selected_Groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19635,7 +19646,7 @@
         <target>Selected Groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Selected_Individuals" translate="yes">
+    <unit id="common.common:Selected_Individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -19834,7 +19845,7 @@
         <target>Udostępnij certyfikat</target>
       </segment>
     </unit>
-    <unit id="common.common:Share_Content_withdt1_" translate="yes">
+    <unit id="common.common:Share_Content_withdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20253,7 +20264,7 @@
         <target>Umiejętność pomyślnie zaktualizowana</target>
       </segment>
     </unit>
-    <unit id="common.common:Skillcln__pat_" translate="yes">
+    <unit id="common.common:Skillcln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20382,7 +20393,7 @@
         <target>Karta inteligentna</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_added_to_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20391,7 +20402,7 @@
         <target>SmartCard added to the group&apos;s featured section.</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20410,7 +20421,7 @@
         <target>Współpracownicy SmartCard</target>
       </segment>
     </unit>
-    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="yes">
+    <unit id="common.common:SmartCard_removed_from_the_groupapt1_s_featured_sectiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20599,7 +20610,7 @@
         <target>Niestety treści, które próbujesz zamieścić pochodzą z niezatwierdzonej strony internetowej lub słów.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_device" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20608,7 +20619,7 @@
         <target>Sorry, this content is currently unavailable for purchase on your device</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="yes">
+    <unit id="common.common:Sorrycomma__this_content_is_currently_unavailable_for_purchase_on_your_devicedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20637,7 +20648,7 @@
         <target>Niestety nie możemy teraz utworzyć udostępnianego łącza. Spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -20646,7 +20657,7 @@
         <target>Sorry, We encountered an issue while trying to send a message to another participant in the live stream.</target>
       </segment>
     </unit>
-    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="yes">
+    <unit id="common.common:Sorrycomma__We_encountered_an_issue_while_trying_to_send_a_message_to_another_participant_in_the_live_streamdot__Reasoncln__pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21115,7 +21126,7 @@
         <target>Krok 4: Po pomyślnym przejściu oceny para kursu i oceny pojawi się jako wpis w rejestrze poniżej. Kliknij „aplikuj do GoI incentive”.</target>
       </segment>
     </unit>
-    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="yes">
+    <unit id="common.common:Step_Not_Supported_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21314,7 +21325,7 @@
         <target>Subskrybuj</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscribed" translate="yes">
+    <unit id="common.common:Subscribed" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21333,7 +21344,7 @@
         <target>Subskrypcja</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_already_purchased" translate="yes">
+    <unit id="common.common:Subscription_already_purchased" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21352,7 +21363,7 @@
         <target>Niepowodzenie subskrypcji Spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_not_available" translate="yes">
+    <unit id="common.common:Subscription_not_available" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21361,7 +21372,7 @@
         <target>Subscription not available</target>
       </segment>
     </unit>
-    <unit id="common.common:Subscription_Plan" translate="yes">
+    <unit id="common.common:Subscription_Plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21410,7 +21421,7 @@
         <target>Pomyślnie</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21419,7 +21430,7 @@
         <target>Successfully assigned to </target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21428,7 +21439,7 @@
         <target>Successfully assigned to %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21437,7 +21448,7 @@
         <target>Successfully assigned to %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_assigned_to_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21496,7 +21507,7 @@
         <target>Pomyślnie zgłoszono</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21505,7 +21516,7 @@
         <target>Successfully shared with %zd groups</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21514,7 +21525,7 @@
         <target>Successfully shared with %zd individuals</target>
       </segment>
     </unit>
-    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="yes">
+    <unit id="common.common:Successfully_shared_with_pzd__individuals_and_pzd__groups" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21553,7 +21564,7 @@
         <target>Sugerowane grupy</target>
       </segment>
     </unit>
-    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="yes">
+    <unit id="common.common:Summary_of_pat_apt_s_Activity" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21622,7 +21633,7 @@
         <target>Przełącz zespół</target>
       </segment>
     </unit>
-    <unit id="common.common:Switch_to_this_plan" translate="yes">
+    <unit id="common.common:Switch_to_this_plan" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21701,7 +21712,7 @@
         <target>Dotknij ikonę &apos;Zakładka&apos; na dowolnej karcie SmartCard, aby dodać ją do swojej listy zakładek.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="yes">
+    <unit id="common.common:TBD_Your_credit_card_was_declined_on_15th_Septembercomma__2022dot__Please_edit_your_information_to_renew_the_subscriptiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21720,7 +21731,7 @@
         <target>Do ustalenia Twoja karta kredytowa została odrzucona. Edytuj swoje dane, aby odnowić subskrypcję.</target>
       </segment>
     </unit>
-    <unit id="common.common:TBD_Your_subscription_ended_on_15th_Augustcomma__2022dot_" translate="yes">
+    <unit id="common.common:TBD_Your_subscription_ended_on_15th_Augustcomma__2022dot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21809,7 +21820,7 @@
         <target>Problemy techniczne z otworzeniem zawartości</target>
       </segment>
     </unit>
-    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="yes">
+    <unit id="common.common:Tell_others_what_you_are_good_atdot_fs_n_This_will_appear_on_your_Skills_Passport" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -21898,7 +21909,7 @@
         <target>Dziękujemy za dołączenie do transmisji na żywo. Powtórka tego nagrania będzie wkrótce dostępna do odtwarzania na żądanie.</target>
       </segment>
     </unit>
-    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="yes">
+    <unit id="common.common:Thanks_for_joiningnot__Please_check_for_your_verification_email" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22127,7 +22138,7 @@
         <target>Kod QR został wysłany pocztą elektroniczną!</target>
       </segment>
     </unit>
-    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="yes">
+    <unit id="common.common:The_ratings_calculated_and_determined_by_aggregating_feedback_or_data_from_usersdot_fs_nfs_nWe_checks_for_spam_or_suspicious_profiles_to_ensure_genuine_ratings" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22146,7 +22157,7 @@
         <target>Odtwarzanie tego filmu będzie wkrótce dostępne na %@</target>
       </segment>
     </unit>
-    <unit id="common.common:The_request_is_rejecteddot_" translate="yes">
+    <unit id="common.common:The_request_is_rejecteddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22255,7 +22266,7 @@
         <target>Brak dostępnych kart.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="yes">
+    <unit id="common.common:There_are_no_bookmarked_cards_availabledot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22264,7 +22275,7 @@
         <target>There are no bookmarked cards available.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="yes">
+    <unit id="common.common:There_are_no_cards_available_to_display_right_nowdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22293,7 +22304,7 @@
         <target>Nie ma jeszcze kursów. Sprawdź później.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Groups_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22302,7 +22313,7 @@
         <target>There are no more Groups assigned.</target>
       </segment>
     </unit>
-    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="yes">
+    <unit id="common.common:There_are_no_more_Individuals_assigneddot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22631,7 +22642,7 @@
         <target>To jest kod QR treści: %@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="yes">
+    <unit id="common.common:This_is_your_own_Channelapt_s_Banner_Widgetnot_fs_nfs_nYou_can_enablecomma__disablecomma__and_customize_this_feature_by_editing_the_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22640,7 +22651,7 @@
         <target>This is your own Channel&apos;s Banner Widget!\n\nYou can enable, disable, and customize this feature by editing the </target>
       </segment>
     </unit>
-    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Journey_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22689,7 +22700,7 @@
         <target>Ta organizacja nie jest otwarta do rejestracji</target>
       </segment>
     </unit>
-    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_Pathway_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22708,7 +22719,7 @@
         <target>Ten kwartał</target>
       </segment>
     </unit>
-    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="yes">
+    <unit id="common.common:This_SmartCard_has_been_removed_from_your_Bookmarksdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22747,7 +22758,7 @@
         <target>Ta karta SmartCard została wysłana przez:%@</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="yes">
+    <unit id="common.common:This_subscription_is_already_purchaseddot__You_can_check_more_details_in_My_Profile_section" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22756,7 +22767,7 @@
         <target>This subscription is already purchased. You can check more details in My Profile section</target>
       </segment>
     </unit>
-    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="yes">
+    <unit id="common.common:This_subscription_is_unavailable_for_a_purchasedot__Please_try_a_different_subscriptionbs_contact_your_organisation_admindot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22835,7 +22846,7 @@
         <target>Spowoduje to automatyczne przypisanie wszystkich poprzednich przydziałów grup do wszystkich nowych członków, którzy do nich dołączą.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_complete_your_transactiondot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22844,7 +22855,7 @@
         <target>This will send you to a secured environment, where you can complete your transaction.</target>
       </segment>
     </unit>
-    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="yes">
+    <unit id="common.common:This_will_send_you_to_a_secured_environmentcomma__where_you_can_view_and_consume_the_coursedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -22946,13 +22957,14 @@
     <unit id="common.common:To" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>To</source>
         <target>Do</target>
       </segment>
     </unit>
-    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="yes">
+    <unit id="common.common:To_manage_your_subscriptioncomma__navigate_to_your_deviceapt1_s_Settings_appcomma__tap_your_usernamecomma__and_select_Subscriptionsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23151,7 +23163,7 @@
         <target>Ogółem Głosy badane: </target>
       </segment>
     </unit>
-    <unit id="common.common:Totalcln__pd_" translate="yes">
+    <unit id="common.common:Totalcln__pd_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23640,7 +23652,7 @@
         <target>Nie można przetworzyć, spróbuj ponownie później</target>
       </segment>
     </unit>
-    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="yes">
+    <unit id="common.common:Unable_to_Send_Messagecln__Invalid_Formatnot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23679,7 +23691,7 @@
         <target>Nie można zaktualizować!</target>
       </segment>
     </unit>
-    <unit id="common.common:Unassign" translate="yes">
+    <unit id="common.common:Unassign" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23688,7 +23700,7 @@
         <target>Unassign</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock" translate="yes">
+    <unit id="common.common:Unblock" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23697,7 +23709,7 @@
         <target>Unblock</target>
       </segment>
     </unit>
-    <unit id="common.common:Unblock_pat_" translate="yes">
+    <unit id="common.common:Unblock_pat_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23716,7 +23728,7 @@
         <target>Usuń zakładkę</target>
       </segment>
     </unit>
-    <unit id="common.common:uncompleted" translate="yes">
+    <unit id="common.common:uncompleted" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23815,7 +23827,7 @@
         <target>Nieznany typ karty</target>
       </segment>
     </unit>
-    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="yes">
+    <unit id="common.common:Unknown_Errordot__Please_try_againdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23834,7 +23846,7 @@
         <target>Odblokuj odznaki przez ukończenie ścieżek i dróg</target>
       </segment>
     </unit>
-    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="yes">
+    <unit id="common.common:Unlock_the_badge_after_Quiz_is_passed_successfully" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23863,7 +23875,7 @@
         <target>Wyrejestruj się</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare" translate="yes">
+    <unit id="common.common:Unshare" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -23872,7 +23884,7 @@
         <target>Unshare</target>
       </segment>
     </unit>
-    <unit id="common.common:Unshare_Content_fromdt1_" translate="yes">
+    <unit id="common.common:Unshare_Content_fromdt1_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24151,7 +24163,7 @@
         <target>Prześlij miniaturkę *</target>
       </segment>
     </unit>
-    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="yes">
+    <unit id="common.common:Upon_completing_this_pathway_the_assignee_will_get_a_badge" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24400,7 +24412,7 @@
         <target>Pokaż wszystkie</target>
       </segment>
     </unit>
-    <unit id="common.common:View_Attendees" translate="yes">
+    <unit id="common.common:View_Attendees" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24799,7 +24811,7 @@
         <target>W tej chwili osiągnęliśmy maksymalną liczbę współnadawców. Spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="yes">
+    <unit id="common.common:We_have_sent_a_verification_email_to_your_registered_email_addressdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -24918,7 +24930,7 @@
         <target>Witaj</target>
       </segment>
     </unit>
-    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="yes">
+    <unit id="common.common:Welcome_to_your_Ledger_fs_nA_compilation_of_GoI_Incentive_eligible_courseds_assessment_pairs_completed_by_youdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25200,6 +25212,7 @@
     <unit id="common.common:With" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>With</source>
@@ -25329,6 +25342,7 @@
     <unit id="common.common:You" translate="yes">
       <notes>
         <note id="context">Missing</note>
+        <note id="legacy">legacy01</note>
       </notes>
       <segment >
         <source>You</source>
@@ -25375,7 +25389,7 @@
         <target>Zamierzasz powrócić do poprzedniego kroku. Pamiętaj, że spowoduje to usunięcie wszystkich niezapisanych zmian wprowadzonych na tej stronie. Tego działania nie można cofnąć. Co chcesz zrobić?</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:You_are_about_to_remove_pat__from_this_groupdot__How_would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25474,7 +25488,7 @@
         <target>Nie masz uprawnień dostępu do tego kanału.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="yes">
+    <unit id="common.common:You_are_not_authorized_to_access_this_contentdot__Please_contact_the_content_sharer_for_accessdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25553,7 +25567,7 @@
         <target>możesz kontynuować naukę w podróży, w każdej chwili, gdziekolwiek</target>
       </segment>
     </unit>
-    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="yes">
+    <unit id="common.common:You_can_earn_points_by_completing_content_and_by_earning_badges" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25792,7 +25806,7 @@
         <target>Masz w portfelu %1$d monet Skillcoins. Wydasz %2$@ na zakup treści.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="yes">
+    <unit id="common.common:You_have_a_video_stream_scheduled_to_be_live_nowdot__Do_you_want_to_start_itqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25821,7 +25835,7 @@
         <target>Zgłosiłeś już ten komentarz</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Journey_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25830,7 +25844,7 @@
         <target>You have assigned this Journey to yourself.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="yes">
+    <unit id="common.common:You_have_assigned_this_Pathway_to_yourselfdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25849,7 +25863,7 @@
         <target>Przydzieliłeś(-aś) tę SmartCard do siebie.</target>
       </segment>
     </unit>
-    <unit id="common.common:You_have_blocked_this_user" translate="yes">
+    <unit id="common.common:You_have_blocked_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -25884,7 +25898,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You have exceeded the maximum attempts to enter the OTP. Please click on &quot;Resend OTP&quot; to generate another OTP</source>
+        <source>You have exceeded the maximum attempts to enter the OTP. Please click on \&quot;Resend OTP\&quot; to generate another OTP</source>
         <target>Przekroczyłeś maksymalną liczbę prób wprowadzenia hasła jednorazowego. Kliknij „Wyślij ponownie hasło jednorazowe”, aby wygenerować kolejne hasło jednorazowe</target>
       </segment>
     </unit>
@@ -26145,7 +26159,7 @@
       </notes>
       <segment >
         <source>You have successfully enrolled for this course. Click the &apos;Go to Course&apos; button to access the course details and materials.</source>
-        <target>Pomyślnie zapisałeś się na ten kurs. Kliknij przycisk &quot;Przejdź do kursu&quot;, aby uzyskać dostęp do szczegółów i materiałów kursu.</target>
+        <target>Pomyślnie zapisałeś się na ten kurs. Kliknij przycisk \&quot;Przejdź do kursu\&quot;, aby uzyskać dostęp do szczegółów i materiałów kursu.</target>
       </segment>
     </unit>
     <unit id="common.common:You_have_unfollowed_the_channel" translate="yes">
@@ -26328,7 +26342,7 @@
         <target>Nie będziesz już otrzymywać powiadomień o treściach publikowanych na kanale</target>
       </segment>
     </unit>
-    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="yes">
+    <unit id="common.common:You_wonapt_t_see_any_content_and_comments_from_this_user" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26347,7 +26361,7 @@
         <target>Nie będziesz mieć dostępu do tej grupy, czy na pewno chcesz ją opuścić?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26356,7 +26370,7 @@
         <target>You&apos;re about to remove %@, which will unassign their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unshare_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26365,7 +26379,7 @@
         <target>You&apos;re about to remove %@, which will unshare their content. Are you sure you want to proceed?</target>
       </segment>
     </unit>
-    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="yes">
+    <unit id="common.common:Youapt_re_about_to_remove_this_content_from_pat_apt_s_assignmentsdot__Would_you_like_to_proceedqmark_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26524,7 +26538,7 @@
         <target>Twoja polecana karta nie ma jeszcze zawartości!</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="yes">
+    <unit id="common.common:Your_Feed_is_currently_emptydot__Please_follow_a_few_Subject_Matter_Experts_obkt_SMEcbkt__and_Channelsdot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26663,7 +26677,7 @@
         <target>Twoja sieć jest nieosiągalna. Sprawdź sieć i spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="yes">
+    <unit id="common.common:Your_network_quality_iscln__pat_dot__We_do_not_recommend_to_do_livestream_with_this_qualitydot__Please_switch_to_a_better_network_for_a_better_user_experiencedot_" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26762,7 +26776,7 @@
         <target>Nie można przesłać Twoich opcji quizu z powodu problemów z siecią. Spróbuj ponownie później.</target>
       </segment>
     </unit>
-    <unit id="common.common:Your_rating" translate="yes">
+    <unit id="common.common:Your_rating" translate="no">
       <notes>
         <note id="context">Missing</note>
       </notes>
@@ -26797,7 +26811,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your search query is &quot;%@&quot;, and these are the search result:</source>
+        <source>Your search query is \&quot;%@\&quot;, and these are the search result:</source>
         <target>Twoje zapytanie to „%@”, a oto wynik wyszukiwania:</target>
       </segment>
     </unit>
@@ -26931,7 +26945,7 @@
         <target>…Zobacz więcej</target>
       </segment>
     </unit>
-    <!-- File::ios:: NewWords: 13578, NewStrings: 2715 -->
+    <!-- File::ios:: NewWords: 322114, NewStrings: 98600 -->
   </file>
-  <!-- XLIFF::ios_pl-PL.xlf:: TotalNewWords: 13578, TotalNewStrings: 2715 -->
+  <!-- XLIFF::ios_pl-PL.xlf:: TotalNewWords: 322114, TotalNewStrings: 98600 -->
 </xliff>
