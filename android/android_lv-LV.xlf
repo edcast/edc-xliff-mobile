@@ -5082,7 +5082,7 @@
     </notes>
       <segment >
         <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
-        <target>Atvainojiet, mēs neesam saņēmuši jūsu abonēšanas maksu.&apos; Vēlāk mēģiniet vēlreiz.</target>
+        <target>Atvainojiet, mēs neesam saņēmuši jūsu abonēšanas maksu.\&apos; Vēlāk mēģiniet vēlreiz.</target>
       </segment>
     </unit>
     <unit id="common.common:purchase_from_web_message" translate="yes">
@@ -10617,7 +10617,7 @@
     </notes>
       <segment >
         <source>This device doesn\&apos;t support Camera2 API.</source>
-        <target>Šī ierīce neatbalsta Camera2 API.&apos;</target>
+        <target>Šī ierīce neatbalsta Camera2 API.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_record_default_time" translate="yes">
@@ -10644,7 +10644,7 @@
     </notes>
       <segment >
         <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
-        <target>Nevar saglabāt vietējo video ieraksta kopiju, ārējā krātuve nav pieejama.&apos;</target>
+        <target>Nevar saglabāt vietējo video ieraksta kopiju, ārējā krātuve nav pieejama.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_live_not_able_to_continue_recording" translate="yes">
@@ -12633,7 +12633,7 @@
     </notes>
       <segment >
         <source>What\&apos;s your current role?</source>
-        <target>Kāda ir jūsu pašreizējā loma?&apos;</target>
+        <target>Kāda ir jūsu pašreizējā loma?\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -14273,7 +14273,7 @@
     </notes>
       <segment >
         <source>This video isn\&apos;t valid for streaming to this device.</source>
-        <target>Šis videoklips nav derīgs straumēšanai šajā ierīcē.&apos;</target>
+        <target>Šis videoklips nav derīgs straumēšanai šajā ierīcē.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:VideoView_error_text_unknown" translate="yes">
@@ -14651,7 +14651,7 @@
     </notes>
       <segment >
         <source>You\&apos;re Offline</source>
-        <target>Jūs esat bezsaistē&apos;</target>
+        <target>Jūs esat bezsaistē\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:offline_bottom_sheet_message" translate="yes">
@@ -17639,7 +17639,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning</source>
-        <target>Šodienas mācības&apos;</target>
+        <target>Šodienas mācības\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">
@@ -18593,7 +18593,7 @@
     </notes>
       <segment >
         <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
-        <target>Varat iespējot, atspējot un pielāgot šo funkciju, rediģējot kanāla logrīka iestatījumus.&apos;</target>
+        <target>Varat iespējot, atspējot un pielāgot šo funkciju, rediģējot kanāla logrīka iestatījumus.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:channel_widget_settings_label" translate="yes">
@@ -18602,7 +18602,7 @@
     </notes>
       <segment >
         <source>channel\&apos;s widget settings</source>
-        <target>Kanāla logrīka iestatījumi&apos;</target>
+        <target>Kanāla logrīka iestatījumi\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:leave_group_message" translate="yes">
@@ -24146,7 +24146,7 @@
     </notes>
       <segment >
         <source>Please enter your employer\&apos;s name</source>
-        <target>Lūdzu, ievadiet sava darba devēja vārdu&apos;</target>
+        <target>Lūdzu, ievadiet sava darba devēja vārdu\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_designation" translate="yes">
@@ -25127,7 +25127,7 @@
     </notes>
       <segment >
         <source>Please enter valid father\&apos;s name</source>
-        <target>Lūdzu, ievadiet derīgu tēva vārdu&apos;</target>
+        <target>Lūdzu, ievadiet derīgu tēva vārdu\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:mothername_error_msg" translate="yes">
@@ -25136,7 +25136,7 @@
     </notes>
       <segment >
         <source>Please enter valid mother\&apos;s name</source>
-        <target>Lūdzu, ievadiet derīgu mātes vārdu&apos;</target>
+        <target>Lūdzu, ievadiet derīgu mātes vārdu\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:address_error_msg" translate="yes">
@@ -25730,7 +25730,7 @@
     </notes>
       <segment >
         <source>Please enter the Badge issuer\&apos;s name</source>
-        <target>Lūdzu, ievadiet emblēmas izsniedzēja nosaukumu&apos;</target>
+        <target>Lūdzu, ievadiet emblēmas izsniedzēja nosaukumu\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_id_error_label" translate="yes">
@@ -25901,7 +25901,7 @@
     </notes>
       <segment >
         <source>Please enter the Certification issuer\&apos;s name</source>
-        <target>Lūdzu, ievadiet sertifikācijas izsniedzēja nosaukumu&apos;</target>
+        <target>Lūdzu, ievadiet sertifikācijas izsniedzēja nosaukumu\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certificate_id_error_label" translate="yes">
@@ -27881,7 +27881,7 @@
     </notes>
       <segment >
         <source>Title can\&apos;t be empty</source>
-        <target>Virsraksta lauks nedrīkst būt tukšs&apos;</target>
+        <target>Virsraksta lauks nedrīkst būt tukšs\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:quiz_answer_error_msg" translate="yes">
@@ -29375,7 +29375,7 @@
     </notes>
       <segment >
         <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
-        <target>Norādiet šī kanāla tēmas. Tie tiks parādīti kanāla galvenē.&apos;</target>
+        <target>Norādiet šī kanāla tēmas. Tie tiks parādīti kanāla galvenē.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:add_trusted_collaborators_label" translate="yes">

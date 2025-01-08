@@ -2508,7 +2508,7 @@
     </notes>
       <segment >
         <source>No search result for \&apos;%s\&apos;</source>
-        <target>Няма резултат от търсенето на &apos;%s</target>
+        <target>Няма резултат от търсенето на \&apos;%s</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -12633,7 +12633,7 @@
     </notes>
       <segment >
         <source>What\&apos;s your current role?</source>
-        <target>Каква е текущата ви роля?&apos;</target>
+        <target>Каква е текущата ви роля?\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -17639,7 +17639,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning</source>
-        <target>Ученето днес&apos;</target>
+        <target>Ученето днес\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">
@@ -17648,7 +17648,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V1</source>
-        <target>Днешното обучение&apos;V1</target>
+        <target>Днешното обучение\&apos;V1</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v2" translate="yes">
@@ -17657,7 +17657,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V2</source>
-        <target>Днешното обучение&apos;V2</target>
+        <target>Днешното обучение\&apos;V2</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_team_learing" translate="yes">
@@ -18584,7 +18584,7 @@
     </notes>
       <segment >
         <source>This is your own Channel\&apos;s Banner Widget!</source>
-        <target>Това е приспособление за банер на вашия собствен канал&apos;!</target>
+        <target>Това е приспособление за банер на вашия собствен канал\&apos;!</target>
       </segment>
     </unit>
     <unit id="common.common:channel_banner_widget_default_text_value" translate="yes">
@@ -18602,7 +18602,7 @@
     </notes>
       <segment >
         <source>channel\&apos;s widget settings</source>
-        <target>настройки на уиджета на канала&apos;</target>
+        <target>настройки на уиджета на канала\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:leave_group_message" translate="yes">
@@ -23642,7 +23642,7 @@
     </notes>
       <segment >
         <source>Appearance will be based on your device\&apos;s system setting</source>
-        <target>Външният вид ще се основава на системната настройка на вашето устройство&apos;</target>
+        <target>Външният вид ще се основава на системната настройка на вашето устройство\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:e_book" translate="yes">
@@ -24146,7 +24146,7 @@
     </notes>
       <segment >
         <source>Please enter your employer\&apos;s name</source>
-        <target>Моля, въведете името на вашия работодател&apos;</target>
+        <target>Моля, въведете името на вашия работодател\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_designation" translate="yes">
@@ -24425,7 +24425,7 @@
     </notes>
       <segment >
         <source>Father\&apos;s Name *</source>
-        <target>Име на баща&apos;*</target>
+        <target>Име на баща\&apos;*</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_mother_name_label" translate="yes">
@@ -25415,7 +25415,7 @@
     </notes>
       <segment >
         <source>You still haven\&apos;t added anything to your skill passport</source>
-        <target>Все още не сте добавили нищо към своя паспорт на умения&apos;</target>
+        <target>Все още не сте добавили нищо към своя паспорт на умения\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_skill_label" translate="yes">
@@ -25730,7 +25730,7 @@
     </notes>
       <segment >
         <source>Please enter the Badge issuer\&apos;s name</source>
-        <target>Моля, въведете името на издателя на значката&apos;</target>
+        <target>Моля, въведете името на издателя на значката\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_id_error_label" translate="yes">
@@ -26018,7 +26018,7 @@
     </notes>
       <segment >
         <source>Please enter the Assessment issuer\&apos;s name</source>
-        <target>Моля, въведете името на издателя на оценката&apos;</target>
+        <target>Моля, въведете името на издателя на оценката\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_report_url_error_label" translate="yes">
@@ -30464,7 +30464,7 @@
     </notes>
       <segment >
         <source>Shown in your group\&apos;s cards.</source>
-        <target>Показва се в картите на вашата група&apos;.</target>
+        <target>Показва се в картите на вашата група\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:add_group_admin" translate="yes">
