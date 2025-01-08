@@ -12633,7 +12633,7 @@
     </notes>
       <segment >
         <source>What\&apos;s your current role?</source>
-        <target>Која је\&lt;а3>&lt;/а3>ваша тренутна улога?&apos;</target>
+        <target>Која је ваша тренутна улога?</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -17639,7 +17639,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning</source>
-        <target>Данашње&lt;а1>&lt;/а1>учење&apos;</target>
+        <target>Данашње учење\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">

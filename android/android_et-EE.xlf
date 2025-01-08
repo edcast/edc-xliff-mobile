@@ -6621,7 +6621,7 @@
     </notes>
       <segment >
         <source>Your team\&apos;s learning list is empty. Check back later.</source>
-        <target>Teie meeskonna õppeloend on tühi.&apos; Vaadake hiljem uuesti.</target>
+        <target>Teie meeskonna õppeloend on tühi.\&apos; Vaadake hiljem uuesti.</target>
       </segment>
     </unit>
     <unit id="common.common:follow_user_channel_to_see_smartcards" translate="yes">
@@ -6864,7 +6864,7 @@
     </notes>
       <segment >
         <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
-        <target>Teil ei ole PDF-vaaturi rakendust.&apos;  Palun installige üks, et sisu vaadata.</target>
+        <target>Teil ei ole PDF-vaaturi rakendust.\&apos;  Palun installige üks, et sisu vaadata.</target>
       </segment>
     </unit>
     <unit id="common.common:video_error_message" translate="yes">
@@ -10617,7 +10617,7 @@
     </notes>
       <segment >
         <source>This device doesn\&apos;t support Camera2 API.</source>
-        <target>See seade ei toeta Camera2 API-t.&apos;</target>
+        <target>See seade ei toeta Camera2 API-t.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_record_default_time" translate="yes">
@@ -10644,7 +10644,7 @@
     </notes>
       <segment >
         <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
-        <target>Videosalvestuse kohalikku koopiat ei saa salvestada, väline mälu pole saadaval.&apos;</target>
+        <target>Videosalvestuse kohalikku koopiat ei saa salvestada, väline mälu pole saadaval.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_live_not_able_to_continue_recording" translate="yes">
@@ -12633,7 +12633,7 @@
     </notes>
       <segment >
         <source>What\&apos;s your current role?</source>
-        <target>Milline on teie praegune roll?&apos;</target>
+        <target>Milline on teie praegune roll?\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -14273,7 +14273,7 @@
     </notes>
       <segment >
         <source>This video isn\&apos;t valid for streaming to this device.</source>
-        <target>See video ei sobi sellesse seadmesse voogesitamiseks.&apos;</target>
+        <target>See video ei sobi sellesse seadmesse voogesitamiseks.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:VideoView_error_text_unknown" translate="yes">
@@ -17639,7 +17639,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning</source>
-        <target>Tänapäeva õppimine&apos;</target>
+        <target>Tänapäeva õppimine\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">
@@ -17648,7 +17648,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V1</source>
-        <target>Tänapäeva õppimine V1&apos;</target>
+        <target>Tänapäeva õppimine V1\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v2" translate="yes">
@@ -17657,7 +17657,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V2</source>
-        <target>Tänapäeva õppimine V2&apos;</target>
+        <target>Tänapäeva õppimine V2\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_team_learing" translate="yes">
@@ -18593,7 +18593,7 @@
     </notes>
       <segment >
         <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
-        <target>Saate selle funktsiooni lubada, keelata ja kohandada, muutes kanali vidina seadeid&apos;</target>
+        <target>Saate selle funktsiooni lubada, keelata ja kohandada, muutes kanali vidina seadeid\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:channel_widget_settings_label" translate="yes">
@@ -18602,7 +18602,7 @@
     </notes>
       <segment >
         <source>channel\&apos;s widget settings</source>
-        <target>Kanali vidina seaded&apos;</target>
+        <target>Kanali vidina seaded\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:leave_group_message" translate="yes">
@@ -20321,7 +20321,7 @@
     </notes>
       <segment >
         <source>That\&apos;s all for now</source>
-        <target>See on praeguseks kõik&apos;</target>
+        <target>See on praeguseks kõik\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:check_back_tomorrow_for_a_fresh_set_of_smartcards" translate="yes">
@@ -21887,7 +21887,7 @@
     </notes>
       <segment >
         <source>You don\&apos;t have privileges to post the comment.</source>
-        <target>Teil ei ole kommentaari postitamiseks õigusi.&apos;</target>
+        <target>Teil ei ole kommentaari postitamiseks õigusi.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:collaborators_not_access_message" translate="yes">
@@ -25415,7 +25415,7 @@
     </notes>
       <segment >
         <source>You still haven\&apos;t added anything to your skill passport</source>
-        <target>Te pole ikka veel midagi oma oskuste passi lisanud&apos;</target>
+        <target>Te pole ikka veel midagi oma oskuste passi lisanud\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_skill_label" translate="yes">
@@ -27881,7 +27881,7 @@
     </notes>
       <segment >
         <source>Title can\&apos;t be empty</source>
-        <target>Pealkiri ei tohi olla tühi&apos;</target>
+        <target>Pealkiri ei tohi olla tühi\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:quiz_answer_error_msg" translate="yes">
@@ -31733,7 +31733,7 @@
     </notes>
       <segment >
         <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
-        <target>Liituge teid huvitavate gruppidega lehel &apos;. Avasta &apos;, et neid siin näha. Alustage uurimist kohe!</target>
+        <target>Liituge teid huvitavate gruppidega lehel \&apos;. Avasta \&apos;, et neid siin näha. Alustage uurimist kohe!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -31742,7 +31742,7 @@
     </notes>
       <segment >
         <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
-        <target>Jälgi teid huvitavate kanalitega lehel &apos;. Avasta &apos;, et neid siin näha. Alustage uurimist kohe!</target>
+        <target>Jälgi teid huvitavate kanalitega lehel \&apos;. Avasta \&apos;, et neid siin näha. Alustage uurimist kohe!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="yes">

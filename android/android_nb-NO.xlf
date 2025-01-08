@@ -1932,7 +1932,7 @@
     </notes>
       <segment >
         <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
-        <target>Legg til Learning Experience for å ikke optimalisere batterilisten for å motta alle viktige varsler fra Learning Experience.&apos;</target>
+        <target>Legg til Learning Experience for å ikke optimalisere batterilisten for å motta alle viktige varsler fra Learning Experience.\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_positive" translate="yes">
@@ -23642,7 +23642,7 @@
     </notes>
       <segment >
         <source>Appearance will be based on your device\&apos;s system setting</source>
-        <target>Utseendet vil være basert på enhetens systeminnstilling&apos;</target>
+        <target>Utseendet vil være basert på enhetens systeminnstilling\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:e_book" translate="yes">
@@ -25901,7 +25901,7 @@
     </notes>
       <segment >
         <source>Please enter the Certification issuer\&apos;s name</source>
-        <target>Vennligst skriv inn sertifiseringsutstederens navn&apos;</target>
+        <target>Vennligst skriv inn sertifiseringsutstederens navn\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certificate_id_error_label" translate="yes">
