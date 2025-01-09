@@ -6621,7 +6621,7 @@
     </notes>
       <segment >
         <source>Your team\&apos;s learning list is empty. Check back later.</source>
-        <target>Jūsų komandos mokymosi sąrašas tuščias.\&apos; Patikrinkite vėliau.</target>
+        <target>Jūsų komandos mokymosi sąrašas tuščias.&apos; Patikrinkite vėliau.</target>
       </segment>
     </unit>
     <unit id="common.common:follow_user_channel_to_see_smartcards" translate="yes">
@@ -10617,7 +10617,7 @@
     </notes>
       <segment >
         <source>This device doesn\&apos;t support Camera2 API.</source>
-        <target>Šis įrenginys nepalaiko „Camera2“ API.\&apos;</target>
+        <target>Šis įrenginys nepalaiko „Camera2“ API.&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_record_default_time" translate="yes">
@@ -10644,7 +10644,7 @@
     </notes>
       <segment >
         <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
-        <target>Negalima saugoti vietinės vaizdo įrašo kopijos, išorinė saugykla nepasiekiama.\&apos;</target>
+        <target>Negalima saugoti vietinės vaizdo įrašo kopijos, išorinė saugykla nepasiekiama.&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:tele_live_not_able_to_continue_recording" translate="yes">
@@ -12633,7 +12633,7 @@
     </notes>
       <segment >
         <source>What\&apos;s your current role?</source>
-        <target>Koks dabartinis jūsų vaidmuo?\&apos;</target>
+        <target>Koks dabartinis jūsų vaidmuo?&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -14651,7 +14651,7 @@
     </notes>
       <segment >
         <source>You\&apos;re Offline</source>
-        <target>Esate neprisijungę\&apos;</target>
+        <target>Esate neprisijungę&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:offline_bottom_sheet_message" translate="yes">
@@ -14912,7 +14912,7 @@
     </notes>
       <segment >
         <source>Podcast</source>
-        <target>Podcast'as</target>
+        <target>Podcast\&apos;as</target>
       </segment>
     </unit>
     <unit id="common.common:live_event_text" translate="yes">
@@ -14993,7 +14993,7 @@
     </notes>
       <segment >
         <source>Create Podcast</source>
-        <target>Sukurti podcast'ą</target>
+        <target>Sukurti podcast\&apos;ą</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_hint_message" translate="yes">
@@ -15011,7 +15011,7 @@
     </notes>
       <segment >
         <source>Record Podcast</source>
-        <target>Įrašyti podcast'ą</target>
+        <target>Įrašyti podcast\&apos;ą</target>
       </segment>
     </unit>
     <unit id="common.common:import_audio_podcast" translate="yes">
@@ -15056,7 +15056,7 @@
     </notes>
       <segment >
         <source>Cancel Podcast</source>
-        <target>Atšaukti podcast'ą</target>
+        <target>Atšaukti podcast\&apos;ą</target>
       </segment>
     </unit>
     <unit id="common.common:cancel_podcast_message" translate="yes">
@@ -15110,7 +15110,7 @@
     </notes>
       <segment >
         <source>Preview Podcast</source>
-        <target>Peržiūrėti podcast'ą</target>
+        <target>Peržiūrėti podcast\&apos;ą</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_out_of_space" translate="yes">
@@ -15128,7 +15128,7 @@
     </notes>
       <segment >
         <source>Edit Podcast</source>
-        <target>Redaguoti podcast'ą</target>
+        <target>Redaguoti podcast\&apos;ą</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_upload_again_text" translate="yes">
@@ -17639,7 +17639,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning</source>
-        <target>Šiandienos mokymasis\&apos;</target>
+        <target>Šiandienos mokymasis&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">
@@ -17648,7 +17648,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V1</source>
-        <target>Šiandienos mokymasis V1\&apos;</target>
+        <target>Šiandienos mokymasis V1&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v2" translate="yes">
@@ -17657,7 +17657,7 @@
     </notes>
       <segment >
         <source>Today\&apos;s Learning V2</source>
-        <target>Šiandienos mokymasis V2\&apos;</target>
+        <target>Šiandienos mokymasis V2&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_team_learing" translate="yes">
@@ -18593,7 +18593,7 @@
     </notes>
       <segment >
         <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
-        <target>Galite įjungti, išjungti ir tinkinti šią funkciją redaguodami kanalo valdiklio nustatymus\&apos;</target>
+        <target>Galite įjungti, išjungti ir tinkinti šią funkciją redaguodami kanalo valdiklio nustatymus&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:channel_widget_settings_label" translate="yes">
@@ -18602,7 +18602,7 @@
     </notes>
       <segment >
         <source>channel\&apos;s widget settings</source>
-        <target>Kanalo valdiklio nustatymai\&apos;</target>
+        <target>Kanalo valdiklio nustatymai&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:leave_group_message" translate="yes">
@@ -20321,7 +20321,7 @@
     </notes>
       <segment >
         <source>That\&apos;s all for now</source>
-        <target>Tai kol kas viskas\&apos;</target>
+        <target>Tai kol kas viskas&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:check_back_tomorrow_for_a_fresh_set_of_smartcards" translate="yes">
@@ -20771,7 +20771,7 @@
     </notes>
       <segment >
         <source>Can not open insecure URLs. Please try links starting with \&apos;https_cln//\&apos;</source>
-        <target>Nepavyksta atidaryti nesaugių URL. Išbandykite nuorodas, prasidedančias \&apos;https_cln//\&apos;</target>
+        <target>Nepavyksta atidaryti nesaugių URL. Išbandykite nuorodas, prasidedančias &apos;https_cln//\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -23642,7 +23642,7 @@
     </notes>
       <segment >
         <source>Appearance will be based on your device\&apos;s system setting</source>
-        <target>Išvaizda priklausys nuo jūsų įrenginio sistemos nustatymo\&apos;</target>
+        <target>Išvaizda priklausys nuo jūsų įrenginio sistemos nustatymo&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:e_book" translate="yes">
@@ -25730,7 +25730,7 @@
     </notes>
       <segment >
         <source>Please enter the Badge issuer\&apos;s name</source>
-        <target>Įveskite ženklelio išdavėjo pavadinimą\&apos;</target>
+        <target>Įveskite ženklelio išdavėjo pavadinimą&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_id_error_label" translate="yes">

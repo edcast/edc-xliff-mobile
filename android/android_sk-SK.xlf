@@ -574,7 +574,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>Nenašli sme žiadneho používateľa súvisiaceho s</target>
       </segment>
     </unit>
@@ -634,7 +634,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
         <target>Nemáte žiadne nezačaté zadania</target>
       </segment>
     </unit>
@@ -644,7 +644,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
         <target>Nemáte žiadne zadania v stave Prebieha</target>
       </segment>
     </unit>
@@ -654,7 +654,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
         <target>Nemáte žiadne zadania v stave Dokončené</target>
       </segment>
     </unit>
@@ -1011,7 +1011,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Ste takmer pri cieli</target>
       </segment>
     </unit>
@@ -2104,7 +2104,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Pridajte aplikáciu EdCast do zoznamu aplikácií, pri ktorých je zakázaná optimalizácia spotreby akumulátora, aby ste dostávali dôležité oznámenia aplikácie EdCast.</target>
       </segment>
     </unit>
@@ -2294,7 +2294,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Ospravedlňujem sa, %s. Nerozumiem, čo máte na mysli. Môžete sa skúsiť opýtať znova?</target>
       </segment>
     </unit>
@@ -2414,7 +2414,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Nemáte účet?</target>
       </segment>
     </unit>
@@ -2743,7 +2743,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
+        <source>No search result for \&apos;%s\&apos;</source>
         <target>Pre výraz „%s“ sa nenašli žiadne výsledky.</target>
       </segment>
     </unit>
@@ -2773,7 +2773,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
+        <source>Searching for \&apos;%s\&apos;</source>
         <target>Prebieha vyhľadávanie výrazu „%s“.</target>
       </segment>
     </unit>
@@ -2793,7 +2793,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
         <target>Povedzte ostatným, v čom ste dobrí. Tieto informácie sa zobrazia vo vašom profile a pomôžu nám odporučiť vás ako odborníka v danej oblasti.</target>
       </segment>
     </unit>
@@ -4230,7 +4230,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Zatiaľ ste nepridali žiadne zručnosti. Uvedenie zručností v profile vám pomôže získať viac sledujúcich a zviditeľniť sa vo vašej organizácii.</target>
       </segment>
     </unit>
@@ -5160,7 +5160,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Tento súbor nebude k dispozícii na prezeranie offline.</target>
       </segment>
     </unit>
@@ -5598,7 +5598,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Nedostali sme od vás platbu za predplatné. Skúste to znova neskôr.</target>
       </segment>
     </unit>
@@ -5891,7 +5891,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Nemáte žiadne oznámenia.</target>
       </segment>
     </unit>
@@ -6251,7 +6251,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>Vitajte, máte pozvánku na pripojenie k organizácii</target>
       </segment>
     </unit>
@@ -6321,7 +6321,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Hneď ako sa pripojíte, budete môcť komunikovať s kolegami zo svojej organizácie.</target>
       </segment>
     </unit>
@@ -6631,7 +6631,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Váš dnešný študijný program je prázdny.</target>
       </segment>
     </unit>
@@ -6701,7 +6701,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Nemáte žiadne záložky.</target>
       </segment>
     </unit>
@@ -7291,7 +7291,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>Zoznam cieľov vzdelávania vášho tímu je prázdny. Skúste to znova neskôr.</target>
       </segment>
     </unit>
@@ -7561,7 +7561,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Nemáte aplikáciu umožňujúcu prezeranie súborov PDF.  Ak chcete zobraziť obsah, nainštalujte si ju.</target>
       </segment>
     </unit>
@@ -8121,7 +8121,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>Tip: Pokiaľ je vaše video krátke, vaši sledujúci nemusia stihnúť sa naň pozrieť. Nemajte obavy, krátko po skončení prenosu bude k dispozícii záznam vášho videa.</target>
       </segment>
     </unit>
@@ -9699,7 +9699,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Pridajte niekoľko kanálov a následne začneme zobrazovať obsah odporúčaný priamo pre vás.</target>
       </segment>
     </unit>
@@ -11729,7 +11729,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Toto zariadenie nepodporuje rozhranie Camera2 API.</target>
       </segment>
     </unit>
@@ -11759,7 +11759,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Nie je možné uložiť miestnu kópiu videozáznamu, externé úložisko nie je k dispozícii.</target>
       </segment>
     </unit>
@@ -12459,7 +12459,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Tento tím je uzavretý. Ak nemáte existujúci účet alebo pozvánku na pripojenie, obráťte sa na správcu tímu.</target>
       </segment>
     </unit>
@@ -12558,7 +12558,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Nechajte si na svoj e-mail zaslať kúzelný odkaz, ktorý vás okamžite prihlási.</target>
       </segment>
     </unit>
@@ -12598,7 +12598,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>Odoslali sme vám e-mail na adresu %s. Obsahuje kúzelný odkaz, ktorý vás prihlási.</target>
       </segment>
     </unit>
@@ -12628,7 +12628,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>Nenašli sme účet alebo pozvánku do tohto tímu. Obráťte sa na správcu tímu.</target>
       </segment>
     </unit>
@@ -13437,7 +13437,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Získali ste odznak.</target>
       </segment>
     </unit>
@@ -13796,7 +13796,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Pokiaľ účet nemáte, kliknite na tlačidlo nižšie a vytvorte si ho.</target>
       </segment>
     </unit>
@@ -13966,7 +13966,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Aká je vaša súčasná rola?</target>
       </segment>
     </unit>
@@ -14216,7 +14216,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Získali ste odznak.</target>
       </segment>
     </unit>
@@ -15061,7 +15061,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Zachyťte a zdieľajte svoje poznatky v reálnom čase. Po dokončení bude vaše video k dispozícii vo vašom profile.</target>
       </segment>
     </unit>
@@ -15750,7 +15750,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Toto video nie je určené na prenos do tohto zariadenia.</target>
       </segment>
     </unit>
@@ -15760,7 +15760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Toto video nie je možné prehrať.</target>
       </segment>
     </unit>
@@ -15899,7 +15899,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Najskôr však uveďte, či máte na mysli niečo konkrétne, čo sa chcete naučiť. Môžete si ručne vybrať svoje záujmy a my pre vás vytvoríme informačný kanál, ktorý sa vám určite bude páčiť.</target>
       </segment>
     </unit>
@@ -16167,7 +16167,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Ste offline</target>
       </segment>
     </unit>
@@ -16555,7 +16555,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
         <target>Zaznamenajte alebo naimportujte svoj zvuk v reálnom čase. Po dokončení bude váš podcast k dispozícii na vašej stránke v aplikácii EdCast.</target>
       </segment>
     </unit>
@@ -16605,7 +16605,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Nie je možné zaznamenať zvuk, externé úložisko nie je k dispozícii.</target>
       </segment>
     </unit>
@@ -17582,7 +17582,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Naozaj chcete odstrániť svoj nápis? Túto akciu nie je možné vrátiť späť.</target>
       </segment>
     </unit>
@@ -18138,7 +18138,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>Nemáte oprávnenie na vytváranie kariet SmartCard. Obráťte sa na správcu.</target>
       </segment>
     </unit>
@@ -18228,7 +18228,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>Nemáte oprávnenie na zobrazenie tohto obsahu.</target>
       </segment>
     </unit>
@@ -18407,7 +18407,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>Lorem Ipsum je jednoduchý fiktívny text tlačiarenského a sadzačského odvetvia. Lorem Ipsum je štandardným fiktívnym textom tohto odvetvia už od 16. storočia.</target>
       </segment>
     </unit>
@@ -19429,7 +19429,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Dnešné poznatky</target>
       </segment>
     </unit>
@@ -19459,7 +19459,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Dnešné štúdium</target>
       </segment>
     </unit>
@@ -19469,7 +19469,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Dnešné štúdium V1</target>
       </segment>
     </unit>
@@ -19479,7 +19479,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Dnešné štúdium V2</target>
       </segment>
     </unit>
@@ -19889,7 +19889,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Nemáte oprávnenie na prístup k tomuto obsahu.</target>
       </segment>
     </unit>
@@ -20349,7 +20349,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Zobrazuje sa v záhlaví a na kartách kanála.</target>
       </segment>
     </unit>
@@ -20509,7 +20509,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Toto je miniaplikácia nápisu vášho vlastného kanála.</target>
       </segment>
     </unit>
@@ -20519,7 +20519,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>Túto funkciu môžete povoliť, zakázať a prispôsobiť úpravou nastavenia miniaplikácie kanála.</target>
       </segment>
     </unit>
@@ -20529,7 +20529,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>nastavenie miniaplikácie kanála</target>
       </segment>
     </unit>
@@ -20819,7 +20819,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>Používatelia nebudú môcť skupinu po pridaní opustiť, používateľa môže odstrániť iba správca alebo vedúci skupiny.</target>
       </segment>
     </unit>
@@ -20899,7 +20899,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[Naozaj chcete odstrániť skupinu <b>%s</b>? Túto akciu nie je možné vrátiť späť.]]></target>
       </segment>
     </unit>
@@ -20909,7 +20909,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Dokončili ste <b>%3$s%%</b> svojho ročného cieľa.]]></target>
       </segment>
     </unit>
@@ -21257,7 +21257,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Kartu v stave konceptu nie je možné zdieľať. Zrušte jej zdieľanie alebo ju publikujte.</target>
       </segment>
     </unit>
@@ -21893,7 +21893,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Odovzdať môžete až po zodpovedaní všetkých otázok.</target>
       </segment>
     </unit>
@@ -22433,7 +22433,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>To je pre túto chvíľu všetko.</target>
       </segment>
     </unit>
@@ -22932,7 +22932,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
         <target>Nezabezpečené adresy URL nie je možné otvoriť. Skúste odkazy začínajúce na „https://“.</target>
       </segment>
     </unit>
@@ -22942,7 +22942,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
         <target>Vložená adresa URL nie je zabezpečená, použite „https://“ namiesto „http://“.</target>
       </segment>
     </unit>
@@ -23052,7 +23052,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Preskočiť: Nezobrazovať znova, obsah je relevantný.</target>
       </segment>
     </unit>
@@ -23062,7 +23062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Zablokovať: Nezobrazovať podobný obsah, obsah nie je relevantný.</target>
       </segment>
     </unit>
@@ -24160,7 +24160,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Nemáte oprávnenie na odstránenie tohto komentára.</target>
       </segment>
     </unit>
@@ -24170,7 +24170,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Nemáte oprávnenie na publikovanie tohto komentára.</target>
       </segment>
     </unit>
@@ -25904,8 +25904,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26104,7 +26104,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Vzhľad bude vychádzať zo systémových nastavení vášho zariadenia.</target>
       </segment>
     </unit>
@@ -26661,7 +26661,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Zadajte názov svojho zamestnávateľa.</target>
       </segment>
     </unit>
@@ -26970,7 +26970,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Meno otca *</target>
       </segment>
     </unit>
@@ -26980,7 +26980,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Meno matky *</target>
       </segment>
     </unit>
@@ -27750,7 +27750,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Zadajte platné meno otca.</target>
       </segment>
     </unit>
@@ -27760,7 +27760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Zadajte platné meno matky.</target>
       </segment>
     </unit>
@@ -28070,7 +28070,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Zatiaľ ste si nič nepridali na svoj Skills Passport.</target>
       </segment>
     </unit>
@@ -28420,7 +28420,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Zadajte názov vydavateľa odznaku.</target>
       </segment>
     </unit>
@@ -28610,7 +28610,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>Zadajte názov vydavateľa certifikátu.</target>
       </segment>
     </unit>
@@ -28740,7 +28740,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Zadajte názov vydavateľa posúdenia.</target>
       </segment>
     </unit>
@@ -29300,7 +29300,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Aby bolo možné naďalej používať aplikáciu, z dôvodu zabezpečenia si budete musieť nastaviť zámok obrazovky. Odhlásime vás z aplikácie.</target>
       </segment>
     </unit>
@@ -30785,7 +30785,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Vyzerá to, že nemáme žiadne ďalšie odporúčania k vybraným študijným cieľom. Môžete skúsiť aktualizovať študijné ciele vo svojom profile.</target>
       </segment>
     </unit>
@@ -30805,7 +30805,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>Názov nemôže byť prázdny.</target>
       </segment>
     </unit>
@@ -30935,7 +30935,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
         <target>Odstraňujete obsah %s (%s). Všetky súvisiace štatistiky a komentáre sa natrvalo odstránia.</target>
       </segment>
     </unit>
@@ -32465,7 +32465,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Uveďte témy pre tento kanál. Zobrazí sa v záhlaví kanála.</target>
       </segment>
     </unit>
@@ -32645,7 +32645,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>Môžete využiť plne prispôsobiteľnú miniaplikáciu, ktorá sa použije medzi záhlavím kanála a jeho obsahom.</target>
       </segment>
     </unit>
@@ -33674,7 +33674,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Zobrazené na kartách vašej skupiny</target>
       </segment>
     </unit>
@@ -34314,7 +34314,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
+        <source>Summary of %s\&apos;s Activity</source>
         <target>Zhrnutie aktivít tímu %s</target>
       </segment>
     </unit>
@@ -34564,7 +34564,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Začnime</target>
       </segment>
     </unit>
@@ -34594,7 +34594,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Ak sa vyberie platený obsah, nemôže byť toto pole prázdne.</target>
       </segment>
     </unit>
@@ -35084,7 +35084,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
         <target>K skupinám, ktoré vás zaujmú na stránke Objaviť, sa môžete pripojiť. Následne ich uvidíte tu. Začnite objavovať.</target>
       </segment>
     </unit>
@@ -35094,7 +35094,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
         <target>Kanály, ktoré vás zaujmú na stránke Objaviť, si môžete pridať do sledovaných. Následne ich uvidíte tu. Začnite objavovať.</target>
       </segment>
     </unit>
@@ -35491,8 +35491,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35716,8 +35716,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35824,8 +35824,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35869,8 +35869,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36441,8 +36441,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36972,8 +36972,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37046,8 +37046,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37101,8 +37101,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37317,8 +37317,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

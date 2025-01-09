@@ -575,8 +575,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
-        <target>Nismo\' mogli pronaći nijednog korisnika povezanog </target>
+        <source>We couldn\&apos;t find any user related to</source>
+        <target>Nismo\&apos; mogli pronaći nijednog korisnika povezanog </target>
       </segment>
     </unit>
     <unit id="common.common:assignment_filter_all" translate="yes">
@@ -635,8 +635,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Nemate \'nezapočetih\' zadataka</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Nemate \&apos;nezapočetih\&apos; zadataka</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -645,8 +645,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Nemate nijedan zadatak \'U tijeku\'</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Nemate nijedan zadatak \&apos;U tijeku\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -655,8 +655,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Nemate \'dovršenih\' zadataka</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Nemate \&apos;dovršenih\&apos; zadataka</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -1012,8 +1012,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
-        <target>Još malo\'</target>
+        <source>You\&apos;re almost there</source>
+        <target>Još malo\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:login_message_signinwith" translate="yes">
@@ -2102,7 +2102,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Dodajte EdCast na popis Nemoj optimizirati bateriju za primanje svih važnih obavijesti s platforme EdCast.</target>
       </segment>
     </unit>
@@ -2292,8 +2292,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
-        <target>\'Žao mi je %s. Nisam shvatio što ste time mislili. Možete li pokušati ponovno pitati?</target>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <target>\&apos;Žao mi je %s. Nisam shvatio što ste time mislili. Možete li pokušati ponovno pitati?</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_select_topic_message" translate="yes">
@@ -2412,7 +2412,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Nemate račun?</target>
       </segment>
     </unit>
@@ -2741,8 +2741,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Nema rezultata pretraživanja za \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Nema rezultata pretraživanja za \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2771,8 +2771,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>Traženje \'%s\'</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>Traženje \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2791,8 +2791,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Recite drugima u čemu ste dobri. Ovo će se pojaviti na vašem profilu i pomoći će nam da vas preporučimo kao \'Stručnjaka u relevantnom području\'</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Recite drugima u čemu ste dobri. Ovo će se pojaviti na vašem profilu i pomoći će nam da vas preporučimo kao \&apos;Stručnjaka u relevantnom području\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -4228,8 +4228,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
-        <target>Još niste\' dodali nijednu vještinu. Uključivanje vještina u profil pomoći će vam steći više sljedbenika i povećati vidljivost u organizaciji.</target>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <target>Još niste\&apos; dodali nijednu vještinu. Uključivanje vještina u profil pomoći će vam steći više sljedbenika i povećati vidljivost u organizaciji.</target>
       </segment>
     </unit>
     <unit id="common.common:profile_expertise_add_now" translate="yes">
@@ -5156,8 +5156,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
-        <target>Ova datoteka\' neće biti dostupna za izvanmrežni pregled</target>
+        <source>This file won\&apos;t be available to view offline</source>
+        <target>Ova datoteka\&apos; neće biti dostupna za izvanmrežni pregled</target>
       </segment>
     </unit>
     <unit id="common.common:download_static_text" translate="yes">
@@ -5591,8 +5591,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
-        <target>Nažalost, nismo\' zaprimili vašu pretplatničku naknadu. Pokušajte ponovno kasnije.</target>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
+        <target>Nažalost, nismo\&apos; zaprimili vašu pretplatničku naknadu. Pokušajte ponovno kasnije.</target>
       </segment>
     </unit>
     <unit id="common.common:purchase_from_web_message" translate="yes">
@@ -5884,8 +5884,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
-        <target>Nemate\' obavijesti.</target>
+        <source>You don\&apos;t have any notifications.</source>
+        <target>Nemate\&apos; obavijesti.</target>
       </segment>
     </unit>
     <unit id="common.common:notification_no_description" translate="yes">
@@ -6244,8 +6244,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
-        <target>Dobro došli,\' pozvani ste da se pridružite</target>
+        <source>Welcome, you\&apos;ve been invited to join</source>
+        <target>Dobro došli,\&apos; pozvani ste da se pridružite</target>
       </segment>
     </unit>
     <unit id="common.common:schedule_ama_invitation_message" translate="yes">
@@ -6314,8 +6314,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
-        <target>Nakon pridruživanja,\' moći ćete komunicirati s kolegama u svojoj organizaciji!</target>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
+        <target>Nakon pridruživanja,\&apos; moći ćete komunicirati s kolegama u svojoj organizaciji!</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_title" translate="yes">
@@ -6624,8 +6624,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
-        <target>Nema planiranog učenja\' za danas</target>
+        <source>Your today\&apos;s learning is empty</source>
+        <target>Nema planiranog učenja\&apos; za danas</target>
       </segment>
     </unit>
     <unit id="common.common:no_todays_learning_message" translate="yes">
@@ -6694,8 +6694,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
-        <target>Nemate\' knjižnih oznaka.</target>
+        <source>You don\&apos;t have any bookmarks.</string</source>
+        <target>Nemate\&apos; knjižnih oznaka.</target>
       </segment>
     </unit>
     <unit id="common.common:settings_title" translate="yes">
@@ -7283,8 +7283,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
-        <target>Popis\' za učenje vašeg tima je prazan. Provjerite ponovno kasnije.</target>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
+        <target>Popis\&apos; za učenje vašeg tima je prazan. Provjerite ponovno kasnije.</target>
       </segment>
     </unit>
     <unit id="common.common:follow_user_channel_to_see_smartcards" translate="yes">
@@ -7553,8 +7553,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
-        <target>Nemate\' aplikaciju PDF preglednik.  Instalirajte ga da biste vidjeli sadržaj.</target>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
+        <target>Nemate\&apos; aplikaciju PDF preglednik.  Instalirajte ga da biste vidjeli sadržaj.</target>
       </segment>
     </unit>
     <unit id="common.common:video_error_message" translate="yes">
@@ -8111,8 +8111,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
-        <target>Savjet: Ako je vaš videozapis kratak, pratitelji možda neće imati vremena za uključivanje. Ne brinite,\' vaš će videozapis biti dostupan za reprodukciju na zahtjev nedugo nakon strujanja.</target>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <target>Savjet: Ako je vaš videozapis kratak, pratitelji možda neće imati vremena za uključivanje. Ne brinite,\&apos; vaš će videozapis biti dostupan za reprodukciju na zahtjev nedugo nakon strujanja.</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
@@ -9688,8 +9688,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
-        <target>Dodajte određene kanale i\' prikazivat ćemo dio sadržaja priređen samo za vas.</target>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
+        <target>Dodajte određene kanale i\&apos; prikazivat ćemo dio sadržaja priređen samo za vas.</target>
       </segment>
     </unit>
     <unit id="common.common:discover_channels_text" translate="yes">
@@ -11716,7 +11716,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Ovaj uređaj ne podržava Camera2 API.</target>
       </segment>
     </unit>
@@ -11746,8 +11746,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
-        <target>Nije\' moguća pohrana lokalne kopije videosnimke, vanjska pohrana nije dostupna.</target>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
+        <target>Nije\&apos; moguća pohrana lokalne kopije videosnimke, vanjska pohrana nije dostupna.</target>
       </segment>
     </unit>
     <unit id="common.common:tele_live_not_able_to_continue_recording" translate="yes">
@@ -12445,8 +12445,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
-        <target>* Ovo je zatvoren tim. Ako nemate\' postojeći račun ili pozivnicu za pridruživanje, obratite se administratoru tima.</target>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <target>* Ovo je zatvoren tim. Ako nemate\&apos; postojeći račun ili pozivnicu za pridruživanje, obratite se administratoru tima.</target>
       </segment>
     </unit>
     <unit id="common.common:plus_text" translate="no">
@@ -12544,8 +12544,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
-        <target>Zatražite čarobnu vezu za trenutačnu prijavu\' na e-poštu!</target>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
+        <target>Zatražite čarobnu vezu za trenutačnu prijavu\&apos; na e-poštu!</target>
       </segment>
     </unit>
     <unit id="common.common:login_password_text" translate="yes">
@@ -12584,8 +12584,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
-        <target>Poslali smo vam e-poštu na %s. Sadrži čarobnu vezu za prijavu\'.</target>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
+        <target>Poslali smo vam e-poštu na %s. Sadrži čarobnu vezu za prijavu\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:webView_label" translate="yes">
@@ -12614,8 +12614,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
-        <target>Nismo mogli\' pronaći račun ni pozivnicu za pridruživanje ovom timu. Obratite se svom administratoru tima</target>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
+        <target>Nismo mogli\&apos; pronaći račun ni pozivnicu za pridruživanje ovom timu. Obratite se svom administratoru tima</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_label_publish" translate="yes">
@@ -13423,8 +13423,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
-        <target>Zaslužili\' ste značku</target>
+        <source>You\&apos;ve earned a Badge</source>
+        <target>Zaslužili\&apos; ste značku</target>
       </segment>
     </unit>
     <unit id="common.common:progress" translate="yes">
@@ -13782,8 +13782,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
-        <target>Ako nemate\' račun, kliknite na gumb u nastavku i izradite ga.</target>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
+        <target>Ako nemate\&apos; račun, kliknite na gumb u nastavku i izradite ga.</target>
       </segment>
     </unit>
     <unit id="common.common:login_with_third_party_msg" translate="yes">
@@ -13952,8 +13952,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
-        <target>Koja je\' vaša trenutačna uloga?</target>
+        <source>What\&apos;s your current role?</source>
+        <target>Koja je\&apos; vaša trenutačna uloga?</target>
       </segment>
     </unit>
     <unit id="common.common:trending_kills" translate="yes">
@@ -14202,7 +14202,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Zaslužili ste značku</target>
       </segment>
     </unit>
@@ -15046,8 +15046,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
-        <target>Zabilježite i dijelite svoje uvide u stvarnom vremenu. Kada\' završite, videozapis će biti dostupan na vašem profilu</target>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
+        <target>Zabilježite i dijelite svoje uvide u stvarnom vremenu. Kada\&apos; završite, videozapis će biti dostupan na vašem profilu</target>
       </segment>
     </unit>
     <unit id="common.common:live_stream_initiazing_text" translate="yes">
@@ -15735,8 +15735,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
-        <target>Ovaj videozapis\' nije moguće strujati na ovom uređaju.</target>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
+        <target>Ovaj videozapis\&apos; nije moguće strujati na ovom uređaju.</target>
       </segment>
     </unit>
     <unit id="common.common:VideoView_error_text_unknown" translate="yes">
@@ -15745,8 +15745,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
-        <target>Nije\' moguća reprodukcija ovog videozapisa.</target>
+        <source>Can\&apos;t play this video.</source>
+        <target>Nije\&apos; moguća reprodukcija ovog videozapisa.</target>
       </segment>
     </unit>
     <unit id="common.common:maximum_image_size_crossed_message" translate="yes">
@@ -15884,8 +15884,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
-        <target>No, prije svega, imate li neku ideju o čemu\' biste željeli učiti? Možete osobno odabrati svoje interese, a mi ćemo vam dati sadržaj za koji smo sigurni da će vam se svidjeti\'.</target>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
+        <target>No, prije svega, imate li neku ideju o čemu\&apos; biste željeli učiti? Možete osobno odabrati svoje interese, a mi ćemo vam dati sadržaj za koji smo sigurni da će vam se svidjeti\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:genpact_search_topic_hint" translate="yes">
@@ -16152,8 +16152,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
-        <target>Niste\' povezani s mrežom</target>
+        <source>You\&apos;re Offline</source>
+        <target>Niste\&apos; povezani s mrežom</target>
       </segment>
     </unit>
     <unit id="common.common:offline_bottom_sheet_message" translate="yes">
@@ -16540,8 +16540,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
-        <target>Snimite ili uvezite svoj audiozapis u stvarnom vremenu. Kada\' završite, podcast će biti dostupan na vašoj EdCast stranici</target>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
+        <target>Snimite ili uvezite svoj audiozapis u stvarnom vremenu. Kada\&apos; završite, podcast će biti dostupan na vašoj EdCast stranici</target>
       </segment>
     </unit>
     <unit id="common.common:record_podcast" translate="yes">
@@ -16590,8 +16590,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
-        <target>Nije\' moguće snimanje audiozapisa, vanjska pohrana nije dostupna.</target>
+        <source>Can\&apos;t record audio, external storage not available.</source>
+        <target>Nije\&apos; moguće snimanje audiozapisa, vanjska pohrana nije dostupna.</target>
       </segment>
     </unit>
     <unit id="common.common:cancel_podcast_title" translate="yes">
@@ -17564,8 +17564,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
-        <target>Jeste li sigurni da želite ukloniti svoj natpis? To nije moguće\' poništiti.</target>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
+        <target>Jeste li sigurni da želite ukloniti svoj natpis? To nije moguće\&apos; poništiti.</target>
       </segment>
     </unit>
     <unit id="common.common:manually_label" translate="yes">
@@ -18119,8 +18119,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
-        <target>Nemate\' dopuštenje za izradu SmartCard, obratite se administratoru</target>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
+        <target>Nemate\&apos; dopuštenje za izradu SmartCard, obratite se administratoru</target>
       </segment>
     </unit>
     <unit id="common.common:enter_duration_hhh" translate="yes">
@@ -18209,8 +18209,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
-        <target>Nemate\' dopuštenje za gledanje ovog sadržaja</target>
+        <source>You don\&apos;t  permission to view this content</source>
+        <target>Nemate\&apos; dopuštenje za gledanje ovog sadržaja</target>
       </segment>
     </unit>
     <unit id="common.common:view_post_label" translate="yes">
@@ -18388,8 +18388,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
-        <target>Lorem Ipsum jednostavno je probni tekst koji se koristi u tiskarskoj i slovoslagarskoj industriji. Lorem Ipsum industrijski je\' standardni probni tekst još od 16. stoljeća.</target>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
+        <target>Lorem Ipsum jednostavno je probni tekst koji se koristi u tiskarskoj i slovoslagarskoj industriji. Lorem Ipsum industrijski je\&apos; standardni probni tekst još od 16. stoljeća.</target>
       </segment>
     </unit>
     <unit id="common.common:dummy_number" translate="no">
@@ -19409,8 +19409,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
-        <target>Današnji\' uvidi</target>
+        <source>Today\&apos;s Insights</source>
+        <target>Današnji\&apos; uvidi</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_team_insights" translate="yes">
@@ -19439,8 +19439,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
-        <target>Planirano učenje\' za danas</target>
+        <source>Today\&apos;s Learning</source>
+        <target>Planirano učenje\&apos; za danas</target>
       </segment>
     </unit>
     <unit id="common.common:home_feed_tab_todays_learning_v1" translate="yes">
@@ -19449,7 +19449,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Planirano učenje za danas V1</target>
       </segment>
     </unit>
@@ -19459,7 +19459,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Planirano učenje za danas V2</target>
       </segment>
     </unit>
@@ -19869,7 +19869,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Nemate ovlaštenje za pristup ovom sadržaju.</target>
       </segment>
     </unit>
@@ -20329,8 +20329,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
-        <target>Pokazano u zaglavlju\' kanala i karticama.</target>
+        <source>Shown in the channel\&apos;s header and cards.</source>
+        <target>Pokazano u zaglavlju\&apos; kanala i karticama.</target>
       </segment>
     </unit>
     <unit id="common.common:about_label" translate="yes">
@@ -20489,8 +20489,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
-        <target>Ovo je vaš widget\' natpisa kanala!</target>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
+        <target>Ovo je vaš widget\&apos; natpisa kanala!</target>
       </segment>
     </unit>
     <unit id="common.common:channel_banner_widget_default_text_value" translate="yes">
@@ -20499,8 +20499,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
-        <target>Tu značajku možete omogućiti, onemogućiti i prilagoditi uređivanjem postavki\' widgeta kanala</target>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
+        <target>Tu značajku možete omogućiti, onemogućiti i prilagoditi uređivanjem postavki\&apos; widgeta kanala</target>
       </segment>
     </unit>
     <unit id="common.common:channel_widget_settings_label" translate="yes">
@@ -20509,7 +20509,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>postavke widgeta kanala</target>
       </segment>
     </unit>
@@ -20799,8 +20799,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
-        <target>Nakon dodavanja,\' korisnici ne mogu napustiti skupinu. Ukloniti ih može samo administrator/voditelj skupine</target>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
+        <target>Nakon dodavanja,\&apos; korisnici ne mogu napustiti skupinu. Ukloniti ih može samo administrator/voditelj skupine</target>
       </segment>
     </unit>
     <unit id="common.common:create_group_leaders" translate="yes">
@@ -20879,8 +20879,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
-        <target><![CDATA[Jeste li sigurni da želite ukloniti skupinu <b>%s</b>? To nije moguće\' poništiti.]]></target>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
+        <target><![CDATA[Jeste li sigurni da želite ukloniti skupinu <b>%s</b>? To nije moguće\&apos; poništiti.]]></target>
       </segment>
     </unit>
     <unit id="common.common:coach_eddy_dyanamic_message" translate="yes">
@@ -20889,8 +20889,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
-        <target><![CDATA[%1$s <b>%2$s</b><br/>Naučili\' ste <b>%3$s%%</b> od vašeg godišnjeg cilja]]></target>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <target><![CDATA[%1$s <b>%2$s</b><br/>Naučili\&apos; ste <b>%3$s%%</b> od vašeg godišnjeg cilja]]></target>
       </segment>
     </unit>
     <unit id="common.common:coach_eddy_default_message" translate="yes">
@@ -21238,7 +21238,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Ne možete dijeliti karticu koja je u statusu skice! Poništite odabir dijeljenja ili objavite karticu!</target>
       </segment>
     </unit>
@@ -21872,8 +21872,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
-        <target>Možete poslati tek kad\'odgovorite na sva pitanja.</target>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
+        <target>Možete poslati tek kad\&apos;odgovorite na sva pitanja.</target>
       </segment>
     </unit>
     <unit id="common.common:progressive_unlocking_card_message" translate="yes">
@@ -22412,8 +22412,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
-        <target>To\' je sve za sada</target>
+        <source>That\&apos;s all for now</source>
+        <target>To\&apos; je sve za sada</target>
       </segment>
     </unit>
     <unit id="common.common:check_back_tomorrow_for_a_fresh_set_of_smartcards" translate="yes">
@@ -22911,8 +22911,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>Nije moguće otvoriti nesigurne URL-ove. Pokušajte s vezama koje počinju s \'https://\'</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>Nije moguće otvoriti nesigurne URL-ove. Pokušajte s vezama koje počinju s \&apos;https://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22921,7 +22921,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
         <target>Umetnuti URL nije siguran, koristite https:// umjesto http://</target>
       </segment>
     </unit>
@@ -23031,8 +23031,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
-        <target>Preskoči: Nemoj\' prikazivati ponovno jer sadržaj nije relevantan</target>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
+        <target>Preskoči: Nemoj\&apos; prikazivati ponovno jer sadržaj nije relevantan</target>
       </segment>
     </unit>
     <unit id="common.common:reject_reason_block" translate="yes">
@@ -23041,8 +23041,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
-        <target>Blokiraj: Nemoj\' prikazivati sličan sadržaj jer nije relevantan</target>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
+        <target>Blokiraj: Nemoj\&apos; prikazivati sličan sadržaj jer nije relevantan</target>
       </segment>
     </unit>
     <unit id="common.common:defer_label" translate="yes">
@@ -24139,8 +24139,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
-        <target>Nemate\' privilegije za brisanje komentara.</target>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
+        <target>Nemate\&apos; privilegije za brisanje komentara.</target>
       </segment>
     </unit>
     <unit id="common.common:comment_post_permission_error_message" translate="yes">
@@ -24149,7 +24149,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Nemate privilegije za objavljivanje komentara.</target>
       </segment>
     </unit>
@@ -25883,8 +25883,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26083,7 +26083,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Izgled će se temeljiti na postavci sustava vašeg uređaja</target>
       </segment>
     </unit>
@@ -26638,8 +26638,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
-        <target>Upiši naziv poslodavca\'</target>
+        <source>Please enter your employer\&apos;s name</source>
+        <target>Upiši naziv poslodavca\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_designation" translate="yes">
@@ -26946,7 +26946,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Ime oca *</target>
       </segment>
     </unit>
@@ -26956,8 +26956,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
-        <target>Ime\' majke *</target>
+        <source>Mother\&apos;s Name *</source>
+        <target>Ime\&apos; majke *</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_select_gender_label" translate="yes">
@@ -27725,8 +27725,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
-        <target>Upišite valjano ime oca\'</target>
+        <source>Please enter valid father\&apos;s name</source>
+        <target>Upišite valjano ime oca\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:mothername_error_msg" translate="yes">
@@ -27735,8 +27735,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
-        <target>Upišite valjano ime \'majke</target>
+        <source>Please enter valid mother\&apos;s name</source>
+        <target>Upišite valjano ime \&apos;majke</target>
       </segment>
     </unit>
     <unit id="common.common:address_error_msg" translate="yes">
@@ -28045,8 +28045,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
-        <target>Još uvijek ništa niste\' dodali u svoj Skill Passport</target>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
+        <target>Još uvijek ništa niste\&apos; dodali u svoj Skill Passport</target>
       </segment>
     </unit>
     <unit id="common.common:sp_skill_label" translate="yes">
@@ -28393,8 +28393,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
-        <target>Upišite ime izdavatelja značke\'</target>
+        <source>Please enter the Badge issuer\&apos;s name</source>
+        <target>Upišite ime izdavatelja značke\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_id_error_label" translate="yes">
@@ -28583,8 +28583,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
-        <target>Upišite ime izdavatelja certifikacije\'</target>
+        <source>Please enter the Certification issuer\&apos;s name</source>
+        <target>Upišite ime izdavatelja certifikacije\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certificate_id_error_label" translate="yes">
@@ -28713,8 +28713,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
-        <target>Upišite ime izdavatelja provjere znanja i\' vještina</target>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
+        <target>Upišite ime izdavatelja provjere znanja i\&apos; vještina</target>
       </segment>
     </unit>
     <unit id="common.common:sp_report_url_error_label" translate="yes">
@@ -29271,8 +29271,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
-        <target>Radi vaše sigurnosti\' morat ćete postaviti zaključavanje zaslona za nastavak korištenja aplikacije, a mi ćemo vas iz nje odjaviti</target>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <target>Radi vaše sigurnosti\&apos; morat ćete postaviti zaključavanje zaslona za nastavak korištenja aplikacije, a mi ćemo vas iz nje odjaviti</target>
       </segment>
     </unit>
     <unit id="common.common:biometric_error_message_no_lock_available" translate="yes">
@@ -30753,8 +30753,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
-        <target>Čini se da nemamo\' više preporuka za učenje koje ste odabrali\'. Slobodno ažurirajte ciljeve učenja u svom profilu.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <target>Čini se da nemamo\&apos; više preporuka za učenje koje ste odabrali\&apos;. Slobodno ažurirajte ciljeve učenja u svom profilu.</target>
       </segment>
     </unit>
     <unit id="common.common:badge_id_label" translate="yes">
@@ -30773,8 +30773,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
-        <target>Naslov\' ne može biti prazan</target>
+        <source>Title can\&apos;t be empty</source>
+        <target>Naslov\&apos; ne može biti prazan</target>
       </segment>
     </unit>
     <unit id="common.common:quiz_answer_error_msg" translate="yes">
@@ -30903,8 +30903,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Upravo ćete izbrisati %s\'s %s. Sva povezana statistika i komentari trajno će se ukloniti.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Upravo ćete izbrisati %s\&apos;s %s. Sva povezana statistika i komentari trajno će se ukloniti.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -32430,8 +32430,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
-        <target>Odredite teme za ovaj kanal. Bit će prikazane u zaglavlju\'kanala.</target>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
+        <target>Odredite teme za ovaj kanal. Bit će prikazane u zaglavlju\&apos;kanala.</target>
       </segment>
     </unit>
     <unit id="common.common:add_trusted_collaborators_label" translate="yes">
@@ -32610,8 +32610,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
-        <target>Potpuno prilagodljivi widget možete koristiti za primjenu između zaglavlja\' i sadržaja kanala\'</target>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
+        <target>Potpuno prilagodljivi widget možete koristiti za primjenu između zaglavlja\&apos; i sadržaja kanala\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:public_channel_sub_title_label" translate="yes">
@@ -33638,8 +33638,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
-        <target>Pokazano je u karticama vaše\' skupine.</target>
+        <source>Shown in your group\&apos;s cards.</source>
+        <target>Pokazano je u karticama vaše\&apos; skupine.</target>
       </segment>
     </unit>
     <unit id="common.common:add_group_admin" translate="yes">
@@ -34278,8 +34278,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
-        <target>Sažetak aktivnosti %s\'</target>
+        <source>Summary of %s\&apos;s Activity</source>
+        <target>Sažetak aktivnosti %s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:badge_list_empty" translate="yes">
@@ -34528,8 +34528,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
-        <target>Započnimo\'</target>
+        <source>Let\&apos;s Get Started</source>
+        <target>Započnimo\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:job_roles_label" translate="yes">
@@ -34558,8 +34558,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
-        <target>Ne\' može biti prazno ako je odabran sadržaj Plaćeno</target>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
+        <target>Ne\&apos; može biti prazno ako je odabran sadržaj Plaćeno</target>
       </segment>
     </unit>
     <unit id="common.common:add_contact_details_title" translate="yes">
@@ -35048,8 +35048,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Pridružite se skupinama koje vas zanimaju na stranici \'Discover\' i vidjet ćete ih ovdje. Odmah počnite istraživati!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Pridružite se skupinama koje vas zanimaju na stranici \&apos;Discover\&apos; i vidjet ćete ih ovdje. Odmah počnite istraživati!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35058,8 +35058,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Pratite kanale koji vas zanimaju na stranici \'Discover\' i vidjet ćete ih ovdje. Odmah počnite istraživati!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Pratite kanale koji vas zanimaju na stranici \&apos;Discover\&apos; i vidjet ćete ih ovdje. Odmah počnite istraživati!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="yes">
@@ -35488,8 +35488,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Da, \'naravno</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Da, \&apos;naravno</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="yes">
@@ -35738,8 +35738,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>4. korak: Nakon uspješnog polaganja provjere znanja i vještina, par tečaj – provjera pojavit će se kao stavka u registratoru u nastavku. Kliknite \'Prijavi se za GoI Incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>4. korak: Nakon uspješnog polaganja provjere znanja i vještina, par tečaj – provjera pojavit će se kao stavka u registratoru u nastavku. Kliknite \&apos;Prijavi se za GoI Incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="yes">
@@ -35858,7 +35858,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
+        <source>No Groups for \&apos;%s\&apos;</source>
         <target>Nema skupina za %s</target>
       </segment>
     </unit>
@@ -35908,7 +35908,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
         <target>Dodirnite ikonu Knjižna oznaka na bilo kojoj SmartCard i dodajte svoj popis knjižnih oznaka.</target>
       </segment>
     </unit>
@@ -36486,8 +36486,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -37017,8 +37017,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37091,8 +37091,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37146,8 +37146,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37362,8 +37362,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

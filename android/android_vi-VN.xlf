@@ -575,7 +575,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>Chúng tôi không thể tìm thấy bất kỳ người dùng nào liên quan đến</target>
       </segment>
     </unit>
@@ -635,8 +635,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Bạn không có bất kỳ Nhiệm vụ \'Chưa Bắt đầu\' nào</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Bạn không có bất kỳ Nhiệm vụ \&apos;Chưa Bắt đầu\&apos; nào</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -645,8 +645,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Bạn không có bất kỳ Nhiệm vụ \'Đang thực hiện\' nào</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Bạn không có bất kỳ Nhiệm vụ \&apos;Đang thực hiện\&apos; nào</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -655,8 +655,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Bạn không có bất kỳ Nhiệm vụ \'Đã hoàn thành\' nào</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Bạn không có bất kỳ Nhiệm vụ \&apos;Đã hoàn thành\&apos; nào</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -1012,7 +1012,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Bạn sắp đến đích rồi</target>
       </segment>
     </unit>
@@ -2105,7 +2105,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Thêm EdCast để không tối ưu hóa danh sách pin nhằm nhận tất cả các thông báo quan trọng từ EdCast.</target>
       </segment>
     </unit>
@@ -2295,7 +2295,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Tôi xin lỗi %s. Tôi đã không hiểu bạn muốn nói điều gì. Bạn có thể thử hỏi lại được không?</target>
       </segment>
     </unit>
@@ -2415,7 +2415,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Bạn chưa có tài khoản?</target>
       </segment>
     </unit>
@@ -2744,8 +2744,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Không có kết quả tìm kiếm cho \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Không có kết quả tìm kiếm cho \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2774,8 +2774,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>Đang tìm kiếm \'%s\'</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>Đang tìm kiếm \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2794,8 +2794,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Nói cho người khác biết bạn giỏi những gì. Thông tin này sẽ xuất hiện trên hồ sơ của bạn và giúp chúng tôi giới thiệu bạn với tư cách là \'Chuyên gia Chuyên môn\'</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Nói cho người khác biết bạn giỏi những gì. Thông tin này sẽ xuất hiện trên hồ sơ của bạn và giúp chúng tôi giới thiệu bạn với tư cách là \&apos;Chuyên gia Chuyên môn\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -4231,7 +4231,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Bạn vẫn chưa thêm bất kỳ kỹ năng nào. Đưa các kỹ năng vào hồ sơ của bạn sẽ giúp bạn có thêm nhiều người theo dõi và khả năng hiển thị trong tổ chức của mình.</target>
       </segment>
     </unit>
@@ -5161,7 +5161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Tệp này sẽ không khả dụng để xem ngoại tuyến</target>
       </segment>
     </unit>
@@ -5599,7 +5599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Xin lỗi, Chúng tôi chưa nhận được phí đăng ký của bạn. Vui lòng thử lại sau.</target>
       </segment>
     </unit>
@@ -5892,7 +5892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Bạn không có bất kỳ thông báo nào.</target>
       </segment>
     </unit>
@@ -6252,7 +6252,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>Chào mừng bạn, bạn đã được mời tham gia</target>
       </segment>
     </unit>
@@ -6322,7 +6322,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Ngay khi tham gia, bạn sẽ có thể tương tác với đồng nghiệp trong tổ chức của mình!</target>
       </segment>
     </unit>
@@ -6632,7 +6632,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Học tập hôm nay của bạn để trống</target>
       </segment>
     </unit>
@@ -6702,7 +6702,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Bạn không có bất kỳ dấu trang nào.</target>
       </segment>
     </unit>
@@ -7292,7 +7292,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>Danh sách học tập của nhóm của bạn để trống. Kiểm tra lại sau.</target>
       </segment>
     </unit>
@@ -7562,7 +7562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Bạn không có ứng dụng xem PDF.  Vui lòng cài đặt một ứng dụng xem PDF để xem nội dung.</target>
       </segment>
     </unit>
@@ -8122,7 +8122,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>Lời khuyên: Nếu video của bạn ngắn, người theo dõi của bạn có thể không có đủ thời gian để điều chỉnh sóng. Đừng lo lắng, video của bạn sẽ khả dụng để phát lại theo yêu cầu ngay sau buổi truyền phát của bạn.</target>
       </segment>
     </unit>
@@ -9700,7 +9700,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Thêm một số kênh và chúng tôi sẽ bắt đầu hiển thị một số nội dung được sắp xếp dành riêng cho bạn.</target>
       </segment>
     </unit>
@@ -11730,7 +11730,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Thiết bị này không hỗ trợ API Camera2.</target>
       </segment>
     </unit>
@@ -11760,7 +11760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Không thể lưu trữ bản sao cục bộ của bản ghi video, bộ nhớ ngoài không khả dụng.</target>
       </segment>
     </unit>
@@ -12460,7 +12460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Đây là nhóm kín. Nếu bạn không có tài khoản hiện tại hoặc lời mời tham gia, vui lòng liên hệ với quản trị viên của nhóm bạn.</target>
       </segment>
     </unit>
@@ -12559,7 +12559,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Nhận liên kết ma thuật được gửi đến email của bạn sẽ giúp bạn đăng nhập ngay lập tức!</target>
       </segment>
     </unit>
@@ -12599,7 +12599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>Chúng tôi đã gửi cho bạn một email đến %s. Nó chứa liên kết ma thuật sẽ giúp bạn đăng nhập.</target>
       </segment>
     </unit>
@@ -12629,7 +12629,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>Chúng tôi không thể tìm thấy tài khoản hoặc lời mời tham gia nhóm này. Vui lòng liên hệ với quản trị viên của nhóm bạn</target>
       </segment>
     </unit>
@@ -13438,7 +13438,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Bạn đã giành được một Huy hiệu</target>
       </segment>
     </unit>
@@ -13797,7 +13797,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Nếu bạn chưa có tài khoản, hãy nhấp vào nút bên dưới để tạo tài khoản.</target>
       </segment>
     </unit>
@@ -13967,7 +13967,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Vai trò hiện tại của bạn là gì?</target>
       </segment>
     </unit>
@@ -14217,7 +14217,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Bạn đã giành được một Huy hiệu</target>
       </segment>
     </unit>
@@ -15062,7 +15062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Nắm bắt và chia sẻ thông tin chi tiết của bạn theo thời gian thực. Sau khi bạn hoàn thành, video của bạn sẽ khả dụng trong hồ sơ của bạn</target>
       </segment>
     </unit>
@@ -15751,7 +15751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Video này không hợp lệ để truyền phát đến thiết bị này.</target>
       </segment>
     </unit>
@@ -15761,7 +15761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Không thể phát video này.</target>
       </segment>
     </unit>
@@ -15900,7 +15900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Nhưng trước tiên, bạn có nghĩ đến điều gì mà bạn muốn tìm hiểu không? Bạn có thể tự tay lựa chọn sở thích của mình và chúng tôi sẽ cung cấp cho bạn nguồn cấp dữ liệu mà chúng tôi hứa bạn sẽ yêu thích.</target>
       </segment>
     </unit>
@@ -16168,7 +16168,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Bạn đang Ngoại tuyến</target>
       </segment>
     </unit>
@@ -16556,7 +16556,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
         <target>Ghi lại hoặc Nhập âm thanh của bạn theo thời gian thực. Sau khi bạn hoàn thành, podcast của bạn sẽ khả dụng trên trang EdCast của bạn</target>
       </segment>
     </unit>
@@ -16606,7 +16606,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Không thể ghi lại âm thanh, bộ nhớ ngoài không khả dụng.</target>
       </segment>
     </unit>
@@ -17583,7 +17583,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Bạn có chắc muốn xóa biểu ngữ của mình không? Không thể hoàn tác điều này.</target>
       </segment>
     </unit>
@@ -18139,7 +18139,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>Bạn không có quyền tạo smartCard, Vui lòng liên hệ với quản trị viên</target>
       </segment>
     </unit>
@@ -18229,7 +18229,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>Bạn không có quyền xem nội dung này</target>
       </segment>
     </unit>
@@ -18408,7 +18408,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã là văn bản giả tiêu chuẩn của ngành kể từ những năm 1500.</target>
       </segment>
     </unit>
@@ -19430,7 +19430,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Thông tin chi tiết Hôm nay</target>
       </segment>
     </unit>
@@ -19460,7 +19460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Học tập Hôm nay</target>
       </segment>
     </unit>
@@ -19470,7 +19470,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Học tập Hôm nay V1</target>
       </segment>
     </unit>
@@ -19480,7 +19480,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Học tập Hôm nay V2</target>
       </segment>
     </unit>
@@ -19890,7 +19890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Bạn không được phép truy cập nội dung này.</target>
       </segment>
     </unit>
@@ -20350,7 +20350,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Hiển thị trên tiêu đề và các thẻ của kênh.</target>
       </segment>
     </unit>
@@ -20510,7 +20510,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Đây là Tiện ích biểu ngữ kênh của riêng bạn!</target>
       </segment>
     </unit>
@@ -20520,7 +20520,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>Bạn có thể bật, tắt và tùy chỉnh tính năng này bằng cách chỉnh sửa cài đặt tiện ích của kênh</target>
       </segment>
     </unit>
@@ -20530,7 +20530,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>cài đặt tiện ích của kênh</target>
       </segment>
     </unit>
@@ -20820,7 +20820,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>Người dùng sẽ không thể rời khỏi nhóm ngay khi được thêm, chỉ quản trị viên/trưởng nhóm mới có thể xóa người dùng</target>
       </segment>
     </unit>
@@ -20900,7 +20900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[Bạn có chắc muốn xóa nhóm <b>%s</b> không? Không thể hoàn tác thao tác này.]]></target>
       </segment>
     </unit>
@@ -20910,7 +20910,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Bạn đã biết được <b>%3$s %%</b> mục đích hàng năm của mình]]></target>
       </segment>
     </unit>
@@ -21259,7 +21259,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Bạn không thể chia sẻ thẻ ở trạng thái bản nháp! Vui lòng xóa các lựa chọn chia sẻ hoặc công bố thẻ!</target>
       </segment>
     </unit>
@@ -21895,7 +21895,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Bạn chỉ có thể gửi khi bạn đã trả lời tất cả các câu hỏi.</target>
       </segment>
     </unit>
@@ -22435,7 +22435,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>Đó là tất cả ngay bây giờ</target>
       </segment>
     </unit>
@@ -22934,8 +22934,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>Không thể mở các URL không an toàn. Vui lòng thử các liên kết bắt đầu bằng \'https://\'</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>Không thể mở các URL không an toàn. Vui lòng thử các liên kết bắt đầu bằng \&apos;https://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22944,8 +22944,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
-        <target>URL được chèn không an toàn, hãy sử dụng \'https://\' thay cho \'http://\'</target>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
+        <target>URL được chèn không an toàn, hãy sử dụng \&apos;https://\&apos; thay cho \&apos;http://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="yes">
@@ -23054,7 +23054,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Bỏ qua: Không hiển thị lại, nội dung có liên quan</target>
       </segment>
     </unit>
@@ -23064,7 +23064,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Chặn: Không hiển thị nội dung tương tự; nội dung không liên quan</target>
       </segment>
     </unit>
@@ -24162,7 +24162,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Bạn không có đặc quyền xóa bình luận.</target>
       </segment>
     </unit>
@@ -24172,7 +24172,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Bạn không có đặc quyền để đăng bình luận.</target>
       </segment>
     </unit>
@@ -25906,8 +25906,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26106,7 +26106,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Giao diện sẽ dựa trên cài đặt hệ thống của thiết bị</target>
       </segment>
     </unit>
@@ -26663,7 +26663,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Vui lòng nhập tên nhà tuyển dụng của bạn</target>
       </segment>
     </unit>
@@ -26972,7 +26972,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Tên của Cha *</target>
       </segment>
     </unit>
@@ -26982,7 +26982,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Tên của Mẹ *</target>
       </segment>
     </unit>
@@ -27752,7 +27752,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Vui lòng nhập tên của cha hợp lệ</target>
       </segment>
     </unit>
@@ -27762,7 +27762,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Vui lòng nhập tên của mẹ hợp lệ</target>
       </segment>
     </unit>
@@ -28072,7 +28072,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Bạn vẫn chưa thêm gì vào hộ chiếu kỹ năng của mình</target>
       </segment>
     </unit>
@@ -28422,7 +28422,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Vui lòng nhập tên của tổ chức phát hành Huy hiệu</target>
       </segment>
     </unit>
@@ -28612,7 +28612,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>Vui lòng nhập tên của tổ chức phát hành Chứng nhận</target>
       </segment>
     </unit>
@@ -28742,7 +28742,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Vui lòng nhập tên của tổ chức phát hành Bài đánh giá</target>
       </segment>
     </unit>
@@ -29302,7 +29302,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Để bảo mật, bạn sẽ cần thiết lập khóa màn hình để tiếp tục sử dụng ứng dụng và chúng tôi đăng xuất bạn khỏi ứng dụng</target>
       </segment>
     </unit>
@@ -30786,7 +30786,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Có vẻ như chúng tôi không có thêm bất kỳ đề xuất nào cho Kiến thức bạn đã chọn. Vui lòng cập nhật Mục tiêu Học tập trong Hồ sơ của bạn.</target>
       </segment>
     </unit>
@@ -30806,7 +30806,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>Tiêu đề không được để trống</target>
       </segment>
     </unit>
@@ -30936,8 +30936,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Bạn đang xóa %s\'s %s. Tất cả các số liệu thống kê và bình luận liên quan sẽ bị xóa vĩnh viễn.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Bạn đang xóa %s\&apos;s %s. Tất cả các số liệu thống kê và bình luận liên quan sẽ bị xóa vĩnh viễn.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -32466,7 +32466,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Cho biết các chủ đề cho kênh này. Những chủ đề này sẽ được hiển thị trong tiêu đề của kênh.</target>
       </segment>
     </unit>
@@ -32646,7 +32646,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>Bạn có thể dùng một tiện ích hoàn toàn có thể tùy chỉnh giữa tiêu đề của kênh và nội dung của kênh.</target>
       </segment>
     </unit>
@@ -33675,7 +33675,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Hiển thị trong các thẻ nhóm của bạn.</target>
       </segment>
     </unit>
@@ -34315,7 +34315,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
+        <source>Summary of %s\&apos;s Activity</source>
         <target>Tóm tắt hoạt động của %s</target>
       </segment>
     </unit>
@@ -34565,7 +34565,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Hãy cùng bắt đầu</target>
       </segment>
     </unit>
@@ -34595,7 +34595,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Không được để trống nếu chọn Nội dung trả phí</target>
       </segment>
     </unit>
@@ -35085,8 +35085,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Tham gia các nhóm mà bạn quan tâm trên trang \'Khám phá\' để xem ở đây. Bắt đầu khám phá ngay!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Tham gia các nhóm mà bạn quan tâm trên trang \&apos;Khám phá\&apos; để xem ở đây. Bắt đầu khám phá ngay!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35095,8 +35095,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Theo dõi các kênh mà bạn quan tâm trên trang \'Khám phá\' để xem ở đây. Bắt đầu khám phá ngay!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Theo dõi các kênh mà bạn quan tâm trên trang \&apos;Khám phá\&apos; để xem ở đây. Bắt đầu khám phá ngay!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="no">
@@ -35492,8 +35492,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35717,8 +35717,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35825,8 +35825,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35870,8 +35870,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36443,8 +36443,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36974,8 +36974,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37048,8 +37048,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37103,8 +37103,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37319,8 +37319,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

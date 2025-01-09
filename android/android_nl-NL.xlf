@@ -575,7 +575,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>We konden\geen gebruiker vinden met betrekking total_comment_label</target>
       </segment>
     </unit>
@@ -635,8 +635,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Je hebt geen \'Niet gestarte\' Opdrachten</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Je hebt geen \&apos;Niet gestarte\&apos; Opdrachten</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -645,8 +645,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Je hebt geen opdrachten \'in uitvoering\'</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Je hebt geen opdrachten \&apos;in uitvoering\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -655,8 +655,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Je hebt geen \'Voltooide\' Opdrachten</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Je hebt geen \&apos;Voltooide\&apos; Opdrachten</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -1012,7 +1012,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>U bent er bijna</target>
       </segment>
     </unit>
@@ -2105,7 +2105,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Voeg EdCast toe om de acculijst niet te optimaliseren om alle belangrijke meldingen van EdCast te ontvangen.</target>
       </segment>
     </unit>
@@ -2295,7 +2295,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Het spijt me. Ik begreep niet wat u bedoelt. Kunt u het nog eens vragen?</target>
       </segment>
     </unit>
@@ -2415,7 +2415,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Heeft u geen account?</target>
       </segment>
     </unit>
@@ -2744,8 +2744,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Geen zoekresultaten voor \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Geen zoekresultaten voor \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2774,8 +2774,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>\'%s\' zoeken</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>\&apos;%s\&apos; zoeken</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2794,8 +2794,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Vertel anderen waar u goed in bent. Dit zal op uw profiel verschijnen en ons helpen u aan te bevelen als \'Expert in dit onderwerp\'.</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Vertel anderen waar u goed in bent. Dit zal op uw profiel verschijnen en ons helpen u aan te bevelen als \&apos;Expert in dit onderwerp\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -4231,7 +4231,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>U heeft nog geen vaardigheden toegevoegd. Het opnemen van vaardigheden in uw profiel helpt u om meer volgers en zichtbaarheid in uw organisatie te krijgen.</target>
       </segment>
     </unit>
@@ -4712,7 +4712,7 @@
       </notes>
       <segment >
         <source>Architecture insights, trends, videos, developments and articles from around the web updated daily</source>
-        <target>Architectuur-insights, trends, video\'s, ontwikkelingen en artikelen van het web worden dagelijks bijgewerkt</target>
+        <target>Architectuur-insights, trends, video\&apos;s, ontwikkelingen en artikelen van het web worden dagelijks bijgewerkt</target>
       </segment>
     </unit>
     <unit id="common.common:dummy_text_name" translate="yes">
@@ -5161,7 +5161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Dit bestand is niet beschikbaar om offline te bekijken.e</target>
       </segment>
     </unit>
@@ -5332,7 +5332,7 @@
       </notes>
       <segment >
         <source>Leave a comment. Use @ to tag peers</source>
-        <target>Laat commentaar achter. Gebruik @ om collega\'s te taggen</target>
+        <target>Laat commentaar achter. Gebruik @ om collega\&apos;s te taggen</target>
       </segment>
     </unit>
     <unit id="common.common:load_more_comments" translate="yes">
@@ -5599,7 +5599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Sorry, we hebben uw abonnementsgeld niet ontvangen. Probeer het later opnieuw.</target>
       </segment>
     </unit>
@@ -5892,7 +5892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>U hebt geen meldingen.</target>
       </segment>
     </unit>
@@ -6252,7 +6252,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>Welkom, u bent uitgenodigd om mee te doen</target>
       </segment>
     </unit>
@@ -6322,8 +6322,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
-        <target>Zodra u aangemeld bent, zult u in staat zijn om te communiceren met collega\'s in uw organisatie!</target>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
+        <target>Zodra u aangemeld bent, zult u in staat zijn om te communiceren met collega\&apos;s in uw organisatie!</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_title" translate="yes">
@@ -6632,7 +6632,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Uw leertaken voor vandaag zijn voltooid</target>
       </segment>
     </unit>
@@ -6702,7 +6702,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>U heeft geen bookmarks.</target>
       </segment>
     </unit>
@@ -7292,7 +7292,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>De leerlijst van uw team is leeg. Kom later terug.</target>
       </segment>
     </unit>
@@ -7562,7 +7562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>U hebt geen PDF-viewer-app.  Installeer er een om de inhoud te bekijken.</target>
       </segment>
     </unit>
@@ -8122,7 +8122,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>Tip: Als uw video kort is, hebben uw volgers misschien geen tijd om af te stemmen. Maak u geen zorgen, uw video zal kort na het streamen on-demand beschikbaar zijn om af te spelen..</target>
       </segment>
     </unit>
@@ -8692,7 +8692,7 @@
       </notes>
       <segment >
         <source>Videos</source>
-        <target>Video\'s</target>
+        <target>Video\&apos;s</target>
       </segment>
     </unit>
     <unit id="common.common:delete_comments_successful_message" translate="yes">
@@ -9700,7 +9700,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Voeg een aantal kanalen toe en we zullen beginnen met het weergeven van wat inhoud die alleen voor u is samengesteld.</target>
       </segment>
     </unit>
@@ -11730,7 +11730,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Dit apparaat ondersteunt de Camera2 API niet..</target>
       </segment>
     </unit>
@@ -11760,7 +11760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Kan geen lokale kopie van de video-opname opslaan, externe opslag niet beschikbaar.</target>
       </segment>
     </unit>
@@ -12460,7 +12460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Dit is een gesloten team. Als u geen bestaande account heeft of een uitnodiging om lid te worden, neem dan contact op met uw teambeheerder.</target>
       </segment>
     </unit>
@@ -12559,7 +12559,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Ontvang een magische link op uw e-mail, die u direct inlogt!</target>
       </segment>
     </unit>
@@ -12599,7 +12599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>We hebben u een e-mail gestuurd naar %s. Het heeft een magische link waarmee u zich kunt aanmelden.</target>
       </segment>
     </unit>
@@ -12629,7 +12629,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>We konden geen account vinden of uitnodigen om deel uit te maken van dit team. Neem contact op met uw teambeheerder</target>
       </segment>
     </unit>
@@ -13438,7 +13438,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>U hebt een badge verdiend</target>
       </segment>
     </unit>
@@ -13797,7 +13797,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Als u geen account heeft, klik dan op de onderstaande knop om uw account aan te maken.</target>
       </segment>
     </unit>
@@ -13967,7 +13967,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Wat is uw huidige rol?</target>
       </segment>
     </unit>
@@ -14217,7 +14217,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>U heeft een badge verdiend</target>
       </segment>
     </unit>
@@ -14488,7 +14488,7 @@
       </notes>
       <segment >
         <source>Separate tags with commas</source>
-        <target>Afzonderlijke tags met komma\'s</target>
+        <target>Afzonderlijke tags met komma\&apos;s</target>
       </segment>
     </unit>
     <unit id="common.common:tags_hint_message" translate="yes">
@@ -15062,7 +15062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Leg uw insights vast en deel ze in real time. Nadat u klaar bent, zal uw video beschikbaar zijn op uw profiel.</target>
       </segment>
     </unit>
@@ -15751,7 +15751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Deze video is niet geldig voor streaming naar dit apparaat..</target>
       </segment>
     </unit>
@@ -15761,7 +15761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Kan deze video niet afspelen.</target>
       </segment>
     </unit>
@@ -15900,7 +15900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Maar eerst, heeft u iets in gedachten waar u meer over wilt weten? U kunt uw interesses met de hand uitzoeken en we geven u een voer dat we u graag zouden willen geven.</target>
       </segment>
     </unit>
@@ -16168,7 +16168,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>U bent Offline</target>
       </segment>
     </unit>
@@ -16556,7 +16556,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
         <target>Uw audio opnemen of importeren in real time. Als u klaar bent, zal uw podcast beschikbaar zijn op uw EdCast pagina.</target>
       </segment>
     </unit>
@@ -16606,7 +16606,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Kan geen audio opnemen, externe opslag niet beschikbaar.</target>
       </segment>
     </unit>
@@ -17583,7 +17583,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Weet u zeker dat u uw banner wilt verwijderen? Dit kan niet ongedaan worden gemaakt..</target>
       </segment>
     </unit>
@@ -18139,7 +18139,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>U heeft geen toestemming voor het aanmaken van SmartCards, neem contact op met de beheerder.</target>
       </segment>
     </unit>
@@ -18229,7 +18229,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>U geeft geen toestemming om deze inhoud te bekijken.</target>
       </segment>
     </unit>
@@ -18408,7 +18408,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>Lorem Ipsum is gewoon dummy tekst van de druk- en zetwerkindustrie. Lorem Ipsum is de standaard dummy tekst van de industrie sinds de jaren 1500...</target>
       </segment>
     </unit>
@@ -19430,7 +19430,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Insights van vandaag</target>
       </segment>
     </unit>
@@ -19460,7 +19460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Vandaag te leren</target>
       </segment>
     </unit>
@@ -19470,7 +19470,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Vandaag te leren V1</target>
       </segment>
     </unit>
@@ -19480,7 +19480,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Vandaag te leren V2</target>
       </segment>
     </unit>
@@ -19890,7 +19890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>U heeft geen toegang tot deze kaart</target>
       </segment>
     </unit>
@@ -20350,7 +20350,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Getoond in de koptekst en kaarten van het kanaal.</target>
       </segment>
     </unit>
@@ -20510,7 +20510,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Dit is de bannerwidget van uw eigen kanaal.</target>
       </segment>
     </unit>
@@ -20520,7 +20520,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>U kunt deze functie inschakelen, uitschakelen en aanpassen door de instellingen van de kanaalwidget te bewerken.</target>
       </segment>
     </unit>
@@ -20530,7 +20530,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>instellingen kanaalwidget</target>
       </segment>
     </unit>
@@ -20820,7 +20820,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>Gebruikers kunne de groep niet verlaten als deze eenmaal is toegevoegd, alleen de beheerder/leider van de groep kan gebruikers verwijderen.</target>
       </segment>
     </unit>
@@ -20900,8 +20900,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
-        <target><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></target>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
+        <target><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></target>
       </segment>
     </unit>
     <unit id="common.common:coach_eddy_dyanamic_message" translate="yes">
@@ -20910,8 +20910,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
-        <target><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of uw annual goal]]></target>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <target><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of uw annual goal]]></target>
       </segment>
     </unit>
     <unit id="common.common:coach_eddy_default_message" translate="yes">
@@ -21258,7 +21258,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>U kunt geen kaart delen in de ontwerpfase! Maak de selecties voor het delen van kaarten duidelijk of publiceer de kaart!</target>
       </segment>
     </unit>
@@ -21894,7 +21894,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>U kunt pas een aanvraag indienen als u alle vragen heeft beantwoord..</target>
       </segment>
     </unit>
@@ -22434,7 +22434,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>Dat is alles</target>
       </segment>
     </unit>
@@ -22933,8 +22933,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>Kan onveilige URL\'s niet openen. Probeer links die beginnen met \'https://\'</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>Kan onveilige URL\&apos;s niet openen. Probeer links die beginnen met \&apos;https://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22943,8 +22943,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
-        <target>Ingevoegde URL is niet veilig, gebruik \'https://\' in plaats van \'http://\'</target>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
+        <target>Ingevoegde URL is niet veilig, gebruik \&apos;https://\&apos; in plaats van \&apos;http://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="yes">
@@ -23053,7 +23053,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Overslaan: Niet meer tonen, inhoud is relevant</target>
       </segment>
     </unit>
@@ -23063,7 +23063,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Blokkeren: Toon geen gelijkaardige inhoud; inhoud is niet relevant</target>
       </segment>
     </unit>
@@ -24161,7 +24161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Je hebt geen rechten om de opmerking te verwijderen.</target>
       </segment>
     </unit>
@@ -24171,7 +24171,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Je hebt geen rechten om de reactie te plaatsen.</target>
       </segment>
     </unit>
@@ -24321,7 +24321,7 @@
       </notes>
       <segment >
         <source>Central Govt. &amp; State Govt. Employees including employees of PSUs &amp; Autonomous bodies (Govt. Employees)</source>
-        <target>Centrale Govt. &amp; Staatsoverheid. Medewerkers, inclusief medewerkers van PSU\'s &amp; Autonome lichamen (Govt. Werknemers)</target>
+        <target>Centrale Govt. &amp; Staatsoverheid. Medewerkers, inclusief medewerkers van PSU\&apos;s &amp; Autonome lichamen (Govt. Werknemers)</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_option_5" translate="yes">
@@ -25280,7 +25280,7 @@
       </notes>
       <segment >
         <source>Invite peers to assess the user skills</source>
-        <target>Nodig collega\'s uit om de vaardigheden van de gebruiker te beoordelen</target>
+        <target>Nodig collega\&apos;s uit om de vaardigheden van de gebruiker te beoordelen</target>
       </segment>
     </unit>
     <unit id="common.common:when_a_credential_is_added_to_skills_passport_through_skills_api" translate="yes">
@@ -25905,8 +25905,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26105,7 +26105,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Het aspect is gebaseerd op de systeeminstellingen van uw toestel.</target>
       </segment>
     </unit>
@@ -26662,7 +26662,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Voer de naam van je werkgever in.</target>
       </segment>
     </unit>
@@ -26971,7 +26971,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Naam van de vader *</target>
       </segment>
     </unit>
@@ -26981,7 +26981,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Naam van de moeder *</target>
       </segment>
     </unit>
@@ -27751,7 +27751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Voer een geldige naam van de vader in</target>
       </segment>
     </unit>
@@ -27761,7 +27761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Voer een geldige naam van de moeder in</target>
       </segment>
     </unit>
@@ -27982,7 +27982,7 @@
       </notes>
       <segment >
         <source>Slides</source>
-        <target>Dia\'s</target>
+        <target>Dia\&apos;s</target>
       </segment>
     </unit>
     <unit id="common.common:spread_sheet" translate="yes">
@@ -28071,7 +28071,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Je hebt nog steeds niets toegevoegd aan je vaardigheidspaspoort.</target>
       </segment>
     </unit>
@@ -28421,7 +28421,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Voer de naam van de uitgever van de badge in.</target>
       </segment>
     </unit>
@@ -28611,7 +28611,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>Vul de naam van de certificatie-instelling in.</target>
       </segment>
     </unit>
@@ -28741,7 +28741,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Voer de beoordelaarsnaam in</target>
       </segment>
     </unit>
@@ -29301,7 +29301,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Voor je veiligheid, moet je een schermvergrendeling instellen om de app te blijven gebruiken en we loggen je uit van de app</target>
       </segment>
     </unit>
@@ -30786,7 +30786,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Het lijkt erop dat we geen aanbevelingen meer hebben voor de leerdoelen die je hebt geselecteerd. Voel je vrij om je leerdoelen bij te werken in je profiel.</target>
       </segment>
     </unit>
@@ -30806,7 +30806,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>De titel mag niet leeg zijn.</target>
       </segment>
     </unit>
@@ -30936,8 +30936,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Je verwijdert %s\'s %s. Alle bijbehorende statistieken en commentaren zullen permanent worden verwijderd.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Je verwijdert %s\&apos;s %s. Alle bijbehorende statistieken en commentaren zullen permanent worden verwijderd.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -32466,7 +32466,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Geef de onderwerpen voor dit kanaal aan. Deze worden weergegeven in de koptekst van het kanaal.</target>
       </segment>
     </unit>
@@ -32646,7 +32646,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>U kunt een volledig aanpasbare widget gebruiken tussen de koptekst van het kanaal en de content van het kanaal.</target>
       </segment>
     </unit>
@@ -33196,7 +33196,7 @@
       </notes>
       <segment >
         <source>Average Peer Assessment</source>
-        <target>Gemiddelde beoordeling door collega\'s</target>
+        <target>Gemiddelde beoordeling door collega\&apos;s</target>
       </segment>
     </unit>
     <unit id="common.common:recommended_skill_level" translate="yes">
@@ -33675,7 +33675,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Tonen in de kaarten van uw groep.</target>
       </segment>
     </unit>
@@ -34146,7 +34146,7 @@
       </notes>
       <segment >
         <source>Invite Peers?</source>
-        <target>Collega\'s uitnodigen?</target>
+        <target>Collega\&apos;s uitnodigen?</target>
       </segment>
     </unit>
     <unit id="common.common:self_assessed_skill_level_snack_msg" translate="yes">
@@ -34166,7 +34166,7 @@
       </notes>
       <segment >
         <source>Assessment of your skills by peers.</source>
-        <target>Beoordeling van uw vaardigheden door collega\'s.</target>
+        <target>Beoordeling van uw vaardigheden door collega\&apos;s.</target>
       </segment>
     </unit>
     <unit id="common.common:recommended_skill_level_snack_msg" translate="yes">
@@ -34315,8 +34315,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
-        <target>Overzicht van activiteiten van %s\'</target>
+        <source>Summary of %s\&apos;s Activity</source>
+        <target>Overzicht van activiteiten van %s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:badge_list_empty" translate="yes">
@@ -34565,7 +34565,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Laten we beginnen</target>
       </segment>
     </unit>
@@ -34595,7 +34595,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Kan niet leeg zijn als Betaalde content is geselecteerd</target>
       </segment>
     </unit>
@@ -35085,8 +35085,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Word op de \'pagina Ontdekken\' lid van groepen die u interesseren. U kunt ze hier zien. Begin nu met ontdekken!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Word op de \&apos;pagina Ontdekken\&apos; lid van groepen die u interesseren. U kunt ze hier zien. Begin nu met ontdekken!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35095,8 +35095,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Volg op de \'pagina Ontdekken\' kanalen die u interesseren. U kunt ze hier zien. Begin nu met ontdekken!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Volg op de \&apos;pagina Ontdekken\&apos; kanalen die u interesseren. U kunt ze hier zien. Begin nu met ontdekken!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="no">
@@ -35492,8 +35492,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35717,8 +35717,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35825,8 +35825,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35870,8 +35870,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36443,8 +36443,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36974,8 +36974,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37048,8 +37048,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37103,8 +37103,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37319,8 +37319,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

@@ -575,7 +575,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>İlgili herhangi bir kullanıcı bulamadık</target>
       </segment>
     </unit>
@@ -635,7 +635,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
         <target>Herhangi bir Başlamadı Atamanız yok</target>
       </segment>
     </unit>
@@ -645,7 +645,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
         <target>Herhangi bir Devam Ediyor Atamanız yok</target>
       </segment>
     </unit>
@@ -655,7 +655,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
         <target>Herhangi bir Tamamlandı Atamanız yok</target>
       </segment>
     </unit>
@@ -883,7 +883,7 @@
       </notes>
       <segment >
         <source>Please sign up on %s for courses and try again.</source>
-        <target> Lütfen kurslar için %s \'de kayıt olun ve tekrar deneyin.</target>
+        <target> Lütfen kurslar için %s \&apos;de kayıt olun ve tekrar deneyin.</target>
       </segment>
     </unit>
     <unit id="common.common:exception_for_invalid_token" translate="yes">
@@ -1012,7 +1012,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Neredeyse bitti</target>
       </segment>
     </unit>
@@ -1193,7 +1193,7 @@
       </notes>
       <segment >
         <source>You can create your own team on EdCast.com</source>
-        <target>EdCast.com \'da kendi ekibinizi oluşturabilirsiniz</target>
+        <target>EdCast.com \&apos;da kendi ekibinizi oluşturabilirsiniz</target>
       </segment>
     </unit>
     <unit id="common.common:login_login_to_org_error_same_org_login" translate="yes">
@@ -1559,7 +1559,7 @@
       </notes>
       <segment >
         <source>Team URL</source>
-        <target>Ekip URL\'si</target>
+        <target>Ekip URL\&apos;si</target>
       </segment>
     </unit>
     <unit id="common.common:new_org_https_hint" translate="no">
@@ -1756,7 +1756,7 @@
       </notes>
       <segment >
         <source>This is the address you use to sign in to Learning Experience</source>
-        <target>Bu, EdCast\'te oturum açmak için kullandığınız adrestir</target>
+        <target>Bu, EdCast\&apos;te oturum açmak için kullandığınız adrestir</target>
       </segment>
     </unit>
     <unit id="common.common:signup_with_email_auth_confirm_msg" translate="yes">
@@ -1776,7 +1776,7 @@
       </notes>
       <segment >
         <source>of</source>
-        <target>-\'nın </target>
+        <target>-\&apos;nın </target>
       </segment>
     </unit>
     <unit id="common.common:signup_edittext_signup_with_email_hint" translate="yes">
@@ -2096,7 +2096,7 @@
       </notes>
       <segment >
         <source>Let Learning Experience always run in background?</source>
-        <target>EdCast \'in arka planda her zaman çalışmasına izin verilsin mi?</target>
+        <target>EdCast \&apos;in arka planda her zaman çalışmasına izin verilsin mi?</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_message" translate="yes">
@@ -2105,8 +2105,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
-        <target>EdCast \'ten tüm önemli bildirimleri alacak şekilde pil listesini optimize etmemek için EdCast ekleyin.</target>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <target>EdCast \&apos;ten tüm önemli bildirimleri alacak şekilde pil listesini optimize etmemek için EdCast ekleyin.</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_positive" translate="yes">
@@ -2236,7 +2236,7 @@
       </notes>
       <segment >
         <source>You do not have any Learning Content from Coach Alex Learning assistant.</source>
-        <target>EdCast \'ın sanal öğrenme asistanı Coach Alex Öğrenme asistanından herhangi bir Öğrenme İçeriğiniz yok.</target>
+        <target>EdCast \&apos;ın sanal öğrenme asistanı Coach Alex Öğrenme asistanından herhangi bir Öğrenme İçeriğiniz yok.</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_post_empty_message" translate="yes">
@@ -2276,7 +2276,7 @@
       </notes>
       <segment >
         <source>Hello %s, my name is Alex, and I am your learning assistant from Learning Experience. I am here to help you get into a habit of learning daily. Lets get started shall we?</source>
-        <target>Merhaba %s, benim adım Alex ve EdCast \'tan öğrenme asistanınızım. Her gün öğrenme alışkanlığı edinmenize yardımcı olmak için buradayım. Başlayalım mı?</target>
+        <target>Merhaba %s, benim adım Alex ve EdCast \&apos;tan öğrenme asistanınızım. Her gün öğrenme alışkanlığı edinmenize yardımcı olmak için buradayım. Başlayalım mı?</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_interest_question" translate="yes">
@@ -2295,7 +2295,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Üzgünüm %s. Ne demek istediğinizi anlamadım. Tekrar sormayı deneyebilir misiniz?</target>
       </segment>
     </unit>
@@ -2346,7 +2346,7 @@
       </notes>
       <segment >
         <source>OK, I found some SmartBites for you &#8230;</source>
-        <target>Tamam, sizin için SmartBites \'lar buldum…</target>
+        <target>Tamam, sizin için SmartBites \&apos;lar buldum…</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_add_topic" translate="yes">
@@ -2415,7 +2415,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Hesabınız yok mu?</target>
       </segment>
     </unit>
@@ -2715,7 +2715,7 @@
       </notes>
       <segment >
         <source>Edit %s</source>
-        <target>%s\'yi düzenle</target>
+        <target>%s\&apos;yi düzenle</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_your_learning_goals" translate="yes">
@@ -2744,7 +2744,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
+        <source>No search result for \&apos;%s\&apos;</source>
         <target>%s için sonuç bulunamadı</target>
       </segment>
     </unit>
@@ -2774,7 +2774,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
+        <source>Searching for \&apos;%s\&apos;</source>
         <target>%s aranıyor</target>
       </segment>
     </unit>
@@ -2794,8 +2794,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Hangi alanda iyi olduğunuzu başkalarına söyleyin. Bu profilinizde görünecek ve sizi  Konunun Uzmanı\' olarak size öneride bulunmamıza yardımcı olacak</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Hangi alanda iyi olduğunuzu başkalarına söyleyin. Bu profilinizde görünecek ve sizi  Konunun Uzmanı\&apos; olarak size öneride bulunmamıza yardımcı olacak</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -3124,7 +3124,7 @@
       </notes>
       <segment >
         <source>Please select if you have been offered employment but are yet to take up a job OR are undergoing/selected for Internship &amp; Apprenticeship roles in IT or IT enabled services</source>
-        <target>Lütfen size istihdam teklif edilip edilmediğini, ancak henüz bir işe başlayıp başlamadığınızı VEYA Staj &amp; BT veya BT\'nin etkin olduğu hizmetlerde çıraklık rolleri</target>
+        <target>Lütfen size istihdam teklif edilip edilmediğini, ancak henüz bir işe başlayıp başlamadığınızı VEYA Staj &amp; BT veya BT\&apos;nin etkin olduğu hizmetlerde çıraklık rolleri</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_verify" translate="yes">
@@ -3174,7 +3174,7 @@
       </notes>
       <segment >
         <source>Resend OTP</source>
-        <target>OTP\'yi yeniden gönder</target>
+        <target>OTP\&apos;yi yeniden gönder</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_otp_incorrect_error" translate="yes">
@@ -3203,7 +3203,7 @@
       </notes>
       <segment >
         <source>You have exceeded the maximum attempts to enter the OTP. Please click on "Resend OTP" to generate another OTP</source>
-        <target>OTP\'ye girmek için maksimum girişimi aştınız. Başka bir OTP oluşturmak için lütfen "OTP'yi Yeniden Gönder" i tıklayın</target>
+        <target>OTP\&apos;ye girmek için maksimum girişimi aştınız. Başka bir OTP oluşturmak için lütfen "OTP\&apos;yi Yeniden Gönder" i tıklayın</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_detail_send_verify_max_attempt_error" translate="yes">
@@ -3363,7 +3363,7 @@
       </notes>
       <segment >
         <source>Credential URL</source>
-        <target>Kimlik Bilgisi URL \'si</target>
+        <target>Kimlik Bilgisi URL \&apos;si</target>
       </segment>
     </unit>
     <unit id="common.common:skill_empty_message" translate="yes">
@@ -3373,7 +3373,7 @@
       </notes>
       <segment >
         <source>No skill added. Please click add skill to add one.</source>
-        <target>Beceri eklenmedi. Bir beceri eklemek için lütfen beceri ekle \'ye tıklayın.</target>
+        <target>Beceri eklenmedi. Bir beceri eklemek için lütfen beceri ekle \&apos;ye tıklayın.</target>
       </segment>
     </unit>
     <unit id="common.common:skill_level_label" translate="yes">
@@ -3772,7 +3772,7 @@
       </notes>
       <segment >
         <source>My SmartBites</source>
-        <target>SmartBites \'larım</target>
+        <target>SmartBites \&apos;larım</target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_insights_smart_card" translate="yes">
@@ -3782,7 +3782,7 @@
       </notes>
       <segment >
         <source>My SmartCards</source>
-        <target>SmartCards \'larım</target>
+        <target>SmartCards \&apos;larım</target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_streams" translate="yes">
@@ -3952,7 +3952,7 @@
       </notes>
       <segment >
         <source>Visit %s on your desktop to enroll in free courses.</source>
-        <target>Ücretsiz kurslara kaydolmak için masaüstünüzde %s \'yi ziyaret edin.</target>
+        <target>Ücretsiz kurslara kaydolmak için masaüstünüzde %s \&apos;yi ziyaret edin.</target>
       </segment>
     </unit>
     <unit id="common.common:profile_screen_my_courses_nocourse_message" translate="yes">
@@ -4082,7 +4082,7 @@
       </notes>
       <segment >
         <source>MY SMARTBITES</source>
-        <target>SMARTBITES \'LARIM</target>
+        <target>SMARTBITES \&apos;LARIM</target>
       </segment>
     </unit>
     <unit id="common.common:profile_my_contents_pathways" translate="yes">
@@ -4231,7 +4231,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Henüz herhangi bir beceri eklemediniz. Profilinize beceriler eklemek, kuruluşunuzda daha fazla takipçiniz kazanmanıza ve görünürlüğünüzü artırmanıza yardımcı olacaktır.</target>
       </segment>
     </unit>
@@ -4392,7 +4392,7 @@
       </notes>
       <segment >
         <source>was live on Learning Experience</source>
-        <target>EdCast \'te canlı akıştaydı</target>
+        <target>EdCast \&apos;te canlı akıştaydı</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_streaming_now" translate="yes">
@@ -4522,7 +4522,7 @@
       </notes>
       <segment >
         <source>EDCASTERS ></source>
-        <target>EDCASTER \'LAR &gt;</target>
+        <target>EDCASTER \&apos;LAR &gt;</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_subscribe_button" translate="yes">
@@ -4592,7 +4592,7 @@
       </notes>
       <segment >
         <source>You are not authorized to delete this SmartBite.</source>
-        <target>Bu SmartBite \'ı silme yetkiniz yok.</target>
+        <target>Bu SmartBite \&apos;ı silme yetkiniz yok.</target>
       </segment>
     </unit>
     <unit id="common.common:card_delete_message_cannot_delete_smart_card" translate="yes">
@@ -4602,7 +4602,7 @@
       </notes>
       <segment >
         <source>You are not authorized to delete this SmartCard.</source>
-        <target>Bu SmartCard \'ı silme yetkiniz yok.</target>
+        <target>Bu SmartCard \&apos;ı silme yetkiniz yok.</target>
       </segment>
     </unit>
     <unit id="common.common:edit_smartbite_delete_message" translate="yes">
@@ -5161,7 +5161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Bu dosya çevrimdışı görüntülenemeyecek.</target>
       </segment>
     </unit>
@@ -5232,7 +5232,7 @@
       </notes>
       <segment >
         <source>Your device does not has enough space for recording LiveStream to upload higher quality version. Please free some space.</source>
-        <target>Cihazınızda LiveStream\'i kaydetmek için daha yüksek kaliteli bir sürüm yüklemek için yeterli alan yok. Lütfen biraz yer açın.</target>
+        <target>Cihazınızda LiveStream\&apos;i kaydetmek için daha yüksek kaliteli bir sürüm yüklemek için yeterli alan yok. Lütfen biraz yer açın.</target>
       </segment>
     </unit>
     <unit id="common.common:courseware_screen_title" translate="yes">
@@ -5599,7 +5599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Üzgünüz, abonelik ücretinizi almadık. Lütfen daha sonra tekrar deneyiniz.</target>
       </segment>
     </unit>
@@ -5610,7 +5610,7 @@
       </notes>
       <segment >
         <source>We are facing some technical problem while processing your request. You can buy skillcoins from web.</source>
-        <target>İsteğinizi işlerken bazı teknik sorunlarla karşı karşıyayız. Beceri paralarını web\'den satın alabilirsiniz.</target>
+        <target>İsteğinizi işlerken bazı teknik sorunlarla karşı karşıyayız. Beceri paralarını web\&apos;den satın alabilirsiniz.</target>
       </segment>
     </unit>
     <unit id="common.common:buy_tool_text" translate="yes">
@@ -5892,7 +5892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Herhangi bir bildiriminiz yok.</target>
       </segment>
     </unit>
@@ -6252,7 +6252,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>sizi katılmaya davet etti.</target>
       </segment>
     </unit>
@@ -6263,7 +6263,7 @@
       </notes>
       <segment >
         <source>Hey, %1$s schedule an AMA(Ask Me Anything) on %2$s and want you to join. Download the %3$s app and sign up so you can get notified once my AMA starts! Tap here to get started:</source>
-        <target>Hey, %1$s %2$s \'te bir AMA (Bana Soru Sor) planladı ve katılmanızı istiyor. %3$s uygulamasını indirin ve kaydolun, böylece AMA başladığında bildirim alabilirsiniz! Başlamak için buraya dokunun:</target>
+        <target>Hey, %1$s %2$s \&apos;te bir AMA (Bana Soru Sor) planladı ve katılmanızı istiyor. %3$s uygulamasını indirin ve kaydolun, böylece AMA başladığında bildirim alabilirsiniz! Başlamak için buraya dokunun:</target>
       </segment>
     </unit>
     <unit id="common.common:schedule_ama_invitation_user" translate="yes">
@@ -6313,7 +6313,7 @@
       </notes>
       <segment >
         <source>has invited you to their Schedule AMA. Sign in to be notified when it starts!</source>
-        <target>sizi Planlanan AMA \'sına davet etti. Başladığında bildirim almak için oturum açın!</target>
+        <target>sizi Planlanan AMA \&apos;sına davet etti. Başladığında bildirim almak için oturum açın!</target>
       </segment>
     </unit>
     <unit id="common.common:org_join_message" translate="yes">
@@ -6322,7 +6322,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Katıldıktan sonra, kuruluşunuzdaki meslektaşlarınızla etkileşimde bulunabileceksiniz! </target>
       </segment>
     </unit>
@@ -6632,7 +6632,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Bugünkü eğitiminiz boş</target>
       </segment>
     </unit>
@@ -6702,7 +6702,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Hiçbir yer imi yok. </target>
       </segment>
     </unit>
@@ -7292,7 +7292,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>Ekibinizin öğrenme listesi boş. Daha sonra kontrol edin.</target>
       </segment>
     </unit>
@@ -7303,7 +7303,7 @@
       </notes>
       <segment >
         <source>Follow users and channels to see SmartCards here!</source>
-        <target>SmartCard\'ları burada görmek için kullanıcıları ve kanalları takip edin!</target>
+        <target>SmartCard\&apos;ları burada görmek için kullanıcıları ve kanalları takip edin!</target>
       </segment>
     </unit>
     <unit id="common.common:no_home_custom_content_title" translate="yes">
@@ -7562,7 +7562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Bir PDF görüntüleyici uygulamanız yok. İçeriği görüntülemek için lütfen bir tane yükleyin.</target>
       </segment>
     </unit>
@@ -8033,7 +8033,7 @@
       </notes>
       <segment >
         <source>You will receive a notification when it is time to start your AMA!</source>
-        <target>AMA \'nızı başlatmanın zamanı geldiğinde bir bildirim alacaksınız!</target>
+        <target>AMA \&apos;nızı başlatmanın zamanı geldiğinde bir bildirim alacaksınız!</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_show_shedule_stream_time_message" translate="yes">
@@ -8122,7 +8122,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>İpucu: Videonuz kısaysa, takipçilerinizin ayarlamak için yeterli zamanları olmayabilir. Endişelenmeyin, videonuz akışınızdan kısa bir süre sonra isteğe bağlı oynatma için kullanılabilir.</target>
       </segment>
     </unit>
@@ -8163,7 +8163,7 @@
       </notes>
       <segment >
         <source>Capture and share your insights. Your video will be available on Learning Experience.</source>
-        <target>İçgörülerinizi yakalayın ve paylaşın. Videonuz EdCast \'te kullanılabilir olacaktır.</target>
+        <target>İçgörülerinizi yakalayın ve paylaşın. Videonuz EdCast \&apos;te kullanılabilir olacaktır.</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_prescreen_new_title" translate="yes">
@@ -8173,7 +8173,7 @@
       </notes>
       <segment >
         <source>Go Live on Learning Experience!</string</source>
-        <target>EdCast \'ta Canlı Yayına Geçin! </target>
+        <target>EdCast \&apos;ta Canlı Yayına Geçin! </target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_schedule_streaming_stream_name_hint" translate="yes">
@@ -8203,7 +8203,7 @@
       </notes>
       <segment >
         <source>(Select a start time for your AMA)</source>
-        <target>(AMA \'nız için bir başlangıç saati seçin)</target>
+        <target>(AMA \&apos;nız için bir başlangıç saati seçin)</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_set_schedult_live_msg" translate="yes">
@@ -8213,7 +8213,7 @@
       </notes>
       <segment >
         <source>Please set the schedule time for your AMA</source>
-        <target>Lütfen AMA \'nız için plan saatini ayarlayın</target>
+        <target>Lütfen AMA \&apos;nız için plan saatini ayarlayın</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_set_schedult_live_attach_image_msg" translate="yes">
@@ -8492,7 +8492,7 @@
       </notes>
       <segment >
         <source>Post SmartCards</string</source>
-        <target>SmartCard \'arı gönder </target>
+        <target>SmartCard \&apos;arı gönder </target>
       </segment>
     </unit>
     <unit id="common.common:search_label_search" translate="yes">
@@ -8941,7 +8941,7 @@
       </notes>
       <segment >
         <source>Follow some EdCasters to build your knowledge network!</source>
-        <target>Bilgi ağınızı oluşturmak için bazı EdCaster \'ları takip edin!</target>
+        <target>Bilgi ağınızı oluşturmak için bazı EdCaster \&apos;ları takip edin!</target>
       </segment>
     </unit>
     <unit id="common.common:suggested_course_header" translate="yes">
@@ -8971,7 +8971,7 @@
       </notes>
       <segment >
         <source>Check out some of the top pathways on Learning Experience!</source>
-        <target>EdCast \'taki en iyi yollardan bazılarına göz atın! </target>
+        <target>EdCast \&apos;taki en iyi yollardan bazılarına göz atın! </target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_smartbites" translate="yes">
@@ -8981,7 +8981,7 @@
       </notes>
       <segment >
         <source>SmartCards</source>
-        <target>SmartCard \'lar</target>
+        <target>SmartCard \&apos;lar</target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_smartbits" translate="yes">
@@ -8991,7 +8991,7 @@
       </notes>
       <segment >
         <source>Smartbits</source>
-        <target>Smartbit \'ler</target>
+        <target>Smartbit \&apos;ler</target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_mybookmarks" translate="yes">
@@ -9061,7 +9061,7 @@
       </notes>
       <segment >
         <source>Add topics to other EdCasters know about what you are streaming about</source>
-        <target>Akışınız hakkında bilgi sahibi olan diğer EdCaster \'lara konular ekleyin</target>
+        <target>Akışınız hakkında bilgi sahibi olan diğer EdCaster \&apos;lara konular ekleyin</target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_enter_topic" translate="yes">
@@ -9700,7 +9700,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Bazı kanallar ekleyin ve sadece sizin için seçtiğimiz bazı içerikleri görüntülemeye başlayacağız.</target>
       </segment>
     </unit>
@@ -10621,7 +10621,7 @@
       </notes>
       <segment >
         <source>Missing HTTP infront of the URL.</source>
-        <target>URL \'nin önünde HTTP eksik.</target>
+        <target>URL \&apos;nin önünde HTTP eksik.</target>
       </segment>
     </unit>
     <unit id="common.common:paid_courses_not_enroll_msg" translate="yes">
@@ -10871,7 +10871,7 @@
       </notes>
       <segment >
         <source>No apps supporting PDF available</source>
-        <target>PDF\'yi destekleyen uygulama yok</target>
+        <target>PDF\&apos;yi destekleyen uygulama yok</target>
       </segment>
     </unit>
     <unit id="common.common:profile_transcript_open_with" translate="yes">
@@ -11451,7 +11451,7 @@
       </notes>
       <segment >
         <source>720p HD at 30fps</source>
-        <target>30fps \'de 720p HD</target>
+        <target>30fps \&apos;de 720p HD</target>
       </segment>
     </unit>
     <unit id="common.common:record_video_radiobutton_label_choice_two" translate="yes">
@@ -11461,7 +11461,7 @@
       </notes>
       <segment >
         <source>1080p HD at 30fps</source>
-        <target>30fps \'de 1080p HD</target>
+        <target>30fps \&apos;de 1080p HD</target>
       </segment>
     </unit>
     <unit id="common.common:record_video_radiobutton_label_choice_three" translate="yes">
@@ -11471,7 +11471,7 @@
       </notes>
       <segment >
         <source>1080p HD at 60fps</source>
-        <target>60fps \'de 1080p HD</target>
+        <target>60fps \&apos;de 1080p HD</target>
       </segment>
     </unit>
     <unit id="common.common:record_video_instruction_message" translate="yes">
@@ -11481,7 +11481,7 @@
       </notes>
       <segment >
         <source>A minute of video will be approximately:\n\u2022 60 MB with 720pHD at 30fps(space saver) \n\u2022 130 MB with 1080p HD at 30fps (default)\n\u2022 200 MB with 1080 HD at 60fps (smoother)</source>
-        <target>Bir dakikalık video yaklaşık boyutu:\n\u2022 30fps \'de 720pHD kayıtla 60 MB (alan tasarrufu) \n\u2022 30fps \'de 1080p HD kayıtla 130 MB (varsayılan)\n\u2022 60fps \'de 1080 HD kayıtla 200 MB (daha akıcı)</target>
+        <target>Bir dakikalık video yaklaşık boyutu:\n\u2022 30fps \&apos;de 720pHD kayıtla 60 MB (alan tasarrufu) \n\u2022 30fps \&apos;de 1080p HD kayıtla 130 MB (varsayılan)\n\u2022 60fps \&apos;de 1080 HD kayıtla 200 MB (daha akıcı)</target>
       </segment>
     </unit>
     <unit id="common.common:something_went_wrong" translate="yes">
@@ -11730,8 +11730,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
-        <target>Bu cihaz Camera2 API \'yı desteklemiyor.</target>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
+        <target>Bu cihaz Camera2 API \&apos;yı desteklemiyor.</target>
       </segment>
     </unit>
     <unit id="common.common:tele_record_default_time" translate="yes">
@@ -11760,7 +11760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Video kaydının yerel kopyası saklanamıyor, harici depolama mevcut değil.</target>
       </segment>
     </unit>
@@ -12011,7 +12011,7 @@
       </notes>
       <segment >
         <source>Fail in prepareMediaRecorder()!</source>
-        <target>preparaMediaRecorder() \'da hata!</target>
+        <target>preparaMediaRecorder() \&apos;da hata!</target>
       </segment>
     </unit>
     <unit id="common.common:sorry_your_phone_does_not_have_camera" translate="yes">
@@ -12221,7 +12221,7 @@
       </notes>
       <segment >
         <source>We have some more smartcard on &lt;b&gt;%s&lt;/b&gt; . \n Tap here to see more.</source>
-        <target><b> %s </b> \'da daha fazla smartcard \'ımız var. \n Daha fazlasını görmek için buraya dokunun.</target>
+        <target><b> %s </b> \&apos;da daha fazla smartcard \&apos;ımız var. \n Daha fazlasını görmek için buraya dokunun.</target>
       </segment>
     </unit>
     <unit id="common.common:notification_new_assignments_message" translate="yes">
@@ -12460,7 +12460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Bu kapalı bir ekiptir. Bir hesabınız veya katılma davetiniz yoksa, lütfen ekip yöneticinizle irtibata geçin.</target>
       </segment>
     </unit>
@@ -12559,7 +12559,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Anında oturum açmak için e-postanıza gönderilen sihirli bir bağlantı alın!</target>
       </segment>
     </unit>
@@ -12599,7 +12599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>%s adresine bir e-posta gönderdik. Oturum açmak için bu sihirli bağlantıyı kullanın.</target>
       </segment>
     </unit>
@@ -12629,7 +12629,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>Bir hesap veya bu ekibe katılma daveti bulamadık. Lütfen ekip yöneticinizle irtibata geçin</target>
       </segment>
     </unit>
@@ -12980,7 +12980,7 @@
       </notes>
       <segment >
         <source>You selected 720p HD at 30fps</source>
-        <target>30fps \'de 720p HD seçtiniz</target>
+        <target>30fps \&apos;de 720p HD seçtiniz</target>
       </segment>
     </unit>
     <unit id="common.common:record_video_pixel_quality_1080p_30fps" translate="yes">
@@ -12990,7 +12990,7 @@
       </notes>
       <segment >
         <source>You selected 1080p HD at 30fps</source>
-        <target>30fps \'de 1080p HD seçtiniz</target>
+        <target>30fps \&apos;de 1080p HD seçtiniz</target>
       </segment>
     </unit>
     <unit id="common.common:record_video_pixel_quality_1080p_60fps" translate="yes">
@@ -13000,7 +13000,7 @@
       </notes>
       <segment >
         <source>You selected 1080p HD at 60fps</source>
-        <target>60fps \'de 1080p HD seçtiniz</target>
+        <target>60fps \&apos;de 1080p HD seçtiniz</target>
       </segment>
     </unit>
     <unit id="common.common:end_it" translate="yes">
@@ -13369,7 +13369,7 @@
       </notes>
       <segment >
         <source>Top SmartCards</source>
-        <target>En iyi SmartCard \'lar</target>
+        <target>En iyi SmartCard \&apos;lar</target>
       </segment>
     </unit>
     <unit id="common.common:search_discover_channels" translate="yes">
@@ -13438,7 +13438,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Bir rozet kazandınız.</target>
       </segment>
     </unit>
@@ -13797,7 +13797,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Hesabınız yoksa, oluşturmak için aşağıdaki düğmeyi tıklayın.</target>
       </segment>
     </unit>
@@ -13967,7 +13967,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Mevcut rolünüz nedir?</target>
       </segment>
     </unit>
@@ -14217,7 +14217,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Bir rozet kazandınız</target>
       </segment>
     </unit>
@@ -14538,7 +14538,7 @@
       </notes>
       <segment >
         <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target>Merhaba Donald, bugün nasılsınız? Ben Sales University \'den Micname Sizi aramamın nedeni takviminize biraz zaman ayırmak. Sitenizde bu çeyrekte 10 yeni satış temsilcisini işe aldığınızı fark ettim. Sektörünüzdeki birçok şirket, satış geliştirme ekiplerinin daha fazla görüşmeler yapmasına ve toplantıların rezerve edilmesine yardımcı olmak için zaten SalesU \'yu kullanıyor. Ayrıca yeni rep rampa süresini yarıya indirebilirler.\n Satış zorluklarınız ve hedefleriniz hakkında bilgi edinmek için bir toplantı planlamanın en iyi adım olacağını düşündüm. Çarşamba veya Perşembe öğleden sonra saat 10.00 \'da müsait misiniz?</target>
+        <target>Merhaba Donald, bugün nasılsınız? Ben Sales University \&apos;den Micname Sizi aramamın nedeni takviminize biraz zaman ayırmak. Sitenizde bu çeyrekte 10 yeni satış temsilcisini işe aldığınızı fark ettim. Sektörünüzdeki birçok şirket, satış geliştirme ekiplerinin daha fazla görüşmeler yapmasına ve toplantıların rezerve edilmesine yardımcı olmak için zaten SalesU \&apos;yu kullanıyor. Ayrıca yeni rep rampa süresini yarıya indirebilirler.\n Satış zorluklarınız ve hedefleriniz hakkında bilgi edinmek için bir toplantı planlamanın en iyi adım olacağını düşündüm. Çarşamba veya Perşembe öğleden sonra saat 10.00 \&apos;da müsait misiniz?</target>
       </segment>
     </unit>
     <unit id="common.common:select_script_sample_script_text" translate="yes">
@@ -14648,7 +14648,7 @@
       </notes>
       <segment >
         <source>You must schedule your AMA at least 10 minutes in the future!</source>
-        <target>AMA \'nızı gelecekte en az 10 dakika olacak şekilde planlamalısınız! </target>
+        <target>AMA \&apos;nızı gelecekte en az 10 dakika olacak şekilde planlamalısınız! </target>
       </segment>
     </unit>
     <unit id="common.common:pathway_badge_description" translate="yes">
@@ -14678,7 +14678,7 @@
       </notes>
       <segment >
         <source>Add Smartcards</source>
-        <target>Smartcard \'lar ekle </target>
+        <target>Smartcard \&apos;lar ekle </target>
       </segment>
     </unit>
     <unit id="common.common:pathway_zero_smartcards" translate="yes">
@@ -15062,7 +15062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>İçgörülerinizi yakalayın ve gerçek zamanlı olarak paylaşın. Bitirdikten sonra, videonuz profilinizde kullanılabilir olacaktır</target>
       </segment>
     </unit>
@@ -15113,7 +15113,7 @@
       </notes>
       <segment >
         <source>The replay of your live video will be available for on demand playback on %1$s shortly</source>
-        <target>Canlı videonuzun tekrarı talep üzerine kısa süre içinde %1$s \'te hazır olacak</target>
+        <target>Canlı videonuzun tekrarı talep üzerine kısa süre içinde %1$s \&apos;te hazır olacak</target>
       </segment>
     </unit>
     <unit id="common.common:live_stream_end_button_message" translate="yes">
@@ -15173,7 +15173,7 @@
       </notes>
       <segment >
         <source>%s is now live on Learning Experience. \n Would you like to join the stream?</source>
-        <target>%s şimdi Edcast \'te canlı akışta. \n Akışa katılmak ister misiniz?</target>
+        <target>%s şimdi Edcast \&apos;te canlı akışta. \n Akışa katılmak ister misiniz?</target>
       </segment>
     </unit>
     <unit id="common.common:join_live_stream_title_message" translate="yes">
@@ -15323,7 +15323,7 @@
       </notes>
       <segment >
         <source>Share SmartBite to Group(s) or Individual(s)</source>
-        <target>SmartBite \'ı Grup(lar) veya Kişi(ler) ile paylaş</target>
+        <target>SmartBite \&apos;ı Grup(lar) veya Kişi(ler) ile paylaş</target>
       </segment>
     </unit>
     <unit id="common.common:share_smartcard" translate="yes">
@@ -15333,7 +15333,7 @@
       </notes>
       <segment >
         <source>Share SmartCard to Group(s) or Individual(s)</source>
-        <target>SmartCard \'ı Grup(lar) veya Kişi(ler) ile paylaş</target>
+        <target>SmartCard \&apos;ı Grup(lar) veya Kişi(ler) ile paylaş</target>
       </segment>
     </unit>
     <unit id="common.common:share_pathway" translate="yes">
@@ -15751,7 +15751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Bu video bu cihaza akış için geçerli değil. </target>
       </segment>
     </unit>
@@ -15761,7 +15761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Bu video oynatılamıyor.</target>
       </segment>
     </unit>
@@ -15782,7 +15782,7 @@
       </notes>
       <segment >
         <source>File size should not be more than 10 GB</source>
-        <target>Dosya boyutu 10 GB\'den fazla olmamalıdır</target>
+        <target>Dosya boyutu 10 GB\&apos;den fazla olmamalıdır</target>
       </segment>
     </unit>
     <unit id="common.common:curator_static_text" translate="yes">
@@ -15842,7 +15842,7 @@
       </notes>
       <segment >
         <source>Sorry you will have to complete all\n the previous SmartCards to\n move on in this Pathway</source>
-        <target>Maalesef bu yolda \ndevam etmek için önceki SmartCard \'ları \ntamamlamanız gerekecek</target>
+        <target>Maalesef bu yolda \ndevam etmek için önceki SmartCard \&apos;ları \ntamamlamanız gerekecek</target>
       </segment>
     </unit>
     <unit id="common.common:go_back_label" translate="yes">
@@ -15900,7 +15900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Ama önce, öğrenmek istediğiniz bir şey var mı? İlgi alanlarınızı seçebilirsiniz ve biz size seveceğiniz bir haber kaynağı sunacağız.</target>
       </segment>
     </unit>
@@ -16159,7 +16159,7 @@
       </notes>
       <segment >
         <source>Tap to go to My Downloads</source>
-        <target>İndirdiklerim \'e gitmek için dokun</target>
+        <target>İndirdiklerim \&apos;e gitmek için dokun</target>
       </segment>
     </unit>
     <unit id="common.common:you_are_offline" translate="yes">
@@ -16168,7 +16168,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Çevrimdışısınız</target>
       </segment>
     </unit>
@@ -16179,7 +16179,7 @@
       </notes>
       <segment >
         <source>You can view the Downloaded Content in Settings - My Downloads or tap here</source>
-        <target>İndirilen içeriği Ayarlar - İndirdiklerim \'de görebilir veya buraya dokunabilirsiniz</target>
+        <target>İndirilen içeriği Ayarlar - İndirdiklerim \&apos;de görebilir veya buraya dokunabilirsiniz</target>
       </segment>
     </unit>
     <unit id="common.common:out_of_space" translate="yes">
@@ -16219,7 +16219,7 @@
       </notes>
       <segment >
         <source>Please enable Internet. Tap here to go to SETTINGS.</source>
-        <target>Lütfen İnternet \'i açın. AYARLAR \'a gitmek için buraya dokunun.</target>
+        <target>Lütfen İnternet \&apos;i açın. AYARLAR \&apos;a gitmek için buraya dokunun.</target>
       </segment>
     </unit>
     <unit id="common.common:download_size_string" translate="no">
@@ -16556,8 +16556,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
-        <target>Sesinizi gerçek zamanlı olarak kaydedin veya içe aktarın. Bitirdikten sonra, podcast \'iniz EdCast sayfanızda hazır olacaktır</target>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
+        <target>Sesinizi gerçek zamanlı olarak kaydedin veya içe aktarın. Bitirdikten sonra, podcast \&apos;iniz EdCast sayfanızda hazır olacaktır</target>
       </segment>
     </unit>
     <unit id="common.common:record_podcast" translate="yes">
@@ -16606,7 +16606,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Ses kaydedilemiyor, harici depolama mevcut değil.</target>
       </segment>
     </unit>
@@ -16617,7 +16617,7 @@
       </notes>
       <segment >
         <source>Cancel Podcast</source>
-        <target>Podcast\'i İptal et</target>
+        <target>Podcast\&apos;i İptal et</target>
       </segment>
     </unit>
     <unit id="common.common:cancel_podcast_message" translate="yes">
@@ -16627,7 +16627,7 @@
       </notes>
       <segment >
         <source>Are you sure you want to cancel the podcast?</source>
-        <target>Podcast\'i iptal etmek istediğinizden emin misiniz?</target>
+        <target>Podcast\&apos;i iptal etmek istediğinizden emin misiniz?</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_preview_listen_text" translate="yes">
@@ -16677,7 +16677,7 @@
       </notes>
       <segment >
         <source>Preview Podcast</source>
-        <target>Podcast \'i Önizle</target>
+        <target>Podcast \&apos;i Önizle</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_out_of_space" translate="yes">
@@ -16697,7 +16697,7 @@
       </notes>
       <segment >
         <source>Edit Podcast</source>
-        <target>Podcast\'i düzenle</target>
+        <target>Podcast\&apos;i düzenle</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_upload_again_text" translate="yes">
@@ -16945,7 +16945,7 @@
       </notes>
       <segment >
         <source>You have earned this badge for completing target score of %1$s hours from %2$s to %3$s</source>
-        <target>%2$s \'dan %3$s \'a kadar %1$s saat hedef puanı tamamladığınız için bu rozeti kazandınız</target>
+        <target>%2$s \&apos;dan %3$s \&apos;a kadar %1$s saat hedef puanı tamamladığınız için bu rozeti kazandınız</target>
       </segment>
     </unit>
     <unit id="common.common:clc_badge_message2" translate="yes">
@@ -16975,7 +16975,7 @@
       </notes>
       <segment >
         <source>has earned this badge for completing target score of %1$s hours from %2$s to %3$s</source>
-        <target>%2$s \'dan %3$s \'a kadar %1$s saat hedef puanı tamamladığınız için bu rozeti kazandınız% s saat hedef puanını tamamlamak için bu rozeti kazandınız</target>
+        <target>%2$s \&apos;dan %3$s \&apos;a kadar %1$s saat hedef puanı tamamladığınız için bu rozeti kazandınız% s saat hedef puanını tamamlamak için bu rozeti kazandınız</target>
       </segment>
     </unit>
     <unit id="common.common:user_badge_message2" translate="yes">
@@ -17295,7 +17295,7 @@
       </notes>
       <segment >
         <source>Remove from Pathway</source>
-        <target>Bu SmartCard \'ı kaldır</target>
+        <target>Bu SmartCard \&apos;ı kaldır</target>
       </segment>
     </unit>
     <unit id="common.common:permanently_delete_smart_card_label" translate="yes">
@@ -17335,7 +17335,7 @@
       </notes>
       <segment >
         <source>Press the + button to add smartcards in the pathway</source>
-        <target>Yolda smartcard \'lar eklemek için + düğmesine basın</target>
+        <target>Yolda smartcard \&apos;lar eklemek için + düğmesine basın</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_draft_title" translate="yes">
@@ -17583,7 +17583,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Bannerinizi kaldırmak istediğinizden emin misiniz? Bu işlem geri alınamaz.</target>
       </segment>
     </unit>
@@ -18051,7 +18051,7 @@
       </notes>
       <segment >
         <source>All SmartCards</source>
-        <target>Tüm SmartCard\'lar</target>
+        <target>Tüm SmartCard\&apos;lar</target>
       </segment>
     </unit>
     <unit id="common.common:curate_tab_all_label" translate="yes">
@@ -18139,7 +18139,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>SmartCard oluşturma izniniz yok, lütfen yöneticiyle irtibata geçin</target>
       </segment>
     </unit>
@@ -18229,7 +18229,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>Bu içeriği görüntüleme izniniz yok </target>
       </segment>
     </unit>
@@ -18290,7 +18290,7 @@
       </notes>
       <segment >
         <source>Adding card to Pathway&#8230;</source>
-        <target>Pathway &#8230; \'a kart ekleniyor</target>
+        <target>Pathway &#8230; \&apos;a kart ekleniyor</target>
       </segment>
     </unit>
     <unit id="common.common:snack_bar_added_pathway_label" translate="yes">
@@ -18300,7 +18300,7 @@
       </notes>
       <segment >
         <source>Card added to Pathway</source>
-        <target>Pathway\'e kart eklendi</target>
+        <target>Pathway\&apos;e kart eklendi</target>
       </segment>
     </unit>
     <unit id="common.common:snack_bar_adding_pathway_error_label" translate="yes">
@@ -18310,7 +18310,7 @@
       </notes>
       <segment >
         <source>Error while adding card to Pathway</source>
-        <target>Pathway\'e kart eklerken hata</target>
+        <target>Pathway\&apos;e kart eklerken hata</target>
       </segment>
     </unit>
     <unit id="common.common:create_link_unauthorised_error_msg" translate="yes">
@@ -18408,8 +18408,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
-        <target>Lorem Ipsum sadece baskı ve dizgi endüstrisinin kukla metnidir. Lorem Ipsum, 1500 \'lerden bu yana endüstrinin standart kukla metni olmuştur.</target>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
+        <target>Lorem Ipsum sadece baskı ve dizgi endüstrisinin kukla metnidir. Lorem Ipsum, 1500 \&apos;lerden bu yana endüstrinin standart kukla metni olmuştur.</target>
       </segment>
     </unit>
     <unit id="common.common:dummy_number" translate="no">
@@ -18896,7 +18896,7 @@
       </notes>
       <segment >
         <source>You do not have enough SkillCoins. \nThe required amount of SkillCoins is %s more. Please recharge your SkillCoins in the wallet.</source>
-        <target>Yeterli SkillCoins\'iniz yok. \ nGerekli SkillCoin miktarı %s fazla. Lütfen SkillCoin\'lerinizi cüzdanda yeniden doldurun.</target>
+        <target>Yeterli SkillCoins\&apos;iniz yok. \ nGerekli SkillCoin miktarı %s fazla. Lütfen SkillCoin\&apos;lerinizi cüzdanda yeniden doldurun.</target>
       </segment>
     </unit>
     <unit id="common.common:create_new_pathway" translate="yes">
@@ -19430,7 +19430,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Bugünkü İçgörüleri</target>
       </segment>
     </unit>
@@ -19460,7 +19460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Bugünkü Öğrenim</target>
       </segment>
     </unit>
@@ -19470,7 +19470,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Bugünkü Öğrenim V1</target>
       </segment>
     </unit>
@@ -19480,7 +19480,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Bugünkü Öğrenim V2</target>
       </segment>
     </unit>
@@ -19591,7 +19591,7 @@
       </notes>
       <segment >
         <source>SMEs/Influencers</source>
-        <target>SME \'ler/Etkileyiciler</target>
+        <target>SME \&apos;ler/Etkileyiciler</target>
       </segment>
     </unit>
     <unit id="common.common:create_text_and_link_label" translate="yes">
@@ -19611,7 +19611,7 @@
       </notes>
       <segment >
         <source>My AMAs</source>
-        <target>AMA \'larım</target>
+        <target>AMA \&apos;larım</target>
       </segment>
     </unit>
     <unit id="common.common:user_generated_content" translate="yes">
@@ -19731,7 +19731,7 @@
       </notes>
       <segment >
         <source>Enter the link url</source>
-        <target>Bağlantı url\'sini girin</target>
+        <target>Bağlantı url\&apos;sini girin</target>
       </segment>
     </unit>
     <unit id="common.common:upload_logo_label" translate="yes">
@@ -19861,7 +19861,7 @@
       </notes>
       <segment >
         <source>Enter amount and press ADD</source>
-        <target>Tutarı girin ve EKLE \'ye basın</target>
+        <target>Tutarı girin ve EKLE \&apos;ye basın</target>
       </segment>
     </unit>
     <unit id="common.common:goto_advanced_setting" translate="yes">
@@ -19890,7 +19890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Bu karta erişim izniniz yok</target>
       </segment>
     </unit>
@@ -20350,7 +20350,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Kanalın başlığında ve kartlarında gösterilir.</target>
       </segment>
     </unit>
@@ -20510,8 +20510,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
-        <target>Bu sizin Kanalınızın Başlık Sayfası Widget\'ı!</target>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
+        <target>Bu sizin Kanalınızın Başlık Sayfası Widget\&apos;ı!</target>
       </segment>
     </unit>
     <unit id="common.common:channel_banner_widget_default_text_value" translate="yes">
@@ -20520,7 +20520,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>Kanalın widget ayarlarını düzenleyerek bu özelliği etkinleştirebilir, devre dışı bırakabilir ve özelleştirebilirsiniz</target>
       </segment>
     </unit>
@@ -20530,7 +20530,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>kanalın widget ayarları</target>
       </segment>
     </unit>
@@ -20820,7 +20820,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>Kullanıcılar eklendikten sonra gruptan ayrılamayacak, sadece grup yöneticisi/lideri kullanıcıları çıkarabilir</target>
       </segment>
     </unit>
@@ -20900,7 +20900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[<b>%s</b> grubunu kaldırmak istediğinizden emin misiniz? Bu işlem geri alınamaz.]]></target>
       </segment>
     </unit>
@@ -20910,7 +20910,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Bu yıllık hedefinizde <b>%3$s%%</b> öğrendiniz]]></target>
       </segment>
     </unit>
@@ -20961,7 +20961,7 @@
       </notes>
       <segment >
         <source>This Journey is time restricted, you will be able to access it on %s</source>
-        <target>Bu Yolculuk zaman kısıtlamalıdır, %s \'de buna erişebilirsiniz.</target>
+        <target>Bu Yolculuk zaman kısıtlamalıdır, %s \&apos;de buna erişebilirsiniz.</target>
       </segment>
     </unit>
     <unit id="common.common:group_delete_successfully" translate="yes">
@@ -21041,7 +21041,7 @@
       </notes>
       <segment >
         <source>Amount should be less than 999999</source>
-        <target>Tutar 999999 \'dan az olmalıdır</target>
+        <target>Tutar 999999 \&apos;dan az olmalıdır</target>
       </segment>
     </unit>
     <unit id="common.common:select_currency_type_label" translate="yes">
@@ -21259,7 +21259,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Taslak durumda kartı paylaşamazsınız! Lütfen paylaşım seçimlerini temizleyin veya kartı yayınlayın!</target>
       </segment>
     </unit>
@@ -21320,7 +21320,7 @@
       </notes>
       <segment >
         <source>Host URL: </source>
-        <target>Ana bilgisayar URL\'si:</target>
+        <target>Ana bilgisayar URL\&apos;si:</target>
       </segment>
     </unit>
     <unit id="common.common:app_name_label" translate="yes">
@@ -21469,7 +21469,7 @@
       </notes>
       <segment >
         <source>Access it on %s</source>
-        <target>%s \'de eriş</target>
+        <target>%s \&apos;de eriş</target>
       </segment>
     </unit>
     <unit id="common.common:you_will_be_access_it_on" translate="yes">
@@ -21846,7 +21846,7 @@
       </notes>
       <segment >
         <source>see Attachment</source>
-        <target>Ek \'e bak</target>
+        <target>Ek \&apos;e bak</target>
       </segment>
     </unit>
     <unit id="common.common:current_question_index_among_multi_question" translate="yes">
@@ -21895,7 +21895,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Sadece tüm soruları cevapladığınızda gönderebilirsiniz.</target>
       </segment>
     </unit>
@@ -22316,7 +22316,7 @@
       </notes>
       <segment >
         <source>The replay of this video will be available on %1$s shortly</source>
-        <target>Bu videonun tekrar oynatımı kısa süre içinde %1$s\'ta olacak</target>
+        <target>Bu videonun tekrar oynatımı kısa süre içinde %1$s\&apos;ta olacak</target>
       </segment>
     </unit>
     <unit id="common.common:meeting_detail_star_label" translate="yes">
@@ -22336,7 +22336,7 @@
       </notes>
       <segment >
         <source>Do you really want to remove this SmartCard from pathway?</source>
-        <target>Bu SmartCard\'ı gerçekten yoldan kaldırmak istiyor musunuz?</target>
+        <target>Bu SmartCard\&apos;ı gerçekten yoldan kaldırmak istiyor musunuz?</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_delete_pathway_smartcard_alert" translate="yes">
@@ -22346,7 +22346,7 @@
       </notes>
       <segment >
         <source>Do you really want to permanently delete this SmartCard?</source>
-        <target>Bu SmartCard\'ı gerçekten kalıcı olarak silmek istiyor musunuz?</target>
+        <target>Bu SmartCard\&apos;ı gerçekten kalıcı olarak silmek istiyor musunuz?</target>
       </segment>
     </unit>
     <unit id="common.common:download_attachment" translate="yes">
@@ -22435,7 +22435,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>Şimdilik bu kadar</target>
       </segment>
     </unit>
@@ -22665,7 +22665,7 @@
       </notes>
       <segment >
         <source>Please download the attachment from web</source>
-        <target>Lütfen eki web\'den indirin</target>
+        <target>Lütfen eki web\&apos;den indirin</target>
       </segment>
     </unit>
     <unit id="common.common:must_publish_pathway_before_complete" translate="yes">
@@ -22875,7 +22875,7 @@
       </notes>
       <segment >
         <source>No search results for %s</source>
-        <target>%s\' için arama sonucu yok</target>
+        <target>%s\&apos; için arama sonucu yok</target>
       </segment>
     </unit>
     <unit id="common.common:broadcasters_label" translate="yes">
@@ -22934,8 +22934,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>Güvenli olmayan URL\'ler açılamaz. Lütfen \'https://\' ile başlayan bağlantıları deneyin</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>Güvenli olmayan URL\&apos;ler açılamaz. Lütfen \&apos;https://\&apos; ile başlayan bağlantıları deneyin</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22944,7 +22944,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
         <target>Eklenen URL güvenli değil, \"http://\" yerine \"https://\" kullanın</target>
       </segment>
     </unit>
@@ -23054,7 +23054,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Atla: Bir daha gösterme, içerik ilgili</target>
       </segment>
     </unit>
@@ -23064,7 +23064,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Engelle: Benzer içeriği gösterme, içerik ilgisiz</target>
       </segment>
     </unit>
@@ -23513,7 +23513,7 @@
       </notes>
       <segment >
         <source>You can not create a SmartCard with the mentioned URL as SmartCards with same URL are already exist</source>
-        <target>Aynı URL\'ye sahip SmartCard\'lar zaten mevcut olduğundan, belirtilen URL ile bir SmartCard oluşturamazsınız</target>
+        <target>Aynı URL\&apos;ye sahip SmartCard\&apos;lar zaten mevcut olduğundan, belirtilen URL ile bir SmartCard oluşturamazsınız</target>
       </segment>
     </unit>
     <unit id="common.common:duplicate_smartCard_message" translate="yes">
@@ -23523,7 +23523,7 @@
       </notes>
       <segment >
         <source>The following contents with the above mentioned URL already exist.</source>
-        <target> Yukarıda belirtilen URL\'ye sahip aşağıdaki içerikler zaten mevcut. </target>
+        <target> Yukarıda belirtilen URL\&apos;ye sahip aşağıdaki içerikler zaten mevcut. </target>
       </segment>
     </unit>
     <unit id="common.common:about_prime" translate="yes">
@@ -23873,7 +23873,7 @@
       </notes>
       <segment >
         <source>The fun way to learn SalesForce!</source>
-        <target>SalesForce\'u öğrenmenin eğlenceli yolu!</target>
+        <target>SalesForce\&apos;u öğrenmenin eğlenceli yolu!</target>
       </segment>
     </unit>
     <unit id="common.common:support_label" translate="yes">
@@ -24093,7 +24093,7 @@
       </notes>
       <segment >
         <source>End Date and Time should be greater than %s</source>
-        <target>Bitiş Tarihi ve Saati%s\'den büyük olmalıdır</target>
+        <target>Bitiş Tarihi ve Saati%s\&apos;den büyük olmalıdır</target>
       </segment>
     </unit>
     <unit id="common.common:start_date_error_message_validation" translate="yes">
@@ -24123,7 +24123,7 @@
       </notes>
       <segment >
         <source>Recording URL</source>
-        <target>Kayıt URL\'si</target>
+        <target>Kayıt URL\&apos;si</target>
       </segment>
     </unit>
     <unit id="common.common:recoding_url_hint" translate="yes">
@@ -24133,7 +24133,7 @@
       </notes>
       <segment >
         <source>Add recoding URL for this event</source>
-        <target>Bu etkinlik için yeniden kodlama URL\'si ekleyin</target>
+        <target>Bu etkinlik için yeniden kodlama URL\&apos;si ekleyin</target>
       </segment>
     </unit>
     <unit id="common.common:recoding_url_star" translate="yes">
@@ -24143,7 +24143,7 @@
       </notes>
       <segment >
         <source>Recording URL*</source>
-        <target>Kayıt URL\'si *</target>
+        <target>Kayıt URL\&apos;si *</target>
       </segment>
     </unit>
     <unit id="common.common:max_collaborators_selection_limit_message" translate="yes">
@@ -24162,7 +24162,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Yorumu silme ayrıcalığına sahip değilsiniz.</target>
       </segment>
     </unit>
@@ -24172,7 +24172,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Yorumu yayınlama ayrıcalığına sahip değilsiniz.</target>
       </segment>
     </unit>
@@ -24332,7 +24332,7 @@
       </notes>
       <segment >
         <source>Fresh Recruits (who have been offered employment) but are yet to take up a job, as well as undergoing/ selected for Internship &amp; Apprenticeship roles in IT/ ITeS</source>
-        <target>Yeni İşe Alınanlar (istihdam teklif edilmiş olanlar), ancak henüz bir işe başlamamış ve ayrıca Staj ve Staj için seçilmiş / BT / ITeS\'de çıraklık rolleri</target>
+        <target>Yeni İşe Alınanlar (istihdam teklif edilmiş olanlar), ancak henüz bir işe başlamamış ve ayrıca Staj ve Staj için seçilmiş / BT / ITeS\&apos;de çıraklık rolleri</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_option_6" translate="yes">
@@ -24362,7 +24362,7 @@
       </notes>
       <segment >
         <source>I acknowledge and accept that I have read the terms and conditions of FutureSkills Prime scheme of MeitY GoI.</source>
-        <target>MeitY GoI\'nin FutureSkills Prime planının hüküm ve koşullarını okuduğumu onaylıyor ve kabul ediyorum.</target>
+        <target>MeitY GoI\&apos;nin FutureSkills Prime planının hüküm ve koşullarını okuduğumu onaylıyor ve kabul ediyorum.</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_not_avail_benefit_message" translate="yes">
@@ -24392,7 +24392,7 @@
       </notes>
       <segment >
         <source>Registration is based on Aadhaar as per FutureSkills Prime scheme rules, hence we request you to provide details as per Aadhaar.</source>
-        <target>Kayıt, FutureSkills Prime programı kurallarına göre Aadhaar\'a dayalıdır, bu nedenle Aadhaar\'a göre ayrıntıları sağlamanızı rica ederiz.</target>
+        <target>Kayıt, FutureSkills Prime programı kurallarına göre Aadhaar\&apos;a dayalıdır, bu nedenle Aadhaar\&apos;a göre ayrıntıları sağlamanızı rica ederiz.</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_name_title" translate="yes">
@@ -24402,7 +24402,7 @@
       </notes>
       <segment >
         <source>Enter full name as per Aadhaar*</source>
-        <target>Aadhaar\'a göre tam adı girin *</target>
+        <target>Aadhaar\&apos;a göre tam adı girin *</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_name_hint" translate="yes">
@@ -24422,7 +24422,7 @@
       </notes>
       <segment >
         <source>Enter mobile number as per Aadhaar*</source>
-        <target>Aadhaar\'a göre cep telefonu numarasını girin *</target>
+        <target>Aadhaar\&apos;a göre cep telefonu numarasını girin *</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_mobile_hint" translate="yes">
@@ -24442,7 +24442,7 @@
       </notes>
       <segment >
         <source>Enter email address as per Aadhaar</source>
-        <target>Aadhaar\'a göre e-posta adresini girin</target>
+        <target>Aadhaar\&apos;a göre e-posta adresini girin</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_email_hint" translate="yes">
@@ -24462,7 +24462,7 @@
       </notes>
       <segment >
         <source>Enter date of birth as per Aadhaar*</source>
-        <target>Aadhaar\'a göre doğum tarihini girin *</target>
+        <target>Aadhaar\&apos;a göre doğum tarihini girin *</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_dob_hint" translate="yes">
@@ -24482,7 +24482,7 @@
       </notes>
       <segment >
         <source>Select Gender as per Aadhaar*</source>
-        <target>Aadhaar\'a göre Cinsiyet seçin *</target>
+        <target>Aadhaar\&apos;a göre Cinsiyet seçin *</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_state_title" translate="yes">
@@ -24492,7 +24492,7 @@
       </notes>
       <segment >
         <source>Select State as per Aadhaar</source>
-        <target>Aadhaar\'a göre Eyalet seçin</target>
+        <target>Aadhaar\&apos;a göre Eyalet seçin</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_upload_photo_title" translate="yes">
@@ -24512,7 +24512,7 @@
       </notes>
       <segment >
         <source>Maximum file size allowed is 2MB.Only jpeg and png files allowed</source>
-        <target>İzin verilen maksimum dosya boyutu 2 MB\'dir. Yalnızca jpeg ve png dosyalarına izin verilir</target>
+        <target>İzin verilen maksimum dosya boyutu 2 MB\&apos;dir. Yalnızca jpeg ve png dosyalarına izin verilir</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_confirmation_message" translate="yes">
@@ -24542,7 +24542,7 @@
       </notes>
       <segment >
         <source>Full name as per Aadhaar</source>
-        <target>Aadhaar\'a göre tam isim</target>
+        <target>Aadhaar\&apos;a göre tam isim</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_mobile_title" translate="yes">
@@ -24552,7 +24552,7 @@
       </notes>
       <segment >
         <source>Mobile number as per Aadhaar</source>
-        <target>Aadhaar\'a göre cep telefonu numarası</target>
+        <target>Aadhaar\&apos;a göre cep telefonu numarası</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_email_title" translate="yes">
@@ -24562,7 +24562,7 @@
       </notes>
       <segment >
         <source>Email address as per Aadhaar</source>
-        <target>Aadhaar\'a göre e-posta adresi</target>
+        <target>Aadhaar\&apos;a göre e-posta adresi</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_dob_title" translate="yes">
@@ -24572,7 +24572,7 @@
       </notes>
       <segment >
         <source>Date of birth as per Aadhaar</source>
-        <target>Aadhaar\'a göre doğum tarihi</target>
+        <target>Aadhaar\&apos;a göre doğum tarihi</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_gender_title" translate="yes">
@@ -24582,7 +24582,7 @@
       </notes>
       <segment >
         <source>Gender as per Aadhaar</source>
-        <target>Aadhaar\'a göre cinsiyet</target>
+        <target>Aadhaar\&apos;a göre cinsiyet</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_state_title" translate="yes">
@@ -24592,7 +24592,7 @@
       </notes>
       <segment >
         <source>State as per Aadhaar</source>
-        <target>Aadhaar\'a göre Devlet</target>
+        <target>Aadhaar\&apos;a göre Devlet</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_details_photo_title" translate="yes">
@@ -24971,7 +24971,7 @@
       </notes>
       <segment >
         <source>When someone comments on a SmartCard I posted</source>
-        <target>Birisi paylaştığım SmartCard\'a yorum yaptığında</target>
+        <target>Birisi paylaştığım SmartCard\&apos;a yorum yaptığında</target>
       </segment>
     </unit>
     <unit id="common.common:when_i_am_mentioned_in_a_comment" translate="yes">
@@ -25061,7 +25061,7 @@
       </notes>
       <segment >
         <source>When a card posted to a channel is curated</source>
-        <target>Bir channel\'da paylaşılan kart seçki olarak sunulduğunda</target>
+        <target>Bir channel\&apos;da paylaşılan kart seçki olarak sunulduğunda</target>
       </segment>
     </unit>
     <unit id="common.common:when_a_card_posted_to_a_channel_is_skipped" translate="yes">
@@ -25071,7 +25071,7 @@
       </notes>
       <segment >
         <source>When a card posted to a channel is skipped</source>
-        <target>Bir channel\'da paylaşılan kart atlandığında</target>
+        <target>Bir channel\&apos;da paylaşılan kart atlandığında</target>
       </segment>
     </unit>
     <unit id="common.common:when_a_new_card_is_added_to_a_channel_for_curation" translate="yes">
@@ -25131,7 +25131,7 @@
       </notes>
       <segment >
         <source>To notify user when author of Live Event approves registration request</source>
-        <target>Canlı Etkinlik\'in sahibi kayıt isteğini onayladığında kullanıcıya haber vermek için</target>
+        <target>Canlı Etkinlik\&apos;in sahibi kayıt isteğini onayladığında kullanıcıya haber vermek için</target>
       </segment>
     </unit>
     <unit id="common.common:to_notify_user_when_author_of_live_event_rejects_registration_request" translate="yes">
@@ -25141,7 +25141,7 @@
       </notes>
       <segment >
         <source>To notify user when author of Live Event rejects registration request</source>
-        <target>Canlı Etkinlik\'in sahibi kayıt isteğini reddettiğinde kullanıcıya haber vermek için</target>
+        <target>Canlı Etkinlik\&apos;in sahibi kayıt isteğini reddettiğinde kullanıcıya haber vermek için</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_user_for_live_event_coming_up_in_1_day" translate="yes">
@@ -25151,7 +25151,7 @@
       </notes>
       <segment >
         <source>To remind user for Live Event coming up in 1 day</source>
-        <target>1 gün içinde gerçekleşecek Canlı Etkinlik\'i kullanıcıya anımsatmak için</target>
+        <target>1 gün içinde gerçekleşecek Canlı Etkinlik\&apos;i kullanıcıya anımsatmak için</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_user_for_live_event_coming_up_in_3_days" translate="yes">
@@ -25161,7 +25161,7 @@
       </notes>
       <segment >
         <source>To remind user for Live Event coming up in 3 days</source>
-        <target>3 gün içinde gerçekleşecek Canlı Etkinlik\'i kullanıcıya anımsatmak için</target>
+        <target>3 gün içinde gerçekleşecek Canlı Etkinlik\&apos;i kullanıcıya anımsatmak için</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_the_user_when_the_assignment_is_due" translate="yes">
@@ -25201,7 +25201,7 @@
       </notes>
       <segment >
         <source>When a new card is added to a channel</source>
-        <target>Yeni bir kart bir channel\'a eklendiğinde</target>
+        <target>Yeni bir kart bir channel\&apos;a eklendiğinde</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_admins_that_clc_will_expire_in_7_days" translate="yes">
@@ -25211,7 +25211,7 @@
       </notes>
       <segment >
         <source>To remind admins that CLC will expire in 7 days</source>
-        <target>SÖK\'ün süresinin 7 gün içinde dolacağını yöneticilere anımsatmak için</target>
+        <target>SÖK\&apos;ün süresinin 7 gün içinde dolacağını yöneticilere anımsatmak için</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_admins_that_clc_will_expire_in_30_days" translate="yes">
@@ -25221,7 +25221,7 @@
       </notes>
       <segment >
         <source>To remind admins that CLC will expire in 30 days</source>
-        <target>SÖK\'ün süresinin 30 gün içinde dolacağını yöneticilere anımsatmak için</target>
+        <target>SÖK\&apos;ün süresinin 30 gün içinde dolacağını yöneticilere anımsatmak için</target>
       </segment>
     </unit>
     <unit id="common.common:weekly_trending_content_suggestions_to_the_user" translate="yes">
@@ -25291,7 +25291,7 @@
       </notes>
       <segment >
         <source>When a Credential is added to Skills Passport through Skills API</source>
-        <target>Skills API aracılığıyla Skills Passport\'a bir Kimlik Bilgisi eklendiğinde</target>
+        <target>Skills API aracılığıyla Skills Passport\&apos;a bir Kimlik Bilgisi eklendiğinde</target>
       </segment>
     </unit>
     <unit id="common.common:daily" translate="yes">
@@ -25906,8 +25906,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26106,7 +26106,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Görünüş cihazın sistem ayarlarına bağlı olacaktır</target>
       </segment>
     </unit>
@@ -26663,7 +26663,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Lütfen işvereninizin adını girin</target>
       </segment>
     </unit>
@@ -26734,7 +26734,7 @@
       </notes>
       <segment >
         <source>jpeg, png and pdf upto 2 MB</source>
-        <target>2 MB\'ye kadar jpeg, png ve pdf </target>
+        <target>2 MB\&apos;ye kadar jpeg, png ve pdf </target>
       </segment>
     </unit>
     <unit id="common.common:fsp_terms_and_conditions" translate="no">
@@ -26923,7 +26923,7 @@
       </notes>
       <segment >
         <source>Image/Pdf size should not be more than 2 MB</source>
-        <target>Resim/Pdf boyutu 2 MB\'den fazla olmamalıdır</target>
+        <target>Resim/Pdf boyutu 2 MB\&apos;den fazla olmamalıdır</target>
       </segment>
     </unit>
     <unit id="common.common:only_image_pdf_message" translate="yes">
@@ -26972,7 +26972,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Baba Adı *</target>
       </segment>
     </unit>
@@ -26982,7 +26982,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Anne Adı *</target>
       </segment>
     </unit>
@@ -27293,7 +27293,7 @@
       </notes>
       <segment >
         <source>Step 4: Apply for Govt. Of India Incentive through your learner ledger from September 4 onwards.</source>
-        <target>4. Adım: 4 Eylül\'den itibaren öğrenci defterinizden Hindistan Hükûmeti Teşviği için başvurun.</target>
+        <target>4. Adım: 4 Eylül\&apos;den itibaren öğrenci defterinizden Hindistan Hükûmeti Teşviği için başvurun.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_desc_5" translate="yes">
@@ -27543,7 +27543,7 @@
       </notes>
       <segment >
         <source>**You can avail up to INR 600.00 GOI Incentive for Assessments under each of the 4 categories.</source>
-        <target>**4 kategorinin her biri altındaki Değerlendirmeler için 600,00\'e varan Hindistan rupisi değerinde GOI Teşvikinden faydalanabilirsiniz.</target>
+        <target>**4 kategorinin her biri altındaki Değerlendirmeler için 600,00\&apos;e varan Hindistan rupisi değerinde GOI Teşvikinden faydalanabilirsiniz.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_terms_3" translate="yes">
@@ -27752,7 +27752,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Lütfen geçerli bir baba adı girin</target>
       </segment>
     </unit>
@@ -27762,7 +27762,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Lütfen geçerli bir anne adı girin</target>
       </segment>
     </unit>
@@ -28072,7 +28072,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Beceri pasaportunuza hâlâ bir şey eklemediniz</target>
       </segment>
     </unit>
@@ -28373,7 +28373,7 @@
       </notes>
       <segment >
         <source>Badge URL *</source>
-        <target>Rozet URL\'si*</target>
+        <target>Rozet URL\&apos;si*</target>
       </segment>
     </unit>
     <unit id="common.common:sp_issue_date_label" translate="yes">
@@ -28422,7 +28422,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Lütfen rozet düzenleyicisinin adını girin</target>
       </segment>
     </unit>
@@ -28443,7 +28443,7 @@
       </notes>
       <segment >
         <source>Please enter a valid Badge URL</source>
-        <target>Lütfen geçerli bir Rozet URL\'si girin</target>
+        <target>Lütfen geçerli bir Rozet URL\&apos;si girin</target>
       </segment>
     </unit>
     <unit id="common.common:sp_associated_skill_label" translate="yes">
@@ -28473,7 +28473,7 @@
       </notes>
       <segment >
         <source>Enter Badge URL</source>
-        <target>Rozet URL\'sini girin</target>
+        <target>Rozet URL\&apos;sini girin</target>
       </segment>
     </unit>
     <unit id="common.common:skill_list_empty_msg" translate="yes">
@@ -28553,7 +28553,7 @@
       </notes>
       <segment >
         <source>Certificate URL *</source>
-        <target>Sertifika URL\'si*</target>
+        <target>Sertifika URL\&apos;si*</target>
       </segment>
     </unit>
     <unit id="common.common:sp_credential_id_label" translate="yes">
@@ -28573,7 +28573,7 @@
       </notes>
       <segment >
         <source>Enter Certificate URL</source>
-        <target>Sertifika URL\'sini girin</target>
+        <target>Sertifika URL\&apos;sini girin</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certification_name_label" translate="yes">
@@ -28612,7 +28612,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>Lütfen Sertifika düzenleyicinin adını girin</target>
       </segment>
     </unit>
@@ -28633,7 +28633,7 @@
       </notes>
       <segment >
         <source>Please enter a valid Certificate URL</source>
-        <target>Lütfen geçerli bir Sertifika URL\'si girin</target>
+        <target>Lütfen geçerli bir Sertifika URL\&apos;si girin</target>
       </segment>
     </unit>
     <unit id="common.common:sp_view_journey_label" translate="yes">
@@ -28643,7 +28643,7 @@
       </notes>
       <segment >
         <source>View Journey</source>
-        <target>Journey\'yi Görüntüle</target>
+        <target>Journey\&apos;yi Görüntüle</target>
       </segment>
     </unit>
     <unit id="common.common:sp_view_pathway_label" translate="yes">
@@ -28653,7 +28653,7 @@
       </notes>
       <segment >
         <source>View Pathway</source>
-        <target>Pathway\'i Görüntüle</target>
+        <target>Pathway\&apos;i Görüntüle</target>
       </segment>
     </unit>
     <unit id="common.common:sp_view_clc_label" translate="yes">
@@ -28713,7 +28713,7 @@
       </notes>
       <segment >
         <source>Assessment URL *</source>
-        <target>Değerlendirme URL\'si*</target>
+        <target>Değerlendirme URL\&apos;si*</target>
       </segment>
     </unit>
     <unit id="common.common:sp_assessment_name_label" translate="yes">
@@ -28742,7 +28742,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Lütfen Değerlendirme düzenleyicinin adını girin</target>
       </segment>
     </unit>
@@ -28753,7 +28753,7 @@
       </notes>
       <segment >
         <source>Please enter a valid Report URL</source>
-        <target>Lütfen geçerli bir Rapor URL\'si girin</target>
+        <target>Lütfen geçerli bir Rapor URL\&apos;si girin</target>
       </segment>
     </unit>
     <unit id="common.common:sp_assessment_description_label" translate="yes">
@@ -28773,7 +28773,7 @@
       </notes>
       <segment >
         <source>Enter Assessment URL</source>
-        <target>Sertifika URL\'si*</target>
+        <target>Sertifika URL\&apos;si*</target>
       </segment>
     </unit>
     <unit id="common.common:sp_assessment_score_value_label" translate="yes">
@@ -29223,7 +29223,7 @@
       </notes>
       <segment >
         <source>Click on the Link to Copy when ready for sharing.</source>
-        <target>Paylaşılmaya hazır olduğunda Kopyalanacak Bağlantı\'ya tıklayın.</target>
+        <target>Paylaşılmaya hazır olduğunda Kopyalanacak Bağlantı\&apos;ya tıklayın.</target>
       </segment>
     </unit>
     <unit id="common.common:uploading_zip_file_failed" translate="yes">
@@ -29302,7 +29302,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Güvenliğiniz için uygulamadaki oturumunuzu kapatıyoruz. Uygulamayı kullanmaya devam etmek için bir ekran kilidi ayarlamanız gerekiyor.</target>
       </segment>
     </unit>
@@ -29333,7 +29333,7 @@
       </notes>
       <segment >
         <source>Enter some string to search smartcards</source>
-        <target>SmartCard\'ları aratmak için birkaç dize girin</target>
+        <target>SmartCard\&apos;ları aratmak için birkaç dize girin</target>
       </segment>
     </unit>
     <unit id="common.common:enter_few_keywords_to_search_empty_msg" translate="no">
@@ -29362,7 +29362,7 @@
       </notes>
       <segment >
         <source>Will be used to identify your SmartCard</source>
-        <target>SmartCard\'ınızı tanımlamak için kullanılacaktır</target>
+        <target>SmartCard\&apos;ınızı tanımlamak için kullanılacaktır</target>
       </segment>
     </unit>
     <unit id="common.common:please_provide_the_contents_for_your_smartcard" translate="yes">
@@ -29372,7 +29372,7 @@
       </notes>
       <segment >
         <source>Please provide the contents for your SmartCard</source>
-        <target>Lütfen SmartCard\'ınızın içeriklerini sunun</target>
+        <target>Lütfen SmartCard\&apos;ınızın içeriklerini sunun</target>
       </segment>
     </unit>
     <unit id="common.common:level_label" translate="yes">
@@ -29422,7 +29422,7 @@
       </notes>
       <segment >
         <source>Select the Groups, Channels, or Users you wish to share this SmartCard with</source>
-        <target>Bu SmartCard\'ı paylaşmak istediğiniz grupları, kanalları veya kullanıcıları seçin</target>
+        <target>Bu SmartCard\&apos;ı paylaşmak istediğiniz grupları, kanalları veya kullanıcıları seçin</target>
       </segment>
     </unit>
     <unit id="common.common:privacy_setting_label" translate="yes">
@@ -29462,7 +29462,7 @@
       </notes>
       <segment >
         <source>This name will be displayed in the SmartCard instead of yours</source>
-        <target>SmartCard\'da kendi adınızın yerine bu ad gösterilir</target>
+        <target>SmartCard\&apos;da kendi adınızın yerine bu ad gösterilir</target>
       </segment>
     </unit>
     <unit id="common.common:provider_logo" translate="yes">
@@ -29482,7 +29482,7 @@
       </notes>
       <segment >
         <source>This logo will be displayed in the SmartCard instead of your profile picture</source>
-        <target>SmartCard\'da kendi profil resminizin yerine bu logo gösterilir</target>
+        <target>SmartCard\&apos;da kendi profil resminizin yerine bu logo gösterilir</target>
       </segment>
     </unit>
     <unit id="common.common:tag_error_msg" translate="yes">
@@ -29542,7 +29542,7 @@
       </notes>
       <segment >
         <source>Will be used to identitfy your SmartCard</source>
-        <target>SmartCard\'ınızı tespit etmek için kullanılır</target>
+        <target>SmartCard\&apos;ınızı tespit etmek için kullanılır</target>
       </segment>
     </unit>
     <unit id="common.common:live_event_title_count_label" translate="yes">
@@ -29732,7 +29732,7 @@
       </notes>
       <segment >
         <source>Complete all the previous content to unlock this <b>SmartCard</b></source>
-        <target>Bu <b>SmartCard</b>\'ın kilidini açmak için önceki tüm içerikleri tamamlayın</target>
+        <target>Bu <b>SmartCard</b>\&apos;ın kilidini açmak için önceki tüm içerikleri tamamlayın</target>
       </segment>
     </unit>
     <unit id="common.common:msal_scheme" translate="no">
@@ -29858,7 +29858,7 @@
       </notes>
       <segment >
         <source>List shows only public pathways/journeys while the count includes both public and private assets</source>
-        <target>Sayı hem herkese açık hem özel varlıkları içerirken liste yalnızca herkese açık pathway\'leri/journey\'leri gösterir</target>
+        <target>Sayı hem herkese açık hem özel varlıkları içerirken liste yalnızca herkese açık pathway\&apos;leri/journey\&apos;leri gösterir</target>
       </segment>
     </unit>
     <unit id="common.common:completion" translate="yes">
@@ -30088,7 +30088,7 @@
       </notes>
       <segment >
         <source>Dynamic Pathway adds random smartcards automatically to this pathway using a specific topic of your choice</source>
-        <target>Dinamik Pathway, seçtiğiniz belirli bir konuyu kullanarak bu pathway\'e rastgele smartcard\'lar ekler</target>
+        <target>Dinamik Pathway, seçtiğiniz belirli bir konuyu kullanarak bu pathway\&apos;e rastgele smartcard\&apos;lar ekler</target>
       </segment>
     </unit>
     <unit id="common.common:dynamic_screen_enter_topic" translate="yes">
@@ -30138,7 +30138,7 @@
       </notes>
       <segment >
         <source>Will be used to identify your SmartCard</source>
-        <target>SmartCard\'ınızı tespit etmek için kullanılır</target>
+        <target>SmartCard\&apos;ınızı tespit etmek için kullanılır</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_description_hint_label" translate="yes">
@@ -30158,7 +30158,7 @@
       </notes>
       <segment >
         <source>Please provide the contents for your SmartCard</source>
-        <target>Lütfen SmartCard\'ınızın içeriklerini sunun</target>
+        <target>Lütfen SmartCard\&apos;ınızın içeriklerini sunun</target>
       </segment>
     </unit>
     <unit id="common.common:mark_as_complete_description" translate="yes">
@@ -30178,7 +30178,7 @@
       </notes>
       <segment >
         <source>Upon completing this pathway the assignee will get a badge</source>
-        <target>Bu pathway\'i tamamladıktan sonra atanan kişi bir rozet alacak</target>
+        <target>Bu pathway\&apos;i tamamladıktan sonra atanan kişi bir rozet alacak</target>
       </segment>
     </unit>
     <unit id="common.common:badge_unlock_after_quiz" translate="yes">
@@ -30288,7 +30288,7 @@
       </notes>
       <segment >
         <source>SmartCards will be displayed here when you add them.</source>
-        <target>SmartCard\'lar eklediğinizde burada gösterilir.</target>
+        <target>SmartCard\&apos;lar eklediğinizde burada gösterilir.</target>
       </segment>
     </unit>
     <unit id="common.common:total_smartcards_selected_text" translate="yes">
@@ -30298,7 +30298,7 @@
       </notes>
       <segment >
         <source>SmartCards selected: %s</source>
-        <target>Seçilen SmartCard\'lar: %s</target>
+        <target>Seçilen SmartCard\&apos;lar: %s</target>
       </segment>
     </unit>
     <unit id="common.common:link_card_careation_error_msg" translate="yes">
@@ -30308,7 +30308,7 @@
       </notes>
       <segment >
         <source>The link you\’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</source>
-        <target>Girdiğiniz bağlantı zaten var olan bir SmartCard ile ilişkilendirildi. Yinelenen bağlantılara sahip SmartCard\'lara, yöneticinizin yapılandırması uyarınca izin verilmemektedir. Lütfen başka bir URL deneyin</target>
+        <target>Girdiğiniz bağlantı zaten var olan bir SmartCard ile ilişkilendirildi. Yinelenen bağlantılara sahip SmartCard\&apos;lara, yöneticinizin yapılandırması uyarınca izin verilmemektedir. Lütfen başka bir URL deneyin</target>
       </segment>
     </unit>
     <unit id="common.common:enter_the_link_url_address" translate="yes">
@@ -30318,7 +30318,7 @@
       </notes>
       <segment >
         <source>Enter the link url (url address)</source>
-        <target>Link url\'sini girin (url adresi)</target>
+        <target>Link url\&apos;sini girin (url adresi)</target>
       </segment>
     </unit>
     <unit id="common.common:link_url_title_validation_label" translate="yes">
@@ -30496,7 +30496,7 @@
       </notes>
       <segment >
         <source>Collaborators can help you make changes to the Pathway</source>
-        <target>Ortak Çalışanlar Pathway\'de değişiklikler yapmanıza yardımcı olabilir</target>
+        <target>Ortak Çalışanlar Pathway\&apos;de değişiklikler yapmanıza yardımcı olabilir</target>
       </segment>
     </unit>
     <unit id="common.common:event_label" translate="yes">
@@ -30706,7 +30706,7 @@
       </notes>
       <segment >
         <source>When your team promoters promote smartCards, they will show up here!</source>
-        <target>Takım tanıtıcılarınız, SmartCard\'ları tanıttığında burada gösterilecek!</target>
+        <target>Takım tanıtıcılarınız, SmartCard\&apos;ları tanıttığında burada gösterilecek!</target>
       </segment>
     </unit>
     <unit id="common.common:assign_no_content_description_label" translate="yes">
@@ -30785,7 +30785,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Görünüşe bakılırsa seçmiş olduğunuz Öğrenimler için başka öneriniz tok. Profilinizde Öğrenim Hedeflerinizi güncellemekten çekinmeyin.</target>
       </segment>
     </unit>
@@ -30805,7 +30805,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>Başlık boş olamaz</target>
       </segment>
     </unit>
@@ -30916,7 +30916,7 @@
       </notes>
       <segment >
         <source>Please read and agree to the General Terms and Conditions*</source>
-        <target>Lütfen Genel Hükümler ve Koşullar\'ı okuyun ve kabul edin*</target>
+        <target>Lütfen Genel Hükümler ve Koşullar\&apos;ı okuyun ve kabul edin*</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_gtc_alert_body" translate="yes">
@@ -30935,7 +30935,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
         <target>%s adlı kişiye ait %s ögesini siliyorsunuz. İlişkili tüm istatistikler ve yorumlar kalıcı olarak kaldırılacak.</target>
       </segment>
     </unit>
@@ -31156,7 +31156,7 @@
       </notes>
       <segment >
         <source>Only 2048 characters are supported in URL</source>
-        <target>URL\'de yalnızca 2048 karakter destekleniyor</target>
+        <target>URL\&apos;de yalnızca 2048 karakter destekleniyor</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_complete_message" translate="yes">
@@ -31166,7 +31166,7 @@
       </notes>
       <segment >
         <source>Mark Pathway as Complete</source>
-        <target>Pathway\'i Tamamlandı olarak işaretle</target>
+        <target>Pathway\&apos;i Tamamlandı olarak işaretle</target>
       </segment>
     </unit>
     <unit id="common.common:journey_complete_message" translate="yes">
@@ -31176,7 +31176,7 @@
       </notes>
       <segment >
         <source>Mark Journey as Complete</source>
-        <target>Journey\'i Tamamlandı olarak işaretle</target>
+        <target>Journey\&apos;i Tamamlandı olarak işaretle</target>
       </segment>
     </unit>
     <unit id="common.common:include_message_placeholder_label" translate="yes">
@@ -32465,7 +32465,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Bu kanalın konularını belirtin. Bunlar kanalın başlığında görüntülenir.</target>
       </segment>
     </unit>
@@ -32586,7 +32586,7 @@
       </notes>
       <segment >
         <source>Channel Widgets</source>
-        <target>Kanal Widget\'ları</target>
+        <target>Kanal Widget\&apos;ları</target>
       </segment>
     </unit>
     <unit id="common.common:widgets_label" translate="yes">
@@ -32606,7 +32606,7 @@
       </notes>
       <segment >
         <source>Banner Widget</source>
-        <target>Başlık Sayfası Widget\'ı</target>
+        <target>Başlık Sayfası Widget\&apos;ı</target>
       </segment>
     </unit>
     <unit id="common.common:enable_the_banner_widget_label" translate="yes">
@@ -32616,7 +32616,7 @@
       </notes>
       <segment >
         <source>Enable the Banner Widget</source>
-        <target>Başlık Sayfası Widget\'ını Etkinleştir</target>
+        <target>Başlık Sayfası Widget\&apos;ını Etkinleştir</target>
       </segment>
     </unit>
     <unit id="common.common:banner_widget_content_label" translate="yes">
@@ -32636,7 +32636,7 @@
       </notes>
       <segment >
         <source>Enter the contents of your banner widget</source>
-        <target>Başlık sayfası widget\'ınızın içeriğini girin</target>
+        <target>Başlık sayfası widget\&apos;ınızın içeriğini girin</target>
       </segment>
     </unit>
     <unit id="common.common:enable_the_banner_widget_sub_title_label" translate="yes">
@@ -32645,7 +32645,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>Kanal başlığı ile kanal içeriği arasında kullanılmak üzere tamamen özelleştirilebilir bir widget kullanabilirsiniz</target>
       </segment>
     </unit>
@@ -33674,7 +33674,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Grubunuzun kartlarında gösterilir.</target>
       </segment>
     </unit>
@@ -34314,7 +34314,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
+        <source>Summary of %s\&apos;s Activity</source>
         <target>%s Adlı Kullanıcının Etkinlik Özeti</target>
       </segment>
     </unit>
@@ -34475,7 +34475,7 @@
       </notes>
       <segment >
         <source>Tell others what you are good at.\nThis will appear on your Skills Passport</source>
-        <target>Başkalarına hangi konuda iyi olduğunuzu anlatın.\nBu, Skill Passport\'unuzda görünür</target>
+        <target>Başkalarına hangi konuda iyi olduğunuzu anlatın.\nBu, Skill Passport\&apos;unuzda görünür</target>
       </segment>
     </unit>
     <unit id="common.common:dob_hint" translate="yes">
@@ -34564,7 +34564,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Haydi Başlayalım</target>
       </segment>
     </unit>
@@ -34594,7 +34594,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Ücretli içerik seçilmişse boş bırakılamaz</target>
       </segment>
     </unit>
@@ -34825,7 +34825,7 @@
       </notes>
       <segment >
         <source>1) Login to your account on web.</source>
-        <target>1) Web\'de hesabınıza giriş yapın.</target>
+        <target>1) Web\&apos;de hesabınıza giriş yapın.</target>
       </segment>
     </unit>
     <unit id="common.common:multiFactor_authentication_step_2_label" translate="yes">
@@ -34845,7 +34845,7 @@
       </notes>
       <segment >
         <source>3) Revisit the app for improved security and a better experience once you finish setting up your MFA.</source>
-        <target>3) MFA\'nızı kurmayı bitirdikten sonra gelişmiş güvenlik ve daha iyi bir deneyim için uygulamayı tekrar ziyaret edin.</target>
+        <target>3) MFA\&apos;nızı kurmayı bitirdikten sonra gelişmiş güvenlik ve daha iyi bir deneyim için uygulamayı tekrar ziyaret edin.</target>
       </segment>
     </unit>
     <unit id="common.common:multiFactor_authentication_step_4_label" translate="yes">
@@ -34855,7 +34855,7 @@
       </notes>
       <segment >
         <source>Your security is important to us, thank you for taking the time to set up MFA.</source>
-        <target>Güvenliğiniz bizim için önemlidir, MFA\'yı kurmaya zaman ayırdığınız için teşekkür ederiz.</target>
+        <target>Güvenliğiniz bizim için önemlidir, MFA\&apos;yı kurmaya zaman ayırdığınız için teşekkür ederiz.</target>
       </segment>
     </unit>
     <unit id="common.common:setup_is_completed_label" translate="yes">
@@ -35084,8 +35084,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>İlginizi çeken grupları burada görmek için \'Keşfet\' sayfasında bu gruplara katılın. Hemen keşfetmeye başlayın!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>İlginizi çeken grupları burada görmek için \&apos;Keşfet\&apos; sayfasında bu gruplara katılın. Hemen keşfetmeye başlayın!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35094,8 +35094,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>İlginizi çeken kanalları burada görmek için \'Keşfet\' sayfasında bu kanalları takip edin. Hemen keşfetmeye başlayın!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>İlginizi çeken kanalları burada görmek için \&apos;Keşfet\&apos; sayfasında bu kanalları takip edin. Hemen keşfetmeye başlayın!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="no">
@@ -35270,7 +35270,7 @@
       </notes>
       <segment >
         <source>Collaborators can help you make changes to the SmartCard</source>
-        <target>Ortak Çalışanlar SmartCard\'ta değişiklikler yapmanıza yardımcı olabilir</target>
+        <target>Ortak Çalışanlar SmartCard\&apos;ta değişiklikler yapmanıza yardımcı olabilir</target>
       </segment>
     </unit>
     <unit id="common.common:no_results_found_label" translate="yes">
@@ -35493,8 +35493,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35718,8 +35718,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35826,8 +35826,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35871,8 +35871,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36446,8 +36446,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36977,8 +36977,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37051,8 +37051,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37106,8 +37106,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37322,8 +37322,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">
