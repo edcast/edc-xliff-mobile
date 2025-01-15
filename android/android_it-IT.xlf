@@ -575,7 +575,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>Non abbiamo trovato alcun utente relativo a</target>
       </segment>
     </unit>
@@ -635,8 +635,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Non hai alcuna assegnazione \'Non avviata\'</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Non hai alcuna assegnazione \&apos;Non avviata\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -645,8 +645,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Non hai alcuna assegnazione \'In corso\'</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Non hai alcuna assegnazione \&apos;In corso\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -655,8 +655,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Non hai alcuna assegnazione \'Completata\' Assegnazioni</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Non hai alcuna assegnazione \&apos;Completata\&apos; Assegnazioni</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -803,7 +803,7 @@
       </notes>
       <segment >
         <source>There was an application error</source>
-        <target>Si è verificato un errore dell\'applicazione</target>
+        <target>Si è verificato un errore dell\&apos;applicazione</target>
       </segment>
     </unit>
     <unit id="common.common:exception_message_no_connection" translate="yes">
@@ -893,7 +893,7 @@
       </notes>
       <segment >
         <source>Your sign up invitation has expired. Please sign up again</source>
-        <target>L\'invito all\'iscrizione è scaduto. Iscriversi di nuovo</target>
+        <target>L\&apos;invito all\&apos;iscrizione è scaduto. Iscriversi di nuovo</target>
       </segment>
     </unit>
     <unit id="common.common:exception_message_no_connection_try_later" translate="yes">
@@ -933,7 +933,7 @@
       </notes>
       <segment >
         <source>For your security, we have to restrict user actions for network connections. \nPlease contact your administrator to fix this security problem.</source>
-        <target>Per la tua sicurezza, dobbiamo limitare le azioni dell\'utente per le connessioni di rete. \ nSi prega di contattare l\'amministratore per risolvere questo problema di sicurezza.</target>
+        <target>Per la tua sicurezza, dobbiamo limitare le azioni dell\&apos;utente per le connessioni di rete. \ nSi prega di contattare l\&apos;amministratore per risolvere questo problema di sicurezza.</target>
       </segment>
     </unit>
     <unit id="common.common:launcher_btnText_signup" translate="yes">
@@ -1012,7 +1012,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Ci sei quasi</target>
       </segment>
     </unit>
@@ -1053,7 +1053,7 @@
       </notes>
       <segment >
         <source>Sign In with Email</source>
-        <target>Accedi con l\'e-mail</target>
+        <target>Accedi con l\&apos;e-mail</target>
       </segment>
     </unit>
     <unit id="common.common:login_btnText_signin_facebook" translate="yes">
@@ -1203,7 +1203,7 @@
       </notes>
       <segment >
         <source>Someone has already logged in with this organization. Please login with different organization</source>
-        <target>Qualcuno ha già eseguito l\'accesso con questa organizzazione. Accedere con un\'organizzazione diversa</target>
+        <target>Qualcuno ha già eseguito l\&apos;accesso con questa organizzazione. Accedere con un\&apos;organizzazione diversa</target>
       </segment>
     </unit>
     <unit id="common.common:login_message_error1" translate="yes">
@@ -1443,7 +1443,7 @@
       </notes>
       <segment >
         <source>Google Authentication may not work on Environment Switching</source>
-        <target>L\'autenticazione di Google potrebbe non funzionare su Environment Switching</target>
+        <target>L\&apos;autenticazione di Google potrebbe non funzionare su Environment Switching</target>
       </segment>
     </unit>
     <unit id="common.common:reset_password_links_msg" translate="yes">
@@ -1472,7 +1472,7 @@
       </notes>
       <segment >
         <source>Your Account has been Suspended</source>
-        <target>L\'account è stato sospeso</target>
+        <target>L\&apos;account è stato sospeso</target>
       </segment>
     </unit>
     <unit id="common.common:user_suspended_default_message" translate="yes">
@@ -1482,7 +1482,7 @@
       </notes>
       <segment >
         <source>Your team administrator has suspended your account. You will no longer have access to content in this organization.</source>
-        <target>L\'amministratore del team ha sospeso il tuo account. Non avrai più accesso ai contenuti di questa organizzazione.</target>
+        <target>L\&apos;amministratore del team ha sospeso il tuo account. Non avrai più accesso ai contenuti di questa organizzazione.</target>
       </segment>
     </unit>
     <unit id="common.common:user_suspended_message" translate="yes">
@@ -1492,7 +1492,7 @@
       </notes>
       <segment >
         <source>Your team administrator has suspended your account for team . You will no longer have access to content in team "%s".</source>
-        <target>L\'amministratore del team ha sospeso il tuo account per il team. Non avrai più accesso ai contenuti nel team %s.</target>
+        <target>L\&apos;amministratore del team ha sospeso il tuo account per il team. Non avrai più accesso ai contenuti nel team %s.</target>
       </segment>
     </unit>
     <unit id="common.common:session_expired_title" translate="yes">
@@ -1596,7 +1596,7 @@
       </notes>
       <segment >
         <source>Your email address for organization</source>
-        <target>Il tuo indirizzo e-mail dell\'organizzazione</target>
+        <target>Il tuo indirizzo e-mail dell\&apos;organizzazione</target>
       </segment>
     </unit>
     <unit id="common.common:signup_message_socialauth_signup_homescreen_org_name" translate="yes">
@@ -1726,7 +1726,7 @@
       </notes>
       <segment >
         <source>Oops! Could not send email. Please try again later</source>
-        <target>Oops! Impossibile inviare l\'e-mail. Riprovare più tardi.</target>
+        <target>Oops! Impossibile inviare l\&apos;e-mail. Riprovare più tardi.</target>
       </segment>
     </unit>
     <unit id="common.common:signup_email_team_hint" translate="yes">
@@ -1756,7 +1756,7 @@
       </notes>
       <segment >
         <source>This is the address you use to sign in to Learning Experience</source>
-        <target>Questo è l\'indirizzo che utilizzi per accedere a EdCast</target>
+        <target>Questo è l\&apos;indirizzo che utilizzi per accedere a EdCast</target>
       </segment>
     </unit>
     <unit id="common.common:signup_with_email_auth_confirm_msg" translate="yes">
@@ -1766,7 +1766,7 @@
       </notes>
       <segment >
         <source>If we found an account or invite associated with %s, you will receive an email</source>
-        <target>Se abbiamo trovato un account o un invito associato a %s, riceverai un\'e-mail</target>
+        <target>Se abbiamo trovato un account o un invito associato a %s, riceverai un\&apos;e-mail</target>
       </segment>
     </unit>
     <unit id="common.common:of_label" translate="yes">
@@ -1816,7 +1816,7 @@
       </notes>
       <segment >
         <source>Please check your inbox on your Android device. \nTap on the link to confirm your account.</source>
-        <target>Controlla la posta in arrivo sul tuo dispositivo Android. \nTocca il collegamento per confermare l\'account. </target>
+        <target>Controlla la posta in arrivo sul tuo dispositivo Android. \nTocca il collegamento per confermare l\&apos;account. </target>
       </segment>
     </unit>
     <unit id="common.common:signup_edittext_signup_user_info_first_name_hint" translate="yes">
@@ -2096,7 +2096,7 @@
       </notes>
       <segment >
         <source>Let Learning Experience always run in background?</source>
-        <target>Lasciare sempre l\'esecuzione di EdCast in background?</target>
+        <target>Lasciare sempre l\&apos;esecuzione di EdCast in background?</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_message" translate="yes">
@@ -2105,8 +2105,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
-        <target>Aggiungi EdCast per non ottimizzare l\'elenco delle batterie per ricevere tutte le notifiche importanti da EdCast.</target>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <target>Aggiungi EdCast per non ottimizzare l\&apos;elenco delle batterie per ricevere tutte le notifiche importanti da EdCast.</target>
       </segment>
     </unit>
     <unit id="common.common:dialog_battery_optimisation_positive" translate="yes">
@@ -2136,7 +2136,7 @@
       </notes>
       <segment >
         <source>You wont be able to receive important notification. Please disable battery optimisation.</source>
-        <target>Non potrai ricevere notifiche importanti. Disabilitare l\'ottimizzazione della batteria. </target>
+        <target>Non potrai ricevere notifiche importanti. Disabilitare l\&apos;ottimizzazione della batteria. </target>
       </segment>
     </unit>
     <unit id="common.common:home_tab_title_elevator_pitch" translate="yes">
@@ -2216,7 +2216,7 @@
       </notes>
       <segment >
         <source>Coach Ed - Learning assistant</source>
-        <target>Coach Ed - Assistente all\'apprendimento</target>
+        <target>Coach Ed - Assistente all\&apos;apprendimento</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_learning_msg" translate="yes">
@@ -2226,7 +2226,7 @@
       </notes>
       <segment >
         <source>The virtual learning assistant from Learning Experience</source>
-        <target>L\'assistente all\'apprendimento virtuale di EdCast</target>
+        <target>L\&apos;assistente all\&apos;apprendimento virtuale di EdCast</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_no_message" translate="yes">
@@ -2236,7 +2236,7 @@
       </notes>
       <segment >
         <source>You do not have any Learning Content from Coach Alex Learning assistant.</source>
-        <target>Non hai alcun contenuto di apprendimento dell\'assistente di apprendimento Alex Coach.</target>
+        <target>Non hai alcun contenuto di apprendimento dell\&apos;assistente di apprendimento Alex Coach.</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_post_empty_message" translate="yes">
@@ -2276,7 +2276,7 @@
       </notes>
       <segment >
         <source>Hello %s, my name is Alex, and I am your learning assistant from Learning Experience. I am here to help you get into a habit of learning daily. Lets get started shall we?</source>
-        <target>Ciao %s, mi chiamo Alex e sono il tuo assistente di apprendimento di EdCast. Sono qui per aiutarti a prendere l\'abitudine di imparare ogni giorno. Iniziamo?</target>
+        <target>Ciao %s, mi chiamo Alex e sono il tuo assistente di apprendimento di EdCast. Sono qui per aiutarti a prendere l\&apos;abitudine di imparare ogni giorno. Iniziamo?</target>
       </segment>
     </unit>
     <unit id="common.common:edbot_interest_question" translate="yes">
@@ -2295,7 +2295,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Scusa %s. Non capisco cosa vuoi dire. Puoi provare a chiedere di nuovo?</target>
       </segment>
     </unit>
@@ -2415,7 +2415,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Non hai un account?</target>
       </segment>
     </unit>
@@ -2744,8 +2744,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Nessun risultato di ricerca per \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Nessun risultato di ricerca per \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2774,8 +2774,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>Ricerca di \'%s\'</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>Ricerca di \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2794,8 +2794,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Di\' agli altri in cosa sei bravo. Questo apparirà sul tuo profilo e ci aiuterà a consigliarti come \'Esperto in materia\'</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Di\&apos; agli altri in cosa sei bravo. Questo apparirà sul tuo profilo e ci aiuterà a consigliarti come \&apos;Esperto in materia\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -3054,7 +3054,7 @@
       </notes>
       <segment >
         <source>Current Employment Details*</source>
-        <target>Dettagli sull\'occupazione corrente*</target>
+        <target>Dettagli sull\&apos;occupazione corrente*</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_past_employment" translate="yes">
@@ -3064,7 +3064,7 @@
       </notes>
       <segment >
         <source>Past Employment Details*</source>
-        <target>Dettagli sull\'occupazione passata*</target>
+        <target>Dettagli sull\&apos;occupazione passata*</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_education_details" translate="yes">
@@ -3074,7 +3074,7 @@
       </notes>
       <segment >
         <source>Education Details*</source>
-        <target>Dettagli sull\'istruzione*</target>
+        <target>Dettagli sull\&apos;istruzione*</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_select_most_appropriate" translate="yes">
@@ -3084,7 +3084,7 @@
       </notes>
       <segment >
         <source>Select the option most appropriate for you*</source>
-        <target>Seleziona l\'opzione più adatta a te *</target>
+        <target>Seleziona l\&apos;opzione più adatta a te *</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_select" translate="yes">
@@ -3124,7 +3124,7 @@
       </notes>
       <segment >
         <source>Please select if you have been offered employment but are yet to take up a job OR are undergoing/selected for Internship &amp; Apprenticeship roles in IT or IT enabled services</source>
-        <target>Seleziona se ti è stato offerto un impiego ma devi ancora accettare un lavoro OPPURE sei in corso / selezionato per Stage &amp; Ruoli di apprendistato in IT o servizi abilitati per l\'IT</target>
+        <target>Seleziona se ti è stato offerto un impiego ma devi ancora accettare un lavoro OPPURE sei in corso / selezionato per Stage &amp; Ruoli di apprendistato in IT o servizi abilitati per l\&apos;IT</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_verify" translate="yes">
@@ -3154,7 +3154,7 @@
       </notes>
       <segment >
         <source>A 4 digit OTP has been sent to your mobile number. Please enter the code below to verify your number. The OTP will be valid for 5 minutes.</source>
-        <target>Una OTP a 4 cifre è stata inviata al tuo numero di cellulare. Inserisci il codice qui sotto per verificare il tuo numero. L\'OTP sarà valido per 5 minuti.</target>
+        <target>Una OTP a 4 cifre è stata inviata al tuo numero di cellulare. Inserisci il codice qui sotto per verificare il tuo numero. L\&apos;OTP sarà valido per 5 minuti.</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_otp_timer_label" translate="yes">
@@ -3184,7 +3184,7 @@
       </notes>
       <segment >
         <source>The OTP entered is incorrect.\n Please try again.</source>
-        <target>L\'OTP immesso non è corretto. Per favore riprova.</target>
+        <target>L\&apos;OTP immesso non è corretto. Per favore riprova.</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_details_otp_timer" translate="no">
@@ -3203,7 +3203,7 @@
       </notes>
       <segment >
         <source>You have exceeded the maximum attempts to enter the OTP. Please click on "Resend OTP" to generate another OTP</source>
-        <target>Hai superato il numero massimo di tentativi di accesso all\'OTP. Fare clic su "Reinvia OTP" per generare un\'altra OTP</target>
+        <target>Hai superato il numero massimo di tentativi di accesso all\&apos;OTP. Fare clic su "Reinvia OTP" per generare un\&apos;altra OTP</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_other_detail_send_verify_max_attempt_error" translate="yes">
@@ -3672,7 +3672,7 @@
       </notes>
       <segment >
         <source>Handle should be minimum of 4 characters and contain alphanumeric, - or . . Must contain atleast 1 alphabet</source>
-        <target>L\'handle deve contenere almeno 4 caratteri e contenere alfanumerici, oppure . . Deve contenere almeno 1 lettera alfabetica</target>
+        <target>L\&apos;handle deve contenere almeno 4 caratteri e contenere alfanumerici, oppure . . Deve contenere almeno 1 lettera alfabetica</target>
       </segment>
     </unit>
     <unit id="common.common:signup_validation_message_handlevalidation" translate="yes">
@@ -3712,7 +3712,7 @@
       </notes>
       <segment >
         <source>Email domain is invalid for signup</source>
-        <target>Il dominio e-mail non è valido per l\'iscrizione</target>
+        <target>Il dominio e-mail non è valido per l\&apos;iscrizione</target>
       </segment>
     </unit>
     <unit id="common.common:signup_validation_message_birthday" translate="yes">
@@ -3972,7 +3972,7 @@
       </notes>
       <segment >
         <source>You are not authorized to enroll in this course. Please contact your administrator.</source>
-        <target>L\'utente non è autorizzato a iscriversi a questo corso. Rivolgersi all\'amministratore.</target>
+        <target>L\&apos;utente non è autorizzato a iscriversi a questo corso. Rivolgersi all\&apos;amministratore.</target>
       </segment>
     </unit>
     <unit id="common.common:course_enroll_failed_message" translate="yes">
@@ -4231,7 +4231,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Nessuna competenza aggiunta. Includere competenze nel tuo profilo ti aiuterà a ottenere più follower e visibilità nella tua organizzazione.</target>
       </segment>
     </unit>
@@ -4292,7 +4292,7 @@
       </notes>
       <segment >
         <source>The user has not posted anything yet.</source>
-        <target>L\'utente non ha ancora pubblicato nulla.</target>
+        <target>L\&apos;utente non ha ancora pubblicato nulla.</target>
       </segment>
     </unit>
     <unit id="common.common:profile_learning_goals_hrs_string" translate="yes">
@@ -4462,7 +4462,7 @@
       </notes>
       <segment >
         <source>shared an image</source>
-        <target>ha condiviso un\'immagine</target>
+        <target>ha condiviso un\&apos;immagine</target>
       </segment>
     </unit>
     <unit id="common.common:feed_constants_shared_video" translate="yes">
@@ -4592,7 +4592,7 @@
       </notes>
       <segment >
         <source>You are not authorized to delete this SmartBite.</source>
-        <target>L\'utente non è autorizzato a eliminare questo SmartBite.</target>
+        <target>L\&apos;utente non è autorizzato a eliminare questo SmartBite.</target>
       </segment>
     </unit>
     <unit id="common.common:card_delete_message_cannot_delete_smart_card" translate="yes">
@@ -4602,7 +4602,7 @@
       </notes>
       <segment >
         <source>You are not authorized to delete this SmartCard.</source>
-        <target>L\'utente non è autorizzato a eliminare questa SmartCard.</target>
+        <target>L\&apos;utente non è autorizzato a eliminare questa SmartCard.</target>
       </segment>
     </unit>
     <unit id="common.common:edit_smartbite_delete_message" translate="yes">
@@ -4702,7 +4702,7 @@
       </notes>
       <segment >
         <source>I am passionate about using sustainable technologies to improve the condition of our planet!</source>
-        <target>Sono fautore dell\'utilizzo di tecnologie sostenibili per migliorare le condizioni del nostro pianeta! </target>
+        <target>Sono fautore dell\&apos;utilizzo di tecnologie sostenibili per migliorare le condizioni del nostro pianeta! </target>
       </segment>
     </unit>
     <unit id="common.common:feed_dummy_text_description" translate="yes">
@@ -4712,7 +4712,7 @@
       </notes>
       <segment >
         <source>Architecture insights, trends, videos, developments and articles from around the web updated daily</source>
-        <target>Approfondimenti dell\'architettura, tendenze, video, sviluppi e articoli da tutto il Web aggiornati quotidianamente  </target>
+        <target>Approfondimenti dell\&apos;architettura, tendenze, video, sviluppi e articoli da tutto il Web aggiornati quotidianamente  </target>
       </segment>
     </unit>
     <unit id="common.common:dummy_text_name" translate="yes">
@@ -4802,7 +4802,7 @@
       </notes>
       <segment >
         <source>I love to learn about art, architecture, and everything else! This is my bio text bro!! Up to 200 characters of knowledge in this space!! </source>
-        <target>Adoro conoscere l\'arte, l\'architettura e tutto il resto! Questo è il mio testo bio, fratello!! Fino a 200 caratteri di conoscenza in questo spazio!  </target>
+        <target>Adoro conoscere l\&apos;arte, l\&apos;architettura e tutto il resto! Questo è il mio testo bio, fratello!! Fino a 200 caratteri di conoscenza in questo spazio!  </target>
       </segment>
     </unit>
     <unit id="common.common:videoplayer_screen_title" translate="yes">
@@ -5112,7 +5112,7 @@
       </notes>
       <segment >
         <source>VISIT FULL COURSE</source>
-        <target>VISITA L\'INTERO CORSO</target>
+        <target>VISITA L\&apos;INTERO CORSO</target>
       </segment>
     </unit>
     <unit id="common.common:undo_text" translate="yes">
@@ -5161,7 +5161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Questo file non sarà disponibile per la visualizzazione offline</target>
       </segment>
     </unit>
@@ -5580,7 +5580,7 @@
       </notes>
       <segment >
         <source>I have paid the subscription</source>
-        <target>Ho pagato l\'abbonamento</target>
+        <target>Ho pagato l\&apos;abbonamento</target>
       </segment>
     </unit>
     <unit id="common.common:paywall_dialog_title" translate="yes">
@@ -5599,7 +5599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Spiacenti, non abbiamo ricevuto la tua quota di iscrizione. Per favore riprova più tardi.</target>
       </segment>
     </unit>
@@ -5610,7 +5610,7 @@
       </notes>
       <segment >
         <source>We are facing some technical problem while processing your request. You can buy skillcoins from web.</source>
-        <target>Stiamo affrontando qualche problema tecnico durante l\'elaborazione della tua richiesta. Puoi acquistare skillcoins dal web.</target>
+        <target>Stiamo affrontando qualche problema tecnico durante l\&apos;elaborazione della tua richiesta. Puoi acquistare skillcoins dal web.</target>
       </segment>
     </unit>
     <unit id="common.common:buy_tool_text" translate="yes">
@@ -5650,7 +5650,7 @@
       </notes>
       <segment >
         <source>We could not make the payment at this moment. Please contact the Administrator and try again later</source>
-        <target>Non è possibile effettuare il pagamento in questo momento. Contatta l\'amministratore e riprova più tardi</target>
+        <target>Non è possibile effettuare il pagamento in questo momento. Contatta l\&apos;amministratore e riprova più tardi</target>
       </segment>
     </unit>
     <unit id="common.common:email_confirmation_host" translate="no">
@@ -5823,7 +5823,7 @@
       </notes>
       <segment >
         <source>You will be notified when stream starts.</source>
-        <target>Riceverai una notifica all\'avvio dello stream. </target>
+        <target>Riceverai una notifica all\&apos;avvio dello stream. </target>
       </segment>
     </unit>
     <unit id="common.common:video_resource_error_message" translate="yes">
@@ -5892,7 +5892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Non hai notifiche.</target>
       </segment>
     </unit>
@@ -6252,7 +6252,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>ti ha invitato a partecipare a.</target>
       </segment>
     </unit>
@@ -6263,7 +6263,7 @@
       </notes>
       <segment >
         <source>Hey, %1$s schedule an AMA(Ask Me Anything) on %2$s and want you to join. Download the %3$s app and sign up so you can get notified once my AMA starts! Tap here to get started:</source>
-        <target>Salve, %1$s programmano un CQC(Chiedimi qualunque cosa) su %2$s e vuole che tu partecipi. Scarica l\'app %3$s e accedi per ricevere notifiche quando inizia il CQC! Tocca qui per iniziare:</target>
+        <target>Salve, %1$s programmano un CQC(Chiedimi qualunque cosa) su %2$s e vuole che tu partecipi. Scarica l\&apos;app %3$s e accedi per ricevere notifiche quando inizia il CQC! Tocca qui per iniziare:</target>
       </segment>
     </unit>
     <unit id="common.common:schedule_ama_invitation_user" translate="yes">
@@ -6313,7 +6313,7 @@
       </notes>
       <segment >
         <source>has invited you to their Schedule AMA. Sign in to be notified when it starts!</source>
-        <target>ti ha invitato a Programma CQC. Accedi per riceve notifiche all\'avvio!</target>
+        <target>ti ha invitato a Programma CQC. Accedi per riceve notifiche all\&apos;avvio!</target>
       </segment>
     </unit>
     <unit id="common.common:org_join_message" translate="yes">
@@ -6322,7 +6322,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Dopo che partecipi, potrai interagire con i colleghi della tua organizzazione! </target>
       </segment>
     </unit>
@@ -6632,7 +6632,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Il tuo apprendimento di oggi è vuoto</target>
       </segment>
     </unit>
@@ -6702,7 +6702,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Non hai segnalibri. </target>
       </segment>
     </unit>
@@ -7292,8 +7292,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
-        <target>L\'elenco di apprendimento del tuo team è vuoto. Controlla più tardi.</target>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
+        <target>L\&apos;elenco di apprendimento del tuo team è vuoto. Controlla più tardi.</target>
       </segment>
     </unit>
     <unit id="common.common:follow_user_channel_to_see_smartcards" translate="yes">
@@ -7553,7 +7553,7 @@
       </notes>
       <segment >
         <source>Failed to upload the image. Please try again.</string</source>
-        <target>Impossibile caricare l\'immagine. Riprovare. </target>
+        <target>Impossibile caricare l\&apos;immagine. Riprovare. </target>
       </segment>
     </unit>
     <unit id="common.common:pdf_error_message" translate="yes">
@@ -7562,7 +7562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Non hai un app per visualizzare PDF. Installarne una per visualizzare il contenuto.</target>
       </segment>
     </unit>
@@ -7923,7 +7923,7 @@
       </notes>
       <segment >
         <source>Permission missing for camera or storage</source>
-        <target>Autorizzazione mancante per la fotocamera o l\'archivio</target>
+        <target>Autorizzazione mancante per la fotocamera o l\&apos;archivio</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_hardware_permission_camera_audio" translate="yes">
@@ -7933,7 +7933,7 @@
       </notes>
       <segment >
         <source>Permission missing for camera or audio</source>
-        <target>Autorizzazione mancante per la fotocamera o l\'audio</target>
+        <target>Autorizzazione mancante per la fotocamera o l\&apos;audio</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_initial_tip_one" translate="yes">
@@ -8122,7 +8122,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>Consiglio: Se il video è breve, i follower potrebbero non avere il tempo di sintonizzarsi. Non preoccuparti, il video sarà disponibile per la riproduzione su richiesta poco dopo lo streaming.</target>
       </segment>
     </unit>
@@ -8203,7 +8203,7 @@
       </notes>
       <segment >
         <source>(Select a start time for your AMA)</source>
-        <target>(Selezionare un\'ora di inizio del CQC)</target>
+        <target>(Selezionare un\&apos;ora di inizio del CQC)</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_set_schedult_live_msg" translate="yes">
@@ -8213,7 +8213,7 @@
       </notes>
       <segment >
         <source>Please set the schedule time for your AMA</source>
-        <target>Impostare l\'ora programmata del CQC</target>
+        <target>Impostare l\&apos;ora programmata del CQC</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_set_schedult_live_attach_image_msg" translate="yes">
@@ -8223,7 +8223,7 @@
       </notes>
       <segment >
         <source>Please provide the attachment thumbnail image file.</source>
-        <target>Fornire il file immagine della miniatura dell\'allegato.</target>
+        <target>Fornire il file immagine della miniatura dell\&apos;allegato.</target>
       </segment>
     </unit>
     <unit id="common.common:publishSchedulevideostream_thumbnail_required_label" translate="yes">
@@ -8373,7 +8373,7 @@
       </notes>
       <segment >
         <source>Recording interrupted as application went to background. Would you like to Retry?</source>
-        <target>Registrazione interrotta poiché l\'applicazione è passata in background. Riprovare?</target>
+        <target>Registrazione interrotta poiché l\&apos;applicazione è passata in background. Riprovare?</target>
       </segment>
     </unit>
     <unit id="common.common:status_string" translate="yes">
@@ -8413,7 +8413,7 @@
       </notes>
       <segment >
         <source>Tap the add icon below to start a conversation!</source>
-        <target>Tocca l\'icona Aggiungi qui sotto per iniziare una conversazione!</target>
+        <target>Tocca l\&apos;icona Aggiungi qui sotto per iniziare una conversazione!</target>
       </segment>
     </unit>
     <unit id="common.common:hyphen" translate="no">
@@ -8961,7 +8961,7 @@
       </notes>
       <segment >
         <source>Check out these exclusive livestreams!</source>
-        <target>Dai un\'occhiata a questi livestream esclusivi!</target>
+        <target>Dai un\&apos;occhiata a questi livestream esclusivi!</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_see_more_header" translate="yes">
@@ -8971,7 +8971,7 @@
       </notes>
       <segment >
         <source>Check out some of the top pathways on Learning Experience!</source>
-        <target>Dai un\'occhiata ad alcuni dei migliori pathway su EdCast! </target>
+        <target>Dai un\&apos;occhiata ad alcuni dei migliori pathway su EdCast! </target>
       </segment>
     </unit>
     <unit id="common.common:screen_label_smartbites" translate="yes">
@@ -9301,7 +9301,7 @@
       </notes>
       <segment >
         <source>Enter Topic*</source>
-        <target>Inserire l\'argomento*</target>
+        <target>Inserire l\&apos;argomento*</target>
       </segment>
     </unit>
     <unit id="common.common:generate_label" translate="yes">
@@ -9671,7 +9671,7 @@
       </notes>
       <segment >
         <source>Something went wrong please try again, if continuous facing issue then contact to your team administrator.</source>
-        <target>Qualcosa non ha funzionato, riprovare, se il problema persiste, rivolgersi all \'amministratore del team.</target>
+        <target>Qualcosa non ha funzionato, riprovare, se il problema persiste, rivolgersi all \&apos;amministratore del team.</target>
       </segment>
     </unit>
     <unit id="common.common:filter_by_channel_screen_title" translate="yes">
@@ -9700,7 +9700,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Aggiungi alcuni channel e inizieremo a visualizzare alcuni contenuti pensati apposta per te.</target>
       </segment>
     </unit>
@@ -9841,7 +9841,7 @@
       </notes>
       <segment >
         <source>User has been removed by the admin</source>
-        <target>L\'utente è stato rimosso da admin</target>
+        <target>L\&apos;utente è stato rimosso da admin</target>
       </segment>
     </unit>
     <unit id="common.common:suspended_title" translate="yes">
@@ -9881,7 +9881,7 @@
       </notes>
       <segment >
         <source>No channels, livestreams, or pathways have been created. Please contact your administrator for more content.</source>
-        <target>Non è stato creato alcun channel, Trasmissione in diretta o pathway. Rivolgersi all\'amministratore per maggiore contenuto.</target>
+        <target>Non è stato creato alcun channel, Trasmissione in diretta o pathway. Rivolgersi all\&apos;amministratore per maggiore contenuto.</target>
       </segment>
     </unit>
     <unit id="common.common:change_photo" translate="yes">
@@ -10601,7 +10601,7 @@
       </notes>
       <segment >
         <source>Please, Enter Link Label.</source>
-        <target>Inserire l\'etichetta del link.</target>
+        <target>Inserire l\&apos;etichetta del link.</target>
       </segment>
     </unit>
     <unit id="common.common:incorrect_url" translate="yes">
@@ -10621,7 +10621,7 @@
       </notes>
       <segment >
         <source>Missing HTTP infront of the URL.</source>
-        <target>HTTP mancante davanti all\'URL.</target>
+        <target>HTTP mancante davanti all\&apos;URL.</target>
       </segment>
     </unit>
     <unit id="common.common:paid_courses_not_enroll_msg" translate="yes">
@@ -11161,7 +11161,7 @@
       </notes>
       <segment >
         <source>Please rate \"Learning Experience\"</source>
-        <target>Valuta \'EdCast\'</target>
+        <target>Valuta \&apos;EdCast\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:star_to_rate_msg" translate="yes">
@@ -11721,7 +11721,7 @@
       </notes>
       <segment >
         <source>This app needs permission for camera and audio recording.</source>
-        <target>Questa app richiede l\'autorizzazione della videocamera e la registrazione audio.</target>
+        <target>Questa app richiede l\&apos;autorizzazione della videocamera e la registrazione audio.</target>
       </segment>
     </unit>
     <unit id="common.common:tele_camera_error" translate="yes">
@@ -11730,7 +11730,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Questo dispositivo non supporta Camera2 API.</target>
       </segment>
     </unit>
@@ -11760,7 +11760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Impossibile memorizzare la copia locale della registrazione video, memoria esterna non disponibile.</target>
       </segment>
     </unit>
@@ -12241,7 +12241,7 @@
       </notes>
       <segment >
         <source>Please contact your team administrator to enable your personalized learning experience</source>
-        <target>Rivolgiti all\'amministratore del team per abilitare la tua esperienza di apprendimento personalizzata</target>
+        <target>Rivolgiti all\&apos;amministratore del team per abilitare la tua esperienza di apprendimento personalizzata</target>
       </segment>
     </unit>
     <unit id="common.common:assignments_no_message" translate="yes">
@@ -12460,8 +12460,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
-        <target>* Questo è un team chiuso. Se non disponi di un account esistente o di un invito a partecipare, rivolgiti all\'amministratore del team.</target>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <target>* Questo è un team chiuso. Se non disponi di un account esistente o di un invito a partecipare, rivolgiti all\&apos;amministratore del team.</target>
       </segment>
     </unit>
     <unit id="common.common:plus_text" translate="no">
@@ -12559,7 +12559,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Ricevi un collegamento magico inviato alla tua e-mail che ti farà accedere immediatamente!</target>
       </segment>
     </unit>
@@ -12599,8 +12599,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
-        <target>Ti abbiamo inviato un\'e-mail di verifica al tuo indirizzo e-mail registrato.Fai clic sul collegamento all\'interno per verificare il tuo account.</target>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
+        <target>Ti abbiamo inviato un\&apos;e-mail di verifica al tuo indirizzo e-mail registrato.Fai clic sul collegamento all\&apos;interno per verificare il tuo account.</target>
       </segment>
     </unit>
     <unit id="common.common:webView_label" translate="yes">
@@ -12629,8 +12629,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
-        <target>Non è stato possibile trovare un account o invitare a partecipare a questo team. Rivolgersi all\'amministratore del team</target>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
+        <target>Non è stato possibile trovare un account o invitare a partecipare a questo team. Rivolgersi all\&apos;amministratore del team</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_label_publish" translate="yes">
@@ -12720,7 +12720,7 @@
       </notes>
       <segment >
         <source>Do you want to save your pitch for your private usage?</source>
-        <target>Salvare il pitch per l\'utilizzo privato?</target>
+        <target>Salvare il pitch per l\&apos;utilizzo privato?</target>
       </segment>
     </unit>
     <unit id="common.common:add_script_label" translate="yes">
@@ -12910,7 +12910,7 @@
       </notes>
       <segment >
         <source>There is no user activity for like</source>
-        <target>Non ci sono attività dell\'utente per Mi piace</target>
+        <target>Non ci sono attività dell\&apos;utente per Mi piace</target>
       </segment>
     </unit>
     <unit id="common.common:featured_provider_search_list_title" translate="yes">
@@ -13020,7 +13020,7 @@
       </notes>
       <segment >
         <source>External Storage permission needed. Please allow in App Settings for additional functionality.</source>
-        <target>È necessaria l\'autorizzazione di memoria esterna. Consenti in Impostazioni app per funzionalità aggiuntive.</target>
+        <target>È necessaria l\&apos;autorizzazione di memoria esterna. Consenti in Impostazioni app per funzionalità aggiuntive.</target>
       </segment>
     </unit>
     <unit id="common.common:camera_permission_needed_please_check_settings" translate="yes">
@@ -13030,7 +13030,7 @@
       </notes>
       <segment >
         <source>Camera permission needed. Please allow in App Settings for additional functionality.</source>
-        <target>È necessaria l\'autorizzazione della fotocamera. Consenti in Impostazioni app per funzionalità aggiuntive.</target>
+        <target>È necessaria l\&apos;autorizzazione della fotocamera. Consenti in Impostazioni app per funzionalità aggiuntive.</target>
       </segment>
     </unit>
     <unit id="common.common:camera_permission_granted" translate="yes">
@@ -13100,7 +13100,7 @@
       </notes>
       <segment >
         <source>Storage Permission Granted</source>
-        <target>Autorizzazione all\'archiviazione concessa</target>
+        <target>Autorizzazione all\&apos;archiviazione concessa</target>
       </segment>
     </unit>
     <unit id="common.common:storage_permission_required" translate="yes">
@@ -13110,7 +13110,7 @@
       </notes>
       <segment >
         <source>Storage Permission Required</source>
-        <target>Autorizzazione all\'archiviazione necessaria</target>
+        <target>Autorizzazione all\&apos;archiviazione necessaria</target>
       </segment>
     </unit>
     <unit id="common.common:read_storage_permission_required" translate="yes">
@@ -13170,7 +13170,7 @@
       </notes>
       <segment >
         <source>Please select an interest from the list</source>
-        <target>Selezionare un interesse dall\'elenco</target>
+        <target>Selezionare un interesse dall\&apos;elenco</target>
       </segment>
     </unit>
     <unit id="common.common:add_a_descriptions" translate="yes">
@@ -13249,7 +13249,7 @@
       </notes>
       <segment >
         <source>Please install browser app to open link</source>
-        <target>Installare l\'app del browser per aprire il collegamento</target>
+        <target>Installare l\&apos;app del browser per aprire il collegamento</target>
       </segment>
     </unit>
     <unit id="common.common:browser_normal_view" translate="yes">
@@ -13359,7 +13359,7 @@
       </notes>
       <segment >
         <source>Type the topic you want to learn about</source>
-        <target>Digita l\'argomento che vuoi imparare</target>
+        <target>Digita l\&apos;argomento che vuoi imparare</target>
       </segment>
     </unit>
     <unit id="common.common:search_discover_top_smart_bites" translate="yes">
@@ -13438,7 +13438,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Hai guadagnato un badge.</target>
       </segment>
     </unit>
@@ -13619,7 +13619,7 @@
       </notes>
       <segment >
         <source>This content is not from current organization</source>
-        <target>Questo contenuto non è dell\'organizzazione corrente</target>
+        <target>Questo contenuto non è dell\&apos;organizzazione corrente</target>
       </segment>
     </unit>
     <unit id="common.common:qr_code_scan_title" translate="yes">
@@ -13669,7 +13669,7 @@
       </notes>
       <segment >
         <source>Select top one skill in the area of your interest</source>
-        <target>Seleziona una competenza principale nell\'area dell\'interesse</target>
+        <target>Seleziona una competenza principale nell\&apos;area dell\&apos;interesse</target>
       </segment>
     </unit>
     <unit id="common.common:digital_skills_assessment" translate="yes">
@@ -13719,7 +13719,7 @@
       </notes>
       <segment >
         <source>By clicking on Sign Up, you agree to the Learning Experience Terms of Use and Privacy Policy</source>
-        <target>Facendo clic su Iscriviti, accetti i Termini di utilizzo e l\'Informativa sulla privacy di EdCast</target>
+        <target>Facendo clic su Iscriviti, accetti i Termini di utilizzo e l\&apos;Informativa sulla privacy di EdCast</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_password_validation_msg" translate="yes">
@@ -13797,7 +13797,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Se non disponi di un account, fai clic sul pulsante seguente per creare il tuo account.</target>
       </segment>
     </unit>
@@ -13967,7 +13967,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Qual è il tuo ruolo corrente?</target>
       </segment>
     </unit>
@@ -14217,7 +14217,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Hai guadagnato un badge</target>
       </segment>
     </unit>
@@ -14388,7 +14388,7 @@
       </notes>
       <segment >
         <source>Your team activity will appear here.</source>
-        <target>L\'attività del team verrà visualizzata qui.</target>
+        <target>L\&apos;attività del team verrà visualizzata qui.</target>
       </segment>
     </unit>
     <unit id="common.common:group_list_filter_my_group" translate="yes">
@@ -14508,7 +14508,7 @@
       </notes>
       <segment >
         <source>You do not have permission to view this card.</source>
-        <target>L\'utente non dispone delle autorizzazioni per visualizzare questa scheda.</target>
+        <target>L\&apos;utente non dispone delle autorizzazioni per visualizzare questa scheda.</target>
       </segment>
     </unit>
     <unit id="common.common:pitch_uploaded_success_msg" translate="yes">
@@ -14538,7 +14538,7 @@
       </notes>
       <segment >
         <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.\n I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target>Ciao Mario, come va? Mi chiamo Marco, sono dell\'Università delle vendite. Ti chiamo per dedicare un po\' di tempo al tuo calendario. Ho appena notato sul tuo sito che stai assumendo 10 nuovi rappresentanti di vendita in questo trimestre. Diverse aziende del tuo settore stanno già utilizzando SalesU per aiutare l\'attuale team di sviluppo delle vendite ad avviare più conversazioni e prenotare le riunioni. Sono anche in grado di dimezzare i tempi di avvio dei nuovi rappresentanti.\nPensavo che il posto migliore da cui iniziare fosse programmare un incontro per conoscere le sfide e gli obiettivi di vendita. Hai tempo mercoledì o giovedì pomeriggio intorno alle 10?</target>
+        <target>Ciao Mario, come va? Mi chiamo Marco, sono dell\&apos;Università delle vendite. Ti chiamo per dedicare un po\&apos; di tempo al tuo calendario. Ho appena notato sul tuo sito che stai assumendo 10 nuovi rappresentanti di vendita in questo trimestre. Diverse aziende del tuo settore stanno già utilizzando SalesU per aiutare l\&apos;attuale team di sviluppo delle vendite ad avviare più conversazioni e prenotare le riunioni. Sono anche in grado di dimezzare i tempi di avvio dei nuovi rappresentanti.\nPensavo che il posto migliore da cui iniziare fosse programmare un incontro per conoscere le sfide e gli obiettivi di vendita. Hai tempo mercoledì o giovedì pomeriggio intorno alle 10?</target>
       </segment>
     </unit>
     <unit id="common.common:select_script_sample_script_text" translate="yes">
@@ -14588,7 +14588,7 @@
       </notes>
       <segment >
         <source>Please upgrade to the latest version of the app by clicking the below update button.</source>
-        <target>Esegui l\'aggiornamento all\'ultima versione dell\'app facendo clic sul pulsante di aggiornamento in basso.</target>
+        <target>Esegui l\&apos;aggiornamento all\&apos;ultima versione dell\&apos;app facendo clic sul pulsante di aggiornamento in basso.</target>
       </segment>
     </unit>
     <unit id="common.common:app_is_not_available_on_play_store_message" translate="yes">
@@ -14598,7 +14598,7 @@
       </notes>
       <segment >
         <source>New version is available. Please upgrade to the latest version.</source>
-        <target>Nuova versione disponibile. Esegui l\'aggiornamento al\'ultima versione.</target>
+        <target>Nuova versione disponibile. Esegui l\&apos;aggiornamento al\&apos;ultima versione.</target>
       </segment>
     </unit>
     <unit id="common.common:no_topic_data" translate="yes">
@@ -14638,7 +14638,7 @@
       </notes>
       <segment >
         <source>To give user more realistic user experience and functionality we are going to stop support for lower version device such as below api level 19 i.e (Kitkat) very soon, So please make sure run this app on higher version device.</source>
-        <target>Per offrire all\'utente un\'esperienza e una funzionalità utente più realistiche, interromperemo molto presto il supporto per dispositivi con versione inferiore come ad esempio livello API inferiore 19, ovvero (Kitkat), quindi accertati di eseguire questa app su un dispositivo con versione superiore.</target>
+        <target>Per offrire all\&apos;utente un\&apos;esperienza e una funzionalità utente più realistiche, interromperemo molto presto il supporto per dispositivi con versione inferiore come ad esempio livello API inferiore 19, ovvero (Kitkat), quindi accertati di eseguire questa app su un dispositivo con versione superiore.</target>
       </segment>
     </unit>
     <unit id="common.common:ama_error_message_schedule_ten_minutes_in_future" translate="yes">
@@ -14658,7 +14658,7 @@
       </notes>
       <segment >
         <source>On completion user will earn this badge</source>
-        <target>Al termine l\'utente guadagnerà questo badge</target>
+        <target>Al termine l\&apos;utente guadagnerà questo badge</target>
       </segment>
     </unit>
     <unit id="common.common:pathway_badge_title" translate="yes">
@@ -15013,7 +15013,7 @@
       </notes>
       <segment >
         <source>Looks like, during generating Pitch analysis, there was some error occurred. Please try out any of the options available below</source>
-        <target>Sembra che, durante la generazione dell\'analisi del passo, si sia verificato un errore. Prova una delle opzioni disponibili di seguito</target>
+        <target>Sembra che, durante la generazione dell\&apos;analisi del passo, si sia verificato un errore. Prova una delle opzioni disponibili di seguito</target>
       </segment>
     </unit>
     <unit id="common.common:continue_pitch_creation_message" translate="yes">
@@ -15062,7 +15062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Acquisisci e condividi i tuoi approfondimenti in tempo reale. Al termine, il video sarà presto disponibile sul tuo profilo</target>
       </segment>
     </unit>
@@ -15153,7 +15153,7 @@
       </notes>
       <segment >
         <source>You may experience interruption</source>
-        <target>Potrebbe verificarsi un\'interruzione</target>
+        <target>Potrebbe verificarsi un\&apos;interruzione</target>
       </segment>
     </unit>
     <unit id="common.common:live_stream_slow_network_message" translate="yes">
@@ -15692,7 +15692,7 @@
       </notes>
       <segment >
         <source>Select %s technology in the area of your interest</source>
-        <target>Seleziona tecnologia %s nell\'area di interesse</target>
+        <target>Seleziona tecnologia %s nell\&apos;area di interesse</target>
       </segment>
     </unit>
     <unit id="common.common:change_technology_message" translate="yes">
@@ -15751,7 +15751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Questo video non è valido per lo streaming su questo dispositivo. </target>
       </segment>
     </unit>
@@ -15761,7 +15761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Impossibile riprodurre questo video.</target>
       </segment>
     </unit>
@@ -15772,7 +15772,7 @@
       </notes>
       <segment >
         <source>Image size should not be more than 10 MB</source>
-        <target>La dimensione dell\'immagine non può superare 10 MB </target>
+        <target>La dimensione dell\&apos;immagine non può superare 10 MB </target>
       </segment>
     </unit>
     <unit id="common.common:maximum_file_size_message" translate="yes">
@@ -15881,7 +15881,7 @@
       </notes>
       <segment >
         <source>Hey! Are you excited to get started?</source>
-        <target>Hey! Non vedi l\'ora di iniziare?</target>
+        <target>Hey! Non vedi l\&apos;ora di iniziare?</target>
       </segment>
     </unit>
     <unit id="common.common:so_are_we_text" translate="yes">
@@ -15900,7 +15900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Ma prima, hai qualcosa in mente che vorresti conoscere? Puoi scegliere a mano i tuoi interessi e ti daremo un feed che ti promettiamo che ti piacerà.</target>
       </segment>
     </unit>
@@ -15951,7 +15951,7 @@
       </notes>
       <segment >
         <source>Oops! Looks like you have too much in your basket. Please pick a maximum of %s interests. This does not mean your learning is restricted - Learning Experience lets you search new content all the time! Interests can be changed later too.</source>
-        <target>Oops! Sembra che tu abbia troppo nel tuo carrello. Scegli un massimo di % interessi. Ciò non significa che l\'apprendimento sia limitato: Edcast consente di cercare nuovi contenuti in ogni momento. Gli interessi possono essere modificati anche successivamente.</target>
+        <target>Oops! Sembra che tu abbia troppo nel tuo carrello. Scegli un massimo di % interessi. Ciò non significa che l\&apos;apprendimento sia limitato: Edcast consente di cercare nuovi contenuti in ogni momento. Gli interessi possono essere modificati anche successivamente.</target>
       </segment>
     </unit>
     <unit id="common.common:offline_settings" translate="yes">
@@ -16168,7 +16168,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Sei offline</target>
       </segment>
     </unit>
@@ -16397,7 +16397,7 @@
       </notes>
       <segment >
         <source>This card is restricted and can be shared only by the author</source>
-        <target>Questa scheda è limitata e può essere condivisa solo dall\'autore.</target>
+        <target>Questa scheda è limitata e può essere condivisa solo dall\&apos;autore.</target>
       </segment>
     </unit>
     <unit id="common.common:share_private_content_popup_message" translate="yes">
@@ -16556,8 +16556,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
-        <target>Registra o importa l\'audio in tempo reale. Al termine, il podcast sarà disponibile nella tua pagina EdCast</target>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
+        <target>Registra o importa l\&apos;audio in tempo reale. Al termine, il podcast sarà disponibile nella tua pagina EdCast</target>
       </segment>
     </unit>
     <unit id="common.common:record_podcast" translate="yes">
@@ -16606,8 +16606,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
-        <target>Impossibile registrare l\'audio, memoria esterna non disponibile.</target>
+        <source>Can\&apos;t record audio, external storage not available.</source>
+        <target>Impossibile registrare l\&apos;audio, memoria esterna non disponibile.</target>
       </segment>
     </unit>
     <unit id="common.common:cancel_podcast_title" translate="yes">
@@ -16687,7 +16687,7 @@
       </notes>
       <segment >
         <source>Not enough space to record audio. Please free up some space and retry.</source>
-        <target>Spazio insufficiente per registrare l\'audio. Liberare spazio e riprovare.</target>
+        <target>Spazio insufficiente per registrare l\&apos;audio. Liberare spazio e riprovare.</target>
       </segment>
     </unit>
     <unit id="common.common:podcast_edit_text" translate="yes">
@@ -17225,7 +17225,7 @@
       </notes>
       <segment >
         <source>You should accept the invitation to open the detail page.</source>
-        <target>Devi accettare l\'invito ad aprire la pagina dei dettagli.</target>
+        <target>Devi accettare l\&apos;invito ad aprire la pagina dei dettagli.</target>
       </segment>
     </unit>
     <unit id="common.common:average_words_per_minute" translate="yes">
@@ -17583,7 +17583,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Rimuovere questo banner? Questa operazione non può essere annullata.</target>
       </segment>
     </unit>
@@ -17754,7 +17754,7 @@
       </notes>
       <segment >
         <source>Please select correct option</source>
-        <target>Selezionare l\'opzione corretta</target>
+        <target>Selezionare l\&apos;opzione corretta</target>
       </segment>
     </unit>
     <unit id="common.common:select_duration_label" translate="yes">
@@ -17911,7 +17911,7 @@
       </notes>
       <segment >
         <source>Without the permission the app is unable to use camera.</source>
-        <target>Senza l\'autorizzazione l\'app non può utilizzare la videocamera.</target>
+        <target>Senza l\&apos;autorizzazione l\&apos;app non può utilizzare la videocamera.</target>
       </segment>
     </unit>
     <unit id="common.common:external_storage_permission_denied" translate="yes">
@@ -17921,7 +17921,7 @@
       </notes>
       <segment >
         <source>Without permission, the app is unable to use external storage.</source>
-        <target>Senza autorizzazione, l\'app non può utilizzare la memoria esterna.</target>
+        <target>Senza autorizzazione, l\&apos;app non può utilizzare la memoria esterna.</target>
       </segment>
     </unit>
     <unit id="common.common:record_audio_permission_denied" translate="yes">
@@ -17931,7 +17931,7 @@
       </notes>
       <segment >
         <source>Without permission, the app is unable to record audio.</source>
-        <target>Senza autorizzazione, l\'app non può registrare l\'audio.</target>
+        <target>Senza autorizzazione, l\&apos;app non può registrare l\&apos;audio.</target>
       </segment>
     </unit>
     <unit id="common.common:result_found_for" translate="yes">
@@ -17991,7 +17991,7 @@
       </notes>
       <segment >
         <source>When user post content you will see</source>
-        <target>Quando l\'utente registra contenuto vedrai</target>
+        <target>Quando l\&apos;utente registra contenuto vedrai</target>
       </segment>
     </unit>
     <unit id="common.common:published_content_success_msg" translate="yes">
@@ -18071,7 +18071,7 @@
       </notes>
       <segment >
         <source>User Generated Cards</source>
-        <target>Schede generate dall\'utente</target>
+        <target>Schede generate dall\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:curate_tab_upc_label" translate="yes">
@@ -18081,7 +18081,7 @@
       </notes>
       <segment >
         <source>User Posted Contents</source>
-        <target>Contenuti pubblicati dall\'utente</target>
+        <target>Contenuti pubblicati dall\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:curate_tab_mrc_label" translate="yes">
@@ -18139,8 +18139,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
-        <target>L\'utente non dispone dell\'autorizzazione per creare SmartCard, rivolgersi all\'amministratore</target>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
+        <target>L\&apos;utente non dispone dell\&apos;autorizzazione per creare SmartCard, rivolgersi all\&apos;amministratore</target>
       </segment>
     </unit>
     <unit id="common.common:enter_duration_hhh" translate="yes">
@@ -18229,8 +18229,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
-        <target>L\'utente non dispone dell\'autorizzazione per visualizzare questo contenuto </target>
+        <source>You don\&apos;t  permission to view this content</source>
+        <target>L\&apos;utente non dispone dell\&apos;autorizzazione per visualizzare questo contenuto </target>
       </segment>
     </unit>
     <unit id="common.common:view_post_label" translate="yes">
@@ -18310,7 +18310,7 @@
       </notes>
       <segment >
         <source>Error while adding card to Pathway</source>
-        <target>Errore durante l\'aggiunta della carta a Pathway</target>
+        <target>Errore durante l\&apos;aggiunta della carta a Pathway</target>
       </segment>
     </unit>
     <unit id="common.common:create_link_unauthorised_error_msg" translate="yes">
@@ -18408,7 +18408,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>Lorem Ipsum è semplicemente un testo fittizio del settore della stampa e della composizione. Lorem Ipsum è il testo fittizio standard del settore sin dal 1500.</target>
       </segment>
     </unit>
@@ -18846,7 +18846,7 @@
       </notes>
       <segment >
         <source>Please make payment on the web application to access the content.</source>
-        <target>Eseguire il pagamento sull\'applicazione Web per accedere al contenuto.</target>
+        <target>Eseguire il pagamento sull\&apos;applicazione Web per accedere al contenuto.</target>
       </segment>
     </unit>
     <unit id="common.common:card_payment_dialog_title" translate="yes">
@@ -19096,7 +19096,7 @@
       </notes>
       <segment >
         <source><![CDATA[Language for this user has been set to <b>%s</b> on other platform, Do you wish to change now?]]></source>
-        <target><![CDATA[La lingua per questo utente è stata impostata su <b>%s</b> su un\'altra piattaforma. Cambiarla ora?]]></target>
+        <target><![CDATA[La lingua per questo utente è stata impostata su <b>%s</b> su un\&apos;altra piattaforma. Cambiarla ora?]]></target>
       </segment>
     </unit>
     <unit id="common.common:featured_content_message" translate="yes">
@@ -19166,7 +19166,7 @@
       </notes>
       <segment >
         <source>Please contact your admin to create private stream</source>
-        <target>Rivolgersi all\'amministratore per creare uno stream privato</target>
+        <target>Rivolgersi all\&apos;amministratore per creare uno stream privato</target>
       </segment>
     </unit>
     <unit id="common.common:to_create_private_stream_alert_message" translate="yes">
@@ -19430,7 +19430,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Approfondimenti di oggi</target>
       </segment>
     </unit>
@@ -19460,7 +19460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Apprendimento di oggi</target>
       </segment>
     </unit>
@@ -19470,7 +19470,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Apprendimento di oggi V1</target>
       </segment>
     </unit>
@@ -19480,7 +19480,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Apprendimento di oggi V2</target>
       </segment>
     </unit>
@@ -19621,7 +19621,7 @@
       </notes>
       <segment >
         <source>User Generated Content</source>
-        <target>Contenuto generato dall\'utente</target>
+        <target>Contenuto generato dall\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:create_text_label" translate="yes">
@@ -19701,7 +19701,7 @@
       </notes>
       <segment >
         <source>Enter the email address which you will use to sign in to your team.</source>
-        <target>Inserisci l\'indirizzo email che utilizzerai per accedere al tuo team.</target>
+        <target>Inserisci l\&apos;indirizzo email che utilizzerai per accedere al tuo team.</target>
       </segment>
     </unit>
     <unit id="common.common:discover_tab_all_channels" translate="yes">
@@ -19731,7 +19731,7 @@
       </notes>
       <segment >
         <source>Enter the link url</source>
-        <target>Immettere l\'URL del collegamento</target>
+        <target>Immettere l\&apos;URL del collegamento</target>
       </segment>
     </unit>
     <unit id="common.common:upload_logo_label" translate="yes">
@@ -19890,7 +19890,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Non sei autorizzato ad accedere a questa scheda</target>
       </segment>
     </unit>
@@ -20350,8 +20350,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
-        <target>Visualizzata nell\'intestazione e nelle schede del canale.</target>
+        <source>Shown in the channel\&apos;s header and cards.</source>
+        <target>Visualizzata nell\&apos;intestazione e nelle schede del canale.</target>
       </segment>
     </unit>
     <unit id="common.common:about_label" translate="yes">
@@ -20441,7 +20441,7 @@
       </notes>
       <segment >
         <source>Curators can configure, curate, and post to this channel (unless role is modified by admin under RBAC settings)</source>
-        <target>I curatori possono configurare, curare e pubblicare su questo channel (a meno che il ruolo non venga modificato dall\'amministratore nelle impostazioni RBAC)</target>
+        <target>I curatori possono configurare, curare e pubblicare su questo channel (a meno che il ruolo non venga modificato dall\&apos;amministratore nelle impostazioni RBAC)</target>
       </segment>
     </unit>
     <unit id="common.common:who_can_share_label" translate="yes">
@@ -20510,7 +20510,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Questo è il widget banner del tuo canale!</target>
       </segment>
     </unit>
@@ -20520,7 +20520,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>Puoi abilitare, disabilitare e personalizzare questa funzione modificando le impostazioni del widget del canale.</target>
       </segment>
     </unit>
@@ -20530,7 +20530,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>impostazioni del widget del canale</target>
       </segment>
     </unit>
@@ -20820,8 +20820,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
-        <target>Gli utenti non saranno in grado di lasciare il gruppo una volta aggiunto, soltanto l\'amministratore/il leader del gruppo può rimuovere gli utenti</target>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
+        <target>Gli utenti non saranno in grado di lasciare il gruppo una volta aggiunto, soltanto l\&apos;amministratore/il leader del gruppo può rimuovere gli utenti</target>
       </segment>
     </unit>
     <unit id="common.common:create_group_leaders" translate="yes">
@@ -20861,7 +20861,7 @@
       </notes>
       <segment >
         <source>Marking the card as incomplete will not change the Continuous Learning hour or the score associated with it.</source>
-        <target>Contrassegnando la scheda come incompleta non cambia l\'ora di apprendimento continuo o il punteggio a essa associato.</target>
+        <target>Contrassegnando la scheda come incompleta non cambia l\&apos;ora di apprendimento continuo o il punteggio a essa associato.</target>
       </segment>
     </unit>
     <unit id="common.common:mark_as_incomplete_title" translate="yes">
@@ -20900,7 +20900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[Rimuovere il gruppo <b>%s</b>? Questa operazione non può essere annullata.]]></target>
       </segment>
     </unit>
@@ -20910,7 +20910,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Hai imparato <b>%3$s%%</b> di obiettivi annuali]]></target>
       </segment>
     </unit>
@@ -21041,7 +21041,7 @@
       </notes>
       <segment >
         <source>Amount should be less than 999999</source>
-        <target>L\'importo deve essere inferiore a 999999</target>
+        <target>L\&apos;importo deve essere inferiore a 999999</target>
       </segment>
     </unit>
     <unit id="common.common:select_currency_type_label" translate="yes">
@@ -21259,7 +21259,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Non è possibile condividere la scheda in stato bozza! Cancellare le selezioni di condivisione o pubblicare la scheda!</target>
       </segment>
     </unit>
@@ -21330,7 +21330,7 @@
       </notes>
       <segment >
         <source>App Name: </source>
-        <target>Nome dell\'applicazione:</target>
+        <target>Nome dell\&apos;applicazione:</target>
       </segment>
     </unit>
     <unit id="common.common:app_version" translate="yes">
@@ -21669,7 +21669,7 @@
       </notes>
       <segment >
         <source>Are you sure that you want to remove this from your assignment list?</source>
-        <target>Rimuovere questo dall\'elenco delle assegnazioni?</target>
+        <target>Rimuovere questo dall\&apos;elenco delle assegnazioni?</target>
       </segment>
     </unit>
     <unit id="common.common:dismiss_assignment_success_message" translate="yes">
@@ -21679,7 +21679,7 @@
       </notes>
       <segment >
         <source>This content has been removed from your assignments list</source>
-        <target>Questo contenuto è stato rimosso dall\'elenco delle assegnazioni.</target>
+        <target>Questo contenuto è stato rimosso dall\&apos;elenco delle assegnazioni.</target>
       </segment>
     </unit>
     <unit id="common.common:quiz_multi_question_count" translate="yes">
@@ -21895,7 +21895,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Puoi inviare soltanto quando hai risposto a tutte le domande.</target>
       </segment>
     </unit>
@@ -21916,7 +21916,7 @@
       </notes>
       <segment >
         <source>Please contact to your team administrator.</source>
-        <target>Rivolgersi all\'amministratore del team.</target>
+        <target>Rivolgersi all\&apos;amministratore del team.</target>
       </segment>
     </unit>
     <unit id="common.common:channel_coming_soon_message" translate="yes">
@@ -22236,7 +22236,7 @@
       </notes>
       <segment >
         <source>Raise your hand to ask the host to allow you to co-broadcast in the Livestream</source>
-        <target>Alza la mano per chiedere all\'host di consentirti di trasmettere in co-trasmissione nel livestream</target>
+        <target>Alza la mano per chiedere all\&apos;host di consentirti di trasmettere in co-trasmissione nel livestream</target>
       </segment>
     </unit>
     <unit id="common.common:skill_coin_label" translate="yes">
@@ -22256,7 +22256,7 @@
       </notes>
       <segment >
         <source>Gift skillcoins during livestream to show your support to broadcasters. Plus sending skillcoins will makes your comments more visible</source>
-        <target>Regala skillcoins durante il live streaming per mostrare il tuo supporto alle emittenti. Inoltre, l\'invio di skillcoins renderà i tuoi commenti più visibili</target>
+        <target>Regala skillcoins durante il live streaming per mostrare il tuo supporto alle emittenti. Inoltre, l\&apos;invio di skillcoins renderà i tuoi commenti più visibili</target>
       </segment>
     </unit>
     <unit id="common.common:decline_request_msg" translate="yes">
@@ -22416,7 +22416,7 @@
       </notes>
       <segment >
         <source>You are seeing this %s because you followed</source>
-        <target>Visualizzi questa %s perché l\'hai seguita</target>
+        <target>Visualizzi questa %s perché l\&apos;hai seguita</target>
       </segment>
     </unit>
     <unit id="common.common:You_are_seeing_this_card_because_you_are_member_of_team" translate="yes">
@@ -22435,7 +22435,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>È tutto per ora</target>
       </segment>
     </unit>
@@ -22665,7 +22665,7 @@
       </notes>
       <segment >
         <source>Please download the attachment from web</source>
-        <target>Scarica l\'allegato dal web</target>
+        <target>Scarica l\&apos;allegato dal web</target>
       </segment>
     </unit>
     <unit id="common.common:must_publish_pathway_before_complete" translate="yes">
@@ -22865,7 +22865,7 @@
       </notes>
       <segment >
         <source>Your report will be sent to you to registered email once it is processed</source>
-        <target>Il tuo rapporto ti verrà inviato all\'email registrata una volta elaborato</target>
+        <target>Il tuo rapporto ti verrà inviato all\&apos;email registrata una volta elaborato</target>
       </segment>
     </unit>
     <unit id="common.common:no_search_results_for" translate="yes">
@@ -22934,7 +22934,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
         <target>Impossibile aprire URL non sicuri. Prova i collegamenti che iniziano con \"https://\"</target>
       </segment>
     </unit>
@@ -22944,8 +22944,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
-        <target>L\'URL inserito non è sicuro, utilizza \"https: //\" invece di \"http://\"</target>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
+        <target>L\&apos;URL inserito non è sicuro, utilizza \"https: //\" invece di \"http://\"</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="yes">
@@ -22955,7 +22955,7 @@
       </notes>
       <segment >
         <source>There is an issue processing this speech.</source>
-        <target>Si è verificato un problema durante l\'elaborazione di questo discorso.</target>
+        <target>Si è verificato un problema durante l\&apos;elaborazione di questo discorso.</target>
       </segment>
     </unit>
     <unit id="common.common:accepted_label" translate="yes">
@@ -22975,7 +22975,7 @@
       </notes>
       <segment >
         <source>You have no User Posted Content to curate. Please check the items in Machine Recommended Content curation queue</source>
-        <target>Non hai contenuti pubblicati dall\'utente da curare. Controllare gli elementi nella coda di cura dei contenuti consigliati dalla macchina</target>
+        <target>Non hai contenuti pubblicati dall\&apos;utente da curare. Controllare gli elementi nella coda di cura dei contenuti consigliati dalla macchina</target>
       </segment>
     </unit>
     <unit id="common.common:machine_recommended_content_empty_msg" translate="yes">
@@ -22985,7 +22985,7 @@
       </notes>
       <segment >
         <source>You have no Machine Recommended Content to curate. Please check the items in User Posted Content curation queue</source>
-        <target>Non hai contenuti consigliati dalla macchina da curare. Controllare gli elementi nella coda di cura del contenuto pubblicato dall\'utente</target>
+        <target>Non hai contenuti consigliati dalla macchina da curare. Controllare gli elementi nella coda di cura del contenuto pubblicato dall\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:user_posted_content_rational_label" translate="yes">
@@ -23054,7 +23054,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Salta: Non mostrare più, il contenuto è pertinente</target>
       </segment>
     </unit>
@@ -23064,7 +23064,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Blocca: Non mostrare contenuti simili, il contenuto non è pertinente</target>
       </segment>
     </unit>
@@ -23513,7 +23513,7 @@
       </notes>
       <segment >
         <source>You can not create a SmartCard with the mentioned URL as SmartCards with same URL are already exist</source>
-        <target>Non è possibile creare una SmartCard con l\'URL menzionato poiché esistono già SmartCard con lo stesso URL</target>
+        <target>Non è possibile creare una SmartCard con l\&apos;URL menzionato poiché esistono già SmartCard con lo stesso URL</target>
       </segment>
     </unit>
     <unit id="common.common:duplicate_smartCard_message" translate="yes">
@@ -23523,7 +23523,7 @@
       </notes>
       <segment >
         <source>The following contents with the above mentioned URL already exist.</source>
-        <target> I seguenti contenuti con l\'URL sopra menzionato esistono già. </target>
+        <target> I seguenti contenuti con l\&apos;URL sopra menzionato esistono già. </target>
       </segment>
     </unit>
     <unit id="common.common:about_prime" translate="yes">
@@ -23913,7 +23913,7 @@
       </notes>
       <segment >
         <source>No user configurable notification settings found</source>
-        <target>Nessuna impostazione di notifica configurabile dall\'utente trovata</target>
+        <target>Nessuna impostazione di notifica configurabile dall\&apos;utente trovata</target>
       </segment>
     </unit>
     <unit id="common.common:unfollowed_channel_text" translate="yes">
@@ -23933,7 +23933,7 @@
       </notes>
       <segment >
         <source>Live Event Title *</source>
-        <target>Titolo dell\'evento dal vivo *</target>
+        <target>Titolo dell\&apos;evento dal vivo *</target>
       </segment>
     </unit>
     <unit id="common.common:meeting_detail_hint" translate="yes">
@@ -24093,7 +24093,7 @@
       </notes>
       <segment >
         <source>End Date and Time should be greater than %s</source>
-        <target>La data e l\'ora di fine devono essere maggiori di%s</target>
+        <target>La data e l\&apos;ora di fine devono essere maggiori di%s</target>
       </segment>
     </unit>
     <unit id="common.common:start_date_error_message_validation" translate="yes">
@@ -24103,7 +24103,7 @@
       </notes>
       <segment >
         <source>Start Date and Time should be less than %s</source>
-        <target>La data e l\'ora di inizio devono essere inferiori a %s</target>
+        <target>La data e l\&apos;ora di inizio devono essere inferiori a %s</target>
       </segment>
     </unit>
     <unit id="common.common:start_date_error_message" translate="yes">
@@ -24113,7 +24113,7 @@
       </notes>
       <segment >
         <source>Start Date and Time should be greater than current time.</source>
-        <target>La data e l\'ora di inizio devono essere maggiori dell\'ora corrente.</target>
+        <target>La data e l\&apos;ora di inizio devono essere maggiori dell\&apos;ora corrente.</target>
       </segment>
     </unit>
     <unit id="common.common:recoding_url" translate="yes">
@@ -24133,7 +24133,7 @@
       </notes>
       <segment >
         <source>Add recoding URL for this event</source>
-        <target>Aggiungi l\'URL di ricodifica per questo evento</target>
+        <target>Aggiungi l\&apos;URL di ricodifica per questo evento</target>
       </segment>
     </unit>
     <unit id="common.common:recoding_url_star" translate="yes">
@@ -24162,7 +24162,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Non hai i privilegi per eliminare il commento.</target>
       </segment>
     </unit>
@@ -24172,7 +24172,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Non hai i privilegi per pubblicare il commento.</target>
       </segment>
     </unit>
@@ -24442,7 +24442,7 @@
       </notes>
       <segment >
         <source>Enter email address as per Aadhaar</source>
-        <target>Inserisci l\'indirizzo email come da Aadhaar</target>
+        <target>Inserisci l\&apos;indirizzo email come da Aadhaar</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_email_hint" translate="yes">
@@ -24452,7 +24452,7 @@
       </notes>
       <segment >
         <source>Enter email address</source>
-        <target>Inserisci l\'indirizzo email</target>
+        <target>Inserisci l\&apos;indirizzo email</target>
       </segment>
     </unit>
     <unit id="common.common:program_registration_user_form_dob_title" translate="yes">
@@ -25121,7 +25121,7 @@
       </notes>
       <segment >
         <source>To notify user when user enrolled for Live Event card</source>
-        <target>Per avvisare l\'utente quando l\'utente si è registrato per la scheda Evento dal vivo</target>
+        <target>Per avvisare l\&apos;utente quando l\&apos;utente si è registrato per la scheda Evento dal vivo</target>
       </segment>
     </unit>
     <unit id="common.common:to_notify_user_when_author_of_live_event_approves_registration_request" translate="yes">
@@ -25131,7 +25131,7 @@
       </notes>
       <segment >
         <source>To notify user when author of Live Event approves registration request</source>
-        <target>Per avvisare l\'utente quando l\'autore dell\'evento dal vivo approva la richiesta di registrazione</target>
+        <target>Per avvisare l\&apos;utente quando l\&apos;autore dell\&apos;evento dal vivo approva la richiesta di registrazione</target>
       </segment>
     </unit>
     <unit id="common.common:to_notify_user_when_author_of_live_event_rejects_registration_request" translate="yes">
@@ -25141,7 +25141,7 @@
       </notes>
       <segment >
         <source>To notify user when author of Live Event rejects registration request</source>
-        <target>Per avvisare l\'utente quando l\'autore dell\'evento dal vivo rifiuta la richiesta di registrazione</target>
+        <target>Per avvisare l\&apos;utente quando l\&apos;autore dell\&apos;evento dal vivo rifiuta la richiesta di registrazione</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_user_for_live_event_coming_up_in_1_day" translate="yes">
@@ -25151,7 +25151,7 @@
       </notes>
       <segment >
         <source>To remind user for Live Event coming up in 1 day</source>
-        <target>Per ricordare all\'utente l\'evento dal vivo in arrivo tra 1 giorno</target>
+        <target>Per ricordare all\&apos;utente l\&apos;evento dal vivo in arrivo tra 1 giorno</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_user_for_live_event_coming_up_in_3_days" translate="yes">
@@ -25161,7 +25161,7 @@
       </notes>
       <segment >
         <source>To remind user for Live Event coming up in 3 days</source>
-        <target>Per ricordare all\'utente l\'evento dal vivo in arrivo tra 3 giorno</target>
+        <target>Per ricordare all\&apos;utente l\&apos;evento dal vivo in arrivo tra 3 giorno</target>
       </segment>
     </unit>
     <unit id="common.common:to_remind_the_user_when_the_assignment_is_due" translate="yes">
@@ -25171,7 +25171,7 @@
       </notes>
       <segment >
         <source>To remind the user when the assignment is due</source>
-        <target>Per ricordare all\'utente la scadenza dell\'assegnazione</target>
+        <target>Per ricordare all\&apos;utente la scadenza dell\&apos;assegnazione</target>
       </segment>
     </unit>
     <unit id="common.common:when_i_am_auto_assigned_contents_of_a_group" translate="yes">
@@ -25231,7 +25231,7 @@
       </notes>
       <segment >
         <source>Weekly Trending content suggestions to the user</source>
-        <target>Suggerimenti sui contenuti di tendenza settimanali per l\'utente</target>
+        <target>Suggerimenti sui contenuti di tendenza settimanali per l\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:weekly_group_summary_for_group_leaders" translate="yes">
@@ -25251,7 +25251,7 @@
       </notes>
       <segment >
         <source>Weekly Pending Assignments reminder to the user</source>
-        <target>Promemoria settimanale di assegnazioni in sospeso per l\'utente</target>
+        <target>Promemoria settimanale di assegnazioni in sospeso per l\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:proficiency_level_achieved_notification_to_the_user" translate="yes">
@@ -25261,7 +25261,7 @@
       </notes>
       <segment >
         <source>Proficiency level achieved notification to the user</source>
-        <target>Notifica all\'utente del livello di competenza raggiunto</target>
+        <target>Notifica all\&apos;utente del livello di competenza raggiunto</target>
       </segment>
     </unit>
     <unit id="common.common:new_skill_added_notification_to_the_user" translate="yes">
@@ -25271,7 +25271,7 @@
       </notes>
       <segment >
         <source>New skill added notification to the user</source>
-        <target>Notifica all\'utente della nuova abilità aggiunta</target>
+        <target>Notifica all\&apos;utente della nuova abilità aggiunta</target>
       </segment>
     </unit>
     <unit id="common.common:invite_peers_to_assess_the_user_skills" translate="yes">
@@ -25281,7 +25281,7 @@
       </notes>
       <segment >
         <source>Invite peers to assess the user skills</source>
-        <target>Invita i colleghi a valutare le capacità dell\'utente</target>
+        <target>Invita i colleghi a valutare le capacità dell\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:when_a_credential_is_added_to_skills_passport_through_skills_api" translate="yes">
@@ -25291,7 +25291,7 @@
       </notes>
       <segment >
         <source>When a Credential is added to Skills Passport through Skills API</source>
-        <target>Quando una credenziale viene aggiunta a Skills Passport tramite l\'API Skills</target>
+        <target>Quando una credenziale viene aggiunta a Skills Passport tramite l\&apos;API Skills</target>
       </segment>
     </unit>
     <unit id="common.common:daily" translate="yes">
@@ -25688,7 +25688,7 @@
       </notes>
       <segment >
         <source>The skill is already added!</source>
-        <target> L\'abilità è già stata aggiunta! </target>
+        <target> L\&apos;abilità è già stata aggiunta! </target>
       </segment>
     </unit>
     <unit id="common.common:find_your_skill" translate="yes">
@@ -25888,7 +25888,7 @@
       </notes>
       <segment >
         <source>Sorry that you had to opt out of certain emails.Some emails, however, are set up by the admin, which you cannot opt out of. We will continue to be in touch.</source>
-        <target>Ci dispiace che tu abbia dovuto disattivare determinate e-mail. Alcune e-mail, tuttavia, sono impostate dall\'amministratore e non è possibile disattivarle. Continueremo a essere in contatto.</target>
+        <target>Ci dispiace che tu abbia dovuto disattivare determinate e-mail. Alcune e-mail, tuttavia, sono impostate dall\&apos;amministratore e non è possibile disattivarle. Continueremo a essere in contatto.</target>
       </segment>
     </unit>
     <unit id="common.common:manage_subscription" translate="yes">
@@ -25906,8 +25906,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26106,8 +26106,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
-        <target>L\'aspetto sarà basato sulle impostazioni di sistema del tuo dispositivo</target>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
+        <target>L\&apos;aspetto sarà basato sulle impostazioni di sistema del tuo dispositivo</target>
       </segment>
     </unit>
     <unit id="common.common:e_book" translate="yes">
@@ -26177,7 +26177,7 @@
       </notes>
       <segment >
         <source>You do not have access to configure notifications. Please contact your system administrator</source>
-        <target>L\'utente non è autorizzato ad accedere per configurare le notifiche. Rivolgersi all\'amministratore di sistema</target>
+        <target>L\&apos;utente non è autorizzato ad accedere per configurare le notifiche. Rivolgersi all\&apos;amministratore di sistema</target>
       </segment>
     </unit>
     <unit id="common.common:news_label" translate="yes">
@@ -26494,7 +26494,7 @@
       </notes>
       <segment >
         <source>University Name *</source>
-        <target>Nome dell\'Università *</target>
+        <target>Nome dell\&apos;Università *</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_course_name" translate="yes">
@@ -26663,8 +26663,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
-        <target>Inserire il nome dell\'impiegato</target>
+        <source>Please enter your employer\&apos;s name</source>
+        <target>Inserire il nome dell\&apos;impiegato</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_designation" translate="yes">
@@ -26714,7 +26714,7 @@
       </notes>
       <segment >
         <source>Upload Photo of company ID / Salary Slip / Proof of salary credited of account *</source>
-        <target>Carica foto dell\'ID azienda / Busta paga / Prova dello stipendio accreditato sul conto*</target>
+        <target>Carica foto dell\&apos;ID azienda / Busta paga / Prova dello stipendio accreditato sul conto*</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_student_job_upload_photo_desc" translate="yes">
@@ -26773,7 +26773,7 @@
       </notes>
       <segment >
         <source>Are you an intern/apprentice or do you have a job offer to be an intern/apprentice in IT/ITES? *</source>
-        <target>Sei uno stagista/apprendista o hai un\'offerta di lavoro per diventare stagista/apprendista in IT/ITES? *</target>
+        <target>Sei uno stagista/apprendista o hai un\&apos;offerta di lavoro per diventare stagista/apprendista in IT/ITES? *</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_student_job_offer" translate="yes">
@@ -26783,7 +26783,7 @@
       </notes>
       <segment >
         <source>Do you have a job offer? *</source>
-        <target>Hai un\'offerta di lavoro? *</target>
+        <target>Hai un\&apos;offerta di lavoro? *</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_company_name" translate="yes">
@@ -26923,7 +26923,7 @@
       </notes>
       <segment >
         <source>Image/Pdf size should not be more than 2 MB</source>
-        <target>La dimensione dell\'immagine/pdf non deve essere superiore a 2 MB</target>
+        <target>La dimensione dell\&apos;immagine/pdf non deve essere superiore a 2 MB</target>
       </segment>
     </unit>
     <unit id="common.common:only_image_pdf_message" translate="yes">
@@ -26953,7 +26953,7 @@
       </notes>
       <segment >
         <source>Kindly furnish details as available in your Government ID like Aadhaar / PAN / Voter ID / Passport / Driving License as per FutureSkills Prime scheme rules. Kindly note that the same information will be used while processing for GOI Incentives.</source>
-        <target>Fornire i dettagli disponibili nell\'ID di governo come Aadhaar / PAN / ID elettore / Passaporto / Patente di guida secondo le regole del programma FutureSkills Prime. Tenere presente che le stesse informazioni verranno utilizzate durante l\'elaborazione per gli incentivi GOI.</target>
+        <target>Fornire i dettagli disponibili nell\&apos;ID di governo come Aadhaar / PAN / ID elettore / Passaporto / Patente di guida secondo le regole del programma FutureSkills Prime. Tenere presente che le stesse informazioni verranno utilizzate durante l\&apos;elaborazione per gli incentivi GOI.</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_full_name_label" translate="yes">
@@ -26972,7 +26972,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Nome del padre *</target>
       </segment>
     </unit>
@@ -26982,7 +26982,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Nome della madre *</target>
       </segment>
     </unit>
@@ -27253,7 +27253,7 @@
       </notes>
       <segment >
         <source>Get started on your learning journey with the Govt. Of India Incentives!</source>
-        <target>Inizia il tuo viaggio di apprendimento con l\'incentivo del governo indiano!</target>
+        <target>Inizia il tuo viaggio di apprendimento con l\&apos;incentivo del governo indiano!</target>
       </segment>
     </unit>
     <unit id="common.common:gip_desc_1" translate="yes">
@@ -27293,7 +27293,7 @@
       </notes>
       <segment >
         <source>Step 4: Apply for Govt. Of India Incentive through your learner ledger from September 4 onwards.</source>
-        <target>Passo 4: Richiedi l\'incentivo del governo indiano tramite il registro degli studenti dal 4 settembre in poi.</target>
+        <target>Passo 4: Richiedi l\&apos;incentivo del governo indiano tramite il registro degli studenti dal 4 settembre in poi.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_desc_5" translate="yes">
@@ -27393,7 +27393,7 @@
       </notes>
       <segment >
         <source>Incentive Amount</source>
-        <target>Importo dell\'incentivo</target>
+        <target>Importo dell\&apos;incentivo</target>
       </segment>
     </unit>
     <unit id="common.common:eligible_amount_label" translate="yes">
@@ -27473,7 +27473,7 @@
       </notes>
       <segment >
         <source>Click here to change registration details before applying for GOI Incentive. Continue to apply for GOI Incentive?</source>
-        <target>Fare clic qui per modificare i dettagli di registrazione prima di richiedere l\'incentivo GOI. Continuare con la richiesta dell\'incentivo GOI?</target>
+        <target>Fare clic qui per modificare i dettagli di registrazione prima di richiedere l\&apos;incentivo GOI. Continuare con la richiesta dell\&apos;incentivo GOI?</target>
       </segment>
     </unit>
     <unit id="common.common:ledger_empty_message" translate="yes">
@@ -27493,7 +27493,7 @@
       </notes>
       <segment >
         <source>Thank you for Applying for GOI Incentive. You will be notified via an email for the next steps in the application process.</source>
-        <target>Ti ringraziamo di aver richiesto l\'incentivo GOI. Riceverai una notifica via e-mail per i passaggi successivi nel processo di candidatura.</target>
+        <target>Ti ringraziamo di aver richiesto l\&apos;incentivo GOI. Riceverai una notifica via e-mail per i passaggi successivi nel processo di candidatura.</target>
       </segment>
     </unit>
     <unit id="common.common:goi_eligible_title" translate="yes">
@@ -27523,7 +27523,7 @@
       </notes>
       <segment >
         <source>Congratulations for successfully registering for GOI Incentives under the FutureSkills Prime Program.</source>
-        <target>Congratulazioni per esserti registrato correttamente agli incentivi GOI nell\'ambito del programma FutureSkills Prime.</target>
+        <target>Congratulazioni per esserti registrato correttamente agli incentivi GOI nell\&apos;ambito del programma FutureSkills Prime.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_terms_1" translate="yes">
@@ -27533,7 +27533,7 @@
       </notes>
       <segment >
         <source>*Eligibility for GOI Incentive may change basis Terms of the scheme.</source>
-        <target>*L\'idoneità per l\'incentivo GOI può modificare i Termini di base del programma.</target>
+        <target>*L\&apos;idoneità per l\&apos;incentivo GOI può modificare i Termini di base del programma.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_terms_2" translate="yes">
@@ -27573,7 +27573,7 @@
       </notes>
       <segment >
         <source>Please enter valid university name</source>
-        <target>Inserire un nome dell\'università valido</target>
+        <target>Inserire un nome dell\&apos;università valido</target>
       </segment>
     </unit>
     <unit id="common.common:course_error_msg" translate="yes">
@@ -27613,7 +27613,7 @@
       </notes>
       <segment >
         <source>Please enter valid employer name</source>
-        <target>Inserire un nome dell\'impiegato valido</target>
+        <target>Inserire un nome dell\&apos;impiegato valido</target>
       </segment>
     </unit>
     <unit id="common.common:designation_error_msg" translate="yes">
@@ -27752,7 +27752,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Inserire un nome del padre valido</target>
       </segment>
     </unit>
@@ -27762,7 +27762,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Inserire un nome della madre valido</target>
       </segment>
     </unit>
@@ -28072,7 +28072,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Non hai ancora aggiunto nulla al tuo passaporto delle abilità</target>
       </segment>
     </unit>
@@ -28422,8 +28422,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
-        <target>Inserire il nome dell\'emittente del badge</target>
+        <source>Please enter the Badge issuer\&apos;s name</source>
+        <target>Inserire il nome dell\&apos;emittente del badge</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_id_error_label" translate="yes">
@@ -28433,7 +28433,7 @@
       </notes>
       <segment >
         <source>Please enter the Badge ID</source>
-        <target>Inserire l\'ID badge</target>
+        <target>Inserire l\&apos;ID badge</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_url_error_label" translate="yes">
@@ -28463,7 +28463,7 @@
       </notes>
       <segment >
         <source>Enter Badge ID</source>
-        <target>Inserisci l\'ID del distintivo</target>
+        <target>Inserisci l\&apos;ID del distintivo</target>
       </segment>
     </unit>
     <unit id="common.common:sp_badge_url_hint_label" translate="yes">
@@ -28473,7 +28473,7 @@
       </notes>
       <segment >
         <source>Enter Badge URL</source>
-        <target>Inserisci l\'URL del distintivo</target>
+        <target>Inserisci l\&apos;URL del distintivo</target>
       </segment>
     </unit>
     <unit id="common.common:skill_list_empty_msg" translate="yes">
@@ -28543,7 +28543,7 @@
       </notes>
       <segment >
         <source>Enter Certificate ID</source>
-        <target>Inserisci l\'ID del certificato</target>
+        <target>Inserisci l\&apos;ID del certificato</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certification_url_label" translate="yes">
@@ -28573,7 +28573,7 @@
       </notes>
       <segment >
         <source>Enter Certificate URL</source>
-        <target>Inserisci l\'URL del certificato</target>
+        <target>Inserisci l\&apos;URL del certificato</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certification_name_label" translate="yes">
@@ -28612,8 +28612,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
-        <target>Inserire il nome dell\'emittente del certificato</target>
+        <source>Please enter the Certification issuer\&apos;s name</source>
+        <target>Inserire il nome dell\&apos;emittente del certificato</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certificate_id_error_label" translate="yes">
@@ -28623,7 +28623,7 @@
       </notes>
       <segment >
         <source>Please enter the Certificate ID</source>
-        <target>Inserire l\'ID certificato</target>
+        <target>Inserire l\&apos;ID certificato</target>
       </segment>
     </unit>
     <unit id="common.common:sp_certificate_url_error_label" translate="yes">
@@ -28742,8 +28742,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
-        <target>Inserire il nome dell\'emittente della valutazione</target>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
+        <target>Inserire il nome dell\&apos;emittente della valutazione</target>
       </segment>
     </unit>
     <unit id="common.common:sp_report_url_error_label" translate="yes">
@@ -28773,7 +28773,7 @@
       </notes>
       <segment >
         <source>Enter Assessment URL</source>
-        <target>Inserisci l\'URL della valutazione</target>
+        <target>Inserisci l\&apos;URL della valutazione</target>
       </segment>
     </unit>
     <unit id="common.common:sp_assessment_score_value_label" translate="yes">
@@ -29183,7 +29183,7 @@
       </notes>
       <segment >
         <source>By Enabling the Record Audio, We are able to records audio from mic along with screen video</source>
-        <target>Abilitando la registrazione audio, possiamo registrare l\'audio dal microfono insieme al video dello schermo</target>
+        <target>Abilitando la registrazione audio, possiamo registrare l\&apos;audio dal microfono insieme al video dello schermo</target>
       </segment>
     </unit>
     <unit id="common.common:video_recording_sub_message_label" translate="yes">
@@ -29203,7 +29203,7 @@
       </notes>
       <segment >
         <source>By Enabling the system Logs, We are able to record Learning Experience Application.</source>
-        <target>Abilitando i registri di sistema, possiamo registrare l\'applicazione Edcast.</target>
+        <target>Abilitando i registri di sistema, possiamo registrare l\&apos;applicazione Edcast.</target>
       </segment>
     </unit>
     <unit id="common.common:report_issue_alert_message" translate="yes">
@@ -29213,7 +29213,7 @@
       </notes>
       <segment >
         <source>Click on OK Button to start collecting the Logs and turn off the Toggle when mentioned steps are done</source>
-        <target>Fare clic sul pulsante OK per iniziare a raccogliere i registri e disattivare l\'interruttore al termine dei passaggi menzionati</target>
+        <target>Fare clic sul pulsante OK per iniziare a raccogliere i registri e disattivare l\&apos;interruttore al termine dei passaggi menzionati</target>
       </segment>
     </unit>
     <unit id="common.common:copy_link_message" translate="yes">
@@ -29263,7 +29263,7 @@
       </notes>
       <segment >
         <source>Unlock your app</source>
-        <target>Sblocca l\'app</target>
+        <target>Sblocca l\&apos;app</target>
       </segment>
     </unit>
     <unit id="common.common:biometric_screen_sub_title" translate="yes">
@@ -29293,7 +29293,7 @@
       </notes>
       <segment >
         <source>You need to authenticate yourself to continue using app</source>
-        <target>È necessaria l\'autenticazione per continuare a utilizzare l\'app</target>
+        <target>È necessaria l\&apos;autenticazione per continuare a utilizzare l\&apos;app</target>
       </segment>
     </unit>
     <unit id="common.common:biometric_error_message_no_lock_enable" translate="yes">
@@ -29302,8 +29302,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
-        <target>Per motivi di sicurezza, è necessario impostare un blocco schermo per continuare a utilizzare l\'app e ti disconnettiamo dall\'app</target>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <target>Per motivi di sicurezza, è necessario impostare un blocco schermo per continuare a utilizzare l\&apos;app e ti disconnettiamo dall\&apos;app</target>
       </segment>
     </unit>
     <unit id="common.common:biometric_error_message_no_lock_available" translate="yes">
@@ -29313,7 +29313,7 @@
       </notes>
       <segment >
         <source>No app lock available in your phone and we logout you from app</source>
-        <target>Nessun blocco app disponibile nel telefono e ti disconnettiamo dall\'app</target>
+        <target>Nessun blocco app disponibile nel telefono e ti disconnettiamo dall\&apos;app</target>
       </segment>
     </unit>
     <unit id="common.common:biometric__error_security_update" translate="yes">
@@ -29653,7 +29653,7 @@
       </notes>
       <segment >
         <source>Allow the user to answer this Quiz again</source>
-        <target>Consenti all\'utente di rispondere di nuovo al quiz</target>
+        <target>Consenti all\&apos;utente di rispondere di nuovo al quiz</target>
       </segment>
     </unit>
     <unit id="common.common:mandatory_policy" translate="yes">
@@ -29723,7 +29723,7 @@
       </notes>
       <segment >
         <source>Nothing in your queue yet.\n Your Announcements will appear here.</source>
-        <target>Non c\'è ancora niente nella tua coda.\n I tuoi annunci appariranno qui.</target>
+        <target>Non c\&apos;è ancora niente nella tua coda.\n I tuoi annunci appariranno qui.</target>
       </segment>
     </unit>
     <unit id="common.common:lock_card_message_v2" translate="yes">
@@ -29859,7 +29859,7 @@
       </notes>
       <segment >
         <source>List shows only public pathways/journeys while the count includes both public and private assets</source>
-        <target>L\'elenco mostra soltanto i pathway/journey pubblici mentre il conteggio include sia le risorse pubbliche che private</target>
+        <target>L\&apos;elenco mostra soltanto i pathway/journey pubblici mentre il conteggio include sia le risorse pubbliche che private</target>
       </segment>
     </unit>
     <unit id="common.common:completion" translate="yes">
@@ -30049,7 +30049,7 @@
       </notes>
       <segment >
         <source>The host has dropped off and may join back shortly.</source>
-        <target>L\'host si è ritirato e potrebbe rientrare a breve.</target>
+        <target>L\&apos;host si è ritirato e potrebbe rientrare a breve.</target>
       </segment>
     </unit>
     <unit id="common.common:do_not_show_this_again_label" translate="yes">
@@ -30099,7 +30099,7 @@
       </notes>
       <segment >
         <source>Enter topic here</source>
-        <target>Inserire l\'argomento qui</target>
+        <target>Inserire l\&apos;argomento qui</target>
       </segment>
     </unit>
     <unit id="common.common:dynamic_screen_topic_label" translate="yes">
@@ -30179,7 +30179,7 @@
       </notes>
       <segment >
         <source>Upon completing this pathway the assignee will get a badge</source>
-        <target>Al completamento di questo pathway l\'assegnatario riceverà un badge</target>
+        <target>Al completamento di questo pathway l\&apos;assegnatario riceverà un badge</target>
       </segment>
     </unit>
     <unit id="common.common:badge_unlock_after_quiz" translate="yes">
@@ -30309,7 +30309,7 @@
       </notes>
       <segment >
         <source>The link you\’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</source>
-        <target>Il link inserito è già stato associato a una SmartCard esistente. SmartCard con link duplicati non sono consentite secondo la configurazione dell\'amministratore. Prova un altro URL</target>
+        <target>Il link inserito è già stato associato a una SmartCard esistente. SmartCard con link duplicati non sono consentite secondo la configurazione dell\&apos;amministratore. Prova un altro URL</target>
       </segment>
     </unit>
     <unit id="common.common:enter_the_link_url_address" translate="yes">
@@ -30349,7 +30349,7 @@
       </notes>
       <segment >
         <source>This format is not recognized. Try copy pasting the url address here</source>
-        <target>Questo formato non è riconosciuto. Prova a copiare e incollare l\'indirizzo URL qui</target>
+        <target>Questo formato non è riconosciuto. Prova a copiare e incollare l\&apos;indirizzo URL qui</target>
       </segment>
     </unit>
     <unit id="common.common:enable_all_language_label" translate="yes">
@@ -30438,7 +30438,7 @@
       </notes>
       <segment >
         <source>This can be used to control awarding badges for Pathway completion</source>
-        <target>Può essere utilizzato per controllare l\'assegnazione di badge per il completamento del Pathway</target>
+        <target>Può essere utilizzato per controllare l\&apos;assegnazione di badge per il completamento del Pathway</target>
       </segment>
     </unit>
     <unit id="common.common:enter_duration_000_hint" translate="yes">
@@ -30787,7 +30787,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Sembra che non abbiamo altri consigli per gli insegnamenti che hai selezionato. Non esitare ad aggiornare i tuoi obiettivi di apprendimento nel tuo profilo.</target>
       </segment>
     </unit>
@@ -30807,7 +30807,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>Il titolo non può essere vuoto</target>
       </segment>
     </unit>
@@ -30838,7 +30838,7 @@
       </notes>
       <segment >
         <source>Content(card/pathway) is associated with a few pathways/journeys, please remove the associations before deleting or ask admin to delete the content.</source>
-        <target>Il contenuto (card/pathway) è associato ad alcuni pathway/journey, rimuovere le associazioni prima di eliminare o chiedere all\'amministratore di eliminare il contenuto.</target>
+        <target>Il contenuto (card/pathway) è associato ad alcuni pathway/journey, rimuovere le associazioni prima di eliminare o chiedere all\&apos;amministratore di eliminare il contenuto.</target>
       </segment>
     </unit>
     <unit id="common.common:message_for_delete_card_confirm_message_string" translate="yes">
@@ -30908,7 +30908,7 @@
       </notes>
       <segment >
         <source>General Terms and Conditions for the usage of FutureSkills Prime platform have changed</source>
-        <target>I Termini e condizioni generali per l\'utilizzo della piattaforma FutureSkills Prime sono cambiati</target>
+        <target>I Termini e condizioni generali per l\&apos;utilizzo della piattaforma FutureSkills Prime sono cambiati</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_gtc_alert_terms_and_condition" translate="yes">
@@ -30928,7 +30928,7 @@
       </notes>
       <segment >
         <source>Continuous access of the platform and uses of services by learner therein shall amount to acceptance of the amended and updated GTC.</source>
-        <target>L\'accesso continuo alla piattaforma e l\'utilizzo dei servizi da parte dello studente equivarrà all\'accettazione dei TCG modificati e aggiornati.</target>
+        <target>L\&apos;accesso continuo alla piattaforma e l\&apos;utilizzo dei servizi da parte dello studente equivarrà all\&apos;accettazione dei TCG modificati e aggiornati.</target>
       </segment>
     </unit>
     <unit id="common.common:smartbite_delete_message" translate="yes">
@@ -30937,8 +30937,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Si sta per eliminare %s\'s %s. Tutte le statistiche e i commenti associati verranno rimossi in modo permanente.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Si sta per eliminare %s\&apos;s %s. Tutte le statistiche e i commenti associati verranno rimossi in modo permanente.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -32148,7 +32148,7 @@
       </notes>
       <segment >
         <source>Elearning Assessment</source>
-        <target>Valutazione dell\'elearning</target>
+        <target>Valutazione dell\&apos;elearning</target>
       </segment>
     </unit>
     <unit id="common.common:webinars" translate="yes">
@@ -32338,7 +32338,7 @@
       </notes>
       <segment >
         <source>Request to delete my account</source>
-        <target>Richiedi l\'eliminazione dell\'account personale</target>
+        <target>Richiedi l\&apos;eliminazione dell\&apos;account personale</target>
       </segment>
     </unit>
     <unit id="common.common:delete_account_hi_message" translate="yes">
@@ -32358,7 +32358,7 @@
       </notes>
       <segment >
         <source>I am reaching out to request that my account in your system be deleted permanently. The name associated with my account is %s and my email is %s.</source>
-        <target>vi contatto per richiedere l\'eliminazione definitiva del mio account nel vostro sistema. Il nome associato al mio account è %s e il mio indirizzo email è %s.</target>
+        <target>vi contatto per richiedere l\&apos;eliminazione definitiva del mio account nel vostro sistema. Il nome associato al mio account è %s e il mio indirizzo email è %s.</target>
       </segment>
     </unit>
     <unit id="common.common:choose_email_provider" translate="yes">
@@ -32467,8 +32467,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
-        <target>Indica gli argomenti di questo canale. Verranno visualizzati nell\'intestazione del canale.</target>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
+        <target>Indica gli argomenti di questo canale. Verranno visualizzati nell\&apos;intestazione del canale.</target>
       </segment>
     </unit>
     <unit id="common.common:add_trusted_collaborators_label" translate="yes">
@@ -32548,7 +32548,7 @@
       </notes>
       <segment >
         <source>Curate User Posted Content</source>
-        <target>Cura il contenuto pubblicato dall\'utente</target>
+        <target>Cura il contenuto pubblicato dall\&apos;utente</target>
       </segment>
     </unit>
     <unit id="common.common:enable_channel_curation_settings_label" translate="yes">
@@ -32647,8 +32647,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
-        <target>Puoi utilizzare un widget completamente personalizzabile da usare fra l\'intestazione del canale e il contenuto del canale.</target>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
+        <target>Puoi utilizzare un widget completamente personalizzabile da usare fra l\&apos;intestazione del canale e il contenuto del canale.</target>
       </segment>
     </unit>
     <unit id="common.common:public_channel_sub_title_label" translate="yes">
@@ -32927,7 +32927,7 @@
       </notes>
       <segment >
         <source>You are about to go back to the previous step. Please be aware that doing so will remove all the unsaved changes you have implemented on this page. This action cannot be undone. How would you like to proceed?</source>
-        <target>Stai per tornare al passaggio precedente. L\'operazione comporterà l\'eliminazione di tutte le modifiche non salvate che hai implementato in questa pagine. Questa azione non può essere annullata. Come desideri procedere?</target>
+        <target>Stai per tornare al passaggio precedente. L\&apos;operazione comporterà l\&apos;eliminazione di tutte le modifiche non salvate che hai implementato in questa pagine. Questa azione non può essere annullata. Come desideri procedere?</target>
       </segment>
     </unit>
     <unit id="common.common:edit_your_channel_to_add_description_label" translate="yes">
@@ -33157,7 +33157,7 @@
       </notes>
       <segment >
         <source>This widget will be made public to your profile for everyone to see. You can check how it looks by viewing your public profile from the gear icon on the top right cornet on your profile.</source>
-        <target>Questo widget sarà reso pubblico sul tuo profilo e sarà visibile a tutti. Puoi controllarne l\'aspetto visualizzando il tuo profilo pubblico dall\'icona dell\'ingranaggio nell\'angolo in alto a destra del tuo profilo.</target>
+        <target>Questo widget sarà reso pubblico sul tuo profilo e sarà visibile a tutti. Puoi controllarne l\&apos;aspetto visualizzando il tuo profilo pubblico dall\&apos;icona dell\&apos;ingranaggio nell\&apos;angolo in alto a destra del tuo profilo.</target>
       </segment>
     </unit>
     <unit id="common.common:private_visibility_desc" translate="yes">
@@ -33237,7 +33237,7 @@
       </notes>
       <segment >
         <source>Your average learning is %1$s a day over %2$s</source>
-        <target>La media del tuo apprendimento è %1$s al giorno durante l\'anno %2$s</target>
+        <target>La media del tuo apprendimento è %1$s al giorno durante l\&apos;anno %2$s</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_highest_educational_qualification" translate="yes">
@@ -33287,7 +33287,7 @@
       </notes>
       <segment >
         <source>Yes, I have an offer or undergoing an Internship / Apprenticeship</source>
-        <target>Sì, ho un\'offerta o sto svolgendo uno stage/apprendistato</target>
+        <target>Sì, ho un\&apos;offerta o sto svolgendo uno stage/apprendistato</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_have_a_job_offer_label" translate="yes">
@@ -33297,7 +33297,7 @@
       </notes>
       <segment >
         <source>Yes, I have a job offer</source>
-        <target>Sì, ho un\'offerta di lavoro</target>
+        <target>Sì, ho un\&apos;offerta di lavoro</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_have_no_job_offer_label" translate="yes">
@@ -33676,7 +33676,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Mostrata nelle schede del gruppo.</target>
       </segment>
     </unit>
@@ -33887,7 +33887,7 @@
       </notes>
       <segment >
         <source>Please visit the web application to reschedule your assessment</source>
-        <target>Visita l\'applicazione Web per riprogrammare la valutazione</target>
+        <target>Visita l\&apos;applicazione Web per riprogrammare la valutazione</target>
       </segment>
     </unit>
     <unit id="common.common:duration_desc" translate="yes">
@@ -34177,7 +34177,7 @@
       </notes>
       <segment >
         <source>The minimum recommended skill level set up by your company.</source>
-        <target>Livello della capacità minimo consigliato impostato dall\'azienda.</target>
+        <target>Livello della capacità minimo consigliato impostato dall\&apos;azienda.</target>
       </segment>
     </unit>
     <unit id="common.common:invite_people_label" translate="yes">
@@ -34237,7 +34237,7 @@
       </notes>
       <segment >
         <source>Are you sure you want to delete the account?</source>
-        <target>Eliminare l\'account?</target>
+        <target>Eliminare l\&apos;account?</target>
       </segment>
     </unit>
     <unit id="common.common:delete_account_msg_desc" translate="yes">
@@ -34247,7 +34247,7 @@
       </notes>
       <segment >
         <source>Deleting your account will permanently erase all your data from our system. This action is irreversible and once deleted, your data cannot be restored.</source>
-        <target>L\'eliminazione dell\'account cancellerà definitivamente tutti i tuoi dati dal nostro sistema. Questa azione è irreversibile e una volta completata l\'eliminazione, non è possibile ripristinare i dati.</target>
+        <target>L\&apos;eliminazione dell\&apos;account cancellerà definitivamente tutti i tuoi dati dal nostro sistema. Questa azione è irreversibile e una volta completata l\&apos;eliminazione, non è possibile ripristinare i dati.</target>
       </segment>
     </unit>
     <unit id="common.common:delete_account_msg" translate="yes">
@@ -34257,7 +34257,7 @@
       </notes>
       <segment >
         <source>You will be receiving a confirmation email after the deletion is completed.</source>
-        <target>Una volta completata l\'eliminazione, riceverai un\'email di conferma.</target>
+        <target>Una volta completata l\&apos;eliminazione, riceverai un\&apos;email di conferma.</target>
       </segment>
     </unit>
     <unit id="common.common:search_your_skills" translate="yes">
@@ -34316,8 +34316,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
-        <target>Riepilogo dell\'attività di %s\'</target>
+        <source>Summary of %s\&apos;s Activity</source>
+        <target>Riepilogo dell\&apos;attività di %s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:badge_list_empty" translate="yes">
@@ -34517,7 +34517,7 @@
       </notes>
       <segment >
         <source>Tell us about your current education/employment details</source>
-        <target>Fornisci i tuoi attuali dettagli sull\'istruzione/occupazione</target>
+        <target>Fornisci i tuoi attuali dettagli sull\&apos;istruzione/occupazione</target>
       </segment>
     </unit>
     <unit id="common.common:select_occupation_hint" translate="yes">
@@ -34566,7 +34566,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Iniziamo</target>
       </segment>
     </unit>
@@ -34587,7 +34587,7 @@
       </notes>
       <segment >
         <source>Select %s job roles in the area of your interest.</source>
-        <target>Seleziona %s ruoli di lavoro nell\'area di tuo interesse.</target>
+        <target>Seleziona %s ruoli di lavoro nell\&apos;area di tuo interesse.</target>
       </segment>
     </unit>
     <unit id="common.common:paid_empty_error_msg" translate="yes">
@@ -34596,7 +34596,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Non può essere vuoto se è selezionato contenuto a pagamento</target>
       </segment>
     </unit>
@@ -34657,7 +34657,7 @@
       </notes>
       <segment >
         <source>Resend OTP?</source>
-        <target>Inviare nuovamente l\'OTP?</target>
+        <target>Inviare nuovamente l\&apos;OTP?</target>
       </segment>
     </unit>
     <unit id="common.common:replace_thumbnail" translate="yes">
@@ -34757,7 +34757,7 @@
       </notes>
       <segment >
         <source>OTP has expired.\nPlease generate a new otp and try again.</source>
-        <target>L\'OTPè scaduto.\nGenerare un nuovo OTP e riprova.</target>
+        <target>L\&apos;OTPè scaduto.\nGenerare un nuovo OTP e riprova.</target>
       </segment>
     </unit>
     <unit id="common.common:select_job_role_title" translate="yes">
@@ -34817,7 +34817,7 @@
       </notes>
       <segment >
         <source>Multifactor Authentication (MFA) is required for this application. To complete MFA setup, please follow these steps:</source>
-        <target>Per questa applicazione è richiesta l\'autenticazione a più fattori Per completare la configurazione dell\'autenticazione a più fattori, attieniti alla procedura riportata di seguito:</target>
+        <target>Per questa applicazione è richiesta l\&apos;autenticazione a più fattori Per completare la configurazione dell\&apos;autenticazione a più fattori, attieniti alla procedura riportata di seguito:</target>
       </segment>
     </unit>
     <unit id="common.common:multiFactor_authentication_step_1_label" translate="yes">
@@ -34837,7 +34837,7 @@
       </notes>
       <segment >
         <source>2) Complete the MFA setup process on the website.</source>
-        <target>2) Completa la procedura di configurazione dell\'autenticazione a più fattori sul sito Web.</target>
+        <target>2) Completa la procedura di configurazione dell\&apos;autenticazione a più fattori sul sito Web.</target>
       </segment>
     </unit>
     <unit id="common.common:multiFactor_authentication_step_3_label" translate="yes">
@@ -34847,7 +34847,7 @@
       </notes>
       <segment >
         <source>3) Revisit the app for improved security and a better experience once you finish setting up your MFA.</source>
-        <target>3) Rivedi l\'app per una maggiore sicurezza e un\'esperienza migliore una volta terminata la configurazione dell\'autenticazione a più fattori.</target>
+        <target>3) Rivedi l\&apos;app per una maggiore sicurezza e un\&apos;esperienza migliore una volta terminata la configurazione dell\&apos;autenticazione a più fattori.</target>
       </segment>
     </unit>
     <unit id="common.common:multiFactor_authentication_step_4_label" translate="yes">
@@ -34857,7 +34857,7 @@
       </notes>
       <segment >
         <source>Your security is important to us, thank you for taking the time to set up MFA.</source>
-        <target>La tua sicurezza è importante per noi, grazie per aver dedicato del tempo alla configurazione dell\'autenticazione a più fattori.</target>
+        <target>La tua sicurezza è importante per noi, grazie per aver dedicato del tempo alla configurazione dell\&apos;autenticazione a più fattori.</target>
       </segment>
     </unit>
     <unit id="common.common:setup_is_completed_label" translate="yes">
@@ -34877,7 +34877,7 @@
       </notes>
       <segment >
         <source>MFA setup incomplete!</source>
-        <target>Configurazione dell\'autenticazione a più fattori non completata.</target>
+        <target>Configurazione dell\&apos;autenticazione a più fattori non completata.</target>
       </segment>
     </unit>
     <unit id="common.common:please_follow_steps_for_a_successful_setup_label" translate="yes">
@@ -34907,7 +34907,7 @@
       </notes>
       <segment >
         <source>Your language is set to %s. Would you like to update the language in your mobile app as well?</source>
-        <target>La lingua è impostata su %s. Aggiornare anche la lingua nell\'applicazione mobile?</target>
+        <target>La lingua è impostata su %s. Aggiornare anche la lingua nell\&apos;applicazione mobile?</target>
       </segment>
     </unit>
     <unit id="common.common:get_transcript_label" translate="yes">
@@ -34927,7 +34927,7 @@
       </notes>
       <segment >
         <source>Transcript successfully generated! Check your inbox for an email with the attachment.</source>
-        <target>Scheda riassuntiva generata correttamente. Controlla la posta in arrivo per verificare la ricezione di un\'email con l\'allegato.</target>
+        <target>Scheda riassuntiva generata correttamente. Controlla la posta in arrivo per verificare la ricezione di un\&apos;email con l\&apos;allegato.</target>
       </segment>
     </unit>
     <unit id="common.common:request_for_transcript_after_sometime_message" translate="yes">
@@ -35057,7 +35057,7 @@
       </notes>
       <segment >
         <source>Create your account for a lifelong learning experience.</source>
-        <target>Crea l\'account per un\'esperienza di formazione permanente.</target>
+        <target>Crea l\&apos;account per un\&apos;esperienza di formazione permanente.</target>
       </segment>
     </unit>
     <unit id="common.common:email_used_text_go_learn" translate="yes">
@@ -35067,7 +35067,7 @@
       </notes>
       <segment >
         <source>Enter the email address which you will use to sign in to your GoLearning.</source>
-        <target>Immetti l\'indirizzo email che verrà utilizzato per accedere a GoLearn.</target>
+        <target>Immetti l\&apos;indirizzo email che verrà utilizzato per accedere a GoLearn.</target>
       </segment>
     </unit>
     <unit id="common.common:account_already_exists" translate="yes">
@@ -35086,8 +35086,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Unisciti a gruppi che ti interessano nella pagina \'Scopri\' per vederli qui. Inizia a esplorare subito!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Unisciti a gruppi che ti interessano nella pagina \&apos;Scopri\&apos; per vederli qui. Inizia a esplorare subito!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35096,8 +35096,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Segui i canali che ti interessano nella pagina \'Scopri\' per vederli qui. Inizia a esplorare subito!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Segui i canali che ti interessano nella pagina \&apos;Scopri\&apos; per vederli qui. Inizia a esplorare subito!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="no">
@@ -35292,7 +35292,7 @@
       </notes>
       <segment >
         <source>Remove and Unassign content</source>
-        <target>Rimuovi il contenuto e annullane l\'assegnazione</target>
+        <target>Rimuovi il contenuto e annullane l\&apos;assegnazione</target>
       </segment>
     </unit>
     <unit id="common.common:remove_and_unassign_content_msg" translate="yes">
@@ -35302,7 +35302,7 @@
       </notes>
       <segment >
         <source>You are about to remove %s this will unassign content. How would you like to proceed?</source>
-        <target>Stai per rimuovere %s. L\'assegnazione del contenuto verrà annullata. Come desideri procedere?</target>
+        <target>Stai per rimuovere %s. L\&apos;assegnazione del contenuto verrà annullata. Come desideri procedere?</target>
       </segment>
     </unit>
     <unit id="common.common:due_date_without_colon_label" translate="yes">
@@ -35495,8 +35495,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35720,8 +35720,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35828,8 +35828,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35873,8 +35873,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36448,8 +36448,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36979,8 +36979,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37053,8 +37053,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37108,8 +37108,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37324,8 +37324,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

@@ -575,7 +575,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>Nem találtunk olyan felhasználót, aki az alábbihoz kapcsolódik</target>
       </segment>
     </unit>
@@ -635,8 +635,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Még nincs \'El nem kezdett\' hozzárendelése</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Még nincs \&apos;El nem kezdett\&apos; hozzárendelése</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -645,8 +645,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Nincsenek \'Folyamatban lévő\' hozzárendelései</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Nincsenek \&apos;Folyamatban lévő\&apos; hozzárendelései</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -655,8 +655,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Még nincs \'teljesített\' hozzárendelése</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Még nincs \&apos;teljesített\&apos; hozzárendelése</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -1012,7 +1012,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Már majdnem kész</target>
       </segment>
     </unit>
@@ -2105,7 +2105,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Adja hozzá az EdCastot, hogy ne optimalizálja az akkumulátor listáját, így megkaphatja az összes fontos értesítést az EdCasttól.</target>
       </segment>
     </unit>
@@ -2295,7 +2295,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Sajnálom %s! Nem értettem, amit mondott. Megkérdezné még egyszer?</target>
       </segment>
     </unit>
@@ -2415,7 +2415,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Nincs fiókja?</target>
       </segment>
     </unit>
@@ -2744,8 +2744,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Nincs találat a következőre: \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Nincs találat a következőre: \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2774,8 +2774,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>A(z) „\'%s\'” keresése</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>A(z) „\&apos;%s\&apos;” keresése</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2794,8 +2794,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Mondja el másoknak, hogy Ön miben jó. Ez meg fog jelenni az Ön profiljában, és segít nekünk, hogy \'Szakterületi szakértőként\' tudjuk Önt ajánlani</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Mondja el másoknak, hogy Ön miben jó. Ez meg fog jelenni az Ön profiljában, és segít nekünk, hogy \&apos;Szakterületi szakértőként\&apos; tudjuk Önt ajánlani</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -4231,7 +4231,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Még nem adott hozzá készségeket. A profilban szereplő készségek segítenek követőket szerezni és expozíciót a szervezeten belül.</target>
       </segment>
     </unit>
@@ -5161,7 +5161,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Ez a fájl tekinthető meg offline</target>
       </segment>
     </unit>
@@ -5599,7 +5599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Sajnáljuk, nem kaptuk meg az előfizetési díját. Próbálja újra később.</target>
       </segment>
     </unit>
@@ -5892,7 +5892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Egyetlen értesítése sincs.</target>
       </segment>
     </unit>
@@ -6252,7 +6252,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>Üdvözöljük! Ön meghívást kapott, hogy csatlakozzon</target>
       </segment>
     </unit>
@@ -6322,7 +6322,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Miután csatlakozott, kapcsolatba léphet a szervezetbeli kollégáival!</target>
       </segment>
     </unit>
@@ -6632,7 +6632,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Az Ön mai képzése üres</target>
       </segment>
     </unit>
@@ -6702,7 +6702,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Ön nem rendelkezik könyvjelzővel.</target>
       </segment>
     </unit>
@@ -7292,7 +7292,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>A csoportja képzési listája üres. Nézzen vissza később.</target>
       </segment>
     </unit>
@@ -7562,7 +7562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Ön nem rendelkezik PDF-megjelenítő alkalmazással.  Kérjük, telepítsen egyet a tartalom megtekintéséhez.</target>
       </segment>
     </unit>
@@ -8122,7 +8122,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
         <target>Tipp: Ha a videó rövid, előfordulhat, hogy a követőinek nincs ideje csatlakozni. Ne aggódjon, a videó a közvetítés után nem sokkal elérhető lesz az igény szerinti lejátszáshoz.</target>
       </segment>
     </unit>
@@ -9700,7 +9700,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Adjon hozzá néhány csatornát, mi pedig elkezdjük megjeleníteni az Ön számára összeválogatott tartalmat.</target>
       </segment>
     </unit>
@@ -11730,7 +11730,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Ez az eszköz nem támogatja a Camera2 API-t.</target>
       </segment>
     </unit>
@@ -11760,7 +11760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Nem tudunk helyi másolatot tárolni a videófelvételről, mivel nem érhető el külső tárhely.</target>
       </segment>
     </unit>
@@ -12460,7 +12460,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Ez egy zárt csoport. Ha nem rendelkezik meglévő fiókkal vagy meghívóval, kérjük, forduljon a csoport adminisztrátorához.</target>
       </segment>
     </unit>
@@ -12559,7 +12559,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Kérjen egy mágikus hivatkozást az e-mail-címére, amelyre rákattintva azonnal be tud jelentkezni!</target>
       </segment>
     </unit>
@@ -12599,7 +12599,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>Küldtünk Önnek egy e-mailt a(z) %s címre. Van benne egy mágikus hivatkozás, amelyen keresztül be tud jelentkezni.</target>
       </segment>
     </unit>
@@ -12629,7 +12629,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>Nem találtunk fiókot, vagy nem meghívót a csoporthoz való csatlakozáshoz. Forduljon a csapatrendszergazdához</target>
       </segment>
     </unit>
@@ -13438,7 +13438,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Megszerzett egy Elismerőkártyát</target>
       </segment>
     </unit>
@@ -13797,7 +13797,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Ha nincs fiókja, kattintson az alábbi gombra a fiók létrehozásához.</target>
       </segment>
     </unit>
@@ -13967,7 +13967,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Mi az Ön jelenlegi szerepköre?</target>
       </segment>
     </unit>
@@ -14217,7 +14217,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Megszerzett egy elismerőkártyát</target>
       </segment>
     </unit>
@@ -15062,7 +15062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Rögzítse és ossza meg a betekintéseit valós időben. Ha befejezte, akkor a videó elérhető lesz a profiljában</target>
       </segment>
     </unit>
@@ -15751,7 +15751,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Ezt a videót nem lehet közvetíteni ezen az eszközön.</target>
       </segment>
     </unit>
@@ -15761,7 +15761,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Nem lehet lejátszani a videót.</target>
       </segment>
     </unit>
@@ -15900,7 +15900,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>De mindenek előtt, van valami, amiről szívesen tanulna? Egyesével válassza ki az érdeklődési köreit, és mi olyan hírcsatornát készítünk Önnek, amit biztosan szeretni fog.</target>
       </segment>
     </unit>
@@ -16168,7 +16168,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Ön offline</target>
       </segment>
     </unit>
@@ -16556,7 +16556,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
         <target>Rögzítése vagy importálja a hangot valós időben. Miután elkészült, a podcastja elérhető lesz a saját EdCast oldalán</target>
       </segment>
     </unit>
@@ -16606,7 +16606,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Nem lehet felvenni hangot, mert a külső tárhely nem érhető el.</target>
       </segment>
     </unit>
@@ -17580,7 +17580,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Biztosan eltávolítja a bannert? Ez nem vonható vissza.</target>
       </segment>
     </unit>
@@ -18136,7 +18136,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>Ön nem rendelkezik smartCard-létrehozási engedéllyel. Kérjük, forduljon a rendszergazdához.</target>
       </segment>
     </unit>
@@ -18226,7 +18226,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>Ön nem jogosult a tartalom megtekintésére</target>
       </segment>
     </unit>
@@ -18405,7 +18405,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>A Lorem Ipsum egyszerűen csak az üzletágban elfogadott nyomtatási és típusbeállítási mintaszöveg. A Lorem Ipsum az 1500-as évek óta az iparág szabványos mintaszövege.</target>
       </segment>
     </unit>
@@ -19427,7 +19427,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Mai betekintések</target>
       </segment>
     </unit>
@@ -19457,7 +19457,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>A mai képzés</target>
       </segment>
     </unit>
@@ -19467,7 +19467,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>A mai képzés V1</target>
       </segment>
     </unit>
@@ -19477,7 +19477,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>A mai képzés V2</target>
       </segment>
     </unit>
@@ -19887,7 +19887,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Ön nem jogosult a tartalom eléréséhez.</target>
       </segment>
     </unit>
@@ -20347,7 +20347,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Jelenlen meg a csatorna fejlécében és a kártyáin.</target>
       </segment>
     </unit>
@@ -20507,7 +20507,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Ez az Ön saját csatornájához tartozó bannerwidget!</target>
       </segment>
     </unit>
@@ -20517,7 +20517,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>A funkció engedélyezéséhez, letiltásához és testreszabásához módosítsa a csatorna widgetbeállításait</target>
       </segment>
     </unit>
@@ -20527,7 +20527,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>a csatorna widgetbeállításai</target>
       </segment>
     </unit>
@@ -20817,7 +20817,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>A felhasználók a hozzáadás után nem fogják tudni elhagyni a csoportot, csak a rendszergazda/vezető távolíthat el felhasználókat</target>
       </segment>
     </unit>
@@ -20897,7 +20897,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[Biztosan eltávolítja a(z) <b>%s</b> csoportot? Ez nem vonható vissza.]]></target>
       </segment>
     </unit>
@@ -20907,7 +20907,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Az éves céljának <b>%3$s%%</b>-át tanulta meg]]></target>
       </segment>
     </unit>
@@ -21256,7 +21256,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Nem tudja meg osztani a kártyát tervezet állapotban! Törölje a megosztás jelölést, vagy tegye közzé a kártyát!</target>
       </segment>
     </unit>
@@ -21892,7 +21892,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Csak akkor küldheti be, ha minden kérdésre válaszolt.</target>
       </segment>
     </unit>
@@ -22432,7 +22432,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>Mostanra ez minden</target>
       </segment>
     </unit>
@@ -22931,8 +22931,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>A nem biztonságos URL-címek nem nyithatók meg. Kérjük, próbálja ki a \'https://\' kezdetű hivatkozásokat</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>A nem biztonságos URL-címek nem nyithatók meg. Kérjük, próbálja ki a \&apos;https://\&apos; kezdetű hivatkozásokat</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22941,8 +22941,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
-        <target>A beszúrt URL-cím nem biztonságos, használja ezt: \'https://\' ehelyett: \'http://\'</target>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
+        <target>A beszúrt URL-cím nem biztonságos, használja ezt: \&apos;https://\&apos; ehelyett: \&apos;http://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="yes">
@@ -23051,7 +23051,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Kihagyás: Ne jelenjen meg újra, a tartalom releváns</target>
       </segment>
     </unit>
@@ -23061,7 +23061,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Tiltás: Ne jelenjen meg hasonló tartalom; a tartalom nem releváns</target>
       </segment>
     </unit>
@@ -24159,7 +24159,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Ön nem rendelkezik jogosultsággal a megjegyzés törléséhez.</target>
       </segment>
     </unit>
@@ -24169,7 +24169,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Ön nem rendelkezik jogosultsággal a közzététel törléséhez.</target>
       </segment>
     </unit>
@@ -25905,8 +25905,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26105,7 +26105,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>A megjelenés a készülék rendszerbeállításaitól fog függni</target>
       </segment>
     </unit>
@@ -26660,7 +26660,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Kérjük, adja meg munkáltatójának a nevét</target>
       </segment>
     </unit>
@@ -26968,7 +26968,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Apja neve *</target>
       </segment>
     </unit>
@@ -26978,7 +26978,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Anyja neve *</target>
       </segment>
     </unit>
@@ -27748,7 +27748,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Adja meg az édesapja valós nevét</target>
       </segment>
     </unit>
@@ -27758,7 +27758,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Adja meg az édesanyja valós nevét</target>
       </segment>
     </unit>
@@ -28068,7 +28068,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Még mindig nem adott hozzá semmit a Skill Passporthoz</target>
       </segment>
     </unit>
@@ -28418,7 +28418,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Kérjük, adja meg az elismerőkártya kiállítójának nevét</target>
       </segment>
     </unit>
@@ -28608,7 +28608,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>Kérjük, adja meg a minősítés kiállítójának nevét</target>
       </segment>
     </unit>
@@ -28738,7 +28738,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Kérjük, adja meg az értékelés kiállítójának nevét</target>
       </segment>
     </unit>
@@ -29298,7 +29298,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Az Ön biztonsága érdekében be kell állítania egy képernyőzárat az alkalmazás használatának folytatásához, és kijelentkeztetjük az alkalmazásból</target>
       </segment>
     </unit>
@@ -30783,7 +30783,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Úgy tűnik, hogy nincs további javaslatunk az Ön által kiválasztott képzésekre. Bátran frissítse a képzési céljait a profiljában.</target>
       </segment>
     </unit>
@@ -30803,7 +30803,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>A cím nem lehet üres</target>
       </segment>
     </unit>
@@ -30933,8 +30933,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Törli a(z) %s\' lehetőséget %s. Minden kapcsolódó statisztika és megjegyzés véglegesen törlődik.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Törli a(z) %s\&apos; lehetőséget %s. Minden kapcsolódó statisztika és megjegyzés véglegesen törlődik.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -32463,7 +32463,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Tüntesse fel a csatornán tárgyalt témákat. Ezek a csatorna fejlécében fognak megjelenni.</target>
       </segment>
     </unit>
@@ -32643,7 +32643,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>A csatorna fejléce és a csatorna tartalma között teljes mértékben testreszabható widgetet használhat</target>
       </segment>
     </unit>
@@ -33672,7 +33672,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Megjelenik a csoportja kártyáin.</target>
       </segment>
     </unit>
@@ -34312,8 +34312,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
-        <target>A(z) %s\' tevékenység összesítése</target>
+        <source>Summary of %s\&apos;s Activity</source>
+        <target>A(z) %s\&apos; tevékenység összesítése</target>
       </segment>
     </unit>
     <unit id="common.common:badge_list_empty" translate="yes">
@@ -34562,7 +34562,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Vágjunk bele</target>
       </segment>
     </unit>
@@ -34592,7 +34592,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Nem lehet üres, ha a Fizetős tartalom van kiválasztva</target>
       </segment>
     </unit>
@@ -35082,8 +35082,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Csatlakozzon azokhoz a csoportokhoz, amelyek felkeltették az érdeklődését a \'Felfedezés\' oldalon, és tekintse meg őket összegyűjtve itt. Kezdje el a felfedezést most!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Csatlakozzon azokhoz a csoportokhoz, amelyek felkeltették az érdeklődését a \&apos;Felfedezés\&apos; oldalon, és tekintse meg őket összegyűjtve itt. Kezdje el a felfedezést most!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35092,8 +35092,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Kövesse a csatornákat, amelyek felkeltették az érdeklődését a \'Felfedezés\' oldalon, és tekintse meg őket összegyűjtve itt. Kezdje el a felfedezést most!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Kövesse a csatornákat, amelyek felkeltették az érdeklődését a \&apos;Felfedezés\&apos; oldalon, és tekintse meg őket összegyűjtve itt. Kezdje el a felfedezést most!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="yes">
@@ -35522,7 +35522,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
+        <source>Yes I\&apos;m Sure</source>
         <target>Igen, biztos vagyok benne</target>
       </segment>
     </unit>
@@ -35772,8 +35772,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>4. lépés: Miután sikeresen elvégezte az értékelést, az alább a képzés–értékelés pár fog megjelenni főkönyvi bejegyzésként. Kattintson a \'Jelentkezés GOI Incentive\' lehetőségre.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>4. lépés: Miután sikeresen elvégezte az értékelést, az alább a képzés–értékelés pár fog megjelenni főkönyvi bejegyzésként. Kattintson a \&apos;Jelentkezés GOI Incentive\&apos; lehetőségre.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="yes">
@@ -35892,8 +35892,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>Nincsenek csoportok a következőhöz: \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>Nincsenek csoportok a következőhöz: \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="yes">
@@ -35942,8 +35942,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Koppintson a \'Könyvjelző\' ikonra bármely SmartCardon, és adja hozzá a könyvjelzők listájához.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Koppintson a \&apos;Könyvjelző\&apos; ikonra bármely SmartCardon, és adja hozzá a könyvjelzők listájához.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="yes">
@@ -36520,8 +36520,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -37051,8 +37051,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37125,8 +37125,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37180,8 +37180,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37396,8 +37396,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">

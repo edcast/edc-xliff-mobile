@@ -574,7 +574,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find any user related to</source>
+        <source>We couldn\&apos;t find any user related to</source>
         <target>Δεν ήταν δυνατόν να βρούμε οποιονδήποτε χρήστη σχετιζόμενο με</target>
       </segment>
     </unit>
@@ -634,8 +634,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Not Started\' Assignments</source>
-        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \'Δεν έχει ξεκινήσει\'</target>
+        <source>You do not have any \&apos;Not Started\&apos; Assignments</source>
+        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \&apos;Δεν έχει ξεκινήσει\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_in_progress" translate="yes">
@@ -644,8 +644,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'In Progress\' Assignments</source>
-        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \'Σε εξέλιξη\'</target>
+        <source>You do not have any \&apos;In Progress\&apos; Assignments</source>
+        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \&apos;Σε εξέλιξη\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:assignment_empty_list_completed" translate="yes">
@@ -654,8 +654,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You do not have any \'Completed\' Assignments</source>
-        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \'Ολοκληρωμένη\'</target>
+        <source>You do not have any \&apos;Completed\&apos; Assignments</source>
+        <target>Δεν έχετε καμία ανάθεση σε κατάσταση \&apos;Ολοκληρωμένη\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:one_label" translate="no">
@@ -1011,7 +1011,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re almost there</source>
+        <source>You\&apos;re almost there</source>
         <target>Σχεδόν φτάσατε</target>
       </segment>
     </unit>
@@ -2104,7 +2104,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add Learning Experience to don\'t optimise battery list to receive all the important notifications from Learning Experience.</source>
+        <source>Add Learning Experience to don\&apos;t optimise battery list to receive all the important notifications from Learning Experience.</source>
         <target>Προσθέστε το EdCast στη λίστα Να μην βελτιστοποιείται η χρήση της μπαταρίας για να λαμβάνετε όλες τις σημαντικές ειδοποιήσεις από το EdCast.</target>
       </segment>
     </unit>
@@ -2294,7 +2294,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>I\'m sorry %s. I did not understand what you mean. Can you try asking again?</source>
+        <source>I\&apos;m sorry %s. I did not understand what you mean. Can you try asking again?</source>
         <target>Λυπάμαι %s. Δεν κατάλαβα τι εννοείτε. Μπορείτε να δοκιμάσετε ξανά;</target>
       </segment>
     </unit>
@@ -2414,7 +2414,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Don\'t have an account?</source>
+        <source>Don\&apos;t have an account?</source>
         <target>Δεν έχετε λογαριασμό;</target>
       </segment>
     </unit>
@@ -2743,8 +2743,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>No search result for \'%s\'</source>
-        <target>Δεν υπάρχει αποτέλεσμα αναζήτησης για \'%s\'</target>
+        <source>No search result for \&apos;%s\&apos;</source>
+        <target>Δεν υπάρχει αποτέλεσμα αναζήτησης για \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_skills_max_limit_title" translate="yes">
@@ -2773,8 +2773,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Searching for \'%s\'</source>
-        <target>Αναζήτηση για \'%s\'</target>
+        <source>Searching for \&apos;%s\&apos;</source>
+        <target>Αναζήτηση για \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_hint" translate="yes">
@@ -2793,8 +2793,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \'Subject Matter Expert\'</source>
-        <target>Πείτε σε άλλους σε τι είστε καλοί. Αυτό θα εμφανίζεται στο προφίλ σας και θα μας βοηθήσει να σας προτείνουμε ως \'Ειδικό περιεχομένου\'</target>
+        <source>Tell others what you are good at. This will appear on your profile and help us recommend you as a \&apos;Subject Matter Expert\&apos;</source>
+        <target>Πείτε σε άλλους σε τι είστε καλοί. Αυτό θα εμφανίζεται στο προφίλ σας και θα μας βοηθήσει να σας προτείνουμε ως \&apos;Ειδικό περιεχομένου\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_v2_learning_goals_updated" translate="yes">
@@ -4230,7 +4230,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You haven\'t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
+        <source>You haven\&apos;t added any skills yet. Including skills in your profile will help you gain more followers and visibility in your organization.</source>
         <target>Δεν έχετε προσθέσει ακόμα καμία δεξιότητα. Η συμπερίληψη δεξιοτήτων στο προφίλ σας θα σας βοηθήσει να αποκτήσετε περισσότερους ακολούθους και προβολή στον οργανισμό σας.</target>
       </segment>
     </unit>
@@ -5160,7 +5160,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This file won\'t be available to view offline</source>
+        <source>This file won\&apos;t be available to view offline</source>
         <target>Αυτό το αρχείο δεν θα είναι διαθέσιμο για προβολή εκτός σύνδεσης</target>
       </segment>
     </unit>
@@ -5598,7 +5598,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Sorry, We haven\'t received your subscription fee. Please try again later.</source>
+        <source>Sorry, We haven\&apos;t received your subscription fee. Please try again later.</source>
         <target>Λυπούμαστε, δεν έχουμε λάβει την πληρωμή για την προεγγραφή σας. Δοκιμάστε ξανά αργότερα.</target>
       </segment>
     </unit>
@@ -5891,7 +5891,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any notifications.</source>
+        <source>You don\&apos;t have any notifications.</source>
         <target>Δεν έχετε καμία ειδοποίηση.</target>
       </segment>
     </unit>
@@ -6251,7 +6251,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Welcome, you\'ve been invited to join</source>
+        <source>Welcome, you\&apos;ve been invited to join</source>
         <target>Καλώς ήλθατε, προσκληθήκατε να συνδεθείτε</target>
       </segment>
     </unit>
@@ -6321,7 +6321,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Once you join, you\'ll be able to interact with peers in your organization!</string</source>
+        <source>Once you join, you\&apos;ll be able to interact with peers in your organization!</string</source>
         <target>Όταν συνδεθείτε, θα μπορείτε να αλληλεπιδράσετε με συναδέλφους στον οργανισμό σας!</target>
       </segment>
     </unit>
@@ -6631,7 +6631,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your today\'s learning is empty</source>
+        <source>Your today\&apos;s learning is empty</source>
         <target>Η σημερινή σας εκπαίδευση είναι κενή</target>
       </segment>
     </unit>
@@ -6701,7 +6701,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have any bookmarks.</string</source>
+        <source>You don\&apos;t have any bookmarks.</string</source>
         <target>Δεν έχετε κανέναν σελιδοδείκτη.</target>
       </segment>
     </unit>
@@ -7291,7 +7291,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Your team\'s learning list is empty. Check back later.</source>
+        <source>Your team\&apos;s learning list is empty. Check back later.</source>
         <target>Η λίστα εκπαίδευσης της ομάδας σας είναι κενή. Ελέγξτε ξανά αργότερα.</target>
       </segment>
     </unit>
@@ -7561,7 +7561,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have a PDF viewer app.  Please install one to view content.</source>
+        <source>You don\&apos;t have a PDF viewer app.  Please install one to view content.</source>
         <target>Δεν έχετε εφαρμογή προβολής PDF.  Εγκαταστήστε για να προβάλετε περιεχόμενο.</target>
       </segment>
     </unit>
@@ -8121,8 +8121,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Tip: If your video is short, your followers may not have time to tune in. Don\'t worry,your video will be available for on-demand playback shortly after your stream.</source>
-        <target>Συμβουλή: Εάν το βίντεό σας είναι σύντομο, οι ακόλουθοί σας μπορεί να μην έχουν χρόνο να συντονιστούν. Μην ανησυχείτε, το βίντεο θα είναι διαθέσιμο για αναπαραγωγή κατ\' απαίτηση λίγο μετά τη μετάδοσή σας.</target>
+        <source>Tip: If your video is short, your followers may not have time to tune in. Don\&apos;t worry,your video will be available for on-demand playback shortly after your stream.</source>
+        <target>Συμβουλή: Εάν το βίντεό σας είναι σύντομο, οι ακόλουθοί σας μπορεί να μην έχουν χρόνο να συντονιστούν. Μην ανησυχείτε, το βίντεο θα είναι διαθέσιμο για αναπαραγωγή κατ\&apos; απαίτηση λίγο μετά τη μετάδοσή σας.</target>
       </segment>
     </unit>
     <unit id="common.common:publishvideostream_end_info_dialog_button_text" translate="yes">
@@ -9699,7 +9699,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Add some channels and we\'ll start to display some content curated just for you.</source>
+        <source>Add some channels and we\&apos;ll start to display some content curated just for you.</source>
         <target>Προσθέστε μερικά κανάλια και θα αρχίσουμε να εμφανίζουμε περιεχόμενο ειδικά επιμελημένο για εσάς.</target>
       </segment>
     </unit>
@@ -11729,7 +11729,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This device doesn\'t support Camera2 API.</source>
+        <source>This device doesn\&apos;t support Camera2 API.</source>
         <target>Αυτή η συσκευή δεν υποστηρίζει την API Camera2.</target>
       </segment>
     </unit>
@@ -11759,7 +11759,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t store local copy of video recording, external storage not available.</source>
+        <source>Can\&apos;t store local copy of video recording, external storage not available.</source>
         <target>Δεν είναι δυνατή η εγγραφή τοπικού αντιγράφου του βίντεο, ο εξωτερικός χώρος αποθήκευσης δεν είναι διαθέσιμος.</target>
       </segment>
     </unit>
@@ -12459,7 +12459,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>* This is a closed team. If you don\'t have an existing account or an invitation to join, please contact your team administrator.</source>
+        <source>* This is a closed team. If you don\&apos;t have an existing account or an invitation to join, please contact your team administrator.</source>
         <target>* Αυτή είναι μια κλειστή ομάδα. Εάν δεν έχετε υπάρχοντα λογαριασμό ή πρόσκληση συμμετοχής, επικοινωνήστε με τον διαχειριστή της ομάδας σας.</target>
       </segment>
     </unit>
@@ -12558,7 +12558,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Get a magic link sent to your email that\'ll sign you in instantly!</source>
+        <source>Get a magic link sent to your email that\&apos;ll sign you in instantly!</source>
         <target>Λάβετε έναν μαγικό σύνδεσμο στο email σας με τον οποίο θα συνδεθείτε αμέσως!</target>
       </segment>
     </unit>
@@ -12598,7 +12598,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We sent you an email to %s. It has a magic link that\'ll sign you in.</source>
+        <source>We sent you an email to %s. It has a magic link that\&apos;ll sign you in.</source>
         <target>Σας στείλαμε ένα email στη διεύθυνση %s. Έχει έναν μαγικό σύνδεσμο που θα σας επιτρέψει να συνδεθείτε.</target>
       </segment>
     </unit>
@@ -12628,7 +12628,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>We couldn\'t find an account or invite to join this team. Please contact your team administrator</source>
+        <source>We couldn\&apos;t find an account or invite to join this team. Please contact your team administrator</source>
         <target>Δεν ήταν δυνατόν να βρούμε λογαριασμό ή να στείλουμε πρόσκληση συμμετοχής σε αυτή την ομάδα. Επικοινωνήστε με τον διαχειριστή της ομάδας σας</target>
       </segment>
     </unit>
@@ -13437,7 +13437,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a Badge</source>
+        <source>You\&apos;ve earned a Badge</source>
         <target>Κερδίσατε μια κάρτα</target>
       </segment>
     </unit>
@@ -13796,7 +13796,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>If you don\'t have account click the button below to create your account.</source>
+        <source>If you don\&apos;t have account click the button below to create your account.</source>
         <target>Εάν δεν έχετε λογαριασμό, κάντε κλικ στο ακόλουθο κουμπί για να δημιουργήσετε τον λογαριασμό σας.</target>
       </segment>
     </unit>
@@ -13966,7 +13966,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>What\'s your current role?</source>
+        <source>What\&apos;s your current role?</source>
         <target>Ποιος είναι ο τρέχων ρόλος σας;</target>
       </segment>
     </unit>
@@ -14216,7 +14216,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'ve earned a badge</source>
+        <source>You\&apos;ve earned a badge</source>
         <target>Κερδίσατε μια κάρτα</target>
       </segment>
     </unit>
@@ -15061,7 +15061,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Capture and share your insights in real time. After you\'re finished, your video will be available on your profile</source>
+        <source>Capture and share your insights in real time. After you\&apos;re finished, your video will be available on your profile</source>
         <target>Αποτυπώστε και κοινοποιήστε τις πληροφορίες σας σε πραγματικό χρόνο. Μόλις τελειώσετε, το βίντεο θα είναι διαθέσιμο στο προφίλ σας</target>
       </segment>
     </unit>
@@ -15112,7 +15112,7 @@
       </notes>
       <segment >
         <source>The replay of your live video will be available for on demand playback on %1$s shortly</source>
-        <target>Η αναπαραγωγή του ζωντανού βίντεο θα είναι διαθέσιμη για αναπαραγωγή κατ\' απαίτηση στο %1$s σύντομα</target>
+        <target>Η αναπαραγωγή του ζωντανού βίντεο θα είναι διαθέσιμη για αναπαραγωγή κατ\&apos; απαίτηση στο %1$s σύντομα</target>
       </segment>
     </unit>
     <unit id="common.common:live_stream_end_button_message" translate="yes">
@@ -15750,7 +15750,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This video isn\'t valid for streaming to this device.</string</source>
+        <source>This video isn\&apos;t valid for streaming to this device.</string</source>
         <target>Αυτό το βίντεο δεν είναι έγκυρο για μετάδοση σε αυτήν τη συσκευή.</target>
       </segment>
     </unit>
@@ -15760,7 +15760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t play this video.</source>
+        <source>Can\&apos;t play this video.</source>
         <target>Δεν είναι δυνατή η αναπαραγωγή αυτού του βίντεο.</target>
       </segment>
     </unit>
@@ -15899,7 +15899,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>But first, do you have something in mind you\'d like to learn about? You can hand pick your interests and we will give you a feed we promise you\'d love.</source>
+        <source>But first, do you have something in mind you\&apos;d like to learn about? You can hand pick your interests and we will give you a feed we promise you\&apos;d love.</source>
         <target>Πρώτα όμως, έχετε κάτι υπόψη που θα θέλατε να μάθετε; Μπορείτε να επιλέξετε τα ενδιαφέροντά σας και θα σας προσφέρουμε μια ροή που είμαστε βέβαιοι ότι θα σας ενθουσιάσει.</target>
       </segment>
     </unit>
@@ -16167,7 +16167,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re Offline</source>
+        <source>You\&apos;re Offline</source>
         <target>Είστε εκτός σύνδεσης</target>
       </segment>
     </unit>
@@ -16555,7 +16555,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you\'re finished, your podcast will be available on your Learning Experience page</source>
+        <source>Record or Import your audio in real time. After you\&apos;re finished, your podcast will be available on your Learning Experience page</source>
         <target>Πραγματοποιήστε εγγραφή ή εισαγάγετε τον ήχο σας σε πραγματικό χρόνο. Αφού τελειώσετε, το podcast θα γίνει διαθέσιμο στη σελίδα σας στο EdCast</target>
       </segment>
     </unit>
@@ -16605,7 +16605,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t record audio, external storage not available.</source>
+        <source>Can\&apos;t record audio, external storage not available.</source>
         <target>Δεν είναι δυνατή η εγγραφή ήχου, απαιτείται εξωτερικός χώρος αποθήκευσης.</target>
       </segment>
     </unit>
@@ -17582,7 +17582,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Are you sure you want to remove your banner? This can\'t be undone.</source>
+        <source>Are you sure you want to remove your banner? This can\&apos;t be undone.</source>
         <target>Είστε βέβαιοι ότι θέλετε να καταργήσετε το διαφημιστικό σας πλαίσιο; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</target>
       </segment>
     </unit>
@@ -18138,7 +18138,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have smartCard creation permission, Please contact with admin</source>
+        <source>You don\&apos;t have smartCard creation permission, Please contact with admin</source>
         <target>Δεν έχετε άδεια να δημιουργήσετε έξυπνηΚάρτα. Επικοινωνήστε με τον διαχειριστή</target>
       </segment>
     </unit>
@@ -18228,7 +18228,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t  permission to view this content</source>
+        <source>You don\&apos;t  permission to view this content</source>
         <target>Δεν έχετε άδεια να δείτε αυτό το περιεχόμενο</target>
       </segment>
     </unit>
@@ -18407,7 +18407,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</source>
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\&apos;s standard dummy text ever since the 1500s.</source>
         <target>Το Lorem Ipsum είναι απλώς εικονικό κείμενο του κλάδου των εκτυπώσεων και της στοιχειοθεσίας. Το Lorem Ipsum είναι το τυπικό εικονικό κείμενο του κλάδου από τη δεκαετία του 1500.</target>
       </segment>
     </unit>
@@ -19429,7 +19429,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Insights</source>
+        <source>Today\&apos;s Insights</source>
         <target>Σημερινές επιγνώσεις</target>
       </segment>
     </unit>
@@ -19459,7 +19459,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning</source>
+        <source>Today\&apos;s Learning</source>
         <target>Σημερινή εκπαίδευση</target>
       </segment>
     </unit>
@@ -19469,7 +19469,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V1</source>
+        <source>Today\&apos;s Learning V1</source>
         <target>Σημερινή εκπαίδευση V1</target>
       </segment>
     </unit>
@@ -19479,7 +19479,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Today\'s Learning V2</source>
+        <source>Today\&apos;s Learning V2</source>
         <target>Σημερινή εκπαίδευση V2</target>
       </segment>
     </unit>
@@ -19889,7 +19889,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You\'re not authorized to access this content.</source>
+        <source>You\&apos;re not authorized to access this content.</source>
         <target>Δεν είστε εξουσιοδοτημένοι για πρόσβαση σε αυτό το περιεχόμενο.</target>
       </segment>
     </unit>
@@ -20349,7 +20349,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in the channel\'s header and cards.</source>
+        <source>Shown in the channel\&apos;s header and cards.</source>
         <target>Εμφανίζεται στην επικεφαλίδα του καναλιού και στις κάρτες.</target>
       </segment>
     </unit>
@@ -20509,7 +20509,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>This is your own Channel\'s Banner Widget!</source>
+        <source>This is your own Channel\&apos;s Banner Widget!</source>
         <target>Αυτό είναι το γραφικό στοιχείο διαφημιστικού πλαισίου του καναλιού σας!</target>
       </segment>
     </unit>
@@ -20519,7 +20519,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can enable, disable, and customize this feature by editing the channel\'s widget settings</source>
+        <source>You can enable, disable, and customize this feature by editing the channel\&apos;s widget settings</source>
         <target>Μπορείτε να ενεργοποιήσετε, να απενεργοποιήσετε και να προσαρμόσετε αυτήν τη δυνατότητα τροποποιώντας τις ρυθμίσεις γραφικού στοιχείου του καναλιού</target>
       </segment>
     </unit>
@@ -20529,7 +20529,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>channel\'s widget settings</source>
+        <source>channel\&apos;s widget settings</source>
         <target>ρυθμίσεις γραφικού στοιχείου καναλιού</target>
       </segment>
     </unit>
@@ -20819,7 +20819,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Users won\'t be able to leave the group once added, only group admin/leader can remove users</source>
+        <source>Users won\&apos;t be able to leave the group once added, only group admin/leader can remove users</source>
         <target>Οι χρήστες δεν θα μπορούν να αποχωρήσουν από την ομάδα αφού προστεθούν, μόνο ο διαχειριστής/συντονιστής της ομάδας μπορεί να καταργήσει χρήστες</target>
       </segment>
     </unit>
@@ -20899,7 +20899,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\'t be undone.]]></source>
+        <source><![CDATA[Are you sure you want to remove <b>%s</b> group? This can\&apos;t be undone.]]></source>
         <target><![CDATA[Είστε βέβαιοι ότι θέλετε να καταργήσετε την ομάδα <b>%s</b>; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.]]></target>
       </segment>
     </unit>
@@ -20909,7 +20909,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source><![CDATA[%1$s <b>%2$s</b><br/>You\'ve learned <b>%3$s%%</b> of your annual goal]]></source>
+        <source><![CDATA[%1$s <b>%2$s</b><br/>You\&apos;ve learned <b>%3$s%%</b> of your annual goal]]></source>
         <target><![CDATA[%1$s <b>%2$s</b><br/>Έχετε συμπληρώσει το <b>%3$s%%</b> του ετήσιου στόχου σας]]></target>
       </segment>
     </unit>
@@ -20920,7 +20920,7 @@
       </notes>
       <segment >
         <source><![CDATA[Welcome <b>%1$s!</b> With <b>%2$s</b>, you can continue learning on the go, anytime, anywhere.]]></source>
-        <target><![CDATA[Καλώς ήλθατε <b>%1$s!</b> Με το <b>%2$s</b>, μπορείτε να συνεχίσετε να μαθαίνετε καθ\' οδόν, οποτεδήποτε και οπουδήποτε.]]></target>
+        <target><![CDATA[Καλώς ήλθατε <b>%1$s!</b> Με το <b>%2$s</b>, μπορείτε να συνεχίσετε να μαθαίνετε καθ\&apos; οδόν, οποτεδήποτε και οπουδήποτε.]]></target>
       </segment>
     </unit>
     <unit id="common.common:time_ristricted_card_message" translate="yes">
@@ -21257,7 +21257,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can\'t share card in draft state! Please clear sharing selections or publish the card!</source>
+        <source>You can\&apos;t share card in draft state! Please clear sharing selections or publish the card!</source>
         <target>Δεν μπορείτε να μοιραστείτε μια κάρτα σε κατάσταση προσχεδίου! Απαλείψτε τις επιλογές κοινής χρήσης ή δημοσιεύστε την κάρτα!</target>
       </segment>
     </unit>
@@ -21893,7 +21893,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can submit only when you\'ve answered all the questions.</source>
+        <source>You can submit only when you\&apos;ve answered all the questions.</source>
         <target>Μπορείτε να κάνετε υποβολή μόνο όταν θα έχετε απαντήσει σε όλες τις ερωτήσεις.</target>
       </segment>
     </unit>
@@ -22174,7 +22174,7 @@
       </notes>
       <segment >
         <source>Thanks for Streaming! The Replay of your live video will be available shortly for on demand playback.</source>
-        <target>Ευχαριστούμε για τη μετάδοση! Η επανάληψη του ζωντανού βίντεο θα είναι διαθέσιμη σύντομα για αναπαραγωγή κατ\' απαίτηση.</target>
+        <target>Ευχαριστούμε για τη μετάδοση! Η επανάληψη του ζωντανού βίντεο θα είναι διαθέσιμη σύντομα για αναπαραγωγή κατ\&apos; απαίτηση.</target>
       </segment>
     </unit>
     <unit id="common.common:live_stream_ended_bottom_message" translate="yes">
@@ -22184,7 +22184,7 @@
       </notes>
       <segment >
         <source>Thanks for joining Livestream. The Replay of this video will be available shortly for on demand playback.</source>
-        <target>Ευχαριστούμε για τη συμμετοχή σας στη ζωντανή μετάδοση. Η επανάληψη αυτού του βίντεο θα είναι διαθέσιμη σύντομα για αναπαραγωγή κατ\' απαίτηση.</target>
+        <target>Ευχαριστούμε για τη συμμετοχή σας στη ζωντανή μετάδοση. Η επανάληψη αυτού του βίντεο θα είναι διαθέσιμη σύντομα για αναπαραγωγή κατ\&apos; απαίτηση.</target>
       </segment>
     </unit>
     <unit id="common.common:end_label" translate="yes">
@@ -22433,7 +22433,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>That\'s all for now</source>
+        <source>That\&apos;s all for now</source>
         <target>Αυτά προς το παρόν</target>
       </segment>
     </unit>
@@ -22932,8 +22932,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can not open insecure URLs. Please try links starting with \'https:</source>
-        <target>Δεν είναι δυνατό το άνοιγμα μη ασφαλών διευθύνσεων URL. Δοκιμάστε συνδέσμους που αρχίζουν με \'https://\'</target>
+        <source>Can not open insecure URLs. Please try links starting with \&apos;https:</source>
+        <target>Δεν είναι δυνατό το άνοιγμα μη ασφαλών διευθύνσεων URL. Δοκιμάστε συνδέσμους που αρχίζουν με \&apos;https://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:url_start_http" translate="yes">
@@ -22942,8 +22942,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Inserted URL is not secure, use \'https:</source>
-        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε \'https://\' αντί για \'http://\'</target>
+        <source>Inserted URL is not secure, use \&apos;https:</source>
+        <target>Η διεύθυνση URL που καταχωρήθηκε δεν είναι ασφαλής, χρησιμοποιήστε \&apos;https://\&apos; αντί για \&apos;http://\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:not_able_to_process_speech" translate="yes">
@@ -23052,7 +23052,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Skip: Don\'t show again, content is relevant</source>
+        <source>Skip: Don\&apos;t show again, content is relevant</source>
         <target>Παράλειψη: Να μην εμφανίσει ξανά, το περιεχόμενο είναι σχετικό</target>
       </segment>
     </unit>
@@ -23062,7 +23062,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Block: Don\'t show similar content; content is not relevant</source>
+        <source>Block: Don\&apos;t show similar content; content is not relevant</source>
         <target>Αποκλεισμός: Να μην εμφανίσει ξανά παρόμοιο περιεχόμενο. Το περιεχόμενο δεν είναι σχετικό</target>
       </segment>
     </unit>
@@ -24160,7 +24160,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to delete the comment.</source>
+        <source>You don\&apos;t have privileges to delete the comment.</source>
         <target>Δεν έχετε δικαιώματα για τη διαγραφή του σχολίου.</target>
       </segment>
     </unit>
@@ -24170,7 +24170,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You don\'t have privileges to post the comment.</source>
+        <source>You don\&apos;t have privileges to post the comment.</source>
         <target>Δεν έχετε δικαιώματα για τη δημοσίευση του σχολίου.</target>
       </segment>
     </unit>
@@ -25904,8 +25904,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></source>
-        <target><![CDATA[<div style=\'overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\'>%s</div>]]></target>
+        <source><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></source>
+        <target><![CDATA[<div style=\&apos;overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; word-break: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;\&apos;>%s</div>]]></target>
       </segment>
     </unit>
     <unit id="common.common:custom_channel_carousel_label" translate="yes">
@@ -26104,7 +26104,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Appearance will be based on your device\'s system setting</source>
+        <source>Appearance will be based on your device\&apos;s system setting</source>
         <target>Η εμφάνιση θα βασίζεται στη ρύθμιση συστήματος της συσκευής σας</target>
       </segment>
     </unit>
@@ -26582,7 +26582,7 @@
       </notes>
       <segment >
         <source>Self Employed (Including Entrepreneurs, gig workers etc.)</source>
-        <target>Αυτοαπασχολούμενος (συμπεριλαμβανομένων επιχειρηματικών, κατ\' αποκοπή εργαζομένων κ.λπ.)</target>
+        <target>Αυτοαπασχολούμενος (συμπεριλαμβανομένων επιχειρηματικών, κατ\&apos; αποκοπή εργαζομένων κ.λπ.)</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_contractual_private_salaried" translate="yes">
@@ -26592,7 +26592,7 @@
       </notes>
       <segment >
         <source>Salaried (Formal sector, informal sector including contractual/gig workers etc.)</source>
-        <target>Μισθωτός (Επίσημη οικονομία, ανεπίσημη οικονομία, συμπεριλαμβανομένων συμβασιούχων/κατ\' αποκοπή εργαζομένων κ.λπ.)</target>
+        <target>Μισθωτός (Επίσημη οικονομία, ανεπίσημη οικονομία, συμπεριλαμβανομένων συμβασιούχων/κατ\&apos; αποκοπή εργαζομένων κ.λπ.)</target>
       </segment>
     </unit>
     <unit id="common.common:fsp_select_nature_of_role" translate="yes">
@@ -26661,7 +26661,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter your employer\'s name</source>
+        <source>Please enter your employer\&apos;s name</source>
         <target>Εισαγάγετε το όνομα του εργοδότη σας</target>
       </segment>
     </unit>
@@ -26970,7 +26970,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Father\'s Name *</source>
+        <source>Father\&apos;s Name *</source>
         <target>Όνομα πατέρα *</target>
       </segment>
     </unit>
@@ -26980,7 +26980,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Mother\'s Name *</source>
+        <source>Mother\&apos;s Name *</source>
         <target>Όνομα μητέρας *</target>
       </segment>
     </unit>
@@ -27750,7 +27750,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid father\'s name</source>
+        <source>Please enter valid father\&apos;s name</source>
         <target>Εισαγάγετε έγκυρο όνομα πατέρα</target>
       </segment>
     </unit>
@@ -27760,7 +27760,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter valid mother\'s name</source>
+        <source>Please enter valid mother\&apos;s name</source>
         <target>Εισαγάγετε έγκυρο όνομα μητέρας</target>
       </segment>
     </unit>
@@ -28070,7 +28070,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You still haven\'t added anything to your skill passport</source>
+        <source>You still haven\&apos;t added anything to your skill passport</source>
         <target>Δεν έχετε προσθέσει ακόμα τίποτα στο διαβατήριο δεξιοτήτων σας</target>
       </segment>
     </unit>
@@ -28420,7 +28420,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Badge issuer\'s name</source>
+        <source>Please enter the Badge issuer\&apos;s name</source>
         <target>Εισαγάγετε το όνομα του εκδότη της κάρτας</target>
       </segment>
     </unit>
@@ -28610,7 +28610,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Certification issuer\'s name</source>
+        <source>Please enter the Certification issuer\&apos;s name</source>
         <target>+Εισαγάγετε το όνομα του εκδότη της πιστοποίησης</target>
       </segment>
     </unit>
@@ -28740,7 +28740,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Please enter the Assessment issuer\'s name</source>
+        <source>Please enter the Assessment issuer\&apos;s name</source>
         <target>Εισαγάγετε το όνομα του εκδότη της αξιολόγησης</target>
       </segment>
     </unit>
@@ -29300,7 +29300,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>For your security, you\'ll need to set up a screen lock to continue using app and we logout you from app</source>
+        <source>For your security, you\&apos;ll need to set up a screen lock to continue using app and we logout you from app</source>
         <target>Για την ασφάλειά σας, θα πρέπει να ρυθμίσετε ένα κλείδωμα οθόνης για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή και θα σας αποσυνδέσουμε από την εφαρμογή</target>
       </segment>
     </unit>
@@ -30785,7 +30785,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learnings you\'ve selected.Feel free to update your Learning Goals in your Profile.</source>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learnings you\&apos;ve selected.Feel free to update your Learning Goals in your Profile.</source>
         <target>Φαίνεται ότι δεν έχουμε άλλες συστάσεις για τις εκπαιδεύσεις που έχετε επιλέξει. Μη διστάσετε να ενημερώσετε τους στόχους εκπαίδευσης στο προφίλ σας.</target>
       </segment>
     </unit>
@@ -30805,7 +30805,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Title can\'t be empty</source>
+        <source>Title can\&apos;t be empty</source>
         <target>Το πεδίο Τίτλος δεν μπορεί να είναι κενό</target>
       </segment>
     </unit>
@@ -30935,8 +30935,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You are deleting %s\'s %s. All associated statistics and comments will be permanently removed.</source>
-        <target>Διαγράφετε %s\' %s. Όλα τα συσχετισμένα στατιστικά στοιχεία και σχόλια θα καταργηθούν μόνιμα.</target>
+        <source>You are deleting %s\&apos;s %s. All associated statistics and comments will be permanently removed.</source>
+        <target>Διαγράφετε %s\&apos; %s. Όλα τα συσχετισμένα στατιστικά στοιχεία και σχόλια θα καταργηθούν μόνιμα.</target>
       </segment>
     </unit>
     <unit id="common.common:insight_label" translate="yes">
@@ -31746,7 +31746,7 @@
       </notes>
       <segment >
         <source>On Demand Class</source>
-        <target>Τμήμα κατ\' απαίτηση</target>
+        <target>Τμήμα κατ\&apos; απαίτηση</target>
       </segment>
     </unit>
     <unit id="common.common:blended" translate="yes">
@@ -31806,7 +31806,7 @@
       </notes>
       <segment >
         <source>On Demand Lab</source>
-        <target>Εργαστήριο κατ\' απαίτηση</target>
+        <target>Εργαστήριο κατ\&apos; απαίτηση</target>
       </segment>
     </unit>
     <unit id="common.common:learning_solution" translate="yes">
@@ -32465,7 +32465,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Indicate the topics for this channel. These will be displayed in the channel\'s header.</source>
+        <source>Indicate the topics for this channel. These will be displayed in the channel\&apos;s header.</source>
         <target>Υποδείξτε τα θέματα για αυτό το κανάλι. Αυτά θα εμφανίζονται στην επικεφαλίδα του καναλιού.</target>
       </segment>
     </unit>
@@ -32645,7 +32645,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>You can use a fully customizable widget to be used between the channel\'s header and the channel\'s content</source>
+        <source>You can use a fully customizable widget to be used between the channel\&apos;s header and the channel\&apos;s content</source>
         <target>Μπορείτε να χρησιμοποιήσετε ένα πλήρως προσαρμόσιμο γραφικό στοιχείο για χρήση μεταξύ της επικεφαλίδας του καναλιού και του περιεχομένου του καναλιού.</target>
       </segment>
     </unit>
@@ -33674,7 +33674,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Shown in your group\'s cards.</source>
+        <source>Shown in your group\&apos;s cards.</source>
         <target>Εμφανίζεται στις κάρτες της ομάδας σας.</target>
       </segment>
     </unit>
@@ -34314,7 +34314,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Summary of %s\'s Activity</source>
+        <source>Summary of %s\&apos;s Activity</source>
         <target>Σύνδεση δραστηριότητας %s</target>
       </segment>
     </unit>
@@ -34564,7 +34564,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Let\'s Get Started</source>
+        <source>Let\&apos;s Get Started</source>
         <target>Ας ξεκινήσουμε</target>
       </segment>
     </unit>
@@ -34594,7 +34594,7 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Can\'t be empty if Paid content is selected</source>
+        <source>Can\&apos;t be empty if Paid content is selected</source>
         <target>Δεν μπορεί να είναι κενό αν έχει επιλεγεί περιεχόμενο επί πληρωμή</target>
       </segment>
     </unit>
@@ -35084,8 +35084,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Join groups that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Εγγραφείτε σε ομάδες που σας ενδιαφέρουν στη σελίδα \'Discover\' για να τις βλέπετε εδώ. Αρχίστε την εξερεύνηση τώρα!</target>
+        <source>Join groups that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Εγγραφείτε σε ομάδες που σας ενδιαφέρουν στη σελίδα \&apos;Discover\&apos; για να τις βλέπετε εδώ. Αρχίστε την εξερεύνηση τώρα!</target>
       </segment>
     </unit>
     <unit id="common.common:user_profile_v2_channels_empty" translate="yes">
@@ -35094,8 +35094,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Follow channels that interest you on the \'Discover\' page to see them here. Start exploring now!</source>
-        <target>Ακολουθήστε κανάλια που σας ενδιαφέρουν στη σελίδα \'Discover\' για να τα βλέπετε εδώ. Αρχίστε την εξερεύνηση τώρα!</target>
+        <source>Follow channels that interest you on the \&apos;Discover\&apos; page to see them here. Start exploring now!</source>
+        <target>Ακολουθήστε κανάλια που σας ενδιαφέρουν στη σελίδα \&apos;Discover\&apos; για να τα βλέπετε εδώ. Αρχίστε την εξερεύνηση τώρα!</target>
       </segment>
     </unit>
     <unit id="common.common:renewal_date_label" translate="no">
@@ -35491,8 +35491,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Yes I\'m Sure</source>
-        <target>Yes I\'m Sure</target>
+        <source>Yes I\&apos;m Sure</source>
+        <target>Yes I\&apos;m Sure</target>
       </segment>
     </unit>
     <unit id="common.common:begin_course_label" translate="no">
@@ -35716,8 +35716,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</source>
-        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \'apply for GoI incentive\'.</target>
+        <source>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</source>
+        <target>Step 4: After successfully passing the assessment, the course-assessment pair will appear as a ledger entry below. Click \&apos;apply for GoI incentive\&apos;.</target>
       </segment>
     </unit>
     <unit id="common.common:gip_step_5" translate="no">
@@ -35824,8 +35824,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>No Groups for \'%s\'</source>
-        <target>No Groups for \'%s\'</target>
+        <source>No Groups for \&apos;%s\&apos;</source>
+        <target>No Groups for \&apos;%s\&apos;</target>
       </segment>
     </unit>
     <unit id="common.common:confirmation_remove_channel_smartcard_alert" translate="no">
@@ -35869,8 +35869,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</source>
-        <target>Tap the \'Bookmark\' icon on any SmartCard to add to your list of bookmarks.</target>
+        <source>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</source>
+        <target>Tap the \&apos;Bookmark\&apos; icon on any SmartCard to add to your list of bookmarks.</target>
       </segment>
     </unit>
     <unit id="common.common:empty_view_message_people_following" translate="no">
@@ -36441,8 +36441,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>You won\'t see any content and comments from this user</source>
-        <target>You won\'t see any content and comments from this user</target>
+        <source>You won\&apos;t see any content and comments from this user</source>
+        <target>You won\&apos;t see any content and comments from this user</target>
       </segment>
     </unit>
     <unit id="common.common:no_blocked_users_found_label" translate="no">
@@ -36972,8 +36972,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</source>
-        <target>Looks like we don\'t have any more recommendations for the Learning Goals you\'ve selected.</target>
+        <source>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</source>
+        <target>Looks like we don\&apos;t have any more recommendations for the Learning Goals you\&apos;ve selected.</target>
       </segment>
     </unit>
     <unit id="common.common:feed_empty_msg" translate="no">
@@ -37046,8 +37046,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\'s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device\&apos;s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:subscription_plan_label" translate="no">
@@ -37101,8 +37101,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
-        <target>If you don\'t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
+        <source>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</source>
+        <target>If you don\&apos;t see the email in your inbox, please check your junk, social, spam, or other folders.</target>
       </segment>
     </unit>
     <unit id="common.common:sign_up_inside_mail_message" translate="no">
@@ -37317,8 +37317,8 @@
         <note id="context">Missing</note>
       </notes>
       <segment >
-        <source>Don\'t be the only one.</source>
-        <target>Don\'t be the only one.</target>
+        <source>Don\&apos;t be the only one.</source>
+        <target>Don\&apos;t be the only one.</target>
       </segment>
     </unit>
     <unit id="common.common:leaderboard_empty_msg_2" translate="no">
