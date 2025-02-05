@@ -2595,7 +2595,7 @@
       </notes>
       <segment >
         <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;>?</source>
-        <target><![CDATA[名称不能涵盖 ~!@#$%^&*={}|[]\:";<>>?]]></target>
+        <target>名称不能涵盖 ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="yes">
