@@ -2594,8 +2594,8 @@
         <note id="legacy">legacy01</note>
       </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\:";&lt;&gt;?</source>
-        <target>이름에 ~!@#$%^&amp;*={}|[]\:";&lt;&gt;? 등을 포함할 수 없습니다</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;?</source>
+        <target>이름에 ~!@#$%^&amp;*={}|[]&lt;&gt;? 등을 포함할 수 없습니다</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="yes">
