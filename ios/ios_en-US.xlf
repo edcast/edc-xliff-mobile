@@ -7532,9 +7532,9 @@ Pathway!</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Error adding SmartCard in group&apos;s featured section. 
+        <source>Error adding SmartCard in group’s featured section. 
 Please try again later</source>
-        <target>Error adding SmartCard in group&apos;s featured section. 
+        <target>Error adding SmartCard in group’s featured section. 
 Please try again later</target>
       </segment>
     </unit>
@@ -7873,9 +7873,9 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Error removing SmartCard in group&apos;s featured section. 
+        <source>Error removing SmartCard in group’s featured section. 
 Please try again later</source>
-        <target>Error removing SmartCard in group&apos;s featured section. 
+        <target>Error removing SmartCard in group’s featured section. 
 Please try again later</target>
       </segment>
     </unit>
@@ -9503,9 +9503,9 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
+        <source>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
  I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</source>
-        <target>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I&apos;m calling is to get some time on your calendar. I just noticed on your site that you&apos;re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
+        <target>Hi Donald, how are you today? My name is Mickey, with Sales University. The reason I’m calling is to get some time on your calendar. I just noticed on your site that you’re hiring 10 new sales reps this quarter. Several companies in your industry are already using SalesU to help their current sales development team get more conversations started and meetings booked. They are also able to cut new rep ramp time in half.
  I thought the best place to start is to schedule a meeting to learn about your sales challenges and goals. Do you have time Wednesday or Thursday afternoon around 10 a.m.?</target>
       </segment>
     </unit>
@@ -9667,8 +9667,8 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>I think it shouldn&apos;t be here</source>
-        <target>I think it shouldn&apos;t be here</target>
+        <source>I think it shouldn’t be here</source>
+        <target>I think it shouldn’t be here</target>
       </segment>
     </unit>
     <unit id="common.common:I_think_itapt_s_fakecomma__spamcomma__or_scam" translate="no">
@@ -9685,8 +9685,8 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>I think it&apos;s inappropriate content</source>
-        <target>I think it&apos;s inappropriate content</target>
+        <source>I think it’s inappropriate content</source>
+        <target>I think it’s inappropriate content</target>
       </segment>
     </unit>
     <unit id="common.common:I_think_the_content_is_outdated" translate="no">
@@ -9784,9 +9784,9 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we&apos;re going to say next. They&apos;re the ums and uhs and ers that litter our conversations whether we like it or not.
+        <source>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.
 </source>
-        <target>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we&apos;re going to say next. They&apos;re the ums and uhs and ers that litter our conversations whether we like it or not.
+        <target>In speech, filler words are short, meaningless words (or sounds) we use to fill the little pauses that occur while we decide what we’re going to say next. They’re the ums and uhs and ers that litter our conversations whether we like it or not.
 </target>
       </segment>
     </unit>
@@ -12875,8 +12875,8 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>No result for &apos;%@&apos;</source>
-        <target>No result for &apos;%@&apos;</target>
+        <source>No result for ’%@’</source>
+        <target>No result for ’%@’</target>
       </segment>
     </unit>
     <unit id="common.common:No_results_founddot_" translate="no">
@@ -13181,8 +13181,8 @@ Please try again later</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Note: You can switch to a different bundle by managing your subscriptions in your device&apos;s Settings app.</source>
-        <target>Note: You can switch to a different bundle by managing your subscriptions in your device&apos;s Settings app.</target>
+        <source>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</source>
+        <target>Note: You can switch to a different bundle by managing your subscriptions in your device’s Settings app.</target>
       </segment>
     </unit>
     <unit id="common.common:Nothing_in_your_queue_yetdot_fs_nYour_Announcements_will_appear_heredot_" translate="no">
@@ -13682,9 +13682,9 @@ That team doesn&apos;t exist. Try again</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It&apos;s calculated in the number of words spoken in a minute.
+        <source>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It’s calculated in the number of words spoken in a minute.
 </source>
-        <target>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It&apos;s calculated in the number of words spoken in a minute.
+        <target>Pace is the speed at which you talk. It has a huge influence on how the audience perceives you and your speech. It’s calculated in the number of words spoken in a minute.
 </target>
       </segment>
     </unit>
@@ -16341,8 +16341,8 @@ This action cannot be undone. How would you like to proceed?</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Record or Import your audio in real time. After you&apos;re finished, your podcast will be available on your EdCast page</source>
-        <target>Record or Import your audio in real time. After you&apos;re finished, your podcast will be available on your EdCast page</target>
+        <source>Record or Import your audio in real time. After you’re finished, your podcast will be available on your EdCast page</source>
+        <target>Record or Import your audio in real time. After you’re finished, your podcast will be available on your EdCast page</target>
       </segment>
     </unit>
     <unit id="common.common:Record_Podcast" translate="no">
@@ -18609,8 +18609,8 @@ This action cannot be undone. How would you like to proceed?</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard added to the group&apos;s featured section.</source>
-        <target>SmartCard added to the group&apos;s featured section.</target>
+        <source>SmartCard added to the group’s featured section.</source>
+        <target>SmartCard added to the group’s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCard_already_available_in_the_groupapt1_s_featured_sectiondot_" translate="no">
@@ -18618,8 +18618,8 @@ This action cannot be undone. How would you like to proceed?</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard already available in the group&apos;s featured section.</source>
-        <target>SmartCard already available in the group&apos;s featured section.</target>
+        <source>SmartCard already available in the group’s featured section.</source>
+        <target>SmartCard already available in the group’s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCard_Collaborators" translate="no">
@@ -18636,8 +18636,8 @@ This action cannot be undone. How would you like to proceed?</target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>SmartCard removed from the group&apos;s featured section.</source>
-        <target>SmartCard removed from the group&apos;s featured section.</target>
+        <source>SmartCard removed from the group’s featured section.</source>
+        <target>SmartCard removed from the group’s featured section.</target>
       </segment>
     </unit>
     <unit id="common.common:SmartCards_selectedcln__pat_" translate="no">
@@ -20134,8 +20134,8 @@ Some emails, however, are set up by the admin, which you cannot opt out of. We w
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>The link you&apos;ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator&apos;s configuration. Please try another URL</source>
-        <target>The link you&apos;ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator&apos;s configuration. Please try another URL</target>
+        <source>The link you’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</source>
+        <target>The link you’ve entered has already been associated with an existing SmartCard. SmartCards with duplicate links are not allowed as per your administrator’s configuration. Please try another URL</target>
       </segment>
     </unit>
     <unit id="common.common:The_livestream_is_still_in_progresscomma__would_you_like_to_rejoinqmark_" translate="no">
@@ -20970,8 +20970,8 @@ You can enable, disable, and customize this feature by editing the </target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>To manage your subscription, navigate to your device&apos;s Settings app, tap your username, and select Subscriptions.</source>
-        <target>To manage your subscription, navigate to your device&apos;s Settings app, tap your username, and select Subscriptions.</target>
+        <source>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</source>
+        <target>To manage your subscription, navigate to your device’s Settings app, tap your username, and select Subscriptions.</target>
       </segment>
     </unit>
     <unit id="common.common:To_shine_add_your_certificates_to_your_profile" translate="no">
@@ -21267,8 +21267,8 @@ You can enable, disable, and customize this feature by editing the </target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Try saving some contents that you can view in your downloads when you&apos;re offline!</source>
-        <target>Try saving some contents that you can view in your downloads when you&apos;re offline!</target>
+        <source>Try saving some contents that you can view in your downloads when you’re offline!</source>
+        <target>Try saving some contents that you can view in your downloads when you’re offline!</target>
       </segment>
     </unit>
     <unit id="common.common:Tuning" translate="no">
@@ -22626,8 +22626,8 @@ You can enable, disable, and customize this feature by editing the </target>
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>We have less cards by your request. We&apos;ve just generated %d cards</source>
-        <target>We have less cards by your request. We&apos;ve just generated %d cards</target>
+        <source>We have less cards by your request. We’ve just generated %d cards</source>
+        <target>We have less cards by your request. We’ve just generated %d cards</target>
       </segment>
     </unit>
     <unit id="common.common:We_have_reached_the_maximum_number_of_cods_broadcasters_at_this_momentdot__Please_try_again_laterdot_" translate="no">
@@ -24045,8 +24045,8 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You won&apos;t be able to access this group, do you really want to leave?</source>
-        <target>You won&apos;t be able to access this group, do you really want to leave?</target>
+        <source>You won’t be able to access this group, do you really want to leave?</source>
+        <target>You won’t be able to access this group, do you really want to leave?</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt_re_about_to_remove_pat_comma__which_will_unassign_their_contentdot__Are_you_sure_you_want_to_proceedqmark_" translate="no">
@@ -24540,8 +24540,8 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You&apos;re not authorized to access this content.</source>
-        <target>You&apos;re not authorized to access this content.</target>
+        <source>You’re not authorized to access this content.</source>
+        <target>You’re not authorized to access this content.</target>
       </segment>
     </unit>
     <unit id="common.common:Youapt1_re_not_authorized_to_access_this_contentdot__This_is_a_locked_contentdot_" translate="no">
@@ -24549,8 +24549,8 @@ A compilation of GoI Incentive eligible course-assessment pairs completed by you
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>You&apos;re not authorized to access this content. This is a locked content.</source>
-        <target>You&apos;re not authorized to access this content. This is a locked content.</target>
+        <source>You’re not authorized to access this content. This is a locked content.</source>
+        <target>You’re not authorized to access this content. This is a locked content.</target>
       </segment>
     </unit>
     <unit id="common.common:Zoom" translate="no">
