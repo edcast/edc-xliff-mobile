@@ -2372,8 +2372,8 @@
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;?</source>
-        <target>言Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;? 語</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</source>
+        <target>言Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?語</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="no">
@@ -33961,6 +33961,69 @@ Your application for GOI Incentive will be updated once disposed語</target>
       <segment >
         <source>Invite people to your group</source>
         <target>言Invite people to your group語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:the_last_30_days" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>the last 30 days</source>
+        <target>言the last 30 days語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:the_last_90_days" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>the last 90 days</source>
+        <target>言the last 90 days語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:the_last_6_months" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>the last 6 months</source>
+        <target>言the last 6 months語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:the_last_year" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>the last year</source>
+        <target>言the last year語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:the_period" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>the period</source>
+        <target>言the period語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:channel_created" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>Channel Created</source>
+        <target>言Channel Created語</target>
+      </segment>
+    </unit>
+    <unit id="common.common:all_content_posts" translate="no">
+      <notes>
+      <note id="context">Missing</note>
+    </notes>
+      <segment >
+        <source>All Content Posts</source>
+        <target>言All Content Posts語</target>
       </segment>
     </unit>
     <!-- File::android:: NewWords: 0, NewStrings: 0 -->
