@@ -2372,8 +2372,8 @@
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</source>
-        <target>השם לא יכול להכיל את התווים ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;?</source>
+        <target>השם לא יכול להכיל את התווים ~!@#$%^&amp;*={}|[]&lt;&gt;?</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="no">

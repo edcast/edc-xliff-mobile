@@ -2593,8 +2593,8 @@
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</source>
-        <target>لا يمكن أن يحتوي الاسم على ~!@#$%^&amp;*={}|[]\_cln&quot;; &lt; > >؟</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;?</source>
+        <target>لا يمكن أن يحتوي الاسم على ~!@#$%^&amp;*={}|[]&lt;&gt;؟</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="no">
