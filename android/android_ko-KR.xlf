@@ -2593,8 +2593,8 @@
       <note id="context">Missing</note>
     </notes>
       <segment >
-        <source>Name cannot contain ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?</source>
-        <target>이름에는 ~!@#$%^&amp;*={}|[]\_cln&quot;;&lt;&gt;&gt;?를 포함할 수 없습니다.</target>
+        <source>Name cannot contain ~!@#$%^&amp;*={}|[]&lt;&gt;?</source>
+        <target>이름에는 ~!@#$%^&amp;*={}|[]&lt;&gt;? 를 포함할 수 없습니다.</target>
       </segment>
     </unit>
     <unit id="common.common:onBoarding_screen_sequence" translate="no">
